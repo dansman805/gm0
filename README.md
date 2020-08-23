@@ -1,3 +1,5 @@
+dumb change to re-run CI
+
 Game Manual 0
 =============
 ![Docs Badge](https://readthedocs.org/projects/game-manual-zero/badge/) ![CI Badge](https://github.com/Coppersource/gm0/workflows/CI/badge.svg)
