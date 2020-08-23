@@ -1,3 +1,5 @@
+Thes wrds ar spelt wrng.
+
 =================
 Using the FTC SDK
 =================
