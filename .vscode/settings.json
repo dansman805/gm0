@@ -1,0 +1,15 @@
+{
+    // Setup restructuredtext extension
+    "restructuredtext.linter.name": "doc8",
+    "restructuredtext.linter.extraArgs": [
+        "--ignore D001",
+        "--ignore WUMBO007",
+        "--ignore WUMBO008"
+    ],
+    "restructuredtext.confPath": "${workspaceFolder}/source",
+
+    // Enable word wrap for restructured text files
+    "[restructuredtext]": {
+       "editor.wordWrap": "on"
+    }
+}
