@@ -2,6 +2,11 @@ tasks:
   - init: pip install -r source/requirements.txt
     command: make autobuild
 
+ports:
+  - port: 8000
+
+image: python:3.8-slim
+
 vscode:
   extensions:
     - lextudio.restructuredtext@143.0.0:m87qgePVHbf5A6CVpQH0SQ==
