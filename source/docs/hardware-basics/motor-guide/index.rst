@@ -1,7 +1,7 @@
-Motor Guide
+motow guide
 ===========
 
-12 volt DC motors are main drivers of FTC robots. They are used for powering the drivetrain, intakes, lifts, and other mechanisms.
+12 v-vowt d-dc motows awe main dwivews of ftc w-wobots. they awe used fow powewing t-the dwivetwain, (⑅˘꒳˘) intakes, rawr x3 wifts, a-and othew mechanisms. >w<
 
 .. toctree::
    :maxdepth: 1

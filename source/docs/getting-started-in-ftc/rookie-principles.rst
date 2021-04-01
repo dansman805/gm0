@@ -1,108 +1,108 @@
-Rookie Mistakes: Principles
+wookie mistakes: p-pwincipwes
 ===========================
 
-Here are some common mistakes that teams make in the high-level design and strategic planning stages.
+h-hewe awe some common mistakes t-that teams make in the high-wevew d-design and stwategic pwanning s-stages. OwO
 
 +--------------------------------+-----------------------------------------+
-| Problem                        | Solution                                |
+| pwobwem                        | sowution                                |
 +================================+=========================================+
-| **Do everything at once**      | **Perfect one objective first**         |
+| **do evewything a-at once**      | **pewfect one objective f-fiwst**         |
 |                                |                                         |
-| - Robot becomes half-baked     | - Robot is highly optimized             |
-| - Cannot excel in one area     | - Consistently excels in one area       |
+| - w-wobot becomes h-hawf-baked     | - wobot is highwy optimized             |
+| - cannot excew in one awea     | - consistentwy excews i-in one awea       |
 +--------------------------------+-----------------------------------------+
-| **Overcomplicate**             | **Simplify**                            |
+| **ovewcompwicate**             | **simpwify**                            |
 |                                |                                         |
-| - More time needed to iterate  | - Best designs are usually simplest     |
-| - Less reliable                | - Less moving parts                     |
+| - mowe time needed to itewate  | - best designs awe usuawwy simpwest     |
+| - w-wess wewiabwe                | - w-wess moving pawts                     |
 +--------------------------------+-----------------------------------------+
-| **Score-first design**         | **Design for consistency**              |
+| **scowe-fiwst design**         | **design f-fow consistency**              |
 |                                |                                         |
-| - Neglect proper principles    | - Usually reliability > scoring ability |
-| - Often wildly inconsistent    | - Great plus for alliance selection     |
+| - nyegwect pwopew pwincipwes    | - usuawwy w-wewiabiwity > scowing abiwity |
+| - o-often wiwdwy i-inconsistent    | - g-gweat pwus f-fow awwiance sewection     |
 +--------------------------------+-----------------------------------------+
-| **Build haphazardly**          | **Build for reliability**               |
+| **buiwd haphazawdwy**          | **buiwd f-fow wewiabiwity**               |
 |                                |                                         |
-| - Build with subpar materials  | - Remove unneeded moving parts          |
-| - Inadequate support structure | - Eliminate single points of failure    |
+| - buiwd with subpaw matewiaws  | - w-wemove u-unneeded moving p-pawts          |
+| - inadequate suppowt stwuctuwe | - ewiminate s-singwe points of faiwuwe    |
 +--------------------------------+-----------------------------------------+
-| **Fret about design**          | **Focus on execution**                  |
+| **fwet a-about design**          | **focus on execution**                  |
 |                                |                                         |
-| - Wastes testing time          | - Make a decision, then stick to it     |
-| - Design alone is not enough   | - Execution often beats design          |
+| - wastes testing time          | - make a d-decision, òωó then stick to it     |
+| - design awone i-is nyot enough   | - execution often beats design          |
 +--------------------------------+-----------------------------------------+
 
-Doing Everything At Once to → Perfecting One Objective First
+d-doing e-evewything at o-once to → pewfecting one objective fiwst
 ------------------------------------------------------------
 
-**Consistency is king.**
+**consistency is king.**
 
-.. important:: A common pitfall for first year teams is trying to accomplish all the game objectives at once, especially in tele-op and endgame.
+.. impowtant:: a common pitfaww fow fiwst yeaw t-teams is twying t-to accompwish a-aww the game objectives a-at once, σωσ e-especiawwy in t-tewe-op and endgame. (⑅˘꒳˘)
 
-**This is highly discouraged** because oftentimes new teams do not have the experience to do so. It is no small achievement to have a consistent robot that completes all objectives in competition, even at the higher levels.
+**this is highwy discouwaged** b-because oftentimes nyew teams d-do nyot have the expewience t-to do so. ( ͡o ω ͡o ) it is n-nyo smow achievement to have a consistent wobot that compwetes aww o-objectives in competition, rawr x3 even at the highew w-wevews. σωσ
 
-Too often, we see teams bring half-baked robots that will attempt to do everything in a match, but excel at nothing. Even if they succeed, it is often by thin margins and cannot be repeated. This robot could be much more successful if the team spent their time to perfect one mechanism first.
+too often, -.- we see teams bwing hawf-baked wobots that wiww a-attempt to do evewything in a-a match, ʘwʘ but excew a-at nyothing. σωσ e-even if they succeed, i-it is often by thin mawgins a-and cannot be w-wepeated. σωσ this wobot c-couwd be much mowe successfuw i-if the team spent theiw time to pewfect one mechanism f-fiwst. σωσ
 
-Teams should always remember the principle that a robot that can complete one thing consistently will likely be more competitive than the robot that does everything inconsistently. We recommend teams focus on one objective during tele-op/endgame and perfect it.
+t-teams shouwd awways wemembew the p-pwincipwe that a wobot that can c-compwete one thing c-consistentwy wiww wikewy be m-mowe competitive t-than the wobot t-that does evewything inconsistentwy. (U ﹏ U) w-we wecommend teams focus on o-one objective d-duwing tewe-op/endgame a-and pewfect it. (ꈍᴗꈍ)
 
-.. tip:: Typically, teams which have a solid autonomous and consistent endgame can be competitive at the Qualifier level. This is a recommended goal for new teams.
+.. tip:: t-typicawwy, ( ͡o ω ͡o ) teams w-which have a sowid autonomous a-and consistent endgame c-can be competitive a-at the q-quawifiew wevew. (U ﹏ U) t-this is a wecommended goaw fow nyew teams. ʘwʘ
 
-Overcomplex → Simple
+ovewcompwex → s-simpwe
 --------------------
 
-.. important:: Another common trap that teams fall into is to overcomplicate needlessly. Simplifying your robot simplifies possible headaches later.
+.. impowtant:: a-anothew common twap that teams faww into is to ovewcompwicate nyeedwesswy. UwU simpwifying youw wobot simpwifies p-possibwe h-headaches watew. UwU
 
-While some robots are very complicated, keep in mind that those teams are generally experienced, have some sort of machining capability, and fully design their robot in CAD. However, many world-class teams often build designs that are ingenious yet ridiculously simple.
+whiwe some wobots awe vewy compwicated, (˘ω˘) k-keep in m-mind that those t-teams awe genewawwy expewienced, (ꈍᴗꈍ) have some sowt o-of machining capabiwity, -.- and fuwwy d-design theiw w-wobot in cad. OwO howevew, OwO many wowwd-cwass t-teams o-often buiwd designs t-that awe ingenious yet widicuwouswy simpwe. (///ˬ///✿)
 
-Some advantages to simplicity are that the robot has less points of failure, given that the robot has less moving parts. Additionally, it takes much less time to iterate through and perfect a simple mechanism as opposed to a complicated one. The reasoning is that a complicated system has many more variables that need to be adjusted/could cause problems.
+some advantages to simpwicity awe t-that the wobot has wess points o-of faiwuwe, (U ﹏ U) given t-that the wobot has wess moving pawts. (⑅˘꒳˘) additionawwy, UwU i-it takes m-much wess time to itewate thwough and pewfect a s-simpwe mechanism as opposed to a compwicated one. (U ᵕ U❁) the weasoning i-is that a compwicated system has m-many mowe vawiabwes t-that nyeed t-to be adjusted/couwd cause pwobwems. (U ﹏ U)
 
-Keeping things simple can be practically achieved through a couple of ways.
+keeping things s-simpwe can b-be pwacticawwy achieved thwough a-a coupwe of ways. rawr x3
 
-#. Limit the degrees of motion that the mechanism operates in. For example, a linear slide goes in and out in a straight line, as opposed to an arm, which rotates along an axis. Doing so will serve to eliminate forces that otherwise could adversely affect the mechanism.
+#. w-wimit the degwees of motion that the mechanism o-opewates in. ( ͡o ω ͡o ) fow exampwe, (U ᵕ U❁) a wineaw swide goes in and out in a stwaight wine, ʘwʘ as opposed to a-an awm, (U ᵕ U❁) which wotates awong an axis. ( ͡o ω ͡o ) doing so wiww sewve to ewiminate fowces that o-othewwise couwd a-advewsewy affect t-the mechanism. (///ˬ///✿)
 
-#. Another way to simplify is to build for the shortest travel distance. Obviously, the shortest distance from A to B is in a straight line, so teams should strive to keep the game elements approximately within a reasonably straight line. This can help in solving possible problems if the game elements need to change direction too many times.
+#. (///ˬ///✿) a-anothew way t-to simpwify is to buiwd fow the s-showtest twavew d-distance. (U ﹏ U) obviouswy, >w< t-the showtest distance fwom a to b is in a-a stwaight wine, ( ͡o ω ͡o ) s-so teams shouwd stwive to keep t-the game ewements a-appwoximatewy within a weasonabwy stwaight wine. (˘ω˘) this can hewp in sowving possibwe p-pwobwems if t-the game ewements nyeed to change d-diwection too m-many times. -.-
 
-Score-first Designing → Designing for Consistency
+scowe-fiwst designing → d-designing fow consistency
 -------------------------------------------------
 
-.. important:: Teams should prioritize consistency over scoring ability.
+.. impowtant:: teams shouwd pwiowitize consistency o-ovew scowing abiwity. (ꈍᴗꈍ)
 
-The tortoise beats the rabbit. An overused parable, but it still holds a kernel of truth. Why? Because the tortoise, which plodded along consistently, beat the rabbit, which had hot and cold streaks.
+the t-towtoise beats the wabbit. σωσ an ovewused pawabwe, -.- but it stiww howds a kewnew of twuth. o.O why? because the towtoise, >w< which pwodded awong consistentwy, beat the wabbit, >w< which had h-hot and cowd stweaks. (˘ω˘)
 
-A hallmark of any successful team is consistency and reliability throughout the competition season and even across seasons. Sports dynasties are dynasties for the reason that they compete at a high level not for a couple games, but for multiple seasons. Without the power of consistency, it will be nearly impossible to win games, let alone a tournament.
+a hawwmawk o-of any successfuw team is consistency and wewiabiwity t-thwoughout the competition s-season and even acwoss seasons. (///ˬ///✿) s-spowts dynasties a-awe dynasties fow the weason t-that they compete a-at a high wevew n-nyot fow a coupwe g-games, (///ˬ///✿) but fow muwtipwe seasons. (U ᵕ U❁) w-without the p-powew of consistency, ( ͡o ω ͡o ) it wiww be nyeawwy impossibwe to win games, (⑅˘꒳˘) wet awone a t-touwnament. òωó
 
-Too many teams fall into the pit of prioritizing scoring ability more than anything else, which is a grave error. In keeping with the first tip, to perfect one objective first, this practice will serve to increase consistency.
+too m-many teams faww into the pit of pwiowitizing scowing abiwity mowe t-than anything e-ewse, ( ͡o ω ͡o ) which is a gwave ewwow. ʘwʘ i-in keeping with the fiwst tip, (˘ω˘) to pewfect one objective f-fiwst, rawr x3 this pwactice wiww s-sewve to incwease consistency. rawr x3
 
-.. important:: While scoring ability should be a priority and objective when designing mechanisms, it is not everything in this game. We advise being consistent at low and medium scoring levels than inconsistently scoring at a high level.
+.. impowtant:: whiwe scowing abiwity s-shouwd be a-a pwiowity and o-objective when designing mechanisms, -.- it is not evewything in this game. ʘwʘ we advise b-being consistent a-at wow and medium s-scowing wevews t-than inconsistentwy scowing at a high wevew. ʘwʘ
 
-Focus on being able to do that one thing every single time throughout your matches, and you will begin to see how important consistency is. **This tip is equally as important during alliance selections. Top teams will prioritize teams that are consistent far more than scoring ability.** They are not afraid to look at teams who can’t score much, but can contribute every time to the alliance score, rather than selecting a boom-or-bust pick.
+focus on being abwe to do that o-one thing evewy s-singwe time thwoughout youw matches, >w< a-and you wiww b-begin to see how impowtant consistency i-is. ʘwʘ **this t-tip is equawwy a-as impowtant duwing awwiance sewections. òωó top t-teams wiww pwiowitize t-teams that a-awe consistent f-faw mowe than scowing a-abiwity.** they awe not afwaid to wook at t-teams who can’t s-scowe much, (///ˬ///✿) but c-can contwibute evewy time to the awwiance scowe, w-wathew than s-sewecting a boom-ow-bust p-pick. ( ͡o ω ͡o )
 
-Building haphazardly → Building for reliability
+b-buiwding haphazawdwy → b-buiwding fow wewiabiwity
 -----------------------------------------------
 
-.. important:: Build for the worst case scenario, not the best case scenario. When building, teams often overlook a key principle: build for reliability. All too often, teams skimp on the quality of construction as well as materials, which leads to one of the most common reasons for unsuccessful tournaments: part failure.
+.. i-impowtant:: b-buiwd fow the wowst case scenawio, (U ᵕ U❁) n-nyot the best case scenawio. (ꈍᴗꈍ) w-when buiwding, >w< teams often ovewwook a-a key pwincipwe: buiwd fow w-wewiabiwity. aww too often, òωó teams s-skimp on the quawity of constwuction as weww a-as matewiaws, (ꈍᴗꈍ) which w-weads to one of the most common weasons fow u-unsuccessfuw touwnaments: pawt faiwuwe. (˘ω˘)
 
-Teams also do not take into account the rigors of competition and build as if the robot will not encounter opposing robots. Sufficient driver practice will be able to better simulate in-game conditions and test the reliability of the robot. To remedy this problem, refer to the :doc:`Materials Guide <../hardware-basics/materials-guide>` to gain a better understanding of what materials are recommended for use.
+teams awso do nyot take into account the wigows of competition a-and buiwd a-as if the wobot w-wiww nyot encountew o-opposing wobots. rawr x3 s-sufficient dwivew pwactice wiww be abwe to b-bettew simuwate i-in-game conditions and test the w-wewiabiwity of the wobot. ( ͡o ω ͡o ) to wemedy t-this pwobwem, wefew to the :doc:`matewiaws g-guide <../hawdwawe-basics/matewiaws-guide>` to g-gain a bettew undewstanding o-of nyani m-matewiaws awe wecommended fow u-use. ʘwʘ
 
-If possible, teams should build with redundancy in mind. For example, if one set of linear slides fails due to a wire snapping, having a second set will still allow the robot to operate instead of sitting dead in the water. Practically, doubling mechanisms, motors, and servos is a common method to build for redundancy.
+if possibwe, (ꈍᴗꈍ) t-teams shouwd b-buiwd with wedundancy i-in mind. (U ﹏ U) fow exampwe, o.O if one set of wineaw swides faiws due to a wiwe snapping, (⑅˘꒳˘) h-having a second set wiww stiww awwow the wobot to opewate instead of sitting dead in the watew. OwO pwacticawwy, (U ᵕ U❁) doubwing mechanisms, >w< motows, >w< and sewvos is a common method t-to buiwd fow wedundancy. ʘwʘ
 
-In addition, teams often forget to account for twisting or compression forces that may occur upon the mechanism.
+in addition, ( ͡o ω ͡o ) t-teams often f-fowget to account f-fow twisting o-ow compwession fowces that may occuw upon the m-mechanism. UwU
 
-While we cannot give any specific recommendations, do keep in mind what forces the support structure of your mechanism must bear along the full range of motion, and account for what occurs when it might hit another robot/field wall/field. Building more robustly is always worth the time spent. However, it is good to think about the extra weight that results.
+whiwe we cannot give any specific wecommendations, òωó do keep in mind nyani fowces the s-suppowt stwuctuwe of youw mechanism must beaw awong t-the fuww wange o-of motion, (⑅˘꒳˘) and account fow nyani occuws when it might hit anothew wobot/fiewd w-waww/fiewd. buiwding m-mowe wobustwy i-is awways wowth t-the time spent. (⑅˘꒳˘) howevew, σωσ it i-is good to think a-about the extwa w-weight that wesuwts. ʘwʘ
 
-Furthermore, a common cause of robot disconnect is wiring issues. Refer to the :doc:`Wiring section <../power-and-electronics/wiring>` for more information; in short, make sure to plan ahead and leave space for wires, and use strain relief whenever possible.
+fuwthewmowe, >w< a-a common cause of wobot disconnect is wiwing issues. (U ﹏ U) wefew t-to the :doc:`wiwing section <../powew-and-ewectwonics/wiwing>` fow m-mowe infowmation; in showt, OwO make s-suwe to pwan ahead and weave s-space fow wiwes, òωó a-and use stwain w-wewief whenevew p-possibwe. (U ﹏ U)
 
-All these tips combined will help your robot become more reliable, a key characteristic of all world-level robots.
+aww t-these tips combined w-wiww hewp youw w-wobot become mowe wewiabwe, OwO a k-key chawactewistic o-of aww wowwd-wevew wobots. (///ˬ///✿)
 
-Fretting about Design → Focusing on Execution
+f-fwetting about design → f-focusing on execution
 ---------------------------------------------
 
-.. tip:: A good execution of a bad design will beat a bad execution of good design.
+.. t-tip:: a good execution o-of a bad design wiww beat a-a bad execution o-of good design. (///ˬ///✿)
 
-.. important:: FTC is all about how well you execute in both the mechanical aspect and the driver aspect. If your goal is winning, then how mechanically beautiful your robot is doesn't matter. Your goal is less of impressing the judges but performing the best you possibly can on the field.
+.. impowtant:: ftc is aww about how weww you e-exekawaii~ in both t-the mechanicaw aspect and the d-dwivew aspect. o.O i-if youw goaw is winning, rawr x3 then how m-mechanicawwy beautifuw youw wobot is doesn't m-mattew. >w< youw goaw i-is wess of impwessing the judges but pewfowming t-the best you possibwy c-can on the f-fiewd. (ꈍᴗꈍ)
 
-It is very possible to take a bad design, execute it well, and still be competitive at a high level. Even though not many teams are able to do so, it still goes to show that the method of implementation is very important. When brainstorming designs, try not to get hung up on small details if possible.
+it is vewy possibwe to take a bad design, rawr x3 exekawaii~ it weww, UwU and stiww b-be competitive a-at a high wevew. (ꈍᴗꈍ) e-even though nyot many teams awe abwe to do so, it stiww goes to show that the method of impwementation i-is vewy impowtant. σωσ when b-bwainstowming d-designs, UwU twy nyot t-to get hung up on smow detaiws i-if possibwe. σωσ
 
-It is important to discuss different designs and debate the pros & cons, but after a design has been picked, stay with it unless there are major flaws that were originally overlooked. Changing designs will throw away the time spent on the original design, when teams could have kept improving it or practiced more. It is possible to rebuild your robot mid-season, and many top teams have done so to great success.
+it i-is impowtant to d-discuss diffewent d-designs and debate the pwos & cons, (˘ω˘) but aftew a-a design has been picked, (U ﹏ U) stay with it unwess t-thewe awe majow fwaws that wewe o-owiginawwy ovewwooked. (U ﹏ U) c-changing d-designs wiww thwow a-away the time spent on the owiginaw design, (˘ω˘) when t-teams couwd h-have kept impwoving i-it ow pwacticed m-mowe. (U ﹏ U) it is possibwe to webuiwd y-youw wobot mid-season, σωσ and many t-top teams have d-done so to gweat success. (˘ω˘)
 
-However, this is not recommended for rookie and new teams due to the general lack of experience. Realistically, expect to spend 50-100+ hours to rebuild a robot from the ground up. Focus on how you can iterate your current design to be as effective, efficient, and refined as possible.
+howevew, t-this is nyot wecommended fow wookie and nyew teams due to the genewaw wack of expewience. (˘ω˘) w-weawisticawwy, (ꈍᴗꈍ) expect to spend 50-100+ houws to webuiwd a wobot f-fwom the gwound up. o.O focus on how y-you can itewate y-youw cuwwent design to be as effective, o.O efficient, òωó and wefined as possibwe.

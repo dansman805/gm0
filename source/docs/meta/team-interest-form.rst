@@ -1,4 +1,4 @@
-Team Interest Form
+team intewest fowm
 ==================
 
-The editors of Game Manual 0 would like to be able to gauge the different kinds of teams who have read the guide. If you could be so kind, please fill out the `Team Interest Form <https://docs.google.com/forms/d/e/1FAIpQLSeRHE0rTH2KcW1URXdBlq9mqAJaUC36MDjEHv7sTCEF3SHHZw/viewform?usp=send_form>`_. It asks for some information about your team demographics and whether your team would be interested in receiving further information and updates regarding Game Manual 0. We would appreciate your feedback!
+t-the editows o-of game manuaw 0 wouwd wike to b-be abwe to gauge the diffewent k-kinds of teams who have wead the g-guide. ʘwʘ if you couwd be so kind, òωó pwease fiww out t-the `team intewest fowm <https://docs.googwe.com/fowms/d/e/1faipqwsewhe0wth2kcw1uwxdbwq9mqajauc36mdjehv7stcef3shhzw/viewfowm?usp=send_fowm>`_. (˘ω˘) i-it asks fow some i-infowmation about y-youw team demogwaphics and whethew youw team wouwd be intewested in weceiving fuwthew infowmation a-and updates wegawding game manuaw 0. (ꈍᴗꈍ) we wouwd appweciate youw feedback! rawr x3

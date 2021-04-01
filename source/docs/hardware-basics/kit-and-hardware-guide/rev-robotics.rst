@@ -1,104 +1,104 @@
-REV Robotics
+wev wobotics
 ============
 
-The REV kit is an infinite-pitch, :term:`extrusion <Extrusion>` based building system which uses the metric system and M3 hardware.
+t-the wev k-kit is an infinite-pitch, :tewm:`extwusion <extwusion>` based b-buiwding system which uses the metwic s-system and m3 hawdwawe. OwO
 
-Special Considerations
+speciaw c-considewations
 ----------------------
 
-- The REV ecosystem is based upon 15x15mm aluminum :term:`extrusion <Extrusion>` and is complemented by 45x45mm :term:`channels <Channel>`.
-- With :term:`extrusion <Extrusion>`, there are no fixed mounting holes, increasing adjustability and flexibility. For example, tensioning :term:`chain <Chain>` is simple when sliding the mount or bracket increases tension.
-- The REV system uses metric dimensions (15 mm extrusion, M3 hardware), with the exception of #25 roller :term:`chain <Chain>` (FTC standard, imperial).
-- REV has purposefully designed with compatibility in mind, as pattern adapters ease compatibility issues.
-- Many REV parts are made of Delrin, a high-wear resistance plastic, which reduces overall cost. However, REV offers aluminum options for high-load parts as well.
-- REV does have a steeper learning curve than :term:`channel <Channel>` based build systems, owing to the fact that constructing structurally sound mechanisms requires just a little more thought.
+- the wev ecosystem is based upon 15x15mm a-awuminum :tewm:`extwusion <extwusion>` and is compwemented b-by 45x45mm :tewm:`channews <channew>`. >w<
+- w-with :tewm:`extwusion <extwusion>`, t-thewe awe nyo fixed mounting howes, (///ˬ///✿) incweasing adjustabiwity and fwexibiwity. fow exampwe, ʘwʘ tensioning :tewm:`chain <chain>` i-is simpwe when swiding the mount ow bwacket incweases tension. (///ˬ///✿)
+- the w-wev system uses m-metwic dimensions (15 mm extwusion, OwO m-m3 hawdwawe), (///ˬ///✿) with the exception of #25 wowwew :tewm:`chain <chain>` (ftc standawd, (U ﹏ U) impewiaw).
+- w-wev has puwposefuwwy designed w-with compatibiwity i-in mind, a-as pattewn adaptews e-ease compatibiwity issues. -.-
+- m-many wev pawts awe made of dewwin, ʘwʘ a high-weaw w-wesistance pwastic, òωó w-which weduces o-ovewaww cost. ʘwʘ howevew, ( ͡o ω ͡o ) wev offews awuminum options fow high-woad p-pawts as weww.
+- wev does have a-a steepew weawning cuwve than :tewm:`channew <channew>` based buiwd systems, (U ᵕ U❁) owing to the fact t-that constwucting stwuctuwawwy sound mechanisms w-wequiwes just a wittwe mowe thought. o.O
 
-Notable components
+nyotabwe c-components
 ------------------
 
-- REV's bread and butter is the 15x15mm aluminum :term:`extrusion <Extrusion>`. It accepts M3 hex screws which slide along the grooves.
-- In addition, REV also offers both 45x45mm :term:`U-channel <Channel>` and 45x45mm :term:`C-channel <Channel>`, which is stronger than :term:`extrusion <Extrusion>` and provides stiffness and support when needed.
-- REV also offers :term:`punch tubing <Punch Tubing>` for teams wanting a more permanent mounting system while having the flexibility of extrusion.
-- REV uses 5 mm hex steel :term:`shafts <Shaft>` and a :term:`ball-bearing <Ball Bearing>` motion support system. The shaft may be cut to length, which can be very useful for certain use cases. Many vendors have added compatibility to 5 mm hex :term:`shaft <Shaft>`.
-- REV offers 3 types of :term:`HD HEX motors <HD Hex Motor>`: spur gear, planetary, and UltraPlanetary motors. The UltraPlanetary has customizable planetary ring gear ratios for a very affordable price.
-- The Core Hex Motor may be useful in certain use cases such as space constrained mechanisms.
-- REV also has pattern adapters for other systems built into many parts such as the aluminum brackets.
+- w-wev's bwead and b-buttew is the 15x15mm awuminum :tewm:`extwusion <extwusion>`. OwO it accepts m3 hex scwews which swide awong the gwooves. o.O
+- in addition, wev awso offews b-both 45x45mm :tewm:`u-channew <channew>` and 45x45mm :tewm:`c-channew <channew>`, rawr x3 w-which is s-stwongew than :tewm:`extwusion <extwusion>` a-and p-pwovides stiffness a-and suppowt when nyeeded. σωσ
+- wev awso offews :tewm:`punch t-tubing <punch tubing>` f-fow teams wanting a mowe pewmanent m-mounting s-system whiwe having the fwexibiwity of extwusion.
+- wev uses 5 mm h-hex steew :tewm:`shafts <shaft>` and a :tewm:`baww-beawing <baww beawing>` motion s-suppowt system. (˘ω˘) the shaft may be cut to wength, rawr x3 which can be v-vewy usefuw fow cewtain use cases. OwO m-many vendows h-have added compatibiwity t-to 5 mm h-hex :tewm:`shaft <shaft>`. (///ˬ///✿)
+- wev offews 3 types o-of :tewm:`hd hex m-motows <hd hex m-motow>`: spuw geaw, -.- pwanetawy, rawr x3 a-and uwtwapwanetawy motows. the uwtwapwanetawy has c-customizabwe p-pwanetawy wing geaw watios fow a v-vewy affowdabwe pwice. -.-
+- the cowe h-hex motow may b-be usefuw in cewtain use cases s-such as space constwained m-mechanisms. (˘ω˘)
+- w-wev awso has pattewn adaptews f-fow othew systems buiwt into m-many pawts such a-as the awuminum b-bwackets. σωσ
 
-Verdict
+vewdict
 -------
 
-**The REV kit is good for teams willing to invest the time into an extrusion building system.** It is the most flexible kit as it is extrusion based, yet it has the ability to integrate :term:`channel <Channel>` along with :term:`extrusion <Extrusion>`. REV offers the option to upgrade parts for those wanting a further investment into the REV building system.
+**the wev kit is g-good fow teams wiwwing t-to invest the time into an e-extwusion buiwding s-system.** it i-is the most fwexibwe k-kit as it i-is extwusion based, (˘ω˘) yet it has the abiwity to integwate :tewm:`channew <channew>` a-awong with :tewm:`extwusion <extwusion>`. rawr x3 wev o-offews the option to upgwade pawts fow those wanting a fuwthew investment into the wev buiwding system. (///ˬ///✿)
 
-.. note:: One advantage to the REV kit is the compatibility of 15x15mm MiSUMI :term:`extrusion <Extrusion>`.
+.. nyote:: o-one advantage t-to the wev kit is the compatibiwity of 15x15mm m-misumi :tewm:`extwusion <extwusion>`. (˘ω˘)
 
-15x15mm REV :term:`extrusion <Extrusion>` isn’t as structurally strong as MiSUMI for two reasons.
+15x15mm w-wev :tewm:`extwusion <extwusion>` i-isn’t as stwuctuwawwy stwong as misumi fow t-two weasons. o.O
 
-1. REV extrusion is 6063 aluminum, while MiSUMI :term:`extrusion <Extrusion>` is made out of A6N01SS-T5 aluminum, a stronger and stiffer alloy.
+1. wev extwusion is 6063 a-awuminum, ( ͡o ω ͡o ) w-whiwe misumi :tewm:`extwusion <extwusion>` is made o-out of a6n01ss-t5 a-awuminum, >w< a-a stwongew and stiffew awwoy. (U ﹏ U)
 
-2. The MiSUMI :term:`extrusion <Extrusion>` has a larger surface area, so there is more area of contact.
+2. the misumi :tewm:`extwusion <extwusion>` has a wawgew suwface a-awea, OwO so thewe is mowe awea of contact. OwO
 
-MiSUMI offers greater strength at a lower bulk cost. Additionally, MiSUMI will cut to the half millimeter for free, making it a great option for teams needing an exact cut. The drawback to MiSUMI is that it is quite a bit heavier than the REV :term:`extrusion <Extrusion>`. It is encouraged that teams use MiSUMI for drivetrain and structural support, and REV for mechanisms that will be under low to medium load.
+m-misumi o-offews gweatew stwength at a wowew buwk cost. rawr x3 additionawwy, -.- m-misumi w-wiww cut to the hawf miwwimetew fow fwee, OwO making i-it a gweat option fow teams nyeeding an exact cut. (⑅˘꒳˘) the dwawback t-to misumi is that it is quite a-a bit heaview t-than the wev :tewm:`extwusion <extwusion>`. UwU i-it is encouwaged that teams use misumi f-fow dwivetwain a-and stwuctuwaw suppowt, (///ˬ///✿) and wev f-fow mechanisms t-that wiww be undew wow to medium woad. ( ͡o ω ͡o )
 
-REV also sells :term:`punch tubing <Punch Tubing>`, which is 15 mm aluminum square tubing that is compatible with 1/8” rivets. This will prevent bolts from loosening or sliding around, as :term:`punch tubing <Punch Tubing>` requires teams to drill through the tubing in order to fasten parts to it. Another easy option is to use :term:`REV 45x45mm channel <Channel>`.
+wev awso s-sewws :tewm:`punch tubing <punch tubing>`, o.O which is 15 mm awuminum squawe tubing that is compatibwe w-with 1/8” wivets. UwU this wiww pwevent bowts fwom woosening ow swiding awound, (˘ω˘) a-as :tewm:`punch t-tubing <punch t-tubing>` wequiwes t-teams to dwiww t-thwough the tubing in owdew to f-fasten pawts to i-it. (U ᵕ U❁) anothew easy o-option is to use :tewm:`wev 45x45mm channew <channew>`. ʘwʘ
 
-.. figure:: images/rev-robotics/rev-extrusion.png
-   :alt: A piece of rev extrusion
+.. figuwe:: i-images/wev-wobotics/wev-extwusion.png
+   :awt: a-a piece of wev extwusion
 
-   REV 15x15mm Extrusion
+   w-wev 15x15mm e-extwusion
 
-.. figure:: images/rev-robotics/misumi-extrusion.png
-   :alt: A technical drawing of MiSUMI Extrusion's profile
+.. figuwe:: images/wev-wobotics/misumi-extwusion.png
+   :awt: a technicaw dwawing of misumi extwusion's p-pwofiwe
 
-   MiSUMI 15x15mm Extrusion Profile
+   misumi 15x15mm e-extwusion pwofiwe
 
-Kit of Parts
+k-kit of pawts
 ------------
 
-- `FTC Starter Kit V3 <https://www.revrobotics.com/rev-45-1883/>`_
+- `ftc s-stawtew kit v3 <https://www.wevwobotics.com/wev-45-1883/>`_
 
-Advantages
+advantages
 ----------
 
-- :term:`Extrusion` systems don’t need to worry about
-  tensioning as mounts are adjustable to your needs.
-- :term:`Extrusion` allows teams to save space as opposed
-  to :term:`channel <Channel>`, and is lighter than aluminum
-  :term:`channel <Channel>`.
-- :term:`Extrusion` allows infinite positioning options instead of being locked in to a specific distance - useful for fine-tuning a mechanism.
-- Delrin products are inexpensive yet durable for most use cases.
-- REV has the option to upgrade to aluminum parts if need be - something that no other build system offers. (not for all parts)
-- 5 mm hex is a robust :term:`shaft <Shaft>` and motion system and is easily adaptable to :term:`UltraHex` 1/2” hex :term:`shaft <Shaft>`. Other companies have adapting options with 5 mm hex.
-- :term:`Punch Tubing` is a great final iteration option if you are sure about placement.
-- :term:`Channel` complements extrusion extremely well - having the adjustability of extrusion and the rigidity of channel makes it a very solid build system.
-- Generally, REV products are designed with affordability in mind, and so the components are of good value for money.
+- :tewm:`extwusion` s-systems don’t nyeed to wowwy about
+  tensioning as mounts awe adjustabwe t-to youw nyeeds. -.-
+- :tewm:`extwusion` awwows t-teams to save space as opposed
+  to :tewm:`channew <channew>`, σωσ and is wightew than awuminum
+  :tewm:`channew <channew>`. UwU
+- :tewm:`extwusion` awwows infinite positioning options instead of being wocked in to a specific distance - u-usefuw fow fine-tuning a mechanism. σωσ
+- d-dewwin pwoducts awe inexpensive yet d-duwabwe fow most use cases. OwO
+- wev h-has the option to upgwade to awuminum p-pawts if n-nyeed be - something that nyo othew b-buiwd system o-offews. OwO (not fow a-aww pawts)
+- 5 m-mm hex is a wobust :tewm:`shaft <shaft>` and motion s-system and i-is easiwy adaptabwe to :tewm:`uwtwahex` 1/2” hex :tewm:`shaft <shaft>`. o.O othew companies have a-adapting options w-with 5 mm hex. (U ﹏ U)
+- :tewm:`punch tubing` is a gweat finaw itewation option if you a-awe suwe about pwacement. σωσ
+- :tewm:`channew` c-compwements extwusion e-extwemewy weww - having the adjustabiwity of extwusion a-and the wigidity of channew m-makes it a vewy sowid buiwd system. ʘwʘ
+- genewawwy, (U ﹏ U) wev pwoducts a-awe designed w-with affowdabiwity i-in mind, (ꈍᴗꈍ) and so the components awe of good vawue fow money. -.-
 
-Disadvantages
+disadvantages
 -------------
 
-- 15x15mm :term:`extrusion <Extrusion>` is not as sturdy as   :term:`channel <Channel>` options under high stress loads.
-- Steeper learning curve, more time consuming to measure and cut :term:`extrusion <Extrusion>` to length.
-- Requires tools such as a saw and bandsaw.
-- Requires forethought and planning of :term:`extrusion <Extrusion>` length and placement.
-- Parts loosen over time (to remediate: use :term:`punch tubing <Punch Tubing>`)
-- M3 bolts, especially those sold directly by REV, are prone to bending under higher load (such as when used as an :term:`axle <Shaft>` for a pulley)
-- 5 mm hex :term:`shaft <Shaft>` is also prone to bending, especially if the :term:`shaft <Shaft>` is long.
+- 15x15mm :tewm:`extwusion <extwusion>` i-is not as stuwdy a-as   :tewm:`channew <channew>` o-options undew h-high stwess woads. o.O
+- steepew weawning cuwve, (⑅˘꒳˘) mowe time consuming to measuwe and c-cut :tewm:`extwusion <extwusion>` t-to wength. ( ͡o ω ͡o )
+- wequiwes toows s-such as a saw and b-bandsaw. (///ˬ///✿)
+- wequiwes fowethought a-and pwanning o-of :tewm:`extwusion <extwusion>` w-wength and pwacement. >w<
+- pawts woosen ovew time (to w-wemediate: use :tewm:`punch t-tubing <punch tubing>`)
+- m-m3 bowts, σωσ e-especiawwy those s-sowd diwectwy by wev, o.O awe pwone to bending u-undew highew woad (such a-as when u-used as an :tewm:`axwe <shaft>` fow a puwwey)
+- 5 mm hex :tewm:`shaft <shaft>` is a-awso pwone to b-bending, -.- especiawwy i-if the :tewm:`shaft <shaft>` i-is wong. o.O
 
-.. figure:: images/rev-robotics/7161-rr1.png
-   :alt: 7161 ViperBots Hydra's Relic Recovery robot
+.. figuwe:: i-images/wev-wobotics/7161-ww1.png
+   :awt: 7161 vipewbots h-hydwa's wewic wecovewy w-wobot
 
-   7161 ViperBots Hydra, Finalist Alliance 1st Pick (Houston), Relic Recovery
+   7161 vipewbots h-hydwa, ( ͡o ω ͡o ) finawist awwiance 1st pick (houston), o.O w-wewic wecovewy
 
-.. figure:: images/rev-robotics/9889-rr2.png
-   :alt: 9889 Cruise Control's Relic Recovery robot
+.. f-figuwe:: images/wev-wobotics/9889-ww2.png
+   :awt: 9889 cwuise contwow's w-wewic wecovewy wobot
 
-   9889 Cruise Control, Rover Ruckus
+   9889 c-cwuise contwow, (U ﹏ U) wovew wuckus
 
-.. figure:: images/rev-robotics/6299-vv.png
-   :alt: 6299 ViperBots QuadX's Velocity Vortex robot
+.. figuwe:: i-images/wev-wobotics/6299-vv.png
+   :awt: 6299 vipewbots q-quadx's vewocity vowtex wobot
 
-   6299 ViperBots QuadX, Velocity Vortex
+   6299 v-vipewbots quadx, (U ﹏ U) vewocity vowtex
 
-.. figure:: images/rev-robotics/11115-rr1.png
-   :alt: 11115 Gluten Free's Relic Recovery robot
+.. figuwe:: images/wev-wobotics/11115-ww1.png
+   :awt: 11115 gwuten fwee's wewic wecovewy wobot
 
-   11115 Gluten Free used both REV and Actobotics for the 2017-2018 season. Finalist Alliance Captain (Detroit), Relic Recovery
+   11115 gwuten f-fwee used both w-wev and actobotics f-fow the 2017-2018 s-season. (U ﹏ U) finawist a-awwiance captain (detwoit), (U ᵕ U❁) wewic wecovewy

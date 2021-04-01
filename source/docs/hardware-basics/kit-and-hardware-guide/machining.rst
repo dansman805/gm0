@@ -1,39 +1,39 @@
-Machining
+machining
 =========
 
-Advantages of Machining
+advantages of m-machining
 -----------------------
 
-- Machining allows teams to create practically any part without limitations.
-- Machining allows teams to create custom drivetrain plates, arms, linear slides, etc to fit their design needs more effectively than kits.
-- Machining is cool. Yes, really.
+- m-machining awwows teams to c-cweate pwacticawwy any pawt without w-wimitations. UwU
+- machining awwows t-teams to cweate custom dwivetwain pwates, ʘwʘ awms, w-wineaw swides, etc to fit theiw d-design nyeeds m-mowe effectivewy t-than kits. (ꈍᴗꈍ)
+- machining is coow. (///ˬ///✿) yes, weawwy. -.-
 
-Disadvantages of Machining
+disadvantages of machining
 --------------------------
 
-- Perhaps the biggest barrier when making a fully custom robot is that it requires very expensive manufacturing equipment. While 3D printers have become more and more common in FTC and allow teams to create or customize small parts, many teams do not have access to equipment such as lathes, routers, waterjet cutters, or CNC machines.
-- Fully custom robots need to be fully designed in CAD. Sketching will not cut it when building custom robots.
-- Another barrier is that prototyping with fully custom systems is almost always much slower than using kit parts. The full CAD process takes time, and fabrication/getting parts fabricated by a shop or sponsor is another lengthy process. Notwithstanding those two factors, if something goes drastically wrong then it will require a repeat process of CAD and fabrication.
+- pewhaps t-the biggest bawwiew when making a fuwwy custom wobot is that it wequiwes vewy e-expensive manufactuwing e-equipment. (U ﹏ U) whiwe 3d pwintews h-have become mowe and mowe common in ftc and awwow teams to c-cweate ow customize smow pawts, (U ᵕ U❁) m-many teams do nyot h-have access t-to equipment such a-as wathes, o.O woutews, watewjet cuttews, ( ͡o ω ͡o ) o-ow cnc machines. (˘ω˘)
+- fuwwy custom wobots nyeed t-to be fuwwy d-designed in cad. òωó s-sketching wiww nyot cut it when buiwding custom wobots. rawr x3
+- anothew b-bawwiew is that pwototyping w-with fuwwy custom systems is awmost awways much swowew than using kit pawts. (U ᵕ U❁) the f-fuww cad pwocess takes time, and fabwication/getting p-pawts fabwicated by a shop ow sponsow is anothew w-wengthy pwocess. (U ᵕ U❁) n-nyotwithstanding t-those two factows, σωσ if something goes dwasticawwy wwong then it wiww wequiwe a wepeat pwocess of cad and f-fabwication. >w<
 
-It must be noted that teams do not need to pick between a fully kit-based robot or a fully custom robot. In fact, many successful teams are actually a hybrid of both kit and custom parts, as can be seen in many of example robots in this section.
+it m-must be nyoted t-that teams do nyot n-nyeed to pick b-between a fuwwy k-kit-based wobot ow a fuwwy custom wobot. (U ᵕ U❁) in fact, m-many successfuw teams awe actuawwy a-a hybwid of both kit and c-custom pawts, ʘwʘ as c-can be seen in many of exampwe wobots in this section. (˘ω˘)
 
-However, our suggestion is that inexperienced teams should prioritize 3D printing over machining for fabricating custom parts, at least for the near term.
+howevew, o-ouw suggestion is that inexpewienced teams shouwd p-pwiowitize 3d pwinting ovew machining fow fabwicating custom p-pawts, -.- at weast fow the nyeaw tewm. (///ˬ///✿)
 
-.. figure:: images/machining/8680-rr2.jpg
-   :alt: 8680 Kraken Pinion's Rover Ruckus robot
+.. f-figuwe:: i-images/machining/8680-ww2.jpg
+   :awt: 8680 k-kwaken p-pinion's wovew wuckus wobot
 
-   8680 Kraken Pinion, Division Semifinalist (Detroit Worlds), Rover Ruckus
+   8680 k-kwaken p-pinion, (˘ω˘) division s-semifinawist (detwoit wowwds), o.O w-wovew wuckus
 
-Utilizes a kit-based drivetrain (Actobotics) and horizontal linear slides (REV) with a custom intake, housing, and mineral container. Kit linear actuator (Actobotics) with custom hook.
+utiwizes a kit-based dwivetwain (actobotics) a-and h-howizontaw wineaw swides (wev) with a-a custom intake, (⑅˘꒳˘) housing, (U ᵕ U❁) and m-minewaw containew. >w< k-kit wineaw actuatow (actobotics) w-with custom h-hook. (///ˬ///✿)
 
-.. figure:: images/machining/8393-rr1.jpg
-   :alt: 8393 Giant Diencephalic BrainSTEM Robotics Team's Relic Recovery robot
+.. figuwe:: i-images/machining/8393-ww1.jpg
+   :awt: 8393 giant diencephawic b-bwainstem wobotics team's wewic w-wecovewy wobot
 
-   8393 Giant Diencephalic BrainSTEM Robotics Team, Winning Alliance First Pick (Detroit), Relic Recovery, fully custom
+   8393 g-giant d-diencephawic bwainstem wobotics t-team, -.- winning a-awwiance fiwst pick (detwoit), ʘwʘ wewic wecovewy, ʘwʘ fuwwy c-custom
 
-.. figure:: images/machining/731-rr2.png
-   :alt: 731 Wannabee Strange's Rover Ruckus robot
+.. f-figuwe:: images/machining/731-ww2.png
+   :awt: 731 w-wannabee stwange's w-wovew wuckus w-wobot
 
-   731 Wannabee Strange, Rover Ruckus, Design Award Finalist (Houston)
+   731 wannabee stwange, UwU wovew wuckus, (⑅˘꒳˘) d-design awawd finawist (houston)
 
-Utilizes a 3D printed (PETG and TPU) and machined (milled) arm/intake with a custom HDPE drive train (CNC routed)
+utiwizes a 3d p-pwinted (petg and tpu) and machined (miwwed) awm/intake with a custom hdpe dwive twain (cnc wouted)

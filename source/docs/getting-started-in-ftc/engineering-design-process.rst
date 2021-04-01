@@ -1,7 +1,7 @@
-Engineering Design Process
+engineewing design p-pwocess
 ==========================
 
-*Note: The exact process will vary from team to team, so the graphic is not meant to be a hard and fast rule.*
+*note: t-the exact pwocess wiww v-vawy fwom team to team, (⑅˘꒳˘) so the g-gwaphic is nyot meant to be a h-hawd and fast wuwe.*
 
 .. graphviz::
 
@@ -23,29 +23,29 @@ Engineering Design Process
       test->implementation
    }
 
-Components of the Engineering Design Process
+components of the e-engineewing design p-pwocess
 --------------------------------------------
 
-In general, the design process contains these steps; however, every team will modify the process to their needs and limitations.
+in genewaw, ʘwʘ t-the design pwocess contains t-these steps; howevew, evewy team w-wiww modify the pwocess to theiw nyeeds and wimitations. >w<
 
-- Define the problem: What are you trying to solve? What is the timeline?
-- Specify requirements: What are necessities for your proposed solution?
-- Brainstorm/CAD Design: Draw or sketch a prototype on paper or in CAD.
-- Prototype/Experiment: Put a first design together using physical materials.
-- Test: Ensure you thoroughly test every part of your prototype to detect. flaws.
-- Analyze results: Examine what you learned from your tests to iterate successively.
-- Final implementation: Polish and solidify a final design that won’t change.
+- define t-the pwobwem: what awe you t-twying to sowve? w-what is the timewine?
+- s-specify wequiwements: what awe nyecessities fow youw pwoposed sowution?
+- bwainstowm/cad d-design: dwaw ow sketch a pwototype on papew ow in cad. >w<
+- pwototype/expewiment: put a fiwst design t-togethew using p-physicaw matewiaws. (˘ω˘)
+- test: ensuwe y-you thowoughwy test evewy pawt of youw pwototype to detect. òωó f-fwaws. OwO
+- anawyze wesuwts: examine n-nyani you weawned f-fwom youw t-tests to itewate s-successivewy. OwO
+- finaw impwementation: p-powish and sowidify a finaw design that won’t c-change. (⑅˘꒳˘)
 
-As an example, let’s look at an imaginary team building a drivetrain for Rover Ruckus (RR2), which was 2018-2019’s game. In RR2, there was a crater, which was about 3” tall, and could be traversed. In that year’s game, there were two main options: traverse said crater, or not traverse it, and instead reach over with an arm.
+a-as an exampwe, (///ˬ///✿) wet’s w-wook at an imaginawy team buiwding a dwivetwain fow wovew w-wuckus (ww2), (ꈍᴗꈍ) which was 2018-2019’s g-game. (U ﹏ U) in ww2, UwU thewe was a cwatew, OwO which was about 3” taww, òωó and couwd be t-twavewsed. UwU in that yeaw’s game, (⑅˘꒳˘) thewe wewe two m-main options: twavewse said cwatew, σωσ ow nyot twavewse i-it, (///ˬ///✿) and instead w-weach ovew w-with an awm. (U ﹏ U)
 
-The team must first specify requirements for the drivetrain. One of the most important aspects of a drivetrain is maneuverability. Another requirement could be speed, traction, reliability, etc. From the team’s specified requirements, they would now look at drivetrains that fit their requirements. If the team wanted to traverse the crater, then a 4WD or 6WD would be an optimal design. If they did not need to traverse the crater, many options are still on the table such as the holonomic drivetrains.
+the team must fiwst specify wequiwements fow the dwivetwain. òωó one of the most impowtant aspects of a-a dwivetwain is m-maneuvewabiwity. rawr x3 a-anothew wequiwement c-couwd be s-speed, (U ᵕ U❁) twaction, >w< w-wewiabiwity, σωσ etc. fwom the team’s specified wequiwements, >w< t-they wouwd nyow wook a-at dwivetwains that fit theiw w-wequiwements. (///ˬ///✿) if t-the team wanted to twavewse the cwatew, UwU then a 4wd ow 6wd wouwd b-be an optimaw design. (⑅˘꒳˘) if they did nyot nyeed to t-twavewse the cwatew, rawr x3 many options awe stiww on the tabwe such as t-the howonomic dwivetwains. OwO
 
-The next step would be to brainstorm actual designs. It would be prudent to have more than one student to design one drivetrain prototype, so that the team could test more than one drivetrain.
+the n-nyext step wouwd b-be to bwainstowm a-actuaw designs. UwU i-it wouwd be pwudent to have m-mowe than one student t-to design o-one dwivetwain pwototype, >w< so that t-the team couwd test mowe than one dwivetwain. ( ͡o ω ͡o )
 
-From there, a team could begin the prototyping and testing process. This could involve tests of the time taken to cross the crater, time from crater to lander, top speed, maneuverability, etc. Simple tests may be conducted instead of complicated ones. For example, if the robot is projected to weigh 30 pounds, a dumbbell placed on top of the drivetrain simulates the extra weight well to see if the drivetrain can get over the crater easily and reliably, so the robot will not get stuck on the crater edge.
+f-fwom thewe, (˘ω˘) a team c-couwd begin the pwototyping a-and testing pwocess. rawr x3 this couwd i-invowve tests of t-the time taken to cwoss the cwatew, (///ˬ///✿) t-time fwom cwatew t-to wandew, -.- t-top speed, maneuvewabiwity, ( ͡o ω ͡o ) etc. s-simpwe tests may be conducted i-instead of compwicated o-ones. (˘ω˘) fow e-exampwe, (⑅˘꒳˘) if the wobot is pwojected t-to weigh 30 p-pounds, -.- a dumbbeww pwaced on top o-of the dwivetwain s-simuwates the e-extwa weight weww t-to see if the d-dwivetwain can get ovew the cwatew easiwy and wewiabwy, -.- s-so the wobot wiww nyot g-get stuck on the cwatew edge. >w<
 
-Next, analyze results and iterate. If, for example, there was too little clearance, and the drivetrain got stuck on the crater part of the time, then it would be necessary to raise the drivebase in order to remediate this problem. However, don’t change too many things at once - **you want to change ONLY ONE variable at a time**, or else you won’t know what may cause a further problem should it arise. Always try to change one variable at a time.
+nyext, (˘ω˘) anawyze wesuwts and itewate. OwO if, fow exampwe, UwU thewe was too wittwe cweawance, (⑅˘꒳˘) a-and the dwivetwain g-got stuck on the cwatew pawt of the time, (ꈍᴗꈍ) t-then it wouwd be n-nyecessawy to w-waise the dwivebase in owdew to wemediate this pwobwem. h-howevew, σωσ don’t change t-too many things a-at once - **you want to change onwy o-one vawiabwe a-at a time**, ow e-ewse you won’t know nyani may cause a fuwthew pwobwem shouwd it awise. OwO awways t-twy to change one vawiabwe at a t-time. rawr x3
 
-.. note:: **It often takes multiple iterations to get things right, so don’t be discouraged if your second or even third attempt doesn’t perform as well as you think it will**. Many teams have 10+ iterations of intake designs in order to refine and hone down their design to be optimally efficient. While that many tries isn’t recommended for new teams, don’t be afraid to modify *one factor* at a time to isolate and solve problems.
+.. note:: **it o-often takes muwtipwe itewations to get things w-wight, ʘwʘ so don’t b-be discouwaged if youw second ow even thiwd a-attempt doesn’t pewfowm as weww as you think it wiww**. ʘwʘ many t-teams have 10+ itewations of intake d-designs in o-owdew to wefine a-and hone down theiw design to be optimawwy efficient. ( ͡o ω ͡o ) w-whiwe that m-many twies isn’t wecommended f-fow nyew teams, OwO d-don’t be afwaid to modify *one factow* at a time t-to isowate and sowve pwobwems. ʘwʘ
 
-Your final implementation could be just an upgraded prototype, or if you had used subpar/scrap materials for a prototype, you could change them out for durable ones.
+youw finaw impwementation couwd be just an upgwaded pwototype, òωó o-ow if you had used subpaw/scwap matewiaws fow a pwototype, o.O you couwd change them o-out fow duwabwe o-ones. σωσ

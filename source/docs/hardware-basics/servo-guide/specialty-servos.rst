@@ -1,26 +1,26 @@
-Specialty Servos
+speciawty sewvos
 ================
 
-In this section we list some :term:`servos <Servo>` with unique features.
+i-in this section w-we wist some :tewm:`sewvos <sewvo>` with unique f-featuwes. rawr x3
 
-HS788 Sail Winch Servo
+hs788 saiw winch sewvo
 ----------------------
 
-This large scale :term:`servo <Servo>` is unusual in that it is able to rotate multiple turns while retaining positioning feedback. Most :term:`servos <Servo>` have 180 degree range; for HS788, the range is about 8 full turns when used with a :term:`servo <Servo>` controller capable of 500-2500 microsecond PWM signal, such as :term:`REV Expansion Hub <Expansion Hub>`. This makes it a great option for powering linear slides (as long as they do not carry too heavy load).
+t-this wawge scawe :tewm:`sewvo <sewvo>` i-is unusuaw in that it is abwe to wotate muwtipwe t-tuwns whiwe wetaining positioning f-feedback. (U ᵕ U❁) m-most :tewm:`sewvos <sewvo>` h-have 180 degwee wange; fow hs788, the wange is about 8 fuww tuwns when used with a :tewm:`sewvo <sewvo>` c-contwowwew capabwe of 500-2500 micwosecond pwm signaw, such as :tewm:`wev expansion h-hub <expansion h-hub>`. (U ᵕ U❁) this makes it a gweat o-option fow powewing wineaw swides (as wong as they do nyot c-cawwy too heavy woad). σωσ
 
-HS788 is available from several vendors including ServoCity and goBILDA, both of which offer 25% discount to FTC teams.
+hs788 is a-avaiwabwe fwom s-sevewaw vendows i-incwuding sewvocity a-and gobiwda, >w< both of which offew 25% d-discount to ftc teams. (U ᵕ U❁)
 
-PARALLAX High Speed CR Servo
+pawawwax high speed c-cw sewvo
 ----------------------------
 
-This continuous rotation :term:`servo <Servo>` from Parallax (https://www.parallax.com/product/high-speed-continuous-rotation-servo/) has the speed of up to 180 RPM - three times as fast as most :term:`servos <Servo>`. This makes it usable for powering intakes (assuming you do not need much torque) and similar designs. Note that this :term:`servo <Servo>` requires 6V input, so it can not be used directly with :term:`REV hubs <Expansion Hub>`, which only provide 5V. Instead, you need a `REV Servo Power Module <https://www.revrobotics.com/rev-11-1144/>`_.
+t-this c-continuous wotation :tewm:`sewvo <sewvo>` fwom pawawwax (https://www.pawawwax.com/pwoduct/high-speed-continuous-wotation-sewvo/) has the speed o-of up to 180 wpm - thwee times as f-fast as most :tewm:`sewvos <sewvo>`. ʘwʘ this makes it usabwe fow powewing intakes (assuming you do n-nyot nyeed much towque) and simiwaw designs. (˘ω˘) nyote t-that this :tewm:`sewvo <sewvo>` wequiwes 6v input, -.- so it can n-nyot be used diwectwy w-with :tewm:`wev h-hubs <expansion hub>`, (///ˬ///✿) which onwy pwovide 5v. instead, (˘ω˘) you nyeed a `wev sewvo powew moduwe <https://www.wevwobotics.com/wev-11-1144/>`_. o.O
 
-VEX 393 EDR
+vex 393 edw
 -----------
 
-The :term:`VEX 393 EDR` is technically a motor, but is legally counted as a :term:`servo <Servo>` in Game Manual 1 rules. Why this is, we do not know, but :term:`VEX 393 motors <VEX 393 EDR>` have been legal in FTC for many years. The :term:`393 motor <VEX 393 EDR>` acts as a more powerful and faster continuous rotation :term:`servo <Servo>`. It should be treated as a continuous rotation :term:`servo <Servo>` when configuring the robot and programming.
+t-the :tewm:`vex 393 e-edw` i-is technicawwy a-a motow, (⑅˘꒳˘) but is w-wegawwy counted a-as a :tewm:`sewvo <sewvo>` in game manuaw 1 wuwes. (U ᵕ U❁) w-why this is, >w< we do nyot know, (///ˬ///✿) b-but :tewm:`vex 393 motows <vex 393 e-edw>` have b-been wegaw in ftc fow many yeaws. -.- the :tewm:`393 motow <vex 393 e-edw>` acts as a mowe powewfuw and fastew continuous w-wotation :tewm:`sewvo <sewvo>`. ʘwʘ it shouwd be tweated as a continuous wotation :tewm:`sewvo <sewvo>` w-when configuwing the wobot a-and pwogwamming. ʘwʘ
 
-However, there are some difficulties to keep in mind. The 393 motor uses a 1/8" square :term:`shaft <Shaft>`, which is not directly compatible with any FTC build system. You will have to make custom adapters. Using a :term:`393 motor <VEX 393 EDR>` requires two additional equipment.
+h-howevew, UwU thewe a-awe some difficuwties t-to keep in mind. (⑅˘꒳˘) the 393 m-motow uses a 1/8" s-squawe :tewm:`shaft <shaft>`, òωó w-which is nyot diwectwy compatibwe w-with any ftc buiwd system. rawr x3 you wiww have to m-make custom adaptews. σωσ u-using a :tewm:`393 motow <vex 393 e-edw>` wequiwes two additionaw e-equipment. UwU
 
-- **Motor Controller 29** The :term:`VEX Motor Controller 29` converts the 2-wire motor signal used to drive the :term:`393 <VEX 393 EDR>` into a PWM signal for :term:`servo <Servo>`.
-- **REV Servo Power Module** The REV :term:`Servo Power Module` is used to boost the voltage given to :term:`servos <Servo>` through the :term:`Expansion Hub` (3.3V) to 5V, which is the minimum voltage needed to run a :term:`393 <VEX 393 EDR>`. The SPM accepts PWM signal through the three-pronged wire end of the :term:`MC29 <VEX Motor Controller 29>`. The SPM will need to be plugged in to the :term:`Expansion Hub's <Expansion Hub>` power through a Tamiya connector. Crimping ring terminals to the SPM is necessary.
+- **motow c-contwowwew 29** the :tewm:`vex m-motow c-contwowwew 29` c-convewts the 2-wiwe motow signaw u-used to dwive the :tewm:`393 <vex 393 e-edw>` into a-a pwm signaw f-fow :tewm:`sewvo <sewvo>`. òωó
+- **wev sewvo powew m-moduwe** the wev :tewm:`sewvo p-powew moduwe` is used t-to boost the v-vowtage given to :tewm:`sewvos <sewvo>` t-thwough t-the :tewm:`expansion h-hub` (3.3v) to 5v, σωσ which is the minimum vowtage n-nyeeded to wun a :tewm:`393 <vex 393 e-edw>`. the spm accepts pwm signaw thwough the thwee-pwonged wiwe end of the :tewm:`mc29 <vex motow contwowwew 29>`. o.O the s-spm wiww nyeed t-to be pwugged in to the :tewm:`expansion hub's <expansion h-hub>` p-powew thwough a-a tamiya connectow. o.O cwimping wing tewminaws to the s-spm is nyecessawy.

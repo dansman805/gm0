@@ -1,7 +1,7 @@
-Power And Electronics
+powew and ewectwonics
 =====================
 
-This chapter contains information on electric power and electronics of the robot, including information on wiring, batteries, motors, and control system.
+t-this c-chaptew contains i-infowmation o-o-on ewectwic powew and ewectwonics o-o-of the wobot, (ꈍᴗꈍ) waww x3 incwuding i-infowmation o-on wiwing, >w< >w< battewies, UwU (⑅˘꒳˘) m-motows, σωσ a-and contwow s-system. UwU owo
 
 .. toctree::
    :maxdepth: 1

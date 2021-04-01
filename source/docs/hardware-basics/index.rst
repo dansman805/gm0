@@ -1,7 +1,7 @@
-Hardware Basics
+hawdwawe basics
 ===============
 
-This chapter covers the basics of building the robot: tools, materials, kits of parts.
+this chaptew covews t-the basics of b-buiwding the wobot: toows, matewiaws, σωσ k-kits of pawts. (U ﹏ U)
 
 .. toctree::
    :maxdepth: 2

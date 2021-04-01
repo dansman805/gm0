@@ -1,42 +1,42 @@
 .. include:: <isonum.txt>
 
-Wiring Guide
+wiwing guide
 ============
 
-Why does wiring matter?
+why does wiwing mattew?
 -----------------------
 
-Have you ever looked inside your robot and thought "what a mess of wires"? Wiring is extremely important in FTC, but is often overlooked or hastily done the hour before competition starts. However, time spent in wiring the robot properly is crucial to the performance and maintenance of the robot.
+h-have you evew wooked i-inside youw wobot and thought "nani a-a mess of wiwes"? wiwing i-is extwemewy impowtant in ftc, (U ﹏ U) b-but is often ovewwooked ow hastiwy done the houw b-befowe competition stawts. (˘ω˘) howevew, òωó t-time spent i-in wiwing the wobot p-pwopewwy is cwuciaw to the pewfowmance and maintenance of the wobot. -.-
 
-.. attention:: It is highly discouraged for teams to overlook wiring, but many new teams seem to disregard it or put little thought into wiring the robot properly.
+.. attention:: it is h-highwy discouwaged fow teams to ovewwook wiwing, rawr x3 but many nyew teams seem to diswegawd i-it ow put w-wittwe thought into wiwing the w-wobot pwopewwy. σωσ
 
-While tedious and often no fun, wiring can mean the difference between a win and loss. The best robot in the world won't be able to work if a wire is loose or gets tangled up in the middle of a match. Thus it is imperative that wiring is purposefully thought out when designing and building a robot.
+whiwe tedious and often nyo fun, σωσ wiwing can mean t-the diffewence between a win and w-woss. >w< the best w-wobot in the wowwd w-won't be abwe t-to wowk if a wiwe is woose ow g-gets tangwed up in the middwe of a match. UwU thus i-it is impewative t-that wiwing is p-puwposefuwwy thought out when designing and buiwding a wobot. rawr x3
 
-*FIRST*\ |reg| FTC Wiring Guide
+*fiwst*\ |reg| ftc wiwing guide
 -------------------------------
 
-*FIRST*\ |reg| has created a wiring guide to help teams with tasks like crimping cables, soldering connections, and ESD mitigation that won’t be covered in this guide. Once you read up on electronics and wiring here, look at the `FTC Wiring Guide <https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/robot-wiring-guide.pdf>`_ for the best practices and more tips & tricks. In addition, *FIRST*\ |reg| has written an `ESD Mitigation Whitepaper <https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/analysis-esd-mitigation-echin.pdf>`_ that is worth taking a look at.
+*fiwst*\ |reg| has cweated a wiwing g-guide to hewp t-teams with tasks wike cwimping c-cabwes, >w< sowdewing connections, UwU a-and esd mitigation that won’t b-be covewed in this guide. σωσ once you wead up on ewectwonics a-and wiwing hewe, UwU wook a-at the `ftc wiwing g-guide <https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/robot-wiring-guide.pdf>`_ fow the best pwactices a-and mowe tips & t-twicks. ( ͡o ω ͡o ) in addition, *fiwst*\ |weg| h-has wwitten an `esd mitigation w-whitepapew <https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/analysis-esd-mitigation-echin.pdf>`_ that is wowth taking a-a wook at.
 
-General Advice
+genewaw advice
 --------------
 
-- **Always label wires! When bunched up, you may not know which wire goes into which port**.
-- Tie together loose wires, and better yet, tie that bunch of wires to a structural component. This will ensure that wires don't interfere with your mechanisms.
-- **Treat every wire connection as a point of failure**. Therefore, use electrical tape to tape up and insulate connections and utilize strain relief as much as possible.
-- **Strain relief** should be used everywhere possible. It is highly recommended for teams to use products like the :term:`REV USB Retention Mount <USB Retention Mount>`, as well as 3D printing strain relief methods for devices such as the :term:`Expansion Hub` and robot controller phones.
-- **DO NOT solder a wire before crimping it**. Solder can "creep" and losing connection is possible, possibly leading to fire.
-- **Keep all wire runs as short as possible** to prevent entanglement and improve wire management.
-- **When using data/sensor cables, keep them away from motors.** This will reduce electromagnetic interference (EMI). Add a ferrite bead if possible.
-- **Crimped connectors are generally better than soldered connectors**, as solder joints can break easier than a crimped connection.
-- **Keep wires tucked away from moving mechanisms,** and ensure that you will not be at risk of a mechanism snagging a wire. This is a proper application of materials such as acrylic, which allow drivers to see inside the robot while keeping wires out of the way of other robots/game pieces. It is advised for teams to purchase removable velcro ties or cable ties to aid with cable management.
-- **For power wires, lower** :term:`gauge <Gauge>` **(larger size) wires are preferable.** This means a lower resistance across the wire and higher power throughput. This is negligible for data wires, however.
-- **Small wires and cables are fragile.** Treat them as such, and don’t put them in an area where they will constantly be hit by another object. Larger power cables can take much more abuse.
-- **Ensure that your wires are kept out of pinch points** where another mechanism could sandwich the wire. This is especially important in arms or mechanisms that are hinged.
+- **awways w-wabew wiwes! σωσ w-when bunched up, òωó you may not k-know which wiwe goes into which p-powt**. >w<
+- tie togethew woose w-wiwes, OwO and bettew yet, ʘwʘ tie that bunch of wiwes to a-a stwuctuwaw component. (ꈍᴗꈍ) this wiww e-ensuwe that w-wiwes don't intewfewe w-with youw mechanisms. σωσ
+- **tweat evewy wiwe connection as a point of faiwuwe**. (⑅˘꒳˘) thewefowe, >w< u-use ewectwicaw tape to tape up and insuwate connections and utiwize stwain wewief a-as much as possibwe. ( ͡o ω ͡o )
+- **stwain w-wewief** shouwd be used evewywhewe p-possibwe. òωó it is highwy wecommended fow teams to use pwoducts w-wike the :tewm:`wev usb wetention m-mount <usb wetention m-mount>`, σωσ a-as weww as 3d p-pwinting stwain wewief methods fow d-devices such as the :tewm:`expansion hub` and w-wobot contwowwew p-phones. ( ͡o ω ͡o )
+- **do n-nyot sowdew a wiwe befowe cwimping it**. UwU sowdew can "cweep" and w-wosing connection is possibwe, σωσ p-possibwy weading to fiwe. rawr x3
+- **keep aww wiwe wuns as showt as possibwe** to pwevent e-entangwement and impwove wiwe management. UwU
+- **when u-using data/sensow cabwes, ʘwʘ keep them away fwom m-motows.** this w-wiww weduce ewectwomagnetic intewfewence (emi). (ꈍᴗꈍ) a-add a fewwite bead if possibwe. (///ˬ///✿)
+- **cwimped connectows awe genewawwy bettew than sowdewed connectows**, -.- as sowdew joints can b-bweak easiew than a-a cwimped connection. (U ﹏ U)
+- **keep w-wiwes tucked away f-fwom moving mechanisms,** a-and e-ensuwe that you wiww nyot be at wisk of a mechanism s-snagging a wiwe. (U ᵕ U❁) this is a p-pwopew appwication of matewiaws s-such as acwywic, o.O w-which awwow dwivews to see inside the wobot whiwe keeping wiwes o-out of the way of othew wobots/game pieces. ( ͡o ω ͡o ) it i-is advised fow teams to puwchase wemovabwe vewcwo ties ow cabwe t-ties to aid with cabwe management. (˘ω˘)
+- **fow p-powew w-wiwes, wowew** :tewm:`gauge <gauge>` **(wawgew s-size) wiwes awe p-pwefewabwe.** this means a wowew w-wesistance acwoss t-the wiwe and h-highew powew thwoughput. òωó this is n-negwigibwe fow data wiwes, howevew. rawr x3
+- **smaww wiwes and cabwes a-awe fwagiwe.** tweat t-them as such, (U ᵕ U❁) and don’t put t-them in an awea whewe they wiww c-constantwy be h-hit by anothew object. (U ᵕ U❁) wawgew powew c-cabwes can t-take much mowe abuse. σωσ
+- **ensuwe t-that youw wiwes awe kept out of p-pinch points** whewe anothew mechanism c-couwd sandwich t-the wiwe. >w< t-this is especiawwy impowtant in a-awms ow mechanisms t-that awe hinged. (U ᵕ U❁)
 
 .. figure:: images/wiring/bad-wiring.png
    :alt: An example of poor wiring
 
-   Bad example of wiring!
+   bad exampwe of w-wiwing! (ꈍᴗꈍ)
 
 .. image:: images/wiring/731-wiring-1.png
    :alt: An example of good wiring by 731
@@ -44,38 +44,38 @@ General Advice
 .. figure:: images/wiring/731-wiring-2.png
    :alt: An example of good wiring by 731
 
-   Good example of wiring by 731 Wannabee Strange, Rover Ruckus
+   good exampwe of w-wiwing by 731 w-wannabee stwange, (U ᵕ U❁) wovew wuckus
 
 .. figure:: images/wiring/8417-wiring.png
    :alt: An example of good wiring by 8417
 
-   Good example of wiring by 8417 ‘Lectric Legends
+   good exampwe of w-wiwing by 8417 ‘wectwic w-wegends
 
 .. figure:: images/wiring/7244-wiring.png
    :alt: An example of good wiring by 7244
 
-   Good example of wiring by 7244 Out of the Box Robotics
+   good exampwe of w-wiwing by 7244 o-out of the box wobotics
 
-When wiring, also take the time to plan out a specific layout for your wires and how they will run throughout the robot. Take the time to lay out something like an electronics panel if necessary! When building the robot, devote adequate space to wiring. This could mean mounting a PVC pipe and running wires from the back end of the robot through it, or simply using velcro or zipties.
+when wiwing, (U ᵕ U❁) a-awso take the time to pwan o-out a specific wayout fow youw w-wiwes and how they wiww wun thwoughout the wobot. rawr x3 t-take the time to way out something w-wike an ewectwonics p-panew i-if nyecessawy! ʘwʘ when buiwding the wobot, ʘwʘ devote adequate space to wiwing. (ꈍᴗꈍ) this couwd mean mounting a-a pvc pipe and wunning wiwes fwom the back end of the wobot thwough it, ʘwʘ ow simpwy u-using vewcwo o-ow zipties. -.-
 
-.. tip:: Make sure that wires are as short as possible to reduce the risk of entanglement.
+.. tip:: make suwe t-that wiwes awe as showt as possibwe to weduce the wisk of entangwement. (U ﹏ U)
 
-However, as components move out of the robot, the wires move with it. Tying down every loose inch will result in wire disconnecting. Wiring is the art of finding the perfect balance between shortest length and allowing enough freedom as mechanisms need.
+howevew, (///ˬ///✿) as components m-move out of t-the wobot, -.- the wiwes move with i-it. (˘ω˘) tying down evewy woose inch w-wiww wesuwt in wiwe disconnecting. ʘwʘ w-wiwing is the awt of finding the pewfect bawance b-between showtest wength and a-awwowing enough f-fweedom as mechanisms n-nyeed.
 
-**It is also recommended for electronics to be mounted on a nonconductive material such as wood to prevent ESD**.
+**it is awso wecommended fow ewectwonics to be mounted on a nyonconductive matewiaw s-such as wood to pwevent esd**. òωó
 
 .. figure:: images/wiring/3736-electronics-on-plastic.png
    :alt: An example of good wiring on a non-conductive surface by 3736
 
-   3736 Serious Business
+   3736 sewious business
 
-Specific Recommendations
+s-specific w-wecommendations
 ------------------------
 
-Module Power
+moduwe p-powew
 ^^^^^^^^^^^^
 
-Be aware, :term:`XT30` connectors can wear out significantly faster than :term:`PowerPole <Anderson PowerPole>` connectors. Additionally, because :term:`XT30` connectors are soldered, they can break much easier than :term:`PowerPole <Anderson PowerPole>` connections.
+be awawe, (U ﹏ U) :term:`XT30` connectows can weaw o-out significantwy f-fastew than :term:`PowerPole <Anderson PowerPole>` connectors. Additionally, because :term:`XT30` connectors are soldered, they can break much easier than :term:`PowerPole <Anderson PowerPole>` connections.
 
 Cabling for module power should be at least 14awg, if not 12awg. Keep in mind that it must be stranded, not solid, wire.
 

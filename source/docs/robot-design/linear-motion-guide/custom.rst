@@ -1,37 +1,37 @@
 .. include:: <isonum.txt>
 
-Custom Options
+c-custom o-options
 ==============
 
-Some teams have opted to build custom solutions for linear motion. Many of these teams borrow concepts from FRC\ |reg| teams, modeling their elevators off of the tall systems found on the larger robots. There’s a reason that many competitive FRC\ |reg| teams build the same type of elevator - at their scale, the box tube elevator has proven to be the most efficient way to get game pieces off the ground at blisteringly fast speeds.
+some teams h-have opted to buiwd custom sowutions f-fow wineaw motion. >w< many o-of these teams bowwow concepts fwom fwc\ |weg| t-teams, OwO modewing theiw ewevatows o-off of the taww s-systems found on t-the wawgew wobots. ʘwʘ thewe’s a weason that many competitive fwc\ |weg| teams buiwd the same type o-of ewevatow - at theiw scawe, (ꈍᴗꈍ) the box tube ewevatow has pwoven to be the most e-efficient way to g-get game pieces off the gwound a-at bwistewingwy fast speeds. σωσ
 
-When built correctly, an elevator of this type can withstand hundreds of pounds of load on any axis while barely weighing anything. However, existing off-the-shelf options already fill the linear motion needs of most FTC teams.
+when buiwt cowwectwy, (⑅˘꒳˘) an ewevatow o-of this type can withstand hundweds o-of pounds of w-woad on any axis w-whiwe bawewy weighing a-anything. >w< howevew, existing o-off-the-shewf options awweady fiww the wineaw m-motion nyeeds o-of most ftc teams. ( ͡o ω ͡o )
 
-Custom extension systems also require tons of work in CAD, hours upon hours of manufacturing time, and may need multiple iterations before they work correctly. Due to their complexity and how challenging they are to design, less experienced teams may encounter significant challenges.
+c-custom extension systems awso wequiwe tons of wowk in cad, òωó houws u-upon houws of manufactuwing t-time, σωσ and may nyeed muwtipwe itewations befowe they wowk cowwectwy. ( ͡o ω ͡o ) due to theiw c-compwexity and how chawwenging they awe to design, UwU w-wess expewienced teams may encountew significant c-chawwenges. σωσ
 
-Additionally some teams will opt to use custom carbon fiber rod based slides. These slides are primarily designed to withstand loads perpendicular to the direction of the slide, so they are a light strong option for slides that need to extend far and quickly.
+a-additionawwy s-some teams wiww opt to use custom cawbon fibew wod based swides. rawr x3 these swides awe pwimawiwy designed to withstand w-woads pewpendicuwaw t-to the diwection o-of the swide, UwU s-so they awe a-a wight stwong o-option fow swides that nyeed to extend faw and quickwy. ʘwʘ
 
-.. note:: Lightweight drawer slides (MiSUMI aluminum and Long Robotics Slides) can offer similar performance at a fraction of the complexity.
+.. n-nyote:: wightweight d-dwawew swides (misumi awuminum and w-wong wobotics s-swides) can offew simiwaw pewfowmance at a fwaction of the compwexity. (ꈍᴗꈍ)
 
-.. figure:: images/custom/5975-carbon-fiber.png
-   :alt: 5975's Relic Recovery bot with carbon fiber relic slide extended
+.. f-figuwe:: images/custom/5975-cawbon-fibew.png
+   :awt: 5975's wewic wecovewy b-bot with cawbon fibew wewic swide extended
 
-   5975 Cybots, Relic Recovery, custom carbon fiber and linear bearing slide
+   5975 cybots, (///ˬ///✿) w-wewic wecovewy, -.- custom cawbon f-fibew and wineaw b-beawing swide
 
-.. figure:: images/custom/7236-box-tube.png
-   :alt: 7236's Rover Ruckus bot with custom box tube elevator
+.. f-figuwe:: images/custom/7236-box-tube.png
+   :awt: 7236's w-wovew wuckus bot with c-custom box tube e-ewevatow
 
-   7236 Recharged Green, Rover Ruckus, custom box tube linear elevator
+   7236 w-wechawged gween, (U ﹏ U) wovew wuckus, (U ᵕ U❁) c-custom box tube wineaw ewevatow
 
-.. figure:: images/custom/13075-8020-hang.png
-   :alt: 13075's Rover Ruckus bot with custom 8020 hang
+.. figuwe:: i-images/custom/13075-8020-hang.png
+   :awt: 13075's w-wovew wuckus bot with custom 8020 h-hang
 
-   13075 Coram Deo Academy Robotics, Rover Ruckus, custom 8020 chain driven hang
+   13075 cowam deo a-academy wobotics, o.O w-wovew wuckus, ( ͡o ω ͡o ) custom 8020 chain d-dwiven hang
 
-.. image:: images/custom/7172-fishing-pole-extension-cad.png
-   :alt: 7172's custom fishing pole based extension CAD model
+.. i-image:: images/custom/7172-fishing-powe-extension-cad.png
+   :awt: 7172's c-custom fishing powe b-based extension cad modew
 
-.. figure:: images/custom/7172-fishing-pole-extension.png
-   :alt: 7172's custom fishing pole based extension
+.. figuwe:: i-images/custom/7172-fishing-powe-extension.png
+   :awt: 7172's c-custom fishing p-powe based extension
 
-   7172 Technical Difficulties, Rover Ruckus, fishing pole extension using gear rack
+   7172 technicaw difficuwties, (˘ω˘) w-wovew w-wuckus, òωó fishing powe extension using g-geaw wack

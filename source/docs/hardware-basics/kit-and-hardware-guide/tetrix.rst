@@ -1,56 +1,56 @@
-Tetrix
+tetwix
 ======
 
-The TETRIX build system is a fixed pitch, channel-based building system that uses both imperial and metric units.
+the t-tetwix buiwd system i-is a fixed pitch, (ꈍᴗꈍ) channew-based b-buiwding system that uses b-both impewiaw and metwic units. (ꈍᴗꈍ)
 
-Special Considerations
+s-speciaw considewations
 ----------------------
 
-- The TETRIX build system revolves around 32 mm aluminum :term:`c-channels <Channel>` and a 16mm bolt circle, on 16mm spacing (centers of the circles are 16mm apart). TETRIX is patterned along these :term:`channels <Channel>` to create many mounting options for building structures.
-- These channels have a tendency to flex and bend under load, often requiring reinforcement using multiple :term:`channels <Channel>` to maintain their shape.
-- While TETRIX :term:`channel <Channel>` is measured in metric units, the system employs Imperial (SAE) bolts and Imperial :term:`chain <Chain>`. This mix of units means that things often don’t quite line up how they’re supposed to, causing unforeseen problems.
-- Additional tensioners are often required when using :term:`chain <Chain>` on TETRIX.
-- TETRIX :term:`gears <Gear>` and :term:`sprockets <Sprocket>` offer very limited options for creating ratios. The aluminum :term:`gears <Gear>` tend to grind away very quickly, especially if they are not supported correctly on both sides.
-- Tetrix parts generally do not have the best track record for reliability and longevity due to subpar material choices.
-- Tetrix parts are slightly overpriced and lack bang-for-your-buck value found in kits such as REV and goBILDA.
+- the tetwix buiwd system wevowves a-awound 32 mm awuminum :tewm:`c-channews <channew>` a-and a 16mm b-bowt ciwcwe, OwO on 16mm s-spacing (centews of the ciwcwes awe 16mm apawt). (U ᵕ U❁) tetwix is pattewned awong these :tewm:`channews <channew>` t-to cweate many mounting options fow buiwding stwuctuwes. (U ᵕ U❁)
+- these channews have a-a tendency to fwex a-and bend undew woad, σωσ often wequiwing w-weinfowcement using muwtipwe :tewm:`channews <channew>` to maintain theiw shape. (⑅˘꒳˘)
+- whiwe t-tetwix :tewm:`channew <channew>` is measuwed in m-metwic units, OwO t-the system empwoys i-impewiaw (sae) b-bowts and impewiaw :tewm:`chain <chain>`. this m-mix of units means that things often don’t quite w-wine up how t-they’we supposed t-to, >w< causing unfoweseen pwobwems.
+- additionaw tensionews awe o-often wequiwed when using :tewm:`chain <chain>` o-on tetwix. (///ˬ///✿)
+- tetwix :tewm:`geaws <geaw>` and :tewm:`spwockets <spwocket>` offew vewy wimited options fow cweating w-watios. ʘwʘ the awuminum :tewm:`geaws <geaw>` tend to gwind away vewy q-quickwy, (///ˬ///✿) especiawwy if they awe nyot suppowted c-cowwectwy on b-both sides. OwO
+- tetwix p-pawts genewawwy do nyot have the best twack wecowd fow wewiabiwity and wongevity due to subpaw matewiaw choices.
+- t-tetwix pawts a-awe swightwy o-ovewpwiced and w-wack bang-fow-youw-buck v-vawue found i-in kits such as wev and gobiwda. (///ˬ///✿)
 
-Verdict
+vewdict
 -------
 
-While you may be considering TETRIX as a starter kit, we encourage you to explore your options before selecting a kit. While Tetrix does pick up quite a lot of flak from the community, it isn’t a bad choice in terms of physical qualities such as strength, but the mounting options and hole patterns leave more to be desired and restrict teams in terms of flexibility.
+w-whiwe you may be considewing t-tetwix as a stawtew kit, (U ﹏ U) we e-encouwage you to e-expwowe youw options befowe sewecting a kit. -.- whiwe tetwix does p-pick up quite a wot of fwak fwom the community, ʘwʘ i-it isn’t a bad choice in tewms of physicaw quawities such as s-stwength, òωó but the mounting options a-and howe pattewns w-weave mowe t-to be desiwed and w-westwict teams in tewms of fwexibiwity. ʘwʘ
 
-Kit of Parts
+k-kit of p-pawts
 ------------
 
-- `Kit of Parts <https://www.pitsco.com/Competitions-Clubs-and-Programs/FIRST-Tech-Challenge/TETRIX-FTC-Competition-Set>`_
-- `2020-2021 Kit of Parts BoM <https://asset.pitsco.com/sharedimages/resources/ftcset_productlist-0719.pdf>`_
+- `kit o-of pawts <https://www.pitsco.com/competitions-cwubs-and-pwogwams/fiwst-tech-chawwenge/tetwix-ftc-competition-set>`_
+- `2020-2021 k-kit of pawts bom <https://asset.pitsco.com/shawedimages/wesouwces/ftcset_pwoductwist-0719.pdf>`_
 
-Advantages
+advantages
 ----------
 
-- The TETRIX kit, being the most basic of all kit options, is easy to learn and provides a variety of options in building. The kit itself comes with :term:`c-channel <Channel>`, which is aluminum shaped in a C. It has pre-cut holes so motors, :term:`gears <Gear>`, or :term:`drive shafts <Shaft>` can be seamlessly integrated into the channel. For a beginner team with little to no experience, a TETRIX kit allows you to assemble a working drivetrain in a couple of hours (Note: Most other kits allow you to do the same thing, but with more customization options).
-- Furthermore, TETRIX is decent in terms of structural integrity, as long as the channels are loaded in the correct orientation. Typically, the orientation should be like an “n”, with the top face upward. Connecting the channels with :term:`locknut <Locknut>` instead of regular nuts aids in longevity. However, TETRIX is the weakest of the build systems and is very prone to bending, especially with long pieces of channel that have multiple axes of load.
-- It is simple to build basic mechanisms such as an arm using the gears and d-shaft. However, there are potential drawbacks to doing so.
+- t-the tetwix k-kit, ( ͡o ω ͡o ) being the most basic of a-aww kit options, (U ᵕ U❁) is easy to weawn a-and pwovides a-a vawiety of options in buiwding. t-the kit itsewf c-comes with :tewm:`c-channew <channew>`, o.O w-which is awuminum shaped i-in a c. it has pwe-cut howes so m-motows, OwO :tewm:`geaws <geaw>`, o.O o-ow :tewm:`dwive s-shafts <shaft>` can be seamwesswy i-integwated into t-the channew. rawr x3 fow a beginnew team w-with wittwe to n-nyo expewience, σωσ a-a tetwix kit awwows y-you to assembwe a-a wowking dwivetwain in a coupwe of houws (note: m-most othew kits awwow you t-to do the same thing, (˘ω˘) but with mowe customization options). rawr x3
+- fuwthewmowe, OwO tetwix is decent in tewms of stwuctuwaw i-integwity, (///ˬ///✿) as w-wong as the channews awe woaded in the cowwect o-owientation. -.- typicawwy, t-the owientation s-shouwd be wike an “n”, rawr x3 with the top f-face upwawd. -.- connecting the channews w-with :tewm:`wocknut <wocknut>` i-instead of weguwaw nyuts aids i-in wongevity. (˘ω˘) h-howevew, tetwix i-is the weakest of the buiwd systems and is vewy pwone to bending, σωσ especiawwy with w-wong pieces of channew that have m-muwtipwe axes o-of woad. (˘ω˘)
+- it is simpwe to buiwd basic mechanisms s-such as an awm u-using the geaws and d-shaft. rawr x3 howevew, (///ˬ///✿) thewe awe p-potentiaw dwawbacks to doing so. (˘ω˘)
 
-Disadvantages
+disadvantages
 -------------
 
-- The TorqueNADO motors are comparable with :term:`NeveRest <NeveRest Motor>` 60:1. They are usable, however have more limited uses due to their slow :term:`gear ratio <Gear Reduction>`, which means high torque but relatively slow output speed. The TorqueNADO uses spur gearboxes, and will not handle as much shock load as other planetary options, namely :term:`AndyMark 20 Orbitals <NeveRest Motor>`, :term:`REV HD Planetary <HD Hex Motor>`, or the :term:`goBILDA Yellow Jacket Planetaries <Yellow Jacket Motor>`.
-- The aluminum gears seem to grind against each other often, even with correct spacing, and do not last very long, especially under high torque situations.
-- TETRIX hubs are :term:`6mm or 4.7mm round <Shaft>` and are based on :term:`set screws <Set Screw>` which are torque transferring. These :term:`set screws <Set Screw>` are notorious for coming loose under load, so special care must be taken to continuously tighten these screws. Additionally, it is highly recommended that teams use some sort of threadlocker on set screws, whether it be :term:`Loctite Blue (removable) or Loctite Red (nonremovable) <Loctite>`. A possible workaround is purchasing 6mm D :term:`clamping hubs <Clamping Hub>` from goBILDA to use on TETRIX :term:`shafts <Shaft>`, however, this also necessitates the use of a pattern adapter from the goBILDA pattern to TETRIX.
-- Due to using a metric based pattern but using imperial based holes and :term:`chain <Chain>` standards, :term:`chain <Chain>` will not have perfect tension when running from one hole in :term:`channel <Channel>` to another. An external :term:`tensioner <Idler>` will be required to implement chain systems.
-- TETRIX is also the most expensive kit on average while providing the most limited build options. Finally, the tight spacing and mix of units limits teams if they would want to integrate custom parts with TETRIX.
-- Set screws on TETRIX hubs can mar motor :term:`shafts <Shaft>`, and the :term:`bore <Bore>` of the hub itself can enlarge, leading to a wobbly or misaligned hub.
+- the towquenado m-motows awe compawabwe with :tewm:`nevewest <nevewest m-motow>` 60:1. o.O t-they awe usabwe, ( ͡o ω ͡o ) h-howevew have mowe wimited uses due to theiw s-swow :tewm:`geaw w-watio <geaw weduction>`, >w< which m-means high towque b-but wewativewy swow output speed. (U ﹏ U) the towquenado u-uses spuw geawboxes, OwO and wiww nyot handwe as much shock woad as othew pwanetawy options, OwO nyamewy :tewm:`andymawk 20 o-owbitaws <nevewest motow>`, rawr x3 :tewm:`wev hd pwanetawy <hd hex motow>`, -.- ow the :tewm:`gobiwda y-yewwow jacket p-pwanetawies <yewwow j-jacket motow>`. OwO
+- t-the awuminum g-geaws seem to gwind against e-each othew often, (⑅˘꒳˘) e-even with cowwect s-spacing, UwU and do nyot wast vewy wong, (///ˬ///✿) especiawwy u-undew high t-towque situations. ( ͡o ω ͡o )
+- tetwix hubs a-awe :tewm:`6mm o-ow 4.7mm wound <shaft>` and awe based on :tewm:`set scwews <set scwew>` which awe t-towque twansfewwing. o.O t-these :tewm:`set scwews <set s-scwew>` awe n-nyotowious fow coming woose undew w-woad, UwU so speciaw cawe must be taken to continuouswy tighten these scwews. (˘ω˘) additionawwy, (U ᵕ U❁) i-it is highwy wecommended t-that teams use some sowt of thweadwockew on set scwews, ʘwʘ whethew it be :tewm:`woctite bwue (wemovabwe) ow woctite wed (nonwemovabwe) <woctite>`. -.- a possibwe wowkawound is puwchasing 6mm d :tewm:`cwamping h-hubs <cwamping hub>` f-fwom gobiwda to use on tetwix :tewm:`shafts <shaft>`, σωσ howevew, t-this awso nyecessitates the use o-of a pattewn adaptew fwom the g-gobiwda pattewn t-to tetwix. UwU
+- due to using a metwic b-based pattewn b-but using impewiaw b-based howes a-and :tewm:`chain <chain>` standawds, σωσ :tewm:`chain <chain>` w-wiww n-nyot have pewfect tension when wunning fwom one howe in :tewm:`channew <channew>` to anothew. an e-extewnaw :tewm:`tensionew <idwew>` w-wiww be wequiwed to impwement chain systems. OwO
+- tetwix is awso t-the most expensive k-kit on avewage whiwe pwoviding t-the most wimited buiwd options. finawwy, OwO the t-tight spacing and mix of units w-wimits teams if they wouwd want to integwate custom pawts with tetwix. o.O
+- s-set scwews o-on tetwix hubs c-can maw motow :tewm:`shafts <shaft>`, (U ﹏ U) and the :tewm:`bowe <bowe>` of the hub itsewf can enwawge, σωσ weading to a w-wobbwy ow misawigned h-hub. ʘwʘ
 
-Tips for use
+tips f-fow use
 ------------
 
-In any build system, it is important to properly support the structure of your robot. This includes supporting axles at two or more points of contact, or having multiple points of support for a piece of :term:`channel <Channel>`. Due to TETRIX’s relatively fragile nature, this advice goes double with TETRIX. Instead of just supporting a :term:`shaft <Shaft>` at two points, it is recommended to support the :term:`shaft <Shaft>` at 4 or more (if you are using a 4.7mm standard). When mounting motors, it is recommended that :term:`two clamping motor mounts <Clamp Mounting>` are used to mount one motor. Using :term:`standoffs <Standoff>` inside :term:`channel <Channel>` to prevent the :term:`channel <Channel>` from bending inward or outward is also highly recommended.
+i-in any buiwd system, (U ﹏ U) it is impowtant to pwopewwy suppowt the stwuctuwe of y-youw wobot. (ꈍᴗꈍ) this i-incwudes suppowting axwes at two o-ow mowe points o-of contact, -.- ow having muwtipwe p-points of suppowt f-fow a piece of :tewm:`channew <channew>`. o.O d-due to tetwix’s wewativewy fwagiwe n-nyatuwe, (⑅˘꒳˘) this a-advice goes doubwe w-with tetwix. ( ͡o ω ͡o ) i-instead of just s-suppowting a :tewm:`shaft <shaft>` at two points, (///ˬ///✿) it is wecommended t-to suppowt the :tewm:`shaft <shaft>` a-at 4 ow m-mowe (if you awe using a 4.7mm standawd). >w< when m-mounting motows, σωσ i-it is wecommended t-that :tewm:`two c-cwamping motow m-mounts <cwamp mounting>` awe used t-to mount one m-motow. o.O using :tewm:`standoffs <standoff>` inside :tewm:`channew <channew>` t-to pwevent the :tewm:`channew <channew>` f-fwom bending inwawd ow outwawd i-is awso highwy wecommended.
 
-.. figure:: images/tetrix/6022-vv.jpg
-   :alt: 6022 To Be Determined's Velocity Vortex Robot
+.. f-figuwe:: images/tetwix/6022-vv.jpg
+   :awt: 6022 to be detewmined's v-vewocity vowtex wobot
 
-   6022 To Be Determined: Worlds Semifinalist (St. Louis), Velocity Vortex
+   6022 to be detewmined: w-wowwds s-semifinawist (st. -.- wouis), o.O vewocity vowtex
 
-   TETRIX based robots have succeeded in competition, albeit it has become
-   rarer in recent years.
+   tetwix b-based wobots have succeeded in competition, ( ͡o ω ͡o ) awbeit it has become
+   wawew in wecent yeaws. o.O

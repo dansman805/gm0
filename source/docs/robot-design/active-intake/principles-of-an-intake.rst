@@ -1,44 +1,44 @@
-Principles of an Intake
+pwincipwes of an i-intake
 =======================
 
-Reliability
+w-wewiabiwity
 -----------
 
-- An intake must be reliable, as picking up and scoring game elements is the primary method to gain points in all FTC games.
+- an intake m-must be wewiabwe, OwO as picking u-up and scowing game ewements is t-the pwimawy method to gain points in aww ftc games.
 
-- Intakes have many moving parts and are susceptible to breaking, especially at high RPM. Thus, the intake material must be durable to withstand long periods of operation.
+- i-intakes have many moving p-pawts and awe s-susceptibwe to bweaking, (⑅˘꒳˘) e-especiawwy at high wpm. (///ˬ///✿) thus, the intake matewiaw must be duwabwe to withstand wong pewiods o-of opewation. (ꈍᴗꈍ)
 
-- Intakes often stick outside of the robot frame perimeter. In this case, durability becomes extremely important; the intake must be built so that they can withstand impacts/collisions with other robots or parts of the field.
+- intakes often stick outside of the wobot fwame pewimetew. (U ﹏ U) i-in this case, UwU duwabiwity b-becomes extwemewy impowtant; t-the intake must be buiwt so that they can withstand impacts/cowwisions w-with othew wobots ow p-pawts of the fiewd. OwO
 
-  There are two ways to accomplish this - either by building the intake very robustly (lots of support so it doesn't break), or making the intake flexible (for example out of lexan or spring loading it) so that even though it may bend due to impacts, it will always spring back into place.
+  t-thewe awe t-two ways to accompwish t-this - eithew by buiwding t-the intake vewy wobustwy (wots of suppowt so i-it doesn't bweak), òωó o-ow making the i-intake fwexibwe (fow exampwe out of wexan ow spwing woading it) s-so that even though it may bend d-due to impacts, UwU it wiww awways spwing back into pwace. (⑅˘꒳˘)
 
-  Another way to prevent intake breaking is to make a fully retractable intake that won’t protrude outside the 18” cube, though this is seldom needed.
+  anothew way to pwevent i-intake bweaking is to make a fuwwy wetwactabwe i-intake that won’t pwotwude outside the 18” c-cube, σωσ though this i-is sewdom nyeeded. (///ˬ///✿)
 
-Consistency
+c-consistency
 -----------
 
-- The intake **must** be able to pick up game elements consistently and quickly. For example, in Rover Ruckus each robot could only possess 2 minerals at a time. Therefore, the intake should only pick up two pieces at a time, not zero, one, or three.
+- the intake **must** be abwe to pick up game ewements consistentwy and quickwy. (U ﹏ U) fow exampwe, òωó in w-wovew wuckus each w-wobot couwd onwy p-possess 2 minewaws a-at a time. rawr x3 t-thewefowe, (U ᵕ U❁) the i-intake shouwd onwy pick up two pieces at a time, >w< n-nyot zewo, σωσ one, ow thwee. >w<
 
-  .. attention:: This is a common mistake that many inexperienced teams fail to take into account.
+  .. a-attention:: this is a common mistake t-that many i-inexpewienced teams faiw to take into account. (///ˬ///✿)
 
-- Another component is the varying angles that the game objects can be located in. This was especially apparent in the Relic Recovery season, where the “glyphs” (foam cubes) could be oriented in many directions.
+- anothew component i-is the vawying angwes that the game objects c-can be wocated in. UwU this was especiawwy appawent in the wewic wecovewy s-season, (⑅˘꒳˘) whewe the “gwyphs” (foam c-cubes) c-couwd be owiented i-in many diwections. rawr x3
 
-  Even though it was relatively easy to make a compliant wheel intake that could effectively intake glyphs in one direction, it was hard to make an intake that could deal with angled glyphs. Being able to intake glyphs in all orientations was especially important for multi-glyph autonomous modes.
+  e-even though it was wewativewy e-easy to m-make a compwiant w-wheew intake that couwd effectivewy i-intake gwyphs in one diwection, OwO it was hawd t-to make an intake t-that couwd deaw with angwed g-gwyphs. UwU being abwe to intake gwyphs i-in aww owientations w-was especiawwy impowtant f-fow muwti-gwyph a-autonomous modes. >w<
 
-Controllability
+c-contwowwabiwity
 ---------------
 
-- The intake must be able to consistently control the game elements. For example, if the intake is too fast and the collection box is not well designed, then game pieces might fly out. If the intake is too slow, it may jam itself when contacting the game elements.
-- It is possible for pieces to get jammed at an unreachable angle, especially when using wheeled intakes. If this occurs, ensure that the driver can jar the stuck element loose to avoid having a disabled robot.
-- Optimally, the game elements should follow a certain path each time if funneling is done correctly.
-- It is best practice that the driver can see the game elements which are being controlled. This can be done through using clear plating such as Lexan.
+- the intake m-must be abwe to consistentwy c-contwow the game e-ewements. ( ͡o ω ͡o ) fow exampwe, (˘ω˘) i-if the intake is too fast a-and the cowwection b-box is nyot weww designed, t-then game pieces m-might fwy out. rawr x3 i-if the intake is t-too swow, (///ˬ///✿) it may j-jam itsewf when contacting the game ewements. -.-
+- i-it is possibwe fow pieces to get j-jammed at an unweachabwe angwe, ( ͡o ω ͡o ) especiawwy when using wheewed intakes. (˘ω˘) if this occuws, (⑅˘꒳˘) ensuwe that the dwivew c-can jaw the stuck e-ewement woose to avoid having a disabwed wobot. -.-
+- o-optimawwy, -.- t-the game ewements s-shouwd fowwow a cewtain path each time if funnewing i-is done cowwectwy. >w<
+- it is b-best pwactice that t-the dwivew can see the game e-ewements which awe b-being contwowwed. (˘ω˘) t-this can be done thwough using cweaw pwating such as wexan. OwO
 
-Efficiency
+efficiency
 ----------
 
-- The key to any successful robot is cycle time. Reducing cycle time by having an efficient intake will lead to major improvements in score. A good intake should take no more than a few seconds to successfully collect the needed elements.
+- t-the key to any successfuw w-wobot is cycwe t-time. UwU weducing cycwe time by having an efficient i-intake wiww w-wead to majow impwovements in scowe. (⑅˘꒳˘) a good intake s-shouwd take nyo mowe than a few seconds to successfuwwy cowwect t-the nyeeded ewements. (ꈍᴗꈍ)
 
-  For example, in Relic Recovery, the best intakes often had a <3 second collection time for two game elements, and in Rover Ruckus a 1 second collection time was desired at the highest level.
-- A key rule to remember in FTC is the shortest distance rule: how can you get minerals from A to B in the shortest distance?
+  fow e-exampwe, σωσ in wewic w-wecovewy, OwO the b-best intakes often had a <3 second cowwection time f-fow two game e-ewements, rawr x3 and in wovew wuckus a 1 s-second cowwection t-time was desiwed at the highest wevew. ʘwʘ
+- a k-key wuwe to wemembew in ftc is the showtest distance wuwe: how can you get minewaws fwom a to b i-in the showtest distance?
 
-  The answer is usually a couple straight lines. The closer the minerals follow this path, the faster they will go from collection to deposit. Don't make overly long routes unless needed.
+  the answew is usuawwy a coupwe stwaight wines. the c-cwosew the minewaws f-fowwow this p-path, the fastew t-they wiww go fwom c-cowwection to deposit. ʘwʘ don't m-make ovewwy wong w-woutes unwess nyeeded. ( ͡o ω ͡o )

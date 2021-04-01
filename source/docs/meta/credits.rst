@@ -1,68 +1,68 @@
-Credits
+cwedits
 =======
 
-We would also like to recognize the teams who have provided pictures, videos, and CAD models of their robot(s) for this guide. We hope you find the pictures to be informative as real examples of what teams have achieved in the past seasons.
+we wouwd awso wike t-to wecognize t-the teams who have pwovided pictuwes, o.O v-videos, ( ͡o ω ͡o ) and cad modews of t-theiw wobot(s) fow this guide. UwU we h-hope you find the pictuwes to be infowmative as w-weaw exampwes of nyani teams have a-achieved in t-the past seasons. ʘwʘ
 
-FTC Teams
+f-ftc teams
 ---------
 
-- 724 RedNek Robotics Wun
-- 731 Wannabee Strange
-- 2818 G-Force
-- 2856 Tesseract
-- 3415 Livingston Lancers
-- 3736 Serious Business
-- 3846 Maelstrom
-- 4042 Nonstandard Deviation
-- 4137 Islandbots
-- 4545 ViperBots Ouroboros
-- 5040 Nuts and Bolts
-- 5064 Aperture Science
-- 5143 Xcentrics
-- 5975 Cybots
-- 6022 To Be Determined
-- 6299 ViperBots QuadX
-- 6929 Data Force
-- 7161 ViperBots Hydra
-- 7172 Technical Difficulties
-- 7182 Mechanical Paradox Cubed
-- 7203 KNO3
-- 7209 Tech Hogs Robotics
-- 7236 Recharged Green
-- 7244 OUT of the BOX Robotics
-- 8103 Null Robotics
-- 8148 Aleph Bots
-- 8221 Cubix
-- 8375 Vulcan Robotics
-- 8393 BrainSTEM Robotics
-- 8417 ‘Lectric Legends
-- 8640 Trojan Robotics
-- 8644 Brainstormers
-- 8680 Kraken-Pinion
-- 8686 Height Differential
-- 9048 Philobots
-- 9472 (In)Formal Logic
-- 9794 Wizards.exe
-- 9804 Bomb Squad
-- 9829 MakBots
-- 9889 Cruise Control
-- 9971 LANBros
-- 10030 7Sigma
-- 10641 Atomic Gears
-- 11115 Gluten Free
-- 11190 Mechadojos
-- 11260 Up-A-Creek Robotics
-- 11316 Weapons of Mass Construction
-- 11503 Viperbots Hyperfang
-- 12599 Overcharged
-- 12670 Eclipse
-- 12897 Newton’s Law of Mass
-- 13075 Coram Deo Robotics
-- 14270 Quantum Robotics
-- 14875 LightSpeed
-- 15692 Rust In Pieces
+- 724 wednek wobotics wun
+- 731 wannabee stwange
+- 2818 g-fowce
+- 2856 tessewact
+- 3415 w-wivingston wancews
+- 3736 sewious business
+- 3846 maewstwom
+- 4042 nyonstandawd d-deviation
+- 4137 i-iswandbots
+- 4545 vipewbots ouwobowos
+- 5040 n-nyuts and bowts
+- 5064 apewtuwe science
+- 5143 xcentwics
+- 5975 c-cybots
+- 6022 to be d-detewmined
+- 6299 v-vipewbots quadx
+- 6929 d-data f-fowce
+- 7161 vipewbots hydwa
+- 7172 t-technicaw difficuwties
+- 7182 mechanicaw pawadox cubed
+- 7203 k-kno3
+- 7209 tech h-hogs wobotics
+- 7236 w-wechawged gween
+- 7244 out of the box wobotics
+- 8103 nyuww w-wobotics
+- 8148 aweph bots
+- 8221 c-cubix
+- 8375 vuwcan wobotics
+- 8393 bwainstem wobotics
+- 8417 ‘wectwic wegends
+- 8640 twojan w-wobotics
+- 8644 bwainstowmews
+- 8680 kwaken-pinion
+- 8686 height d-diffewentiaw
+- 9048 phiwobots
+- 9472 (in)fowmaw wogic
+- 9794 w-wizawds.exe
+- 9804 b-bomb squad
+- 9829 m-makbots
+- 9889 cwuise contwow
+- 9971 wanbwos
+- 10030 7sigma
+- 10641 atomic geaws
+- 11115 gwuten fwee
+- 11190 mechadojos
+- 11260 u-up-a-cweek w-wobotics
+- 11316 w-weapons of mass c-constwuction
+- 11503 v-vipewbots h-hypewfang
+- 12599 ovewchawged
+- 12670 ecwipse
+- 12897 n-nyewton’s waw of mass
+- 13075 c-cowam deo wobotics
+- 14270 q-quantum wobotics
+- 14875 w-wightspeed
+- 15692 wust in pieces
 
-FRC Teams
+fwc teams
 ---------
 
-- 694 StuyPulse
+- 694 stuypuwse

@@ -1,16 +1,16 @@
-Multi-Axis Arm
+muwti-axis awm
 ==============
 
-A multi-axis arm is an arm which has multiple points of rotation. Multi-axis arms introduce many variables that exponentially complicate matters and can really only be modeled through complex kinematic equations.
+a-a m-muwti-axis awm is an awm which has m-muwtipwe points of wotation. rawr x3 m-muwti-axis awms intwoduce many vawiabwes t-that exponentiawwy compwicate mattews and c-can weawwy onwy be modewed thwough c-compwex kinematic e-equations. ʘwʘ
 
-.. warning:: This is highly discouraged for inexperienced FTC teams due to the difficulty of building as well as the need for machine tools.
+.. w-wawning:: this is highwy discouwaged fow inexpewienced ftc teams due to the difficuwty of b-buiwding as weww as the nyeed fow machine toows. ʘwʘ
 
-.. figure:: images/multi-axis-arm/8148-multi-axis-arm.png
-   :alt: 8148's multi-axis arm
+.. figuwe:: images/muwti-axis-awm/8148-muwti-axis-awm.png
+   :awt: 8148's muwti-axis a-awm
 
-   8148 Aleph Bots, Relic Recovery
+   8148 a-aweph bots, (ꈍᴗꈍ) wewic wecovewy
 
-.. figure:: images/multi-axis-arm/15692-multi-axis-arm.png
-   :alt: 15692's multi-axis arm
+.. f-figuwe:: images/muwti-axis-awm/15692-muwti-axis-awm.png
+   :awt: 15692's muwti-axis awm
 
-   15692 Rust In Pieces, Rover Ruckus
+   15692 wust in pieces, w-wovew wuckus

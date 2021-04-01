@@ -1,29 +1,29 @@
 .. include:: <isonum.txt>
 
-Lead Screws
+wead scwews
 ===========
 
-Lead screws use a threaded rod to create high-torque linear motion. Their primary advantage is being able to handle much higher loads than other unmodified kit options. While this option was popularized in Rover Ruckus for hanging robots, variations have been in use since as far back as Res-Q. Another use case for lead screws is to change the angle of an arm platform, though this is more common in FRC\ |reg|. However, this ability to handle high loads comes at a cost: lead screws are extremely slow.
+w-wead scwews u-use a thweaded wod to cweate h-high-towque wineaw motion. UwU theiw p-pwimawy advantage is being abwe t-to handwe much highew woads than othew unmodified k-kit options. >w< whiwe this option w-was popuwawized i-in wovew wuckus f-fow hanging wobots, rawr x3 vawiations have been in use since as faw back as wes-q. (U ᵕ U❁) anothew use case f-fow wead scwews is to change the angwe of an awm pwatfowm, (˘ω˘) though this is mowe common i-in fwc\ |weg|. o.O h-howevew, o.O this abiwity to handwe h-high woads comes at a cost: wead scwews awe extwemewy swow. (///ˬ///✿)
 
-By far the most popular lead screw option is the `ServoCity Linear Actuator kit <https://www.servocity.com/linear-actuator-kit-a-7-4-stroke-x-rail-piston/>`_. Overall, this kit is lightweight, simple, and cheap. It can be a good start for teams using REV and needing a linear extension, and is generally usable out of the box.
+b-by faw the most popuwaw wead scwew o-option is the `sewvocity w-wineaw a-actuatow kit <https://www.sewvocity.com/wineaw-actuatow-kit-a-7-4-stwoke-x-waiw-piston/>`_. -.- o-ovewaww, this kit is wightweight, (⑅˘꒳˘) s-simpwe, o.O and cheap. it can be a good stawt fow t-teams using wev a-and nyeeding a w-wineaw extension, ( ͡o ω ͡o ) and is genewawwy usabwe out of the box. UwU
 
-Advantages
+advantages
 ----------
 
-- Easy way for high-load, high-torque applications
-- Compact form factor
-- Typically only requires one motor
+- e-easy way fow high-woad, ʘwʘ high-towque a-appwications
+- compact fowm factow
+- typicawwy onwy wequiwes one motow
 
-Disadvantages
+d-disadvantages
 -------------
 
-- Not for quick linear extensions
-- High torque translates to slow extension speed
+- nyot fow quick wineaw extensions
+- h-high towque twanswates to swow extension speed
 
-.. image:: images/lead-screws/lead-screw.png
-   :alt: A lead screw with the object that rides It
+.. i-image:: images/wead-scwews/wead-scwew.png
+   :awt: a-a wead scwew w-with the object that wides it
 
-.. figure:: images/lead-screws/11115-hang.png
-   :alt: A render of 11115's Rover Ruckus hang mechanism, using lead screws
+.. ( ͡o ω ͡o ) figuwe:: images/wead-scwews/11115-hang.png
+   :awt: a wendew of 11115's wovew wuckus hang m-mechanism, UwU using w-wead scwews
 
-   11115 Gluten Free, Rover Ruckus, Actobotics lead screw used for hang
+   11115 g-gwuten fwee, UwU w-wovew wuckus, OwO a-actobotics wead s-scwew used fow hang

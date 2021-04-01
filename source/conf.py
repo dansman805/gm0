@@ -9,8 +9,8 @@ import re
 
 # -- Project information -----------------------------------------------------
 
-project = "Game Manual 0"
-author = "Game Manual 0 Contributors"
+project = "Game Manual OwO"
+author = "Game Manual OwO Contributors"
 
 hosted_by = """Hosting Graciously Provided By //Copperforge"""
 copyright = author + " |  " + hosted_by
@@ -44,7 +44,7 @@ master_doc = "index"
 highlight_language = "java"
 
 rst_epilog = """
-.. |gm0| replace:: Game Manual 0
+.. |gm0| replace:: Game Manual OwO
 .. |gm1| replace:: Game Manual Part 1
 .. |gm2| replace:: Game Manual Part 2
 .. |EN| replace:: Engineering Notebook
@@ -75,7 +75,7 @@ linkcheckdiff_branch = "origin/master"
 # See https://github.com/wpilibsuite/sphinxext-opengraph
 
 ogp_image = "https://raw.githubusercontent.com/gamemanual0/gm0/master/source/_static/assets/gm0-logo.png"
-ogp_site_name = "Game Manual 0"
+ogp_site_name = "Game Manual OwO"
 
 # Enables ChiefDelphi support
 ogp_custom_meta_tags = [

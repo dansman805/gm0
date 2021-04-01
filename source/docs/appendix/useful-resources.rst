@@ -1,139 +1,139 @@
 .. include:: <isonum.txt>
 
-Useful Resources
+usefuw wesouwces
 ================
 
-Here is a page dedicated to useful resources around the interwebs. Enjoy! **The links with an asterisk are resources that are especially pertinent or helpful. For further reading, we highly suggest you check out those links.**
+h-hewe is a page d-dedicated to usefuw wesouwces awound t-the intewwebs. -.- enjoy! ( ͡o ω ͡o ) **the w-winks with an astewisk awe wesouwces t-that awe especiawwy pewtinent ow hewpfuw. (˘ω˘) f-fow fuwthew weading, (⑅˘꒳˘) we highwy s-suggest you check o-out those winks.**
 
-This Guide!
+t-this guide! -.-
 -----------
 
-- `Game Manual 0 <https://gm0.org/en/stable/>`_
+- `game manuaw 0 <https://gm0.owg/en/stabwe/>`_
 
-Official *FIRST*\ |reg| Resources
+officiaw *fiwst*\ |weg| wesouwces
 ---------------------------------
 
-- `2020-2021 Game and Season Information <https://www.firstinspires.org/resource-library/ftc/game-and-season-info>`_
-- `2020-2021 Game Manual Part 1* <https://firstinspiresst01.blob.core.windows.net/first-game-changers/ftc/game-manual-part-1-traditional-events.pdf>`_
-- `2020-2021 Game Manual Part 1 - Remote Events* <https://firstinspiresst01.blob.core.windows.net/first-game-changers/ftc/game-manual-part-1-remote-events.pdf>`_
-- `2020-2021 Game Manual Part 2* <https://firstinspiresst01.blob.core.windows.net/first-game-changers/ftc/game-manual-part-2-traditional-events.pdf>`_
-- `2020-2021 Game Manual Part 2 - Remote Events* <https://firstinspiresst01.blob.core.windows.net/first-game-changers/ftc/game-manual-part-2-remote-events.pdf>`_
-- `Remote Field Requirements* <https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/remote-field-requirements.pdf>`_
-- `FTC Forum - FIRST <https://ftcforum.firstinspires.org/>`_
-- `Robot Inspection Checklist <https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/robot-inspection-checklist.pdf>`_
-- `Field Inspection Checklist <https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/field-inspection-checklist.pdf>`_
-- `DIY Field Perimeter Build Guide <https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/low-cost-field-perimeter-guide.pdf>`_
-- `Robot Building Resources <https://www.firstinspires.org/resource-library/ftc/robot-building-resources>`_
-- `Robot Programming Resources <https://www.firstinspires.org/resource-library/ftc/technology-information-and-resources>`_
-- `Team Management Resources (Budget, Engineering Notebook, etc.) <https://www.firstinspires.org/resource-library/ftc/team-management-resources>`_
-- `FTC Volunteer Resources <https://www.firstinspires.org/resource-library/ftc/volunteer-resources>`_
-- `Mentor Manual <https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/mentor-manual.pdf>`_
+- `2020-2021 game and season infowmation <https://www.fiwstinspiwes.owg/wesouwce-wibwawy/ftc/game-and-season-info>`_
+- `2020-2021 g-game manuaw pawt 1* <https://fiwstinspiwesst01.bwob.cowe.windows.net/fiwst-game-changews/ftc/game-manuaw-pawt-1-twaditionaw-events.pdf>`_
+- `2020-2021 game manuaw pawt 1 - wemote events* <https://fiwstinspiwesst01.bwob.cowe.windows.net/fiwst-game-changews/ftc/game-manuaw-pawt-1-wemote-events.pdf>`_
+- `2020-2021 g-game manuaw pawt 2* <https://fiwstinspiwesst01.bwob.cowe.windows.net/fiwst-game-changews/ftc/game-manuaw-pawt-2-twaditionaw-events.pdf>`_
+- `2020-2021 g-game manuaw pawt 2 - wemote e-events* <https://fiwstinspiwesst01.bwob.cowe.windows.net/fiwst-game-changews/ftc/game-manuaw-pawt-2-wemote-events.pdf>`_
+- `wemote fiewd wequiwements* <https://www.fiwstinspiwes.owg/sites/defauwt/fiwes/upwoads/wesouwce_wibwawy/ftc/wemote-fiewd-wequiwements.pdf>`_
+- `ftc fowum - fiwst <https://ftcfowum.fiwstinspiwes.owg/>`_
+- `wobot inspection checkwist <https://www.fiwstinspiwes.owg/sites/defauwt/fiwes/upwoads/wesouwce_wibwawy/ftc/wobot-inspection-checkwist.pdf>`_
+- `fiewd i-inspection checkwist <https://www.fiwstinspiwes.owg/sites/defauwt/fiwes/upwoads/wesouwce_wibwawy/ftc/fiewd-inspection-checkwist.pdf>`_
+- `diy fiewd pewimetew buiwd g-guide <https://www.fiwstinspiwes.owg/sites/defauwt/fiwes/upwoads/wesouwce_wibwawy/ftc/wow-cost-fiewd-pewimetew-guide.pdf>`_
+- `wobot b-buiwding w-wesouwces <https://www.fiwstinspiwes.owg/wesouwce-wibwawy/ftc/wobot-buiwding-wesouwces>`_
+- `wobot p-pwogwamming wesouwces <https://www.fiwstinspiwes.owg/wesouwce-wibwawy/ftc/technowogy-infowmation-and-wesouwces>`_
+- `team m-management wesouwces (budget, -.- engineewing nyotebook, >w< e-etc.) <https://www.fiwstinspiwes.owg/wesouwce-wibwawy/ftc/team-management-wesouwces>`_
+- `ftc v-vowunteew wesouwces <https://www.fiwstinspiwes.owg/wesouwce-wibwawy/ftc/vowunteew-wesouwces>`_
+- `mentow m-manuaw <https://www.fiwstinspiwes.owg/sites/defauwt/fiwes/upwoads/wesouwce_wibwawy/ftc/mentow-manuaw.pdf>`_
 
-General Team Resources
+genewaw team wesouwces
 ----------------------
 
-- `Simbotics FRC Philosophy and Game Analysis* <https://www.simbotics.org/wp-content/uploads/2019/12/robotdesign.pdf>`_
-- `FIRST things FIRST <https://www.youtube.com/playlist?list=PLHj0bn3rsCbRs85-1LVazl-hPFYHeYiV9>`_
-- `(Unofficial) FTC Tutorials <http://ftctutorials.com/>`_
-- `The Orange Alliance (TOA) (Competition/Performance Data) <https://theorangealliance.org/>`_
-- `TOA Text (Query TOA Data via text messaging) <https://docs.google.com/document/d/1jnZJtvooSV0mYEuOF1iGqjgWHXIShS4nFgICLt5anjI/edit#>`_
-- `FTCScores (Sometimes used instead of TOA) <https://ftcscores.com/>`_
-- `FTC Stats (Team Data and Rankings) <http://www.ftcstats.org>`_
-- `FTC Scoring Software <https://github.com/first-tech-Challenge/scorekeeper>`_
-- `Slack (Professional Communication) <https://slack.com/>`_
+- `simbotics fwc phiwosophy a-and game anawysis* <https://www.simbotics.owg/wp-content/upwoads/2019/12/wobotdesign.pdf>`_
+- `fiwst things f-fiwst <https://www.youtube.com/pwaywist?wist=pwhj0bn3wscbws85-1wvazw-hpfyheyiv9>`_
+- `(unofficiaw) ftc tutowiaws <http://ftctutowiaws.com/>`_
+- `the owange awwiance (toa) (competition/pewfowmance data) <https://theowangeawwiance.owg/>`_
+- `toa text (quewy t-toa data via text messaging) <https://docs.googwe.com/document/d/1jnzjtvoosv0myeuof1igqjgwhxishs4nfgicwt5anji/edit#>`_
+- `ftcscowes (sometimes used instead of toa) <https://ftcscowes.com/>`_
+- `ftc s-stats (team data and wankings) <http://www.ftcstats.owg>`_
+- `ftc scowing s-softwawe <https://github.com/fiwst-tech-chawwenge/scowekeepew>`_
+- `swack (pwofessionaw c-communication) <https://swack.com/>`_
 
-Building Resources - Principles
+buiwding w-wesouwces - pwincipwes
 -------------------------------
 
-- `Simbotics FRC Mechanical Design Principles* <https://www.simbotics.org/wp-content/uploads/2019/12/mechanical.pdf>`_
-- `Simbotics FRC Drivetrain Design (designed for FRC)* <https://www.simbotics.org/wp-content/uploads/2019/12/drivetraindesign.pdf>`_
+- `simbotics fwc mechanicaw design pwincipwes* <https://www.simbotics.owg/wp-content/upwoads/2019/12/mechanicaw.pdf>`_
+- `simbotics fwc dwivetwain design (designed f-fow fwc)* <https://www.simbotics.owg/wp-content/upwoads/2019/12/dwivetwaindesign.pdf>`_
 
-Building Resources - Applications
+b-buiwding w-wesouwces - a-appwications
 ---------------------------------
 
-- `Mechatronics: Technologies, Principles, Design, and Analysis of Complex Electro-mechanical Systems <https://raw.githubusercontent.com/Thaddeus-Maximus/mechatronics_book/master/mechatronics.pdf>`_
-- `NASA Robotics Alliance Project (RAP) Robotics Design Guide <https://robotics.nasa.gov/nasa-rap-robotics-design-guide/>`_
-- `goBILDA with TETRIX (Blog for interfacing goBILDA with TETRIX) <https://gobildatetrix.blogspot.com>`_
-- `SDP-SI Timing Belt and Pulley Guide <https://www.sdp-si.com/PDFS/Technical-Section-Timing.pdf>`_
-- `SDP-SI Designing Belt Drives <https://www.sdp-si.com/Belt-Drive/Designing-a-miniature-belt-drive.pdf>`_
-- `KHK Guide to Gears <https://www.khkgears.co.jp/kr/gear_technology/pdf/gear_guide_060817.pdf>`_
-- `Fastener Guide <https://www.boltdepot.com/fastener-information/printable-tools/printable-fastener-tools.pdf>`_
-- `Gear Efficiency Comparisons <https://www.meadinfo.org/2008/11/gear-efficiency-spur-helical-bevel-worm.html>`_
-- `How Gears Work <https://ciechanow.ski/gears/>`_
-- `Gears Educational Systems Guide to Chain Drive Systems <https://web.archive.org/web/20191020193018/http://gearseds.com/documentation/deb%20holmes/2.5_Chain_drive_systems.pdf>`_
-- `3D Printing Practical and Safety Course <https://docs.google.com/presentation/d/1EmkYcllHyltXlu7-TJMrwAawMWSspljUsFFP4Se32I8/edit?usp=sharing>`_ - Tom Bladykas, FTC 3736
-- `8644 Brainstormers Tips and Tricks <https://www.youtube.com/playlist?list=PLoX10e-f5UgIWtNA3mlb_SSozS5w-eAlB>`_
-- `9794 Wizards.exe, many useful rookie guides <https://www.youtube.com/channel/UC988iYaWDOF7Fpv6HqN-wjQ/featured?disable_polymer=1>`_
+- `mechatwonics: t-technowogies, (˘ω˘) p-pwincipwes, OwO design, and anawysis of compwex ewectwo-mechanicaw s-systems <https://waw.githubusewcontent.com/thaddeus-maximus/mechatwonics_book/mastew/mechatwonics.pdf>`_
+- `nasa wobotics awwiance p-pwoject (wap) wobotics design g-guide <https://wobotics.nasa.gov/nasa-wap-wobotics-design-guide/>`_
+- `gobiwda w-with tetwix (bwog fow intewfacing gobiwda with tetwix) <https://gobiwdatetwix.bwogspot.com>`_
+- `sdp-si timing bewt a-and puwwey guide <https://www.sdp-si.com/pdfs/technicaw-section-timing.pdf>`_
+- `sdp-si designing bewt dwives <https://www.sdp-si.com/bewt-dwive/designing-a-miniatuwe-bewt-dwive.pdf>`_
+- `khk g-guide to geaws <https://www.khkgeaws.co.jp/kw/geaw_technowogy/pdf/geaw_guide_060817.pdf>`_
+- `fastenew guide <https://www.bowtdepot.com/fastenew-infowmation/pwintabwe-toows/pwintabwe-fastenew-toows.pdf>`_
+- `geaw efficiency compawisons <https://www.meadinfo.owg/2008/11/geaw-efficiency-spuw-hewicaw-bevew-wowm.htmw>`_
+- `how g-geaws wowk <https://ciechanow.ski/geaws/>`_
+- `geaws educationaw s-systems g-guide to chain d-dwive systems <https://web.awchive.owg/web/20191020193018/http://geawseds.com/documentation/deb%20howmes/2.5_chain_dwive_systems.pdf>`_
+- `3d pwinting p-pwacticaw and safety couwse <https://docs.googwe.com/pwesentation/d/1emkycwwhywtxwu7-tjmwwaawmwsspwjusffp4se32i8/edit?usp=shawing>`_ - tom b-bwadykas, UwU ftc 3736
+- `8644 b-bwainstowmews t-tips and twicks <https://www.youtube.com/pwaywist?wist=pwox10e-f5ugiwtna3mwb_ssozs5w-eawb>`_
+- `9794 w-wizawds.exe, (⑅˘꒳˘) many usefuw wookie guides <https://www.youtube.com/channew/uc988iyawdof7fpv6hqn-wjq/featuwed?disabwe_powymew=1>`_
 
-Building Resources - CAD
+b-buiwding wesouwces - c-cad
 ------------------------
 
-- `SOLIDWORKS Student Sponsorship for FRC (SolidWorks Download) <https://app.smartsheet.com/b/form/6762f6652a04487ca9786fcb06b84cb5>`_
-- `10650 Hazmat Robotics CAD Tutorials <https://www.youtube.com/watch?v=NsFmFiC0D6g&list=PLQesWhH_pYWJhEFtDG39RZnApo4vaZh7c>`_
-- `10650 Hazmat Robotics CAD Library, Various Vendors <https://workbench.grabcad.com/workbench/projects/gcpgZgLBwhIdL0FfUKJJfM75cqa9RW1ncXaL-lQ4KOl1wa#/space/gcSzacmSeI-l19BYQNPm422pSHLenRxOxVtmaD-Pzynwsq/folder/6578524>`_
-- `Actobotics (ServoCity) Official CAD Library <https://www.servocity.com/step-files>`_
-- `REV Robotics Official CAD Library <https://workbench.grabcad.com/workbench/projects/gcEvgrMnw6kRPx7OR6r45Gvb2t-iOdLiNG3m_ALpdGYzK_#/space/gcFd6nwp5Brrc3ks-92gagLZCV2FkceNTX3qGzaMvy2wQD/folder/2906404>`_
-- `Guide to Rendering in CAD <https://drive.google.com/file/d/1t8Ke626MCedOHR4kzaNYtMdG7IC0bhGs/view>`_  - Justin, FTC 9656
-- `GrabCAD Workbench (Git for CAD) <https://grabcad.com/workbench>`_
-- `2901 Purple Gears Onshape Parts Library <https://ftconshape.com/introduction-to-the-ftc-parts-library/>`_
-- 4137 Islandbots Library of goBILDA parts in Fusion360 format:
+- `sowidwowks student sponsowship f-fow fwc (sowidwowks downwoad) <https://app.smawtsheet.com/b/fowm/6762f6652a04487ca9786fcb06b84cb5>`_
+- `10650 h-hazmat wobotics c-cad tutowiaws <https://www.youtube.com/watch?v=nsfmfic0d6g&wist=pwqeswhh_pywjheftdg39wznapo4vazh7c>`_
+- `10650 hazmat wobotics c-cad wibwawy, v-vawious vendows <https://wowkbench.gwabcad.com/wowkbench/pwojects/gcpgzgwbwhidw0ffukjjfm75cqa9ww1ncxaw-wq4kow1wa#/space/gcszacmsei-w19byqnpm422pshwenwxoxvtmad-pzynwsq/fowdew/6578524>`_
+- `actobotics (sewvocity) o-officiaw cad wibwawy <https://www.sewvocity.com/step-fiwes>`_
+- `wev w-wobotics officiaw cad wibwawy <https://wowkbench.gwabcad.com/wowkbench/pwojects/gcevgwmnw6kwpx7ow6w45gvb2t-iodwing3m_awpdgyzk_#/space/gcfd6nwp5bwwc3ks-92gagwzcv2fkcentx3qgzamvy2wqd/fowdew/2906404>`_
+- `guide t-to wendewing i-in cad <https://dwive.googwe.com/fiwe/d/1t8ke626mcedohw4kzanytmdg7ic0bhgs/view>`_  - j-justin, (ꈍᴗꈍ) ftc 9656
+- `gwabcad w-wowkbench (git f-fow cad) <https://gwabcad.com/wowkbench>`_
+- `2901 puwpwe geaws o-onshape pawts w-wibwawy <https://ftconshape.com/intwoduction-to-the-ftc-pawts-wibwawy/>`_
+- 4137 i-iswandbots wibwawy o-of gobiwda p-pawts in fusion360 fowmat:
 
-  - `axles, hubs, wheels <https://myhub.autodesk360.com/ue2801558/g/shares/SH56a43QTfd62c1cd9688994ea9aacfd8be4>`_
-  - `beams <https://myhub.autodesk360.com/ue2801558/g/shares/SH56a43QTfd62c1cd9682676eb9a313d7bc3>`_
-  - `channels <https://myhub.autodesk360.com/ue2801558/g/shares/SH56a43QTfd62c1cd96826b9e501683ff783>`_
-  - `gears, sprockets, pulleys <https://myhub.autodesk360.com/ue2801558/g/shares/SH56a43QTfd62c1cd968b60d668ba4d1ca75>`_
-  - `goRAIL: v-guide, lead screw <https://myhub.autodesk360.com/ue2801558/g/shares/SH56a43QTfd62c1cd968884b4294ac6c801c>`_
-  - `motors, servos, accessories <https://myhub.autodesk360.com/ue2801558/g/shares/SH56a43QTfd62c1cd96828a1241166318535>`_
-  - `mounts, spacers, adapters <https://myhub.autodesk360.com/ue2801558/g/shares/SH56a43QTfd62c1cd96856c1eb9ba296a12c>`_
-  - `plates, brackets <https://myhub.autodesk360.com/ue2801558/g/shares/SH56a43QTfd62c1cd9684fca616ff1b1a077>`_
-  - `screws, threaded plates, standoffs <https://myhub.autodesk360.com/ue2801558/g/shares/SH56a43QTfd62c1cd968505a45dab1a9eada>`_
+  - `axwes, σωσ hubs, w-wheews <https://myhub.autodesk360.com/ue2801558/g/shawes/sh56a43qtfd62c1cd9688994ea9aacfd8be4>`_
+  - `beams <https://myhub.autodesk360.com/ue2801558/g/shawes/sh56a43qtfd62c1cd9682676eb9a313d7bc3>`_
+  - `channews <https://myhub.autodesk360.com/ue2801558/g/shawes/sh56a43qtfd62c1cd96826b9e501683ff783>`_
+  - `geaws, OwO spwockets, rawr x3 p-puwweys <https://myhub.autodesk360.com/ue2801558/g/shawes/sh56a43qtfd62c1cd968b60d668ba4d1ca75>`_
+  - `gowaiw: v-guide, ʘwʘ wead scwew <https://myhub.autodesk360.com/ue2801558/g/shawes/sh56a43qtfd62c1cd968884b4294ac6c801c>`_
+  - `motows, ʘwʘ sewvos, ( ͡o ω ͡o ) accessowies <https://myhub.autodesk360.com/ue2801558/g/shawes/sh56a43qtfd62c1cd96828a1241166318535>`_
+  - `mounts, OwO spacews, ʘwʘ adaptews <https://myhub.autodesk360.com/ue2801558/g/shawes/sh56a43qtfd62c1cd96856c1eb9ba296a12c>`_
+  - `pwates, òωó bwackets <https://myhub.autodesk360.com/ue2801558/g/shawes/sh56a43qtfd62c1cd9684fca616ff1b1a077>`_
+  - `scwews, o.O t-thweaded pwates, σωσ s-standoffs <https://myhub.autodesk360.com/ue2801558/g/shawes/sh56a43qtfd62c1cd968505a45dab1a9eada>`_
 
-Building Resources - Calculators
+buiwding wesouwces - cawcuwatows
 --------------------------------
 
-- `JVN for FTC Design Calculator* <https://www.chiefdelphi.com/uploads/default/original/3X/1/6/16e019399060799a45f54f4d75a8aa5fee1f394f.xlsx>`_
-- `JuliaDesignCalc (JVN Alternative with Flywheel Calculations) <https://www.chiefdelphi.com/uploads/short-url/uJyrWsJqE8OVqbvMLMnSgJ8QUdP.xlsx>`_
-- `Thad's EveryCalc <http://everycalc.thadhughes.xyz>`_
-- `ILITE Drivetrain Simulator (v2020) <https://www.chiefdelphi.com/t/ilite-drivetrain-simulator-v2020/369188>`_
-- `Sprocket Center-to-Center Calculator <http://www.botlanta.org/converters/dale-calc/sprocket.html>`_
-- `Pulley Center-to-Center Calculator <https://www.engineersedge.com/calculators/Pulley_Center_Distance/toothed_pulley_center_distance_calculator_12900.htm>`_
-- `Pulley Center-to-Center Calculator, alternate version <https://www.sudenga.com/practical-applications/figuring-belt-lengths-and-distance-between-pulleys>`_
-- `Pulley Center-to-Center Calculator, alternate version v2 <https://sdp-si.com/eStore/CenterDistanceDesigner>`_
-- `HTD Pulley Generator <https://cad.onshape.com/documents/cf7b858fb3c2f64bb9c06e22/w/c6c7b1a41995e254c2bc0115/e/392361de7956ba4aab215db8>`_ - Henopied, FTC 18255
-- `HTD Belt Generator <https://cad.onshape.com/documents/c163c756b5096bcd95e5692a/w/44c5f14084d55dd0388345f0/e/cf391d827826f30c60340bcc>`_ - Jeremiah, FTC 10641
+- `jvn f-fow ftc design c-cawcuwatow* <https://www.chiefdewphi.com/upwoads/defauwt/owiginaw/3x/1/6/16e019399060799a45f54f4d75a8aa5fee1f394f.xwsx>`_
+- `juwiadesigncawc (jvn a-awtewnative with fwywheew cawcuwations) <https://www.chiefdewphi.com/upwoads/showt-uww/ujywwsjqe8ovqbvmwmnsgj8qudp.xwsx>`_
+- `thad's evewycawc <http://evewycawc.thadhughes.xyz>`_
+- `iwite d-dwivetwain simuwatow (v2020) <https://www.chiefdewphi.com/t/iwite-dwivetwain-simuwatow-v2020/369188>`_
+- `spwocket centew-to-centew c-cawcuwatow <http://www.botwanta.owg/convewtews/dawe-cawc/spwocket.htmw>`_
+- `puwwey c-centew-to-centew cawcuwatow <https://www.engineewsedge.com/cawcuwatows/puwwey_centew_distance/toothed_puwwey_centew_distance_cawcuwatow_12900.htm>`_
+- `puwwey c-centew-to-centew c-cawcuwatow, o.O a-awtewnate vewsion <https://www.sudenga.com/pwacticaw-appwications/figuwing-bewt-wengths-and-distance-between-puwweys>`_
+- `puwwey centew-to-centew cawcuwatow, òωó awtewnate vewsion v2 <https://sdp-si.com/estowe/centewdistancedesignew>`_
+- `htd p-puwwey genewatow <https://cad.onshape.com/documents/cf7b858fb3c2f64bb9c06e22/w/c6c7b1a41995e254c2bc0115/e/392361de7956ba4aab215db8>`_ - henopied, (⑅˘꒳˘) f-ftc 18255
+- `htd b-bewt genewatow <https://cad.onshape.com/documents/c163c756b5096bcd95e5692a/w/44c5f14084d55dd0388345f0/e/cf391d827826f30c60340bcc>`_ - jewemiah, rawr x3 ftc 10641
 
-Coding and Software Resources
+c-coding and softwawe w-wesouwces
 -----------------------------
 
-- `Java in 7 Days Tutorial <https://www.guru99.com/java-tutorial.html>`_
-- `Advanced Java Tutorial  <https://enos.itcollege.ee/~jpoial/allalaadimised/reading/Advanced-java.pdf>`_
-- `Java Workshop  <https://github.com/Team4613-BarkerRedbacks/SoftwareWorkshops>`_ - FTC 4613
-- `FTC Robot Controller JavaDocs  <http://ftctechnh.github.io/ftc_app/doc/javadoc/index.html>`_
-- `Introduction to Control Systems <https://blog.wesleyac.com/posts/intro-to-control-part-zero-whats-this>`_
-- `REV Robotics Expansion Hub Guide  <https://docs.revrobotics.com/rev-control-system/control-system-overview/expansion-hub-basics>`_
-- `OpenFTC (useful programming tools)*  <https://github.com/OpenFTC>`_ - 4634 FROGbots
-- `FTCLib ("Library for everything you will ever need and more")  <https://github.com/FTCLib/FTCLib>`_
-- `Road Runner (FTC 2D Robot Motion Library)  <https://github.com/acmerobotics/road-runner>`_
-- `Road Runner Quickstart <https://github.com/acmerobotics/road-runner-quickstart>`__
-- `Learn Road Runner <https://www.learnroadrunner.com/>`_
-- `FTC Dashboard (Tool for monitoring and debugging FTC applications remotely) <https://github.com/acmerobotics/ftc-dashboard>`_
-- `Virtual Robot (Write OpModes without a robot!) <https://github.com/Beta8397/virtual_robot>`_
-- `Editable Control Award Document <https://cdn.discordapp.com/attachments/650351992203378690/755478771796017193/Control_Award_Form_Editable_-_UG.doc>`_ - Ryan, FTC 1002
-- `Learn Java for FTC <https://github.com/alan412/LearnJavaForFTC/blob/master/LearnJavaForFTC.pdf>`_
-- `Learn (FTC) Code <https://omega9656.github.io/learn-code/>`_
-- `Controls Engineering in the FIRST Robotics Competition <https://file.tavsys.net/control/controls-engineering-in-frc.pdf>`_
+- `java in 7 days tutowiaw <https://www.guwu99.com/java-tutowiaw.htmw>`_
+- `advanced j-java tutowiaw  <https://enos.itcowwege.ee/~jpoiaw/awwawaadimised/weading/advanced-java.pdf>`_
+- `java wowkshop  <https://github.com/team4613-bawkewwedbacks/softwawewowkshops>`_ - ftc 4613
+- `ftc wobot contwowwew j-javadocs  <http://ftctechnh.github.io/ftc_app/doc/javadoc/index.htmw>`_
+- `intwoduction to contwow systems <https://bwog.wesweyac.com/posts/intwo-to-contwow-pawt-zewo-nanis-this>`_
+- `wev w-wobotics expansion h-hub guide  <https://docs.wevwobotics.com/wev-contwow-system/contwow-system-ovewview/expansion-hub-basics>`_
+- `openftc (usefuw p-pwogwamming toows)*  <https://github.com/openftc>`_ - 4634 fwogbots
+- `ftcwib ("wibwawy f-fow e-evewything you wiww evew nyeed a-and mowe")  <https://github.com/ftcwib/ftcwib>`_
+- `woad w-wunnew (ftc 2d wobot motion wibwawy)  <https://github.com/acmewobotics/woad-wunnew>`_
+- `woad w-wunnew quickstawt <https://github.com/acmewobotics/woad-wunnew-quickstawt>`__
+- `weawn woad wunnew <https://www.weawnwoadwunnew.com/>`_
+- `ftc dashboawd (toow fow monitowing and debugging ftc appwications w-wemotewy) <https://github.com/acmewobotics/ftc-dashboawd>`_
+- `viwtuaw wobot (wwite opmodes without a wobot!) <https://github.com/beta8397/viwtuaw_wobot>`_
+- `editabwe contwow a-awawd document <https://cdn.discowdapp.com/attachments/650351992203378690/755478771796017193/contwow_awawd_fowm_editabwe_-_ug.doc>`_ - w-wyan, rawr x3 f-ftc 1002
+- `weawn j-java fow ftc <https://github.com/awan412/weawnjavafowftc/bwob/mastew/weawnjavafowftc.pdf>`_
+- `weawn (ftc) code <https://omega9656.github.io/weawn-code/>`_
+- `contwows e-engineewing in the fiwst w-wobotics competition <https://fiwe.tavsys.net/contwow/contwows-engineewing-in-fwc.pdf>`_
 
-Vendor Resources
+vendow w-wesouwces
 ----------------
 
-- `REV Robotics Technical Resources <https://www.revrobotics.com/resources/>`_
+- `wev w-wobotics technicaw wesouwces <https://www.wevwobotics.com/wesouwces/>`_
 
-Discord
+discowd
 -------
 
-- `FTC Discord* <https://discord.com/invite/first-tech-challenge>`_
+- `ftc d-discowd* <https://discowd.com/invite/fiwst-tech-chawwenge>`_
 
-  The *FIRST*\ |reg| Tech Challenge Discord server is a discussion-based community server that has teams ranging from first-year rookies to Winning Alliance Captains at the World Championships. It also has a channel for direct access to vendors.
-- `FIRST Updates Now Discord <https://discord.com/invite/firstupdatesnow>`_
+  t-the *fiwst*\ |weg| tech c-chawwenge discowd s-sewvew is a discussion-based community sewvew that has teams wanging fwom fiwst-yeaw w-wookies t-to winning awwiance captains at t-the wowwd championships. (///ˬ///✿) i-it awso has a channew f-fow diwect access to vendows. (U ᵕ U❁)
+- `fiwst updates nyow discowd <https://discowd.com/invite/fiwstupdatesnow>`_
 
-  *FIRST*\ |reg| Updates Now provides FTC/FRC\ |reg| related content including recaps, shows, analysis, reveals, and top 25.
+  *fiwst*\ |weg| updates n-nyow pwovides ftc/fwc\ |weg| w-wewated content incwuding wecaps, (ꈍᴗꈍ) shows, (///ˬ///✿) anawysis, weveaws, -.- and top 25. (///ˬ///✿)

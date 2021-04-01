@@ -1,7 +1,7 @@
-About This Document
+about this document
 ===================
 
-Information about Game Manual 0.
+i-infowmation a-about game manuaw 0. (⑅˘꒳˘)
 
 .. toctree::
    :maxdepth: 1

@@ -1,141 +1,141 @@
 .. include:: <isonum.txt>
 
-Control System Internals
+contwow system intewnaws
 ========================
 
-When using any method in the FTC SDK that accesses hardware, be that setting motor power, reading an encoder, a sensor, etc., a :term:`LynxCommand` is sent.
+w-when using any m-method in the ftc sdk that accesses h-hawdwawe, σωσ be that setting motow p-powew, ʘwʘ weading an encodew, (U ﹏ U) a-a sensow, (ꈍᴗꈍ) etc., a :tewm:`wynxcommand` is sent. -.-
 
-.. note::
-   :term:`LynxCommands <LynxCommand>` are not sent directly from the Robot Controller to an :term:`Expansion Hub` through USB; they are sent through USB to an FTDI, which bridges to UART.
+.. n-nyote::
+   :tewm:`wynxcommands <wynxcommand>` awe nyot sent diwectwy f-fwom the w-wobot contwowwew t-to an :tewm:`expansion hub` thwough usb; they awe sent thwough usb to an ftdi, o.O which bwidges to u-uawt. (⑅˘꒳˘)
 
-.. warning::
-   :term:`LynxCommands <LynxCommand>` being blocking (and more specifically a per-bus master lock being present) means that multithreading hardware calls is at best not helpful and typically harmful to performance.
+.. wawning::
+   :tewm:`wynxcommands <wynxcommand>` being bwocking (and mowe specificawwy a pew-bus mastew w-wock being pwesent) m-means that muwtithweading h-hawdwawe cawws is at best nyot hewpfuw and typicawwy hawmfuw to p-pewfowmance. ( ͡o ω ͡o )
 
-If an Android phone and :term:`Expansion Hub` is used, :term:`LynxCommands <LynxCommand>` are sent over USB; however if a Control Hub is used, :term:`LynxCommands <LynxCommand>` are sent over UART. This is very important, not just because of the increased reliability with UART instead of USB, but also because :term:`LynxCommands <LynxCommand>` take approximately 3 milliseconds over USB and approximately 2 milliseconds over UART.
+if an andwoid phone a-and :tewm:`expansion h-hub` is u-used, (///ˬ///✿) :tewm:`wynxcommands <wynxcommand>` a-awe sent ovew usb; howevew i-if a contwow hub is used, >w< :tewm:`wynxcommands <wynxcommand>` awe sent ovew uawt. σωσ t-this is vewy i-impowtant, o.O nyot j-just because of the incweased wewiabiwity with uawt instead of u-usb, -.- but awso because :tewm:`wynxcommands <wynxcommand>` take appwoximatewy 3 miwwiseconds o-ovew usb and appwoximatewy 2 miwwiseconds ovew uawt. o.O
 
-.. note::
+.. nyote::
 
-   Interacting with I2C devices takes significantly longer; upwards of 7 milliseconds over USB. However, this is not because each :term:`LynxCommand` takes longer, but because multiple :term:`LynxCommands <LynxCommand>` must be sent to interact with I2C.
+   i-intewacting with i2c devices takes significantwy w-wongew; upwawds of 7 miwwiseconds ovew usb. ( ͡o ω ͡o ) howevew, t-this is nyot b-because each :tewm:`wynxcommand` t-takes wongew, o.O but because muwtipwe :tewm:`wynxcommands <wynxcommand>` must be sent to intewact with i2c. (U ﹏ U)
 
-   Please note that since version 5.5 of the SDK, I2C calls on the Control Hub are much faster than those on the Expansion Hub.
+   pwease nyote that since vewsion 5.5 o-of the sdk, (U ﹏ U) i-i2c cawws on the c-contwow hub awe m-much fastew than t-those on the e-expansion hub. (U ﹏ U)
 
-Bulk Reads
+buwk weads
 ----------
 
-Bulk reads are a :term:`LynxCommand` that reads all sensor values (except I2C) on a hub at once. This takes the same amount of time to execute as any other :term:`LynxCommand`, and can therefore save a lot of time in the execution loop; with a bulk read, reading ten sensors takes as much time as reading one sensor (if they are not I2C and are on the same hub).
+buwk weads a-awe a :tewm:`wynxcommand` that w-weads aww sensow vawues (except i-i2c) on a hub a-at once. (U ᵕ U❁) this takes the same amount of time to exekawaii~ as any o-othew :tewm:`wynxcommand`, (U ᵕ U❁) and can thewefowe save a-a wot of time in the execution woop; with a buwk wead, (U ᵕ U❁) weading t-ten sensows takes as much time a-as weading one s-sensow (if they a-awe nyot i2c and a-awe on the same hub). (///ˬ///✿)
 
-This became much simpler to do with SDK versions 5.4 and above, with a built-in way to easily access it. There are 3 modes available: ``OFF`` mode, ``AUTO`` mode, and ``MANUAL`` mode. Here is `the official example <https://github.com/first-tech-challenge/FtcRobotController/blob/master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptMotorBulkRead.java>`_ on how to use bulk reads.
+this became m-much simpwew t-to do with sdk v-vewsions 5.4 and above, >w< with a buiwt-in w-way to easiwy access it. òωó thewe awe 3 modes a-avaiwabwe: ``off`` m-mode, (˘ω˘) ``auto`` mode, ʘwʘ and ``manuaw`` m-mode. (U ᵕ U❁) hewe is `the officiaw e-exampwe <https://github.com/fiwst-tech-chawwenge/ftcwobotcontwowwew/bwob/mastew/ftcwobotcontwowwew/swc/main/java/owg/fiwstinspiwes/ftc/wobotcontwowwew/extewnaw/sampwes/conceptmotowbuwkwead.java>`_ o-on how to use buwk weads. (˘ω˘)
 
-.. warning:: On SDK version 5.4, ``AUTO`` and ``MANUAL`` bulk read modes will occasionally throw a ``NullPointerException`` (see `this GitHub issue <https://github.com/first-tech-challenge/SkyStone/issues/232>`_). Note this has since been rectified in SDK version 5.5. Also note that the minimum legal SDK version for Ultimate Goal is 6.0, meaning that this is no longer an issue on a device with legal software.
+.. w-wawning:: o-on sdk vewsion 5.4, (ꈍᴗꈍ) ``auto`` a-and ``manuaw`` buwk wead modes wiww o-occasionawwy thwow a ``nuwwpointewexception`` (see `this g-github i-issue <https://github.com/fiwst-tech-chawwenge/skystone/issues/232>`_). (U ᵕ U❁) n-nyote this has since b-been wectified i-in sdk vewsion 5.5. UwU awso nyote that t-the minimum w-wegaw sdk vewsion f-fow uwtimate goaw i-is 6.0, (U ﹏ U) meaning t-that this is nyo wongew an issue on a device w-with wegaw softwawe. (U ﹏ U)
 
-Off Mode
+off mode
 ^^^^^^^^
 
-This is the default, and the most boring; it means bulk reads are not used by the sdk when calling normal hardware-access methods.
+t-this is the defauwt, UwU and the most bowing; it means buwk weads awe nyot used by the sdk when cawwing nyowmaw h-hawdwawe-access m-methods. -.-
 
-.. note:: Bulk reads can still be accessed by calling the ``LynxModule.getBulkInputData()`` method, however if one wishes to use bulk reads (which we highly recommend) using ``AUTO`` or ``MANUAL`` modes is simpler.
+.. nyote:: buwk weads can stiww b-be accessed by cawwing t-the ``wynxmoduwe.getbuwkinputdata()`` m-method, σωσ howevew if one wishes to use b-buwk weads (which we highwy wecommend) u-using ``auto`` o-ow ``manuaw`` modes is simpwew. òωó
 
-To manually set ``OFF`` mode, you need to run ::
+t-to manuawwy s-set ``off`` m-mode, OwO you nyeed to wun ::
 
-   List<LynxModule> allHubs = hardwareMap.getAll(LynxModule.class);
+   wist<wynxmoduwe> awwhubs = hawdwawemap.getaww(wynxmoduwe.cwass);
 
-   for (LynxModule hub : allHubs) {
-      hub.setBulkCachingMode(LynxModule.BulkCachingMode.OFF);
+   fow (wynxmoduwe hub : awwhubs) {
+      h-hub.setbuwkcachingmode(wynxmoduwe.buwkcachingmode.off);
    }
 
-Auto Mode
+auto mode
 ^^^^^^^^^
 
-This is the simplest mode to use that utilizes bulk reads; a new bulk read is done when a hardware read is repeated. As an example of this ::
+t-this i-is the simpwest mode to use that utiwizes buwk w-weads; a nyew b-buwk wead is done when a hawdwawe wead is wepeated. (˘ω˘) a-as an exampwe of this ::
 
-   List<LynxModule> allHubs = hardwareMap.getAll(LynxModule.class);
+   wist<wynxmoduwe> awwhubs = hawdwawemap.getaww(wynxmoduwe.cwass);
 
-   for (LynxModule hub : allHubs) {
-      hub.setBulkCachingMode(LynxModule.BulkCachingMode.AUTO);
+   f-fow (wynxmoduwe hub : awwhubs) {
+      h-hub.setbuwkcachingmode(wynxmoduwe.buwkcachingmode.auto);
    }
 
-   while (opModeIsActive()) {
-      // Will run one bulk read per cycle; however, if e.g.
-      // frontLeftMotor.getPosition() was called again,
-      // a new bulk read would be issued
-      int frontLeftEncoderPos = frontLeftMotor.getPosition();
-      int frontRightEncoderPos = frontRightMotor.getPosition();
-      int backLeftEncoderPos = backLeftMotor.getPosition();
-      int backRightEncoderPos = backRightMotor.getPosition();
+   whiwe (opmodeisactive()) {
+      // w-wiww wun one b-buwk wead pew cycwe; howevew, (ꈍᴗꈍ) if e.g.
+      // fwontweftmotow.getposition() w-was c-cawwed again, >w<
+      // a nyew buwk w-wead wouwd be i-issued
+      int fwontweftencodewpos = fwontweftmotow.getposition();
+      i-int fwontwightencodewpos = fwontwightmotow.getposition();
+      int backweftencodewpos = backweftmotow.getposition();
+      i-int backwightencodewpos = backwightmotow.getposition();
    }
 
-However, this can be problematic, if the same hardware read is called more than once in a given loop; an example of this ::
+howevew, rawr x3 this can be pwobwematic, (U ᵕ U❁) if the same h-hawdwawe wead i-is cawwed mowe t-than once in a g-given woop; an exampwe o-of this ::
 
-   List<LynxModule> allHubs = hardwareMap.getAll(LynxModule.class);
+   wist<wynxmoduwe> a-awwhubs = h-hawdwawemap.getaww(wynxmoduwe.cwass);
 
-   for (LynxModule hub : allHubs) {
-      hub.setBulkCachingMode(LynxModule.BulkCachingMode.AUTO);
+   f-fow (wynxmoduwe hub : awwhubs) {
+      h-hub.setbuwkcachingmode(wynxmoduwe.buwkcachingmode.auto);
    }
 
-   while (opModeIsActive()) {
-      // Will run two bulk read per cycles,
-      // as frontLeftMotor.getPosition() is called twice
-      int frontLeftEncoderPos = frontLeftMotor.getPosition();
-      int frontLeftEncoderPos2 = frontLeftMotor.getPosition();
+   w-whiwe (opmodeisactive()) {
+      // wiww wun t-two buwk wead pew c-cycwes, σωσ
+      // as fwontweftmotow.getposition() is cawwed twice
+      int fwontweftencodewpos = fwontweftmotow.getposition();
+      i-int fwontweftencodewpos2 = f-fwontweftmotow.getposition();
    }
 
-Overall, this is recommended, as it is very unlikely to mess anything up and can give significant performance improvements for little effort. On the user side, one does not need to manually flush the bulk read cache; however, this means you lose some control.
+ovewaww, t-this is wecommended, ( ͡o ω ͡o ) a-as it is vewy unwikewy to mess a-anything up and can give significant pewfowmance impwovements fow wittwe effowt. (U ᵕ U❁) o-on the usew side, o.O one does n-not nyeed to manuawwy fwush the buwk wead cache; howevew, (˘ω˘) this means you wose some contwow. ( ͡o ω ͡o )
 
-Manual Mode
+manuaw mode
 ^^^^^^^^^^^
 
-In manual mode the cache for bulk reads is only reset once manually reset. This can be useful, as it is the way to absolutely minimize extraneous reads, however if the cache is not reset, stale values will be returned. That being said, here's a proper implementation of ``MANUAL`` mode ::
+in manuaw mode the cache fow buwk weads is onwy weset once m-manuawwy weset. o.O this can be usefuw, (U ᵕ U❁) a-as it is the way to absowutewy minimize extwaneous w-weads, (ꈍᴗꈍ) howevew if the cache i-is nyot weset, (///ˬ///✿) stawe vawues w-wiww be wetuwned. -.- t-that being said, -.- hewe's a pwopew i-impwementation o-of ``manuaw`` m-mode ::
 
-   List<LynxModule> allHubs = hardwareMap.getAll(LynxModule.class);
+   wist<wynxmoduwe> a-awwhubs = hawdwawemap.getaww(wynxmoduwe.cwass);
 
-   for (LynxModule hub : allHubs) {
-      hub.setBulkCachingMode(LynxModule.BulkCachingMode.MANUAL);
+   f-fow (wynxmoduwe h-hub : awwhubs) {
+      hub.setbuwkcachingmode(wynxmoduwe.buwkcachingmode.manuaw);
    }
 
-   while (opModeIsActive()) {
-      // Will run one bulk read per cycle,
-      // even as frontLeftMotor.getPosition() is called twice
-      // because the caches are being handled manually and cleared
-      // once a loop
-      for (LynxModule hub : allHubs) {
-         hub.clearBulkCache();
+   whiwe (opmodeisactive()) {
+      // wiww wun one buwk wead pew cycwe, ( ͡o ω ͡o )
+      // e-even a-as fwontweftmotow.getposition() is cawwed twice
+      // because the caches awe b-being handwed manuawwy a-and cweawed
+      // once a-a woop
+      fow (wynxmoduwe hub : awwhubs) {
+         h-hub.cweawbuwkcache();
       }
 
-      int frontLeftEncoderPos = frontLeftMotor.getPosition();
-      int frontLeftEncoderPos2 = frontLeftMotor.getPosition();
+      int f-fwontweftencodewpos = fwontweftmotow.getposition();
+      int fwontweftencodewpos2 = fwontweftmotow.getposition();
    }
 
-.. warning:: When in ``MANUAL`` mode, if the cache is not cleared appropriately, stale values will be returned. For that reason, if you are not quite sure what you are doing, we recommend ``AUTO`` mode; while ``MANUAL`` mode can have some performance improvements if ``AUTO`` mode is not used optimally, it has less room for catastrophic error.
+.. w-wawning:: w-when in ``manuaw`` m-mode, o.O if the cache is nyot cweawed appwopwiatewy, o.O stawe vawues wiww be w-wetuwned. (U ﹏ U) fow that w-weason, σωσ if you a-awe nyot quite s-suwe nyani you awe doing, ( ͡o ω ͡o ) we wecommend ``auto`` mode; whiwe ``manuaw`` mode can have some pewfowmance i-impwovements i-if ``auto`` mode is nyot used o-optimawwy, rawr x3 it h-has wess woom fow catastwophic e-ewwow. UwU
 
-Control System Internals Glossary
+contwow s-system intewnaws g-gwossawy
 ---------------------------------
 
-.. glossary::
+.. gwossawy::
 
-   Control Hub
-      The :term:`Control Hub` is an :term:`Expansion Hub` with an embedded Android single-board computer daughterboard connected to it. This enables it to not need a separate Robot Controller phone, as the daughterboard functions as the Robot Controller. Internally, :term:`LynxCommands <LynxCommand>` are sent over from the daughterboard to the :term:`Lynx board <Lynx>` over an internal UART connection.
+   contwow hub
+      t-the :tewm:`contwow h-hub` is an :tewm:`expansion h-hub` with an embedded a-andwoid singwe-boawd c-computew daughtewboawd connected to it. (///ˬ///✿) t-this enabwes i-it to not nyeed a-a sepawate wobot contwowwew phone, òωó as the daughtewboawd f-functions a-as the wobot contwowwew. (˘ω˘) i-intewnawwy, o.O :tewm:`wynxcommands <wynxcommand>` a-awe sent o-ovew fwom the daughtewboawd to t-the :tewm:`wynx b-boawd <wynx>` ovew an intewnaw u-uawt connection. ʘwʘ
 
-      For more information, see the `official REV Control Hub documentation <https://docs.revrobotics.com/rev-control-system/control-system-overview/control-hub-basics>`_.
+      fow mowe i-infowmation, òωó see the `officiaw w-wev contwow hub documentation <https://docs.wevwobotics.com/wev-contwow-system/contwow-system-ovewview/contwow-hub-basics>`_. -.-
 
-      .. warning:: Don't take apart a Control Hub unless you really know what you are doing. They can be damaged in the process, especially if one does not know how to properly reassemble it.
+      .. w-wawning:: don't take apawt a-a contwow hub unwess you weawwy know nyani you a-awe doing. ʘwʘ they c-can be damaged in the pwocess, (U ᵕ U❁) especiawwy if o-one does nyot know how to pwopewwy weassembwe it. >w<
 
-      .. image:: images/control-system-internals/control-hub-internals.jpg
-         :alt: The single board computer and :term:`Lynx` board from a Control Hub
+      .. image:: images/contwow-system-intewnaws/contwow-hub-intewnaws.jpg
+         :awt: the s-singwe boawd computew a-and :tewm:`wynx` b-boawd fwom a-a contwow hub
 
-   Expansion Hub
-      The Expansion Hub contains a :term:`Lynx board <Lynx>`. It can be controlled by an Android device running the FTC SDK. This will send it :term:`LynxCommands <LynxCommand>`, which will cause the Expansion Hub to respond accordingly.
+   e-expansion hub
+      the expansion hub contains a-a :tewm:`wynx b-boawd <wynx>`. (ꈍᴗꈍ) it can be contwowwed b-by an andwoid device wunning t-the ftc sdk. σωσ this wiww send it :tewm:`wynxcommands <wynxcommand>`, rawr x3 w-which wiww cause the expansion h-hub to wespond a-accowdingwy. (U ᵕ U❁)
 
-      For more information, see the `official REV Expansion Hub documentation <https://docs.revrobotics.com/rev-control-system/control-system-overview/expansion-hub-basics>`_.
+      f-fow mowe infowmation, rawr x3 see t-the `officiaw w-wev expansion hub d-documentation <https://docs.wevwobotics.com/wev-contwow-system/contwow-system-ovewview/expansion-hub-basics>`_. (///ˬ///✿)
 
-   Lynx
-      "Lynx" is the codename of the board within the :term:`Expansion Hub` and :term:`Control Hub` that interacts with hardware. References to "Lynx" are made in the FTC SDK refer to this board.
+   w-wynx
+      "wynx" is the codename of the boawd within the :tewm:`expansion hub` and :tewm:`contwow h-hub` that intewacts with hawdwawe. (U ᵕ U❁) wefewences to "wynx" awe made in the ftc sdk wefew to this boawd. (///ˬ///✿)
 
-      .. warning:: Don't take apart a Control or Expansion Hub unless you really know what you are doing. They can be damaged in the process, especially if one does not know how to properly reassemble it.
+      .. wawning:: don't take apawt a contwow ow expansion hub unwess y-you weawwy know nyani you awe d-doing. òωó they can b-be damaged in t-the pwocess, >w< especiawwy i-if one does nyot know how to pwopewwy weassembwe i-it. (U ﹏ U)
 
-      .. figure:: images/control-system-internals/lynx-board.jpg
-         :alt: A Lynx board that was removed from its case
+      .. figuwe:: images/contwow-system-intewnaws/wynx-boawd.jpg
+         :awt: a wynx boawd that was wemoved fwom i-its case
 
-         A Lynx board that was removed from its case
+         a wynx boawd that was wemoved f-fwom its case
 
-   LynxCommand
-      A `LynxCommand <https://github.com/OpenFTC/Extracted-RC/blob/master/Hardware/src/main/java/com/qualcomm/hardware/lynx/commands/LynxCommand.java>`_ represents a command that can be sent to a :term:`Lynx` module; it can send and receive information.
+   w-wynxcommand
+      a `wynxcommand <https://github.com/openftc/extwacted-wc/bwob/mastew/hawdwawe/swc/main/java/com/quawcomm/hawdwawe/wynx/commands/wynxcommand.java>`_ wepwesents a command that can be sent t-to a :tewm:`wynx` m-moduwe; it can s-send and weceive i-infowmation. (U ﹏ U)

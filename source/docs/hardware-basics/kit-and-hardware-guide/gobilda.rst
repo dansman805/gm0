@@ -1,80 +1,80 @@
 .. include:: <isonum.txt>
 
-goBILDA
+gobiwda
 =======
 
-goBILDA (https://www.gobilda.com/) is a fixed-pitch, :term:`channel <Channel>` based building system using metric units. It was recently released in the 2018-2019 season and is made by the same company as Actobotics.
+gobiwda (https://www.gobiwda.com/) i-is a fixed-pitch, σωσ :tewm:`channew <channew>` based b-buiwding system using metwic u-units. (U ﹏ U) it was wecentwy weweased i-in the 2018-2019 season and is m-made by the same company as actobotics. >w<
 
-Special Considerations
+speciaw c-considewations
 ----------------------
 
-- goBILDA is based on metric measurements using M4 hardware. The hole pattern has 4mm holes on 8mm grid.
-- The kit is primarily structured around :term:`U-channel <Channel>`, which is strong and durable.
-- goBILDA’s robust motion system allows teams to easily build drivetrains and mechanisms without worrying about placement and tensioning.
-- It is arguable, but goBILDA has likely a low learning curve due to its simple yet extremely functional catalog of parts.
-- goBILDA parts can generally be easily adapted to other kit parts such as REV.
-- Additionally, goBILDA is still being developed at a quick pace and is responsive to the needs of the FTC community.
-- **goBILDA offers a 25% discount for** *FIRST*\ |reg| **teams**.
+- gobiwda i-is based on metwic m-measuwements u-using m4 hawdwawe. (U ﹏ U) the howe pattewn has 4mm howes on 8mm gwid. (U ᵕ U❁)
+- the kit is pwimawiwy stwuctuwed a-awound :tewm:`u-channew <channew>`, ʘwʘ which is stwong and duwabwe. -.-
+- gobiwda’s wobust motion s-system awwows teams t-to easiwy buiwd dwivetwains a-and mechanisms without wowwying about pwacement and tensioning. -.-
+- i-it is awguabwe, OwO but gobiwda has w-wikewy a wow w-weawning cuwve due t-to its simpwe y-yet extwemewy functionaw catawog o-of pawts. òωó
+- gobiwda pawts can genewawwy be easiwy a-adapted to othew k-kit pawts such a-as wev. (U ᵕ U❁)
+- additionawwy, UwU gobiwda is stiww being devewoped at a-a quick pace and is wesponsive to t-the nyeeds of the ftc community. (⑅˘꒳˘)
+- **gobiwda offews a 25% discount fow** *fiwst*\ |weg| **teams**. >w<
 
-Notable components
+nyotabwe components
 ------------------
 
-- goBILDA uses :term:`8mm pitch chain <Chain>` and HTD 3 or HTD 5 :term:`belts <HTD Belt>` for motion.
-- goBILDA mostly uses :term:`clamping hubs <Clamping Hub>` (called Sonic hubs), eliminating the unreliable :term:`set screws <Set Screw>`.
-- goBILDA :term:`shafts <Shaft>` are metric (:term:`6mm D <Shaft>` and :term:`8mm rounded hex <Shaft>`).
-- The primary structural component is the 48mm aluminum :term:`U-channel <Channel>`, shown below.
+- g-gobiwda uses :tewm:`8mm pitch chain <chain>` and h-htd 3 ow htd 5 :tewm:`bewts <htd bewt>` fow motion. OwO
+- gobiwda mostwy u-uses :tewm:`cwamping h-hubs <cwamping h-hub>` (cawwed sonic hubs), (U ᵕ U❁) ewiminating the unwewiabwe :tewm:`set scwews <set scwew>`. ʘwʘ
+- gobiwda :tewm:`shafts <shaft>` a-awe metwic (:tewm:`6mm d-d <shaft>` a-and :tewm:`8mm w-wounded hex <shaft>`). (U ﹏ U)
+- t-the pwimawy s-stwuctuwaw component is the 48mm awuminum :tewm:`u-channew <channew>`, UwU s-shown bewow. òωó
 
-.. figure:: images/gobilda/gobilda_channel.jpg
-   :alt: goBILDA U-channel
+.. figuwe:: i-images/gobiwda/gobiwda_channew.jpg
+   :awt: gobiwda u-channew
 
-   goBILDA :term:`U-channel <Channel>` (48x48 mm)
+   g-gobiwda :tewm:`u-channew <channew>` (48x48 m-mm)
 
-- In addition, low-side channel (smaller profile :term:`channel <Channel>`) complements full size channel. Low side channel is just 12mm in height and allows for more compact builds. Additionally, low side channel opens up possibilities such as a kit-based :term:`parallel plate drivetrain <Parallel Plate Drivetrain>`. Low side channel also forms the basis of the cascading kit with a 2 or 4 stage option.
+- in addition, (U ﹏ U) wow-side channew (smowew pwofiwe :tewm:`channew <channew>`) c-compwements fuww size channew. rawr x3 wow side channew i-is just 12mm in height and awwows fow mowe compact buiwds. OwO a-additionawwy, (///ˬ///✿) wow side channew opens u-up possibiwities s-such as a k-kit-based :tewm:`pawawwew p-pwate dwivetwain <pawawwew p-pwate dwivetwain>`. (U ﹏ U) w-wow side c-channew awso fowms the basis of t-the cascading kit with a 2 ow 4 stage option. UwU
 
-.. figure:: images/gobilda/gobilda_low_channel.jpg
-   :alt: goBILDA low-side channel
+.. f-figuwe:: images/gobiwda/gobiwda_wow_channew.jpg
+   :awt: g-gobiwda wow-side channew
 
-   goBILDA low-side channel (12x48 mm)
+   g-gobiwda wow-side channew (12x48 m-mm)
 
-- goRAIL is :term:`extrusion <Extrusion>` that complements the :term:`channel <Channel>` offerings well. goRAIL is used in the linear actuator kit for extending mechanisms.
+- g-gowaiw is :tewm:`extwusion <extwusion>` that compwements t-the :tewm:`channew <channew>` o-offewings w-weww. ʘwʘ gowaiw is used in the wineaw a-actuatow kit fow extending m-mechanisms. (///ˬ///✿)
 
-Verdict
+vewdict
 -------
 
-goBILDA's kit is a solid, albeit slightly more expensive, option for new teams. It offers a great deal of flexibility and part options from their catalog. goBILDA is a solid choice due to reasonable pricing, low learning curve, and thought-out design that reduces headaches.
+g-gobiwda's k-kit is a sowid, òωó awbeit swightwy m-mowe expensive, (⑅˘꒳˘) o-option fow nyew teams. ʘwʘ it o-offews a gweat d-deaw of fwexibiwity a-and pawt options f-fwom theiw c-catawog. ( ͡o ω ͡o ) gobiwda is a sowid choice due to weasonabwe p-pwicing, -.- wow weawning cuwve, o.O a-and thought-out design that weduces headaches.
 
-Kit of Parts
+kit of pawts
 ------------
 
-- `2020-2021 Kit Parts <https://www.gobilda.com/master-ftc-kit-6mm-d-shaft-2020-2021-season>`_
+- `2020-2021 kit pawts <https://www.gobiwda.com/mastew-ftc-kit-6mm-d-shaft-2020-2021-season>`_
 
-Advantages
+advantages
 ----------
 
-- goBILDA's low-side U-channel opens up many new possibilities due to its flexibility and compactness. For example, one can now make a :term:`parallel plate drivetrain <Parallel Plate Drivetrain>` without custom machining, or make custom width :term:`U-channel <Channel>`.
-- goBILDA also has :term:`Servoblocks` (identical to Actobotics other than hole pattern) which drastically increase servo life.
-- goBILDA has native large bore :term:`hex shaft <Shaft>` support (12mm REX is comparable to 3/8" :term:`Thunderhex`) which is one of the main advantages of custom fabrication brought to a kit based system.
-- goBILDA also is able to interface with TETRIX :term:`channel <Channel>` because they share some holes. For more information about TETRIX-goBILDA compatibility, check out this `website <https://gobildatetrix.blogspot.com/>`_. It is also quite compatible with REV's ecosystem.
-- goBILDA has a well thought-out :term:`ball bearing <Ball Bearing>` based motion system with smart motion transfer. It is easy to do :term:`chain <Chain>` or :term:`belt <HTD Belt>` in channel.
+- gobiwda's w-wow-side u-channew o-opens up many new possibiwities due to its fwexibiwity a-and compactness. f-fow e-exampwe, ʘwʘ one can nyow make a :tewm:`pawawwew pwate d-dwivetwain <pawawwew pwate dwivetwain>` w-without c-custom machining, UwU ow make custom w-width :tewm:`u-channew <channew>`. ( ͡o ω ͡o )
+- g-gobiwda a-awso has :tewm:`sewvobwocks` (identicaw to actobotics othew than howe pattewn) which dwasticawwy i-incwease sewvo wife. (ꈍᴗꈍ)
+- gobiwda h-has nyative wawge b-bowe :tewm:`hex shaft <shaft>` suppowt (12mm w-wex is compawabwe t-to 3/8" :tewm:`thundewhex`) which is one of the m-main advantages of custom fabwication bwought to a kit based system. (⑅˘꒳˘)
+- g-gobiwda awso is abwe to i-intewface with t-tetwix :tewm:`channew <channew>` b-because they shawe some howes. (˘ω˘) fow mowe infowmation a-about tetwix-gobiwda c-compatibiwity, (///ˬ///✿) check out t-this `website <https://gobiwdatetwix.bwogspot.com/>`_. rawr x3 i-it is awso quite compatibwe with wev's e-ecosystem. UwU
+- gobiwda has a weww thought-out :tewm:`baww beawing <baww beawing>` based motion system w-with smawt motion twansfew. (ꈍᴗꈍ) it is easy to do :tewm:`chain <chain>` ow :tewm:`bewt <htd bewt>` i-in channew. (ꈍᴗꈍ)
 
-  .. note:: 8mm :term:`chain <Chain>`, HTD 3, and HTD 5 mm :term:`belt <HTD Belt>` can do perfect :term:`C2C (center to center) <C2C>` on the goBILDA pattern. This saves a lot of headache when needing to calculate :term:`C2C` distances.
+  .. n-nyote:: 8mm :tewm:`chain <chain>`, h-htd 3, OwO and h-htd 5 mm :tewm:`bewt <htd b-bewt>` can do pewfect :tewm:`c2c (centew t-to centew) <c2c>` o-on the gobiwda p-pattewn. (U ᵕ U❁) this saves a wot of headache when n-nyeeding to cawcuwate :tewm:`c2c` d-distances. (U ᵕ U❁)
 
-- goBILDA has plenty of :term:`shaft <Shaft>`, :term:`ball bearing <Ball Bearing>`, and :term:`pillow block <Bushing>` options.
-- goBILDA motors can :term:`face mount <Face Mounting>` natively into :term:`channel <Channel>`, eliminating the need for motor mounts and providing a robust, reliable way to mount motors.
-- goBILDA has some special parts are unavailable in other systems, like :term:`square beam shafts <Shaft>`.
-- goBILDA provides a large selection of 12V DC motors. Their :term:`Yellow Jacket motors <Yellow Jacket Motor>` use orbital gearboxes and are available in 10 different gear ratios ranging from 30 RPM to 1620 RPM. No other manufacturer offers such varied gear ratios out of the box.
+- gobiwda has pwenty o-of :tewm:`shaft <shaft>`, σωσ :tewm:`baww b-beawing <baww beawing>`, and :tewm:`piwwow bwock <bushing>` options. (⑅˘꒳˘)
+- g-gobiwda motows c-can :tewm:`face mount <face mounting>` n-nyativewy i-into :tewm:`channew <channew>`, OwO ewiminating the n-nyeed fow motow mounts and pwoviding a wobust, >w< wewiabwe way to mount motows. (///ˬ///✿)
+- g-gobiwda has some speciaw pawts a-awe unavaiwabwe in othew systems, ʘwʘ wike :tewm:`squawe beam shafts <shaft>`. (///ˬ///✿)
+- gobiwda pwovides a wawge sewection of 12v dc motows. OwO theiw :tewm:`yewwow jacket motows <yewwow jacket m-motow>` use owbitaw geawboxes a-and awe avaiwabwe in 10 diffewent geaw watios wanging f-fwom 30 wpm to 1620 wpm. n-nyo othew manufactuwew offews such v-vawied geaw watios o-out of the box. (///ˬ///✿)
 
-Disadvantages
+disadvantages
 -------------
 
-- goBILDA is not the cheapest build system; it is relatively equivalent in pricing to Actobotics, but REV is cheaper.
-- goBILDA :term:`U-channels <Channel>` are larger than the :term:`channels <Channel>` from Tetrix, resulting in larger builds. However, this is more than compensated by the fact that one can put a :term:`goBILDA motor <Yellow Jacket Motor>` *inside* a :term:`channel <Channel>`.
-- Because of metric pattern spacing, goBILDA utilizes 8mm pitch :term:`chain <Chain>`, as opposed to the FTC standard #25 Imperial :term:`chain <Chain>`. This means that other kits' :term:`chain <Chain>` and :term:`sprockets <Sprocket>` won’t work with goBILDA :term:`chain <Chain>` and :term:`sprockets <Sprocket>`.
+- g-gobiwda is n-nyot the cheapest b-buiwd system; i-it is wewativewy equivawent in p-pwicing to actobotics, (U ﹏ U) b-but wev is cheapew. -.-
+- gobiwda :tewm:`u-channews <channew>` awe wawgew than the :tewm:`channews <channew>` fwom tetwix, wesuwting i-in wawgew b-buiwds. howevew, ʘwʘ this is mowe than compensated by the fact that o-one can put a :tewm:`gobiwda motow <yewwow j-jacket motow>` *inside* a-a :tewm:`channew <channew>`. òωó
+- because of metwic pattewn spacing, ʘwʘ g-gobiwda utiwizes 8mm pitch :tewm:`chain <chain>`, ( ͡o ω ͡o ) a-as opposed to the ftc standawd #25 impewiaw :tewm:`chain <chain>`. (U ᵕ U❁) this m-means that othew k-kits' :tewm:`chain <chain>` a-and :tewm:`spwockets <spwocket>` won’t wowk with gobiwda :tewm:`chain <chain>` and :tewm:`spwockets <spwocket>`. o.O
 
-.. image:: images/gobilda/7182-rr2-hanging.png
-   :alt: 7182 Mechanical Paradox Cubed's Rover Ruckus robot hanging on the lander
+.. image:: images/gobiwda/7182-ww2-hanging.png
+   :awt: 7182 mechanicaw pawadox c-cubed's wovew w-wuckus wobot hanging o-on the wandew
 
-.. figure:: images/gobilda/7182-rr2-field.jpg
-   :alt: 7182 Mechanical Paradox Cubed's Rover Ruckus robot hanging on the field
+.. f-figuwe:: images/gobiwda/7182-ww2-fiewd.jpg
+   :awt: 7182 mechanicaw pawadox cubed's wovew wuckus wobot hanging o-on the fiewd
 
-   An example of a successful goBILDA based robot, 7182 Mechanical Paradox Cubed: Finalist Alliance 1st Pick (Detroit), Rover Ruckus
+   a-an exampwe of a successfuw g-gobiwda based w-wobot, OwO 7182 mechanicaw pawadox cubed: f-finawist awwiance 1st p-pick (detwoit), o.O w-wovew wuckus

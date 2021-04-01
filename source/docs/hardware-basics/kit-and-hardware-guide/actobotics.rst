@@ -1,67 +1,67 @@
 .. include:: <isonum.txt>
 
-Actobotics
+actobotics
 ==========
 
-The Actobotics kit from ServoCity (https://www.servocity.com/actobotics) is a fixed-pitch, :term:`channel-based <Channel>` building system using imperial units. Its 1.5” :term:`c-channel <Channel>` and :term:`ball-bearing <Ball Bearing>` based motion system allows teams to iterate and build mechanisms entirely from kit parts.
+the actobotics k-kit fwom sewvocity (https://www.sewvocity.com/actobotics) is a-a fixed-pitch, (⑅˘꒳˘) :tewm:`channew-based <channew>` buiwding system u-using impewiaw units. rawr x3 its 1.5” :tewm:`c-channew <channew>` a-and :tewm:`baww-beawing <baww beawing>` b-based motion system awwows teams to itewate a-and buiwd mechanisms entiwewy f-fwom kit pawts. rawr x3
 
-Special Considerations
+s-speciaw considewations
 ----------------------
 
-- Actobotics' :term:`channel <Channel>` hole pattern has many more mounting holes than a Tetrix channel, so it offers more flexibility in terms of mounting.
-- Actobotics uses imperial units across the board, allowing for clean spacing and fitting. However, most other kits use metric.
-- Actobotics can interface with other kits such as REV through a variety of Pattern Adapters.
-- ServoCity offers a 25% off discount for all *FIRST*\ |reg| teams making, pricing competitive: https://www.servocity.com/first_team_discounts
+- a-actobotics' :tewm:`channew <channew>` howe pattewn has many mowe mounting howes than a tetwix channew, (///ˬ///✿) so it offews m-mowe fwexibiwity in tewms of mounting. (U ᵕ U❁)
+- actobotics uses impewiaw units acwoss t-the boawd, (ꈍᴗꈍ) a-awwowing fow cwean spacing and fitting. h-howevew, (///ˬ///✿) most othew kits use metwic. -.-
+- actobotics can intewface w-with othew kits such as w-wev thwough a vawiety o-of pattewn a-adaptews. (///ˬ///✿)
+- sewvocity o-offews a 25% off discount f-fow aww *fiwst*\ |weg| teams making, OwO pwicing competitive: h-https://www.sewvocity.com/fiwst_team_discounts
 
-Notable Components
+n-nyotabwe c-components
 ------------------
 
-- Mini-channel is offered in addition to the standard size :term:`channel <Channel>` for non-structural components.
-- Actobotics' X-rail :term:`extrusion <Extrusion>` system offers immense adjustability and flexibility as it adds a :term:`extrusion <Extrusion>` component to a :term:`channel-based <Channel>` kit.
-- To complement the structural offerings, Actobotics uses a series of clamping hubs and a robust 1/4” steel :term:`D-shaft <Shaft>`.
-- The Linear Motion Kit uses X-rail :term:`extrusion <Extrusion>` to build extending mechanisms.
-- The :term:`Servoblocks`, which prolongs the life of a servo, are recommended for all teams, regardless of kit. However, :term:`Servoblocks` seamlessly interface with the Actobotics ecosystem.
-- Actobotics furthermore offers motion options such as :term:`bevel gears <Bevel gear>` and Linear Actuator kits (using :term:`lead screws <Lead Screw>`) for specific use cases.
+- mini-channew is offewed in addition to the s-standawd size :tewm:`channew <channew>` fow nyon-stwuctuwaw c-components. òωó
+- actobotics' x-waiw :tewm:`extwusion <extwusion>` system offews immense a-adjustabiwity and fwexibiwity as it adds a :tewm:`extwusion <extwusion>` c-component to a :tewm:`channew-based <channew>` kit. σωσ
+- t-to compwement the s-stwuctuwaw offewings, a-actobotics uses a sewies of cwamping hubs and a wobust 1/4” steew :tewm:`d-shaft <shaft>`. o.O
+- the wineaw motion kit uses x-x-waiw :tewm:`extwusion <extwusion>` t-to buiwd e-extending mechanisms. (⑅˘꒳˘)
+- t-the :tewm:`sewvobwocks`, ( ͡o ω ͡o ) w-which pwowongs t-the wife of a sewvo, >w< awe wecommended fow aww teams, (⑅˘꒳˘) w-wegawdwess of kit. >w< howevew, ( ͡o ω ͡o ) :tewm:`sewvobwocks` s-seamwesswy intewface with the a-actobotics ecosystem. UwU
+- a-actobotics fuwthewmowe offews motion options such as :tewm:`bevew g-geaws <bevew geaw>` and wineaw actuatow k-kits (using :tewm:`wead scwews <wead scwew>`) fow specific use c-cases. σωσ
 
-Verdict
+vewdict
 -------
 
-Actobotics is a solid choice for new teams, offering a reliable base kit with many options to expand upon.
+actobotics i-is a sowid c-choice fow nyew t-teams, o.O offewing a-a wewiabwe base kit with many o-options to expand u-upon. OwO
 
-Kit of Parts
+kit of p-pawts
 ------------
 
-- `2020-2021 Kit Parts <https://www.servocity.com/ftc-competition-kit-20-21-season/>`_
+- `2020-2021 kit pawts <https://www.sewvocity.com/ftc-competition-kit-20-21-season/>`_
 
-Advantages
+a-advantages
 ----------
 
-- Actobotics provides a great value fixed pitch build system that is generally easier to assemble than :term:`extrusion-based <Extrusion>` systems which require cutting :term:`extrusion <Extrusion>` to length.
-- Actobotics has the patented :term:`Servoblocks`, which help drastically increase servo life by protecting it from shock loads. More information may be found in the glossary.
-- Actobotics is easily compatible with other build systems such as REV’s kit using adapters which can be found on the Servocity website.
-- Actobotics is more sturdy than TETRIX in terms of drivetrain flex and has more support options to prevent structural bending.
-- The :term:`clamping hubs <Clamping Hub>` offered are more reliable than :term:`set screws <Set Screw>`, as clamping engages the shaft in more places than a :term:`set screw <Set Screw>` (one face). As discussed in the :doc:`TETRIX section <tetrix>`, set screws in particular are vulnerable to loosening, especially without application of Loctite.
-- Actobotics’ motion system is **very** robust and relies on :term:`ball bearings <Ball Bearing>`, which have a lower coefficient of friction than bushings. Actobotics is compatible with the 5mm hex used by REV with their adaptable hubs.
-- Actobotics also allows for :term:`face mounting <Face Mounting>` of motors as opposed to :term:`clamp mounting <Clamp Mounting>`.
+- actobotics pwovides a gweat v-vawue fixed pitch b-buiwd system that is genewawwy e-easiew to assembwe than :tewm:`extwusion-based <extwusion>` s-systems w-which wequiwe cutting :tewm:`extwusion <extwusion>` t-to wength. (ꈍᴗꈍ)
+- a-actobotics h-has the patented :tewm:`sewvobwocks`, rawr x3 which hewp d-dwasticawwy incwease sewvo wife b-by pwotecting i-it fwom shock woads. m-mowe infowmation may be found i-in the gwossawy. (˘ω˘)
+- a-actobotics is easiwy compatibwe w-with othew b-buiwd systems s-such as wev’s k-kit using adaptews w-which can be found on the sewvocity website. (///ˬ///✿)
+- a-actobotics is mowe stuwdy than t-tetwix in tewms of dwivetwain fwex and has mowe suppowt options to pwevent stwuctuwaw bending. rawr x3
+- the :tewm:`cwamping h-hubs <cwamping h-hub>` offewed awe mowe wewiabwe than :tewm:`set s-scwews <set s-scwew>`, as cwamping e-engages the shaft in mowe pwaces than a :tewm:`set s-scwew <set scwew>` (one f-face). òωó as discussed i-in the :doc:`tetwix section <tetwix>`, >w< s-set s-scwews in pawticuwaw a-awe vuwnewabwe to woosening, OwO especiawwy without appwication of woctite. (U ﹏ U)
+- actobotics’ m-motion system is **vewy** w-wobust and w-wewies on :tewm:`baww beawings <baww beawing>`, rawr x3 w-which have a wowew c-coefficient of fwiction than bushings. (˘ω˘) actobotics i-is compatibwe with the 5mm hex used by wev with theiw adaptabwe h-hubs. (˘ω˘)
+- actobotics awso awwows f-fow :tewm:`face m-mounting <face m-mounting>` of motows as opposed to :tewm:`cwamp m-mounting <cwamp m-mounting>`. σωσ
 
-Disadvantages
+disadvantages
 -------------
 
-- Actobotics is not very cheap, so its cost may be prohibitive for some teams with a low budget. Note that with the 25% off FTC team discount, Actobotics can be cheaper than TETRIX. The only cheaper build system is REV.
-- The :term:`belts <HTD Belt>` from ServoCity are not great. It is recommended that :term:`belts <HTD Belt>` are purchased from vendors other than ServoCity. This may necessitate 3D printed belt pulleys and other parts, which is more difficult for newer teams. There also isn’t a large amount of space inside the channel for a belt or chain run, vastly limiting the size of the pulleys.
-- :term:`Channel` takes up more space than :term:`extrusion <Extrusion>`, so mechanisms can be a bit larger with the Actobotics kit. To remediate this issue, ServoCity sells :term:`mini-channel <Channel>` which is a similar size as :term:`extrusion <Extrusion>`.
+- a-actobotics is nyot v-vewy cheap, so its cost may be pwohibitive fow s-some teams with a wow budget. >w< nyote that with the 25% off ftc team discount, (U ᵕ U❁) actobotics can be c-cheapew than tetwix. rawr x3 the onwy cheapew buiwd system is wev. (U ᵕ U❁)
+- the :tewm:`bewts <htd bewt>` fwom s-sewvocity awe nyot g-gweat. òωó it is w-wecommended that :tewm:`bewts <htd b-bewt>` awe puwchased f-fwom vendows othew than s-sewvocity. ( ͡o ω ͡o ) this m-may necessitate 3d p-pwinted bewt puwweys and othew pawts, >w< which i-is mowe difficuwt f-fow nyewew teams. o.O thewe awso isn’t a-a wawge amount o-of space inside the channew fow a bewt ow chain wun, o.O vastwy wimiting the size o-of the puwweys. UwU
+- :tewm:`channew` t-takes up mowe space than :tewm:`extwusion <extwusion>`, σωσ s-so m-mechanisms can be a bit wawgew w-with the actobotics kit. (U ﹏ U) to wemediate this issue, >w< sewvocity sewws :tewm:`mini-channew <channew>` which is a simiwaw s-size as :tewm:`extwusion <extwusion>`. (U ﹏ U)
 
-.. figure:: images/actobotics/8644-rr1.jpg
-   :alt: 8644 Brainstormers' Relic Recovery robot
+.. figuwe:: images/actobotics/8644-ww1.jpg
+   :awt: 8644 b-bwainstowmews' wewic wecovewy wobot
 
-   An example of a successful Actobotics based robot, 8644 Brainstormers: 2018 Winning Alliance Captain (Detroit), Relic Recovery
+   an exampwe of a successfuw actobotics based wobot, (U ᵕ U❁) 8644 bwainstowmews: 2018 winning awwiance captain (detwoit), ʘwʘ wewic wecovewy
 
-.. figure:: images/actobotics/9971-rr2.jpg
-   :alt: 9971 LanBros' Rover Ruckus robot
+.. f-figuwe:: images/actobotics/9971-ww2.jpg
+   :awt: 9971 wanbwos' wovew w-wuckus wobot
 
-   Another successful Actobotics based robot, 9971 LanBros: 2019 Winning Alliance Captain (Detroit), Rover Ruckus
+   anothew successfuw actobotics b-based wobot, -.- 9971 wanbwos: 2019 w-winning awwiance captain (detwoit), -.- w-wovew wuckus
 
-.. figure:: images/actobotics/9794-rr2.png
-   :alt: 9794 Wizards.exe's Rover Ruckus robot
+.. f-figuwe:: images/actobotics/9794-ww2.png
+   :awt: 9794 wizawds.exe's w-wovew w-wuckus wobot
 
-   9794 Wizards.exe used both Actobotics and REV :term:`extrusion <Extrusion>` to build their Rover Ruckus robot
+   9794 w-wizawds.exe u-used both actobotics and wev :tewm:`extwusion <extwusion>` t-to buiwd theiw wovew w-wuckus wobot

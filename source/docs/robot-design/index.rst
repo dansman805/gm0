@@ -1,7 +1,7 @@
-Robot Design
+wobot design
 ============
 
-This chapter covers basic principles of robot design as well as suggestions for design of common components of FTC robots: drivetrain, linear motion (slides and lifts), claws, intakes, and more.
+t-this chaptew c-covews basic pwincipwes of w-wobot design as weww as suggestions f-fow design of common components o-of ftc wobots: dwivetwain, (ꈍᴗꈍ) wineaw motion (swides a-and wifts), >w< cwaws, UwU intakes, a-and mowe. σωσ
 
 .. toctree::
    :maxdepth: 2

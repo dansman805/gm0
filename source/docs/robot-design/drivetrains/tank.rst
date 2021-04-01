@@ -1,211 +1,211 @@
 .. include:: <isonum.txt>
 
-Tank (Skid-Steer) Drivetrains
+tank (skid-steew) dwivetwains
 =============================
 
-2 Wheel Drive (Pushbot Drive)
+2 w-wheew d-dwive (pushbot dwive)
 -----------------------------
 
-**Recommended only for first drivetrain, not for competitions**
+**wecommended o-onwy fow fiwst dwivetwain, ( ͡o ω ͡o ) n-nyot fow competitions**
 
-This rookie drivetrain is considered one of the inferior drivetrains, though it is usable at low competition levels. This is the introductory drivetrain type for many rookies, as it is promoted in official guides published by *FIRST*\ |reg| (giving it the name pushbot). It often has :term:`direct driven <Direct Drive>` :term:`traction wheels <Traction wheel>` with unpowered :term:`omni wheels <Omni Wheel>`.
+this w-wookie dwivetwain is considewed one of the infewiow d-dwivetwains, (U ﹏ U) though it is usabwe a-at wow competition w-wevews. t-this is the intwoductowy dwivetwain type fow many wookies, UwU as it is pwomoted in officiaw guides p-pubwished by *fiwst*\ |weg| (giving it the nyame pushbot). (ꈍᴗꈍ) it often has :tewm:`diwect dwiven <diwect d-dwive>` :tewm:`twaction w-wheews <twaction wheew>` w-with unpowewed :tewm:`omni wheews <omni wheew>`. ʘwʘ
 
-This type of drivetrain has poor turning as the center of turning is at the back of the robot between the two powered wheels. In comparison to other drivetrains, it has poor acceleration due to only using two motors.
+this type of dwivetwain h-has poow tuwning as the centew of t-tuwning is at t-the back of the w-wobot between the t-two powewed wheews. (⑅˘꒳˘) in compawison t-to othew dwivetwains, it has poow accewewation d-due to onwy using t-two motows. (U ᵕ U❁)
 
-Even though it may not be an optimal drivetrain, it is still possible to be competitive as long as the drivetrain is reliable. As a consensus, we would advise every new team to build the pushbot primarily to learn how to build with a kit. The pushbot is a good starting point and helps the team get familiarized with using kit parts, attaching wheels, mounting motors, etc. However, it is subpar to every other drivetrain in a competitive context.
+e-even though it may nyot be an optimaw dwivetwain, it is stiww p-possibwe to be competitive as wong a-as the dwivetwain is wewiabwe. ( ͡o ω ͡o ) as a consensus, OwO we wouwd advise evewy nyew team t-to buiwd the pushbot pwimawiwy to weawn how to b-buiwd with a kit. rawr x3 the pushbot is a good stawting p-point and hewps t-the team get famiwiawized w-with using kit pawts, (///ˬ///✿) attaching wheews, (U ﹏ U) mounting motows, σωσ etc. (U ﹏ U) howevew, it is subpaw to evewy othew dwivetwain i-in a competitive c-context. (U ﹏ U)
 
-.. attention:: While the pushbot is a good first drivetrain for new teams to get acquainted with the kit, it is recommended that teams move away from this drivetrain when building their competition robot.
+.. a-attention:: w-whiwe the pushbot i-is a good f-fiwst dwivetwain fow nyew teams to get acquainted w-with the kit, ( ͡o ω ͡o ) it is wecommended t-that teams move away fwom this d-dwivetwain when b-buiwding theiw competition wobot. UwU
 
-Advantages
+advantages
 ^^^^^^^^^^
 
-- Most simple drivetrain to build
-- No need to worry about powering all four wheels
+- most s-simpwe dwivetwain to buiwd
+- nyo nyeed to wowwy a-about powewing aww fouw wheews
 
-Disadvantages
+disadvantages
 ^^^^^^^^^^^^^
 
-- Slower than other options
-- Underpowered (all other drivetrain options typically use 4 motors)
-- Uses the Tetrix MAX motor, which is prone to burning out easily, is underpowered, and has a fragile gearbox.
-- Lacks agility and maneuverability due to 2 motor turning
-- Poor acceleration due to 2 motors
-- Often :term:`direct driven <Direct Drive>`,
-  which is highly discouraged for drivetrains
+- swowew than othew o-options
+- undewpowewed (aww othew dwivetwain o-options typicawwy u-use 4 motows)
+- u-uses the tetwix m-max motow, OwO which is pwone to buwning o-out easiwy, (˘ω˘) i-is undewpowewed, σωσ a-and has a fwagiwe geawbox. (ꈍᴗꈍ)
+- w-wacks agiwity and maneuvewabiwity due to 2 motow t-tuwning
+- poow a-accewewation due to 2 motows
+- o-often :tewm:`diwect dwiven <diwect d-dwive>`, UwU
+  which i-is highwy discouwaged fow dwivetwains
 
-.. figure:: images/tank/tetrix-pushbot.jpg
-   :alt: Tetrix pushbot
+.. f-figuwe:: i-images/tank/tetwix-pushbot.jpg
+   :awt: tetwix p-pushbot
 
-   Example pushbot drivetrain included in the starter FTC guide
+   exampwe pushbot d-dwivetwain incwuded in the stawtew f-ftc guide
 
-4 Wheel Drive
+4 w-wheew dwive
 -------------
 
-In its most common form, the drivetrain uses the same wheel layout as the two wheel drivetrain (2 traction wheels in the back, 2 omnis in the front), but with one notable difference: **all four wheels are powered**.
+i-in its most common f-fowm, UwU the dwivetwain u-uses the same wheew wayout a-as the two wheew d-dwivetwain (2 twaction w-wheews in t-the back, >w< 2 omnis i-in the fwont), >w< but with one nyotabwe diffewence: **aww f-fouw wheews awe powewed**. >w<
 
-Some teams will put all four traction wheels or use all four omni wheels. It is not suggested to use all 4 traction wheels due to poor turning that results in this setup. This is caused by :term:`wheel scrub <Wheel scrub>`. Using omni wheels for all four wheels will result in incredible turning, with the robot rotating around its center.
+s-some teams wiww put aww fouw twaction wheews ow use aww fouw omni wheews. rawr x3 it is not suggested to use aww 4 t-twaction wheews d-due to poow tuwning that wesuwts in this setup. σωσ t-this is caused b-by :tewm:`wheew s-scwub <wheew scwub>`. òωó using omni wheews fow aww f-fouw wheews wiww wesuwt in incwedibwe t-tuwning, OwO w-with the wobot wotating awound its c-centew. (˘ω˘)
 
-However, this advantage comes with a major loss of traction. For these reasons, many teams choose to use two traction wheels and two omni wheels for a balance between quick turning and traction. The primary advantage of this drivetrain over other tank drivetrains is its ability to easily move across raised terrain when the bot’s center is raised above the terrain.
+howevew, (///ˬ///✿) t-this advantage c-comes with a majow woss of twaction. UwU fow these weasons, many teams choose to u-use two twaction wheews and two o-omni wheews fow a-a bawance between quick tuwning and twaction. (⑅˘꒳˘) the p-pwimawy advantage o-of this dwivetwain ovew othew tank dwivetwains i-is its abiwity to easiwy move acwoss waised tewwain when the b-bot’s centew is waised above t-the tewwain. >w<
 
-It is suggested that a four wheel drivetrain be close to, or exactly, a square. Otherwise, one may encounter problems turning.
+it i-is suggested that a-a fouw wheew dwivetwain be cwose to, ow exactwy, o.O a-a squawe. (U ᵕ U❁) othewwise, (///ˬ///✿) o-one may encountew pwobwems t-tuwning. (ꈍᴗꈍ)
 
-.. note:: :term:`Weight distribution` is furthermore a large factor that should be considered: the more weight in the back, the better.
+.. n-nyote:: :tewm:`weight distwibution` is fuwthewmowe a-a wawge factow that shouwd be considewed: the mowe weight in the back, rawr x3 the bettew. ʘwʘ
 
-Off-center turning, which may or may not be a drawback, is nearly ubiquitous among 4 wheel drives. This may not be a problem for teams, but it is good to be aware of it. Off-center turning can be an advantage, but be warned that turning will be slightly slower on 4 wheel drives than their six or eight wheel counterparts.
+off-centew t-tuwning, which may ow may nyot be a dwawback, ( ͡o ω ͡o ) is nyeawwy ubiquitous among 4 wheew d-dwives. rawr x3 this m-may nyot be a p-pwobwem fow teams, UwU b-but it is good t-to be awawe of it. òωó off-centew t-tuwning can be an a-advantage, OwO but b-be wawned that tuwning wiww be swightwy swowew o-on 4 wheew dwives t-than theiw six ow eight wheew c-countewpawts. òωó
 
-Advantages
+advantages
 ^^^^^^^^^^
 
-- More maneuverable than 2WD
-- Solid acceleration and traction
-- Can traverse terrain if the chassis is raised high enough
-- Good pushing power for defense, yet maneuverable enough to avoid it
+- m-mowe maneuvewabwe than 2wd
+- sowid accewewation and twaction
+- can twavewse t-tewwain if the c-chassis is waised high enough
+- g-good pushing p-powew fow defense, òωó yet maneuvewabwe e-enough to avoid it
 
-Disadvantages
+disadvantages
 ^^^^^^^^^^^^^
 
-- Can tip more easily than 6WD/8WD with a high center of mass
-- All traction wheel 4WD can have decreased maneuverability
-- Weight distribution factors into the turning point and turning radius of the robot
+- can tip mowe easiwy than 6wd/8wd with a high c-centew of mass
+- aww twaction w-wheew 4wd can have decweased maneuvewabiwity
+- weight distwibution factows into the tuwning point and tuwning wadius of the wobot
 
-.. figure:: images/tank/3736-modified-4wd.png
-   :alt: 3736 Serious Business' modified 4WD
+.. figuwe:: images/tank/3736-modified-4wd.png
+   :awt: 3736 sewious business' modified 4wd
 
-   3736 Serious Business, Rover Ruckus; modified 4WD
+   3736 s-sewious business, -.- wovew w-wuckus; modified 4wd
 
-.. figure:: images/tank/7209-4wd.jpg
-   :alt: 7209 Tech Hog's Relic Recovery Robot
+.. figuwe:: images/tank/7209-4wd.jpg
+   :awt: 7209 t-tech hog's wewic wecovewy w-wobot
 
-   7209 Tech Hogs, Relic Recovery
+   7209 tech hogs, wewic w-wecovewy
 
-.. image:: images/tank/10641-4wd-table.png
-   :alt: 10641 Atomic Gear's 4WD on a table
+.. i-image:: images/tank/10641-4wd-tabwe.png
+   :awt: 10641 atomic geaw's 4wd o-on a tabwe
 
-.. figure:: images/tank/10641-4wd-void.png
-   :alt: 10641 Atomic Gear's 4WD in a void
+.. ( ͡o ω ͡o ) f-figuwe:: i-images/tank/10641-4wd-void.png
+   :awt: 10641 a-atomic geaw's 4wd in a void
 
-   10641 Atomic Gears, Rover Ruckus
+   10641 a-atomic geaws, UwU w-wovew wuckus
 
-6 Wheel Drive (6WD)
+6 wheew dwive (6wd)
 -------------------
 
-A 6 wheel drivetrain is a common competitive drivetrain in FTC for multiple reasons: it has fantastic traction, great turning, and by having 6 wheels, the drivetrain has more contact with the ground, helping with stability and traction. There are two main types of 6 wheel drivetrains: ones with **corner omnis** and ones with a **drop center**.
+a 6 wheew dwivetwain is a common competitive d-dwivetwain i-in ftc fow muwtipwe weasons: it has fantastic twaction, σωσ gweat t-tuwning, σωσ and by h-having 6 wheews, (///ˬ///✿) the dwivetwain h-has mowe contact with the gwound, o.O hewping with s-stabiwity and twaction. >w< thewe awe t-two main types of 6 wheew dwivetwains: ones with **cownew omnis** a-and ones with a-a **dwop centew**. σωσ
 
-A drop center 6WD is a 6 wheel drive with the center wheel mounted slightly below the other two wheels. The drop should be anywhere from more than 1/16” up to 1/4”. However, the recommended drop is around 1/8”. Typically, lighter robots (<25 lbs.) can have less drop, while heavier robots (>25 lbs.) perform slightly better with more than 1/8” drop.
+a-a dwop centew 6wd is a 6 wheew dwive with the centew wheew mounted swightwy b-bewow the othew t-two wheews. rawr x3 the d-dwop shouwd be a-anywhewe fwom mowe than 1/16” up to 1/4”. (˘ω˘) howevew, >w< the wecommended dwop is a-awound 1/8”. òωó typicawwy, -.- w-wightew wobots (<25 wbs.) c-can have wess d-dwop, UwU whiwe heaview wobots (>25 w-wbs.) pewfowm s-swightwy bettew w-with mowe than 1/8” dwop. (U ﹏ U)
 
-The purpose of dropping the middle wheel is to ensure that only 4 wheels are in contact with the ground at all times. This is because turning with 6 wheels on the ground introduces lots of friction, making it very difficult to turn quickly. Note that the **required drop may vary depending on both field condition and weight of the overall robot**.
+the puwpose of dwopping t-the middwe w-wheew is to ensuwe t-that onwy 4 wheews a-awe in contact w-with the gwound at aww times. òωó this is because t-tuwning with 6 w-wheews on the g-gwound intwoduces wots of fwiction, making it vewy d-difficuwt to t-tuwn quickwy. -.- nyote t-that the **wequiwed d-dwop may v-vawy depending on both fiewd condition a-and weight o-of the ovewaww wobot**. (˘ω˘)
 
-Turning can drastically degrade due to a difference in material underneath the field, leading to the robot sinking down further than usual.
+tuwning c-can dwasticawwy degwade due t-to a diffewence in matewiaw undewneath t-the fiewd, rawr x3 weading to the w-wobot sinking down fuwthew than u-usuaw. rawr x3
 
-Moreover, **most drop center 6 wheel drives are made using custom drivetrains** because it is difficult to get the center wheel drop using a kit based build system (a notable exception being REV-based kit drivetrains). It is possible to execute a drop center using goBILDA and Actobotics using pillow blocks, but it is a little bit more awkward. However, with the new `goBILDA drop-center bearing plate <https://www.gobilda.com/1616-series-drop-center-bearing-plate-32mm-pattern-2mm-drop-4-pack/>`_, it is straightforward to make a drop center drivetrain on goBILDA channel.
+moweovew, OwO **most dwop centew 6 wheew dwives a-awe made using c-custom dwivetwains** because it is difficuwt t-to get the centew wheew dwop using a kit based buiwd system (a nyotabwe exception being wev-based k-kit dwivetwains). o.O i-it is possibwe t-to exekawaii~ a-a dwop centew u-using gobiwda and actobotics using piwwow bwocks, (⑅˘꒳˘) b-but it is a wittwe b-bit mowe awkwawd. ( ͡o ω ͡o ) howevew, (˘ω˘) w-with the nyew `gobiwda dwop-centew b-beawing pwate <https://www.gobiwda.com/1616-sewies-dwop-centew-beawing-pwate-32mm-pattewn-2mm-dwop-4-pack/>`_, OwO it is stwaightfowwawd t-to make a dwop centew dwivetwain o-on gobiwda c-channew. >w<
 
-6 wheel drives with corner :term:`omni wheels <Omni Wheel>` do not need to have a center drop. It attempts to solve the issue of turning by replacing the corner traction wheels with omni wheels, allowing the drivetrain to achieve better turning, albeit with slightly less traction than a center-drop. This is very easily buildable in kits, and is a great all-around drivetrain. Drop center and corner omnis can be combined for maximum turning reliability, although this comes with side effects like rocking and reduced traction.
+6 w-wheew dwives with cownew :tewm:`omni w-wheews <omni w-wheew>` do nyot n-nyeed to have a-a centew dwop. (///ˬ///✿) it attempts to sowve the issue of tuwning by wepwacing the cownew t-twaction wheews with omni wheews, ( ͡o ω ͡o ) awwowing the dwivetwain to achieve bettew tuwning, OwO awbeit with swightwy wess twaction than a centew-dwop. (///ˬ///✿) this is vewy easiwy buiwdabwe in kits, >w< a-and is a gweat aww-awound dwivetwain. ʘwʘ d-dwop centew a-and cownew o-omnis can be combined f-fow maximum tuwning wewiabiwity, awthough t-this comes with side effects wike wocking and weduced twaction. (⑅˘꒳˘)
 
-.. sidebar:: Wheel Tolerances
+.. sidebaw:: wheew t-towewances
 
-   Tolerances in the size of the wheel may affect the traction of this drivetrain - many VEX Robotics Competition teams have built 6WDs like this only to find that their center traction wheel wasn’t touching the ground due to variance in size.
+   towewances in the size of the w-wheew may affect t-the twaction of this dwivetwain - many vex wobotics competition teams have buiwt 6wds w-wike this o-onwy to find t-that theiw centew t-twaction wheew wasn’t touching t-the gwound due t-to vawiance in s-size. (ꈍᴗꈍ)
 
-   We don’t have data on this phenomenon with FTC-class wheels, but it’s something to be aware of.
+   we don’t have data o-on this phenomenon with ftc-cwass wheews, (///ˬ///✿) but it’s something to b-be awawe of. (U ᵕ U❁)
 
-Advantages
+advantages
 ^^^^^^^^^^
 
-- Great traction and maneuverability
-- Good acceleration, can have a high top speed
-- Great stability under all robot weights
-- Able to play defense
+- g-gweat twaction and maneuvewabiwity
+- g-good accewewation, rawr x3 c-can have a high t-top speed
+- gweat s-stabiwity undew a-aww wobot weights
+- a-abwe to pway d-defense
 
-Disadvantages
+disadvantages
 ^^^^^^^^^^^^^
 
-- Drop-center 6WD is tricky to build with :term:`channel <Channel>` based systems, though this has been partially mitigated with the `goBILDA drop-center bearing plate <https://www.gobilda.com/1616-series-drop-center-bearing-plate-32mm-pattern-2mm-drop-4-pack/>`_
-- Drop-center 6WD is slightly worse at turning, but has more traction
-- Drop-center 6WD is dependent on field conditions
-- Corner omni 6WD has less traction
-- Slow :term:`gear ratios <Gear Reduction>` will make a 6WD feel sluggish
+- d-dwop-centew 6wd is twicky t-to buiwd with :tewm:`channew <channew>` b-based systems, (⑅˘꒳˘) though t-this has been p-pawtiawwy mitigated with the `gobiwda d-dwop-centew b-beawing pwate <https://www.gobiwda.com/1616-sewies-dwop-centew-beawing-pwate-32mm-pattewn-2mm-dwop-4-pack/>`_
+- dwop-centew 6wd i-is swightwy w-wowse at tuwning, (ꈍᴗꈍ) but has mowe twaction
+- dwop-centew 6wd is dependent o-on fiewd c-conditions
+- cownew omni 6wd has w-wess twaction
+- s-swow :tewm:`geaw watios <geaw weduction>` w-wiww make a 6wd feew swuggish
 
-.. figure:: images/tank/tilerunner-6wd.jpg
-   :alt: AndyMark's TileRunner 6wd
+.. figuwe:: i-images/tank/tiwewunnew-6wd.jpg
+   :awt: a-andymawk's tiwewunnew 6wd
 
-COTS Andymark Tilerunner Drivetrain with 0.05” center drop. **Not recommended due to price**.
+cots andymawk t-tiwewunnew d-dwivetwain with 0.05” c-centew dwop. σωσ **not wecommended due to pwice**. ʘwʘ
 
-.. figure:: images/tank/7236-6wd.png
-   :alt: 7236 Recharged Green's 6wd
+.. figuwe:: images/tank/7236-6wd.png
+   :awt: 7236 w-wechawged g-gween's 6wd
 
-   7236 Recharged Green, Rover Ruckus; drop center 6WD
+   7236 w-wechawged gween, UwU wovew wuckus; dwop centew 6wd
 
-.. figure:: images/tank/5795-6wd.png
-   :alt: 5795 Cybots's 6wd
+.. figuwe:: images/tank/5795-6wd.png
+   :awt: 5795 cybots's 6wd
 
-   5975 Cybots, Velocity Vortex, drop center and corner omni 6WD
+   5975 cybots, ʘwʘ vewocity v-vowtex, ʘwʘ dwop centew and cownew o-omni 6wd
 
-.. figure:: images/tank/ethan-6wd.jpg
-   :alt: Ethan Doak's 6wd
+.. f-figuwe:: images/tank/ethan-6wd.jpg
+   :awt: e-ethan doak's 6wd
 
-   Ethan Doak, goBILDA 6 wheel drive with corner omni wheels
+   e-ethan doak, OwO gobiwda 6 w-wheew dwive w-with cownew o-omni wheews
 
-8 Wheel Drive
+8 wheew dwive
 -------------
 
-An 8 wheel drivetrain is less common than its 6WD counterpart, combining elements found in both 4 wheel and 6 wheel drivetrains. For example, the 6 wheel drivetrain generally will have a dropped center wheel so that the robot turns on four wheels instead of six, reducing friction and increasing turning mobility.
+an 8 w-wheew dwivetwain is wess common than its 6wd countewpawt, σωσ c-combining ewements found i-in both 4 wheew a-and 6 wheew dwivetwains. (⑅˘꒳˘) f-fow e-exampwe, ( ͡o ω ͡o ) the 6 wheew dwivetwain genewawwy wiww have a-a dwopped centew w-wheew so that t-the wobot tuwns o-on fouw wheews instead of six, (U ﹏ U) w-weducing fwiction and incweasing t-tuwning mobiwity. (U ᵕ U❁)
 
-On an 8 wheel drive, the center four wheels are dropped. This means that when turning, only these middle four wheels are touching the ground. Thus, the 8 wheel drivetrain has slightly more stability while turning than a 6 wheel drive, whereas 6 wheel drives can turn more quickly. Furthermore, since the 8 wheel drive has wheels in the same place as a 4 wheel drive, it has the stability of a 4 wheel drive.
+o-on an 8 wheew dwive, (///ˬ///✿) the centew f-fouw wheews awe dwopped. σωσ this means that when tuwning, rawr x3 onwy these middwe fouw wheews awe touching t-the gwound. thus, òωó the 8 wheew dwivetwain has swightwy mowe s-stabiwity whiwe tuwning than a-a 6 wheew dwive, OwO w-wheweas 6 wheew dwives can tuwn mowe quickwy. ʘwʘ fuwthewmowe, since the 8 wheew dwive h-has wheews in t-the same pwace as a 4 wheew dwive, (ꈍᴗꈍ) it has the stabiwity of a 4 wheew dwive. ( ͡o ω ͡o )
 
-It is suggested that all eight wheels should be powered, and :term:`planetary <Planetary Gear>` motors should be used over a :term:`spur gear <Spur gearbox>` motor.
+it is suggested that aww eight wheews s-shouwd be powewed, and :tewm:`pwanetawy <pwanetawy geaw>` motows shouwd be u-used ovew a :tewm:`spuw g-geaw <spuw geawbox>` motow.
 
-Teams also have the option of using doubled omni wheels on the outer four wheels. Doing so will reduce traction/pushing power and increase mobility.
+t-teams awso h-have the option of using doubwed omni wheews on the outew fouw wheews. UwU d-doing so wiww weduce twaction/pushing p-powew a-and incwease mobiwity.
 
-Advantages
+advantages
 ^^^^^^^^^^
 
-- Combines the stability of 6WD with the agility of 4WD
-- Even more stable than 6WD
-- Fantastic traction and acceleration
-- Great for defense
+- c-combines the stabiwity of 6wd with the agiwity o-of 4wd
+- even m-mowe stabwe than 6wd
+- fantastic twaction and accewewation
+- g-gweat f-fow defense
 
-Disadvantages
+d-disadvantages
 ^^^^^^^^^^^^^
 
-- Takes up more space than 6WD
-- Powering all 8 wheels can be tricky
-- Without adequate center drop, turning can be drastically reduced
+- takes up mowe space than 6wd
+- powewing aww 8 wheews c-can be twicky
+- w-without adequate centew dwop, σωσ tuwning can be dwasticawwy weduced
 
-.. figure:: images/tank/3846-8wd.jpg
-   :alt: 3846 Maelstrom's 8WD
+.. f-figuwe:: images/tank/3846-8wd.jpg
+   :awt: 3846 maewstwom's 8wd
 
-   3846 Maelstrom, Rover Ruckus
+   3846 m-maewstwom, (U ﹏ U) wovew w-wuckus
 
-.. image:: images/tank/13075-8wd-render.png
-   :alt: A render of 13075 Coram Deo Academy Robotics' 8WD
+.. image:: i-images/tank/13075-8wd-wendew.png
+   :awt: a wendew of 13075 cowam deo academy wobotics' 8wd
 
-.. figure:: images/tank/13075-8wd.png
-   :alt: 13075 Coram Deo Academy Robotics' 8WD
+.. f-figuwe:: images/tank/13075-8wd.png
+   :awt: 13075 cowam deo a-academy wobotics' 8wd
 
-   13075 Coram Deo Academy Robotics, Rover Ruckus
+   13075 cowam deo academy w-wobotics, (///ˬ///✿) wovew wuckus
 
-Tread Drive
+twead dwive
 -----------
 
-Tread drive is the use of tank treads or wide belts to power movement, much like a real life tank. Unfortunately, in FTC, it is not a competitive drivetrain for a number of reasons.
+twead dwive is the use of t-tank tweads ow wide b-bewts to powew m-movement, (˘ω˘) much w-wike a weaw wife t-tank. (˘ω˘) unfowtunatewy, ʘwʘ in ftc, it is nyot a competitive d-dwivetwain f-fow a nyumbew o-of weasons. (U ﹏ U)
 
-Tread is complex, and has many points of failure. Treads are also very prone to defense, and a slight hit from another robot is enough to misalign the treads. :term:`Commercial Off-The-Shelf (COTS) <COTS>` tread options aren’t great either - TETRIX tracks have a tendency to snap and derail when used on robot drivetrains, making them not suitable for competition use.
+twead i-is compwex, (ꈍᴗꈍ) a-and has many points of faiwuwe. (U ﹏ U) tweads awe awso vewy pwone to defense, a-and a swight h-hit fwom anothew w-wobot is enough t-to misawign the tweads. ʘwʘ :tewm:`commewciaw o-off-the-shewf (cots) <cots>` t-twead o-options awen’t g-gweat eithew - t-tetwix twacks have a tendency to snap and dewaiw w-when used on wobot dwivetwains, making them nyot suitabwe fow c-competition use. rawr x3
 
-While it is possible to implement tread drive successfully, such as in the example below, most inexperienced teams do not have the capability and know-how to do so. Tread drive has negligible traction improvements at the cost of maneuverability. There are better options to traverse terrain, such as a 4WD.
+w-whiwe it is p-possibwe to impwement t-twead dwive s-successfuwwy, (U ﹏ U) s-such as in the exampwe b-bewow, òωó most inexpewienced teams do nyot have t-the capabiwity and know-how t-to do so. (U ᵕ U❁) twead d-dwive has nyegwigibwe twaction impwovements at the c-cost of maneuvewabiwity. (U ᵕ U❁) thewe awe bettew options to twavewse tewwain, σωσ such as a-a 4wd. -.-
 
-Advantages
+advantages
 ^^^^^^^^^^
 
-- Very good at traversing terrain
-- Fantastic traction and pushing power
+- v-vewy good at twavewsing tewwain
+- f-fantastic twaction and pushing powew
 
-Disadvantages
+disadvantages
 ^^^^^^^^^^^^^
 
-- Suffers in maneuverability and top speed
-- Very complex to implement
-- Treads are prone to breakage and can fall off easily
+- suffews i-in maneuvewabiwity a-and top speed
+- v-vewy compwex t-to impwement
+- tweads awe pwone to bweakage and can faww off easiwy
 
-.. figure:: images/tank/5975-tread.png
-   :alt: 5975 Cybots' Tread Drive Render
+.. f-figuwe:: images/tank/5975-twead.png
+   :awt: 5975 c-cybots' twead dwive w-wendew
 
-   5975 Cybots, Res-Q
+   5975 c-cybots, wes-q

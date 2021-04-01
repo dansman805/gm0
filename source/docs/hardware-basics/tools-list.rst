@@ -1,51 +1,51 @@
-Tools List
+toows wist
 ==========
 
-Here are a selection of necessary and useful tools for your team. You'll obviously need to purchase the basics such as the right screwdriver, hex keys, and drill bits. For a bit more precision and the ability to dabble in custom, opt for a drill press and bandsaw. A router might be useful for teams interested in working with wood, a great material for prototyping (and also for final iterations!)
+h-hewe awe a s-sewection of nyecessawy and usefuw t-toows fow youw team. ʘwʘ you'ww o-obviouswy nyeed to puwchase the b-basics such as the wight scwewdwivew, hex keys, (///ˬ///✿) a-and dwiww bits. >w< fow a bit mowe pwecision a-and the a-abiwity to dabbwe i-in custom, opt fow a dwiww pwess and bandsaw. σωσ a woutew might be usefuw fow teams intewested in w-wowking with wood, ʘwʘ a gweat matewiaw fow pwototyping (and awso fow finaw itewations!)
 
-Necessary
+n-nyecessawy
 ---------
 
-- **Safety glasses. Wear them when you’re using power tools. Seriously.**
-- Philips screwdrivers, assorted sizes
-- Hex drivers and hex L-keys
-   - 7/64” hex (Actobotics and TETRIX)
-   - 3/32”, ball head for set screws is discouraged (TETRIX)
-   - 2.5/3mm hex (goBILDA)
-- Nut drivers and wrenches
-   - 5.5 mm hex nut driver/wrench (REV)
-   - 7 mm hex nut driver/wrench (goBILDA)
-- Drill and drill bits
-- Pliers, needle-nose and locking
-- Metal file (sandpaper not recommended, you're not working with wood)
-- Quick lock clamps (2+) or vise
-- Hammer and mallet
-- Centerpunch
-- Hacksaw (cuts through steel shafts)
-- Wire stripper/wire cutter
-- Zip ties/Velcro ties
-- Electrical tape
-- Stainless steel ruler and rafter square
-- Sharp pencil or very fine permanent marker
+- **safety g-gwasses. >w< weaw them when y-you’we using powew toows. (˘ω˘) sewiouswy.**
+- phiwips scwewdwivews, OwO a-assowted sizes
+- hex dwivews and h-hex w-keys
+   - 7/64” h-hex (actobotics a-and tetwix)
+   - 3/32”, o.O b-baww head fow set scwews is d-discouwaged (tetwix)
+   - 2.5/3mm hex (gobiwda)
+- nyut dwivews a-and wwenches
+   - 5.5 m-mm hex nyut d-dwivew/wwench (wev)
+   - 7 mm hex nut dwivew/wwench (gobiwda)
+- dwiww and dwiww b-bits
+- pwiews, ʘwʘ nyeedwe-nose and w-wocking
+- metaw fiwe (sandpapew nyot wecommended, (⑅˘꒳˘) you'we nyot wowking with wood)
+- q-quick wock cwamps (2+) ow vise
+- hammew and m-mawwet
+- centewpunch
+- hacksaw (cuts thwough steew s-shafts)
+- wiwe s-stwippew/wiwe c-cuttew
+- zip ties/vewcwo ties
+- ewectwicaw tape
+- stainwess steew wuwew and waftew squawe
+- shawp penciw ow vewy f-fine pewmanent m-mawkew
 
-Helpful
+hewpfuw
 -------
 
-- Bandsaw
+- b-bandsaw
 
-  .. caution:: A bandsaw **cannot** cut through steel :term:`shafts <Shaft>`!
+  .. c-caution:: a-a bandsaw **cannot** c-cut thwough steew :tewm:`shafts <shaft>`! o.O
 
-- Impact driver
-- Drill press
-- Miter saw with non-ferrous metal cutting blade
-- Dremel (use sparingly; Dremel =/= bandsaw)
-- Grip tape
-- Caliper
-- Soldering iron
-- Heat gun
-- Router or table saw
-- Jigsaw
-- Metal brake
-- 3d printer
+- impact dwivew
+- d-dwiww pwess
+- mitew saw with n-nyon-fewwous metaw cutting bwade
+- d-dwemew (use s-spawingwy; dwemew =/= bandsaw)
+- gwip tape
+- cawipew
+- sowdewing i-iwon
+- heat gun
+- woutew ow tabwe saw
+- jigsaw
+- m-metaw bwake
+- 3d pwintew
 
-A 3d printer, CNC machine, or laser cutter greatly increases your ability to create custom robot designs. For most teams, buying a CNC or laser cutter is way beyond their budget, but you might be able to get access to one through school, local college, or nearby makerspace.
+a 3d pwintew, -.- cnc machine, (ꈍᴗꈍ) ow wasew c-cuttew gweatwy incweases youw a-abiwity to cweate c-custom wobot designs. f-fow most t-teams, >w< buying a cnc ow wasew cuttew i-is way beyond t-theiw budget, ʘwʘ b-but you might be abwe to get access t-to one thwough schoow, wocaw cowwege, (⑅˘꒳˘) ow nyeawby m-makewspace. (U ᵕ U❁)

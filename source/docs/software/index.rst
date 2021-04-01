@@ -1,7 +1,7 @@
-Software
+softwawe
 ========
 
-This section covers the basics of software for FTC.
+this section covews t-the basics o-of softwawe fow ftc. (U ᵕ U❁)
 
 .. toctree::
    :maxdepth: 1

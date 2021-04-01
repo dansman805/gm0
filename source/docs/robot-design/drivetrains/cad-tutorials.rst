@@ -1,219 +1,219 @@
 .. include:: <isonum.txt>
 
-CAD Tutorials
+cad tutowiaws
 =============
 
-CAD Tutorial Part 1 - Drivetrain in an Hour
+c-cad t-tutowiaw pawt 1 - dwivetwain in a-an houw
 -------------------------------------------
 
-Choosing the Drivetrain
+choosing the d-dwivetwain
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-After learning your :term:`CAD <Computer-aided design (CAD)>` program of choice, determine the necessary requirements for the drivetrain based on the current game. Teams should shoot for the wheelbase that works the best in that specific field’s layout.
+aftew weawning y-youw :tewm:`cad <computew-aided design (cad)>` pwogwam of choice, òωó d-detewmine the nyecessawy w-wequiwements fow t-the dwivetwain b-based on the cuwwent game. >w< teams shouwd shoot fow the wheewbase that wowks the best in that specific f-fiewd’s wayout. (⑅˘꒳˘)
 
-For instance, in Relic Recovery (2017-2018) a drivetrain required precision to not only grab glyphs from the center pit, but also to line up against the cryptobox. Thus, mecanum wheels and a wide center section of the robot proved an advantage over a 6 wheel tank drive. (However, it should be noted that with sufficient practice and competent drivers, any drive base can be competitive up to a certain extent).
+fow instance, ʘwʘ in wewic wecovewy (2017-2018) a dwivetwain wequiwed pwecision t-to nyot onwy g-gwab gwyphs fwom the centew pit, (///ˬ///✿) b-but awso to wine up against the cwyptobox. o.O thus, mecanum wheews a-and a wide centew section of the w-wobot pwoved a-an advantage ovew a-a 6 wheew tank d-dwive. -.- (howevew, (⑅˘꒳˘) it shouwd be nyoted t-that with sufficient pwactice and competent d-dwivews, (U ﹏ U) any dwive b-base can be c-competitive up to a cewtain extent). (⑅˘꒳˘)
 
-After selecting a drivebase, determine the number of motors. Keep in mind the eight motor limit is a pain that shouldn't be ignored. A good rule of thumb is four motors for driving and four motors for the other mechanisms (e.g. intakes, linear slides, arm, etc.) For most modern FTC games, you need minimum 7 motors to be highly competitive, although 8 is a good rule of thumb.
+aftew sewecting a dwivebase, d-detewmine the numbew of motows. (U ᵕ U❁) k-keep in mind the eight motow wimit is a pain that shouwdn't be ignowed. òωó a good w-wuwe of thumb is fouw motows fow dwiving and f-fouw motows fow the othew mechanisms (e.g. rawr x3 intakes, (⑅˘꒳˘) w-wineaw swides, (˘ω˘) a-awm, etc.) fow m-most modewn ftc games, òωó you nyeed minimum 7 motows to be highwy competitive, UwU awthough 8 is a good wuwe of thumb. -.-
 
-Designing the Drivetrain Plates
+d-designing the d-dwivetwain pwates
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-After learning the CAD software, it's time to start the actual design. Here are some things to figure out before starting:
+a-aftew weawning t-the cad softwawe, òωó i-it's time to s-stawt the actuaw design. -.- hewe awe some things t-to figuwe out befowe stawting:
 
-- Drive Type (mecanum, 6wd, 8wd, etc.)
-- Number of Motors (four motors recommended in most cases)
-- Type of wheels (:term:`Colson <Colson Wheel>`, :term:`omni <Omni Wheel>`, etc.)
-- Drive power (:term:`belt <HTD Belt>`, :term:`chain <Sprocket>`, :term:`gear <Gear>`)
+- d-dwive type (mecanum, (ꈍᴗꈍ) 6wd, 8wd, etc.)
+- nyumbew o-of motows (fouw m-motows wecommended in most cases)
+- type of wheews (:tewm:`cowson <cowson wheew>`, >w< :tewm:`omni <omni w-wheew>`, ( ͡o ω ͡o ) etc.)
+- dwive powew (:tewm:`bewt <htd bewt>`, >w< :tewm:`chain <spwocket>`, ( ͡o ω ͡o ) :tewm:`geaw <geaw>`)
 
-To keep it simple, this example uses a 4 wheel tank drive using four motors. The wheels selected are 2 Colson wheels for traction, and 2 omni wheels to aid in turning.
+t-to keep it simpwe, rawr x3 this exampwe uses a 4 wheew tank d-dwive using fouw motows. o.O the wheews s-sewected awe 2 c-cowson wheews f-fow twaction, (U ﹏ U) a-and 2 omni wheews to aid in tuwning. (˘ω˘)
 
-First, make the left side of the drivebase. After completing it, all you have to do is mirror the left side to the right, so you don’t have to do each side individually. Start with a 2D sketch of everything before trying to extrude and make actual 3D objects.
+f-fiwst, make t-the weft side o-of the dwivebase. (ꈍᴗꈍ) aftew compweting i-it, o.O aww you have to do is miwwow the weft side t-to the wight, >w< s-so you don’t have to do each side i-individuawwy. o.O stawt with a 2d s-sketch of evewything b-befowe twying to extwude a-and make actuaw 3d o-objects. rawr x3
 
-.. image:: images/cad-tutorial/drivetrain-in-an-hour/dt-inner-plate-technical-drawing.jpg
-   :alt: Drivetrain Plate Technical Drawing
+.. i-image:: images/cad-tutowiaw/dwivetwain-in-an-houw/dt-innew-pwate-technicaw-dwawing.jpg
+   :awt: dwivetwain pwate t-technicaw dwawing
    :width: 100%
 
-This is a sketch of the inner plate of the drive base. Everything should be laid out in a 2D sketch to determine the mounting holes, :term:`bore <Bore>`, :term:`center-to-center distance <C2C>`, etc. 2D sketches are extremely helpful and are highly recommended in any project. After the sketch is completed, everything else falls into place and becomes pretty simple.
+this is a sketch o-of the innew p-pwate of the dwive b-base. òωó evewything shouwd be w-waid out in a 2d s-sketch to detewmine the mounting h-howes, OwO :tewm:`bowe <bowe>`, :tewm:`centew-to-centew d-distance <c2c>`, (///ˬ///✿) e-etc. >w< 2d sketches a-awe extwemewy h-hewpfuw and awe highwy wecommended in any p-pwoject. (˘ω˘) aftew the sketch is compweted, OwO e-evewything ewse fawws into pwace and becomes pwetty simpwe. òωó
 
-After this, extrude that sketch into the first plate of the drivetrain. Typically, a standard thickness of aluminum plate is 1/8”. Thinner plate (3/32”) can be used as well, but generally most teams stick to 1/8”. Extrude the plate to that thickness. Below is the sketch after extruding.
+aftew this, extwude that sketch into the fiwst p-pwate of the d-dwivetwain. ʘwʘ typicawwy, >w< a standawd thickness of a-awuminum pwate is 1/8”. OwO t-thinnew p-pwate (3/32”) can be used as weww, UwU but genewawwy m-most teams stick to 1/8”. (ꈍᴗꈍ) e-extwude the pwate t-to that thickness. (U ᵕ U❁) bewow is the s-sketch aftew e-extwuding. OwO
 
-.. image:: images/cad-tutorial/drivetrain-in-an-hour/dt-inner-plate.jpg
-   :alt: Inner Drivetrain Plate
+.. (U ᵕ U❁) image:: i-images/cad-tutowiaw/dwivetwain-in-an-houw/dt-innew-pwate.jpg
+   :awt: innew dwivetwain pwate
 
-The next step will be making the outer plate for the drivebase. It is even faster to do than the inner. To do this, simply create a new part. Go back to your inner plate and start a 2D sketch.
+the nyext step wiww be making t-the outew pwate fow the dwivebase. ʘwʘ i-it is even f-fastew to do than the innew. σωσ to do this, (///ˬ///✿) simpwy c-cweate a nyew pawt. OwO g-go back to youw innew pwate and stawt a 2d s-sketch. ( ͡o ω ͡o )
 
-.. image:: images/cad-tutorial/drivetrain-in-an-hour/dt-inner-plate-ui-chrome.jpg
-   :alt: Drivetrain Plate, with entire face seleected
+.. image:: images/cad-tutowiaw/dwivetwain-in-an-houw/dt-innew-pwate-ui-chwome.jpg
+   :awt: dwivetwain pwate, òωó with entiwe f-face seweected
    :width: 100%
 
-After starting the new sketch on the inner plate, hit “Project Geometry” and just click anywhere on the part. It should highlight every outline of the part. (Shown here is a yellow line; yours might be red, blue or some other color.) Now click and drag across the part selecting every line on the screen. Now go hit CTRL + C, then go to the new part and hit create 2D Sketch. Next hit CTRL + V.
+aftew stawting t-the nyew sketch o-on the innew pwate, ( ͡o ω ͡o ) h-hit “pwoject geometwy” and just cwick anywhewe o-on the pawt. σωσ i-it shouwd highwight evewy outwine o-of the pawt. (///ˬ///✿) (shown h-hewe is a yewwow wine; youws might be w-wed, (U ᵕ U❁) bwue ow some othew cowow.) nyow cwick and dwag acwoss the pawt sewecting evewy wine on the s-scween. ʘwʘ nyow go hit ctww + c, òωó then go to the nyew pawt and hit cweate 2d sketch. (U ᵕ U❁) n-nyext hit ctww + v-v. σωσ
 
-.. image:: images/cad-tutorial/drivetrain-in-an-hour/dt-inner-plate-with-parts-to-remove-selected.jpg
-   :alt: Drivetrain inner plate with the parts specific to the inner plate selected
+.. image:: i-images/cad-tutowiaw/dwivetwain-in-an-houw/dt-innew-pwate-with-pawts-to-wemove-sewected.jpg
+   :awt: d-dwivetwain i-innew pwate with the pawts specific t-to the innew p-pwate sewected
 
-It should look like an exact copy of the inner plate but now as a sketch. Delete your motor mounts out of the middle, then extrude the outer plate.
+i-it shouwd wook wike an exact copy of the innew p-pwate but now as a-a sketch. -.- dewete youw motow mounts o-out of the m-middwe, σωσ then extwude the outew pwate. ( ͡o ω ͡o )
 
-.. image:: images/cad-tutorial/drivetrain-in-an-hour/dt-outer-plate.jpg
-   :alt: Outer Drivetrain Plate
+.. image:: images/cad-tutowiaw/dwivetwain-in-an-houw/dt-outew-pwate.jpg
+   :awt: outew dwivetwain p-pwate
 
-This is what the outer plate looks like, an almost exact copy of the inner one without the holes for the motors. Now with those two plates made, it’s really just time to assemble the rest of the drivetrain, which is by far the most time consuming. Now, for some info on what to use to attach the two plates together, generally standoffs or churro is highly recommended. To attach the two halves of the drivetrain, use either channel, extrusion, or a custom u-brace. Some teams prefer a custom brace as it is a good way to stiffen up the drivetrain while requiring very little maintenance over the season. It is possible to use peanut extrusion or kit channel, which alternatively works just as well.
+t-this is nyani the outew pwate wooks w-wike, OwO an awmost e-exact copy of the innew one w-without the howes fow the motows. (U ᵕ U❁) nyow with those two pwates made, >w< it’s weawwy j-just time to assembwe the west o-of the dwivetwain, σωσ which is by faw the most time consuming. σωσ nyow, fow some info on nyani to use to attach the two pwates togethew, OwO genewawwy standoffs ow chuwwo is highwy wecommended. rawr x3 t-to attach the two hawves o-of the dwivetwain, ( ͡o ω ͡o ) use eithew channew, >w< extwusion, (///ˬ///✿) o-ow a custom u-bwace. o.O some teams p-pwefew a custom bwace as it is a-a good way to s-stiffen up the dwivetwain whiwe w-wequiwing vewy wittwe m-maintenance o-ovew the season. ʘwʘ i-it is possibwe to use peanut e-extwusion ow kit c-channew, (///ˬ///✿) which awtewnativewy wowks just as weww. ʘwʘ
 
-Note that when using a custom drivetrain, you can cut out material from your drivetrain plates. This process is called **pocketing**. While not a vital step, pocketing helps you save weight. However, be careful not to remove too much material; if done, the plates become less sturdy. More about pocketing is in the next section.
+nyote that when using a custom d-dwivetwain, (U ᵕ U❁) you c-can cut out matewiaw fwom youw dwivetwain pwates. òωó this pwocess i-is cawwed **pocketing**. (⑅˘꒳˘) w-whiwe not a vitaw step, rawr x3 p-pocketing hewps you save weight. (⑅˘꒳˘) howevew, (ꈍᴗꈍ) be cawefuw n-nyot to wemove too much matewiaw; i-if done, (U ﹏ U) the pwates become wess stuwdy. (U ᵕ U❁) mowe about pocketing i-is in the n-nyext section. ( ͡o ω ͡o )
 
-Additional Considerations
+a-additionaw considewations
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Powering wheels can be done is a couple different ways through either belts and pulleys, chains and sprockets, gears, or even powered directly from the motor. Direct drive and chains are the simpler of the options, with direct drive not needing a calculated distance at all just have to set the motor exactly where the center of the wheel is. Chains allow for a little bit of slack not needing an exact center to center distance in the wrap like belts and pulleys do. Finally gears which need to be a certain distance apart from each other to mesh properly and not skip or bind.
+powewing wheews can be done is a coupwe diffewent ways thwough e-eithew bewts a-and puwweys, OwO chains a-and spwockets, g-geaws, (ꈍᴗꈍ) ow even powewed diwectwy fwom the motow. (U ᵕ U❁) diwect dwive and chains awe t-the simpwew of the o-options, (ꈍᴗꈍ) with diwect dwive nyot n-needing a cawcuwated d-distance at aww just have t-to set the motow e-exactwy whewe t-the centew of the wheew is. UwU chains awwow fow a w-wittwe bit of swack n-nyot nyeeding a-an exact centew t-to centew distance i-in the wwap wike bewts and puwweys do. (U ᵕ U❁) finawwy g-geaws which n-nyeed to be a cewtain d-distance apawt fwom each othew to mesh pwopewwy a-and nyot skip o-ow bind. ʘwʘ
 
-Mounting motors is done in a plate style by face mounting the motor into the innermost drivetrain plate. It can also be done by mounting the motors to a 3rd plate, located in between the outside and inside. This allows for the motor to take up less space in the middle of the robot, but adds complexity. Motors should always be as low as possible and depending where you want the center of mass, either the middle or towards the back of the robot. It is also worth keeping in mind the type of power transmission and the expediency of doing so in light of the motor placement.
+mounting m-motows is d-done in a pwate s-stywe by face mounting the motow i-into the innewmost d-dwivetwain pwate. OwO it can awso b-be done by mounting the motows t-to a 3wd pwate, wocated in between t-the outside and inside. (⑅˘꒳˘) this a-awwows fow the motow to take up w-wess space in the middwe of the wobot, σωσ but adds c-compwexity. UwU motows s-shouwd awways be as wow as possibwe and depending w-whewe you want the centew of mass, >w< eithew the middwe ow towawds the back of the wobot. rawr x3 it i-is awso wowth keeping i-in mind the t-type of powew t-twansmission and t-the expediency of doing so in wight of the motow p-pwacement. ʘwʘ
 
-Ground clearance is all dependent on if there are any obstacles on the field, as well as what your team wants to do in that game in regards to said obstacles.
+gwound c-cweawance is aww dependent o-on if thewe awe any obstacwes on t-the fiewd, òωó as weww as nyani youw t-team wants to do in that game i-in wegawds to said o-obstacwes. (U ᵕ U❁)
 
-For example, in Rover Ruckus some teams with tank drivetrains decided to enter the crater. Therefore, they left enough space to not beach themselves on top of the crater, a common mistake that inexperienced teams often make.
+f-fow exampwe, UwU in wovew wuckus some t-teams with tank d-dwivetwains decided t-to entew the c-cwatew. (U ᵕ U❁) thewefowe, >w< they weft enough space to nyot beach themsewves on top of t-the cwatew, ʘwʘ a common mistake that inexpewienced teams often make.
 
-Other teams decided to ignore driving over the crater and decided to reach over with an arm or slide system, which meant they didn't need a lot of ground clearance for their drivebase.
+othew teams decided to ignowe dwiving ovew the cwatew and decided to weach ovew with an awm ow swide system, (ꈍᴗꈍ) w-which meant they didn't nyeed a w-wot of gwound cweawance f-fow theiw d-dwivebase. (⑅˘꒳˘)
 
-Typically, anywhere from .25 inches of clearance to .5 inches (if you want to be safe) on a completely flat field will allow for the weight of the robot to push into the foam tiles. Nothing else from the robot should touch the ground.
+typicawwy, a-anywhewe fwom .25 inches of cweawance to .5 i-inches (if you want to be safe) on a compwetewy fwat fiewd wiww awwow fow the w-weight of the wobot to push into the foam tiwes. n-nyothing ewse f-fwom the wobot shouwd touch the gwound. (ꈍᴗꈍ)
 
-Something you can do is set the robot in CAD onto a field. Set up obstacles such as the crater and simulate driving over the crater by moving it across like you think it would in the real world.
+something you can do is set the wobot i-in cad onto a fiewd. (˘ω˘) s-set up obstacwes s-such as the c-cwatew and simuwate dwiving ovew t-the cwatew by m-moving it acwoss w-wike you think it wouwd in the w-weaw wowwd. (U ᵕ U❁)
 
-If either of the plates intersect with the obstacle, add some more clearance so you don't get beached like a sad whale.
+if eithew of the pwates intewsect with the obstacwe, >w< a-add some mowe cweawance so you d-don't get beached wike a sad w-whawe. UwU
 
-A general rule of thumb for most teams is the wider the intake, the better the chance of picking up the game piece. However, this is super game dependent. If you need to pick up a 6" cube like in Relic Recovery then you would not need 14" of space for your intake.
+a genewaw wuwe of thumb f-fow most teams is t-the widew the i-intake, -.- the bettew t-the chance of p-picking up the g-game piece. (⑅˘꒳˘) howevew, (///ˬ///✿) t-this is supew game dependent. (U ﹏ U) i-if you nyeed t-to pick up a 6" cube wike in wewic w-wecovewy then y-you wouwd nyot nyeed 14" of space f-fow youw intake. o.O
 
-However, if you need to pick up a ball like in Velocity Vortex, the bigger the intake gives you better chances of grabbing the balls. Keep this in mind when designing drive pods - try to keep them as thin as possible without sacrificing rigidity and strength to maximize space for other mechanisms and wiring.
+h-howevew, if you nyeed to pick u-up a baww wike i-in vewocity vowtex, -.- the biggew the intake gives you bettew chances o-of gwabbing t-the bawws. o.O keep this in mind when d-designing dwive p-pods - twy to keep them as thin a-as possibwe without sacwificing wigidity and s-stwength to maximize s-space fow othew mechanisms and wiwing. rawr x3
 
-Connecting your two plates together is really simple. Some standoffs or churro extrusion from AndyMark is a relatively easy way to connect them together with a few bolts. Just make a few 1/4 in. holes in your sketch where you want the churro tube to be. Decide how long the churro needs to be. Remember to leave enough space between the plates for your wheels, pulleys, sprockets, and spacers. You don’t need to go overkill on how many standoffs you need in between your plates; however, put them in strategic places where support is needed.
+connecting y-youw two p-pwates togethew i-is weawwy simpwe. (⑅˘꒳˘) some standoffs ow chuwwo extwusion fwom andymawk is a wewativewy e-easy way to c-connect them togethew w-with a few bowts. rawr x3 just make a few 1/4 in. ( ͡o ω ͡o ) howes in youw sketch whewe you want the chuwwo tube t-to be. >w< decide how wong the chuwwo n-nyeeds to b-be. OwO wemembew to w-weave enough space between the pwates f-fow youw wheews, UwU p-puwweys, (⑅˘꒳˘) s-spwockets, o.O and spacews. (///ˬ///✿) y-you don’t nyeed to go ovewkiww on how m-many standoffs you nyeed in between youw pwates; h-howevew, rawr x3 put them in stwategic p-pwaces whewe suppowt i-is nyeeded. (///ˬ///✿)
 
-Shown below is a drive pod, which is one half of the drivetrain, including the shafts, bearings, wheels, motors, belts, etc. In short, the drive pod has everything that will be built in real life. This particular one is the left side, but to make the right side create an offset plane, select the mirror tool, then hit mirror.
+s-shown bewow is a-a dwive pod, (///ˬ///✿) which is one hawf of the dwivetwain, (⑅˘꒳˘) i-incwuding the s-shafts, >w< beawings, (U ᵕ U❁) w-wheews, motows, o.O b-bewts, etc. (ꈍᴗꈍ) in showt, the dwive p-pod has evewything that wiww b-be buiwt in weaw w-wife. OwO this pawticuwaw one is the w-weft side, σωσ but to make the wight side cweate an offset pwane, (⑅˘꒳˘) sewect the miwwow toow, rawr x3 then hit m-miwwow. (⑅˘꒳˘)
 
-.. image:: images/cad-tutorial/drivetrain-in-an-hour/drive-pod.jpg
-   :alt: Left side drivetrain pod
+.. image:: images/cad-tutowiaw/dwivetwain-in-an-houw/dwive-pod.jpg
+   :awt: weft side dwivetwain pod
 
-After mirroring the drive pod to make your opposite side, connect those two halves together and you’re done with the drivetrain. Below is a rendering of the complete drivetrain in CAD.
+a-aftew miwwowing the dwive pod to m-make youw opposite s-side, σωσ connect those two hawves togethew and you’we done with the dwivetwain. ( ͡o ω ͡o ) b-bewow is a wendewing o-of the compwete dwivetwain in cad. OwO
 
-.. image:: images/cad-tutorial/drivetrain-in-an-hour/dt-render.png
-   :alt: Left side drivetrain pod
+.. image:: images/cad-tutowiaw/dwivetwain-in-an-houw/dt-wendew.png
+   :awt: weft side dwivetwain pod
 
-CAD Tutorial Part 2 - Pocketing Guide
+cad tutowiaw pawt 2 - p-pocketing guide
 -------------------------------------
 
-“Pocketing” is a common term in FTC and FRC\ |reg| lingo, and refers to material removal from plates or tubes for weight reduction and/or aesthetic purposes. For the former purpose, the idea is to strike a balance between sustaining structural integrity and reduce as much weight/material as possible.
+“pocketing” is a common tewm in ftc and fwc\ |weg| w-wingo, (U ﹏ U) and w-wefews to matewiaw wemovaw fwom p-pwates ow tubes f-fow weight weduction and/ow aesthetic puwposes. (⑅˘꒳˘) fow the fowmew p-puwpose, ( ͡o ω ͡o ) the idea is to stwike a b-bawance between s-sustaining stwuctuwaw integwity a-and weduce as much weight/matewiaw as possibwe. (⑅˘꒳˘)
 
-There are several ways to machine pockets into material including milling, routing, water jet cutting, laser cutting and even hand drilling. Depending on your access to tooling, pocketing can be more or less difficult for you.
+t-thewe awe sevewaw w-ways to machine pockets into matewiaw incwuding m-miwwing, òωó wouting, òωó w-watew jet c-cutting, (˘ω˘) wasew cutting and even hand dwiwwing. OwO depending on youw a-access to toowing, òωó p-pocketing can be mowe ow wess difficuwt fow you. (///ˬ///✿)
 
-CNC milling and routing excel at pocketing aluminum box tubing, whereas water jet and laser cutting excel at pocketing plates. Whether pocketing on box tubing or plates, the design is fairly similar.
+cnc miwwing a-and wouting excew at pocketing awuminum box tubing, òωó w-wheweas watew j-jet and wasew c-cutting excew at pocketing pwates. σωσ whethew pocketing on box tubing o-ow pwates, the design is faiwwy simiwaw. ʘwʘ
 
-When designing pockets, **it's important to consider the type of material, thickness, and how much stress will be on the part**. Materials that are weaker, thinner or under significant stress should have less “aggressive” pocketing and materials that are stronger, thicker or under less stress can have more “aggressive” pocketing. Aggressive pocketing refers to the amount of material removal from the blank part (more aggressive = more material removal).
+when d-designing pockets, ʘwʘ **it's impowtant t-to considew the type of matewiaw, ʘwʘ thickness, (˘ω˘) and how much stwess wiww be o-on the pawt**. (˘ω˘) m-matewiaws that awe w-weakew, OwO thinnew o-ow undew significant s-stwess shouwd have wess “aggwessive” pocketing and matewiaws t-that awe s-stwongew, (U ᵕ U❁) thickew o-ow undew wess s-stwess can have m-mowe “aggwessive” pocketing. rawr x3 aggwessive pocketing wefews to t-the amount of m-matewiaw wemovaw f-fwom the bwank p-pawt (mowe aggwessive = mowe matewiaw w-wemovaw). -.-
 
-Although a bit complex to understand, FEA (finite element analysis) can be used to determine appropriate strut thickness when pocketing. FEA can be used to generate pocketing geometry, but that is an entirely different rabbit hole.
+a-awthough a bit c-compwex to undewstand, ʘwʘ f-fea (finite e-ewement anawysis) can be used to detewmine appwopwiate s-stwut thickness when pocketing. o.O fea can be used to genewate p-pocketing g-geometwy, σωσ but that i-is an entiwewy d-diffewent wabbit h-howe. (U ﹏ U)
 
-.. figure:: images/cad-tutorial/pocketing-guide/fea-on-plate.png
-   :alt: FEA of inner drivetrain plate
+.. figuwe:: i-images/cad-tutowiaw/pocketing-guide/fea-on-pwate.png
+   :awt: f-fea of innew dwivetwain pwate
 
-   731 Wannabee Strange, Rover Ruckus, FEA of inner drivetrain plate
+   731 wannabee s-stwange, OwO wovew wuckus, (ꈍᴗꈍ) fea of i-innew dwivetwain p-pwate
 
-Designing concise and advantageous pocketing is as simple as drawing circles and tangent lines. Parametric pockets can be defined by one or two offset values. The offset values determine the thickness of the remaining material.
+designing concise and advantageous pocketing i-is as simpwe as dwawing ciwcwes and tangent wines. >w< pawametwic pockets can b-be defined by one o-ow two offset vawues. o.O the offset v-vawues detewmine the thickness of the wemaining matewiaw. (⑅˘꒳˘)
 
-Parametric means that the entire sketch is defined by a parameter, in this case is the offset value which when adjusted will automatically adjust the entire sketch (in terms of material thickness).
+pawametwic m-means that t-the entiwe sketch i-is defined b-by a pawametew, (///ˬ///✿) in this case is the offset vawue which when adjusted w-wiww automaticawwy adjust t-the entiwe sketch (in tewms of matewiaw t-thickness). >w<
 
-There are several references that can be drawn on every plate/tube which are screw holes, bearing holes, and corners. Each reference will get its own construction/sketch circle or two. Ideally all of the construction circles are one of less than 4 sizes to keep the pocketing consistent and simple.
+t-thewe awe sevewaw wefewences t-that can be dwawn on evewy pwate/tube w-which awe s-scwew howes, (U ﹏ U) beawing howes, (U ﹏ U) and c-cownews. -.- each wefewence wiww get i-its own constwuction/sketch ciwcwe ow two. ideawwy aww of the c-constwuction ciwcwes awe one of w-wess than 4 sizes t-to keep the pocketing consistent and simpwe. UwU
 
-First are the screw hole construction circles with radius of the screw hole radius plus the offset value. Next are bearing holes with radius of bearing hole radius plus offset value. Then are edges with construction circles with the radius of an offset value. Then the most important circles are at each of the screw and bearing holes, which will define the strut thickness.
+f-fiwst awe the scwew howe constwuction ciwcwes with w-wadius of the scwew howe wadius pwus the offset v-vawue. (///ˬ///✿) nyext a-awe beawing howes w-with wadius of beawing howe wadius pwus offset v-vawue. (˘ω˘) then awe e-edges with constwuction ciwcwes with the wadius of an offset vawue. rawr x3 then the most i-impowtant ciwcwes a-awe at each o-of the scwew and beawing howes, (ꈍᴗꈍ) w-which wiww define the stwut thickness. σωσ
 
-The circles at the center of each screw and bearing hole will have the diameter of an offset value. After all of the construction circles are drawn, tangent lines can be drawn to create the pocketing geometry. Using the parametric offset value will make it easy to adjust strut thickness by just changing one or two values.
+t-the ciwcwes at the centew of each scwew and beawing howe w-wiww have the d-diametew of an o-offset vawue. OwO aftew a-aww of the constwuction ciwcwes awe dwawn, (⑅˘꒳˘) tangent wines can be dwawn to cweate the pocketing geometwy. (˘ω˘) using t-the pawametwic o-offset vawue wiww make it easy to adjust stwut thickness by just c-changing one ow t-two vawues. -.-
 
-Tangent lines are drawn between the circles on the edges with other circles on edges and between the circles at the center of each bearing and screw hole. The circles with radius of bearing hole and screw hole plus offset value make sure that there is enough material around the bearing and screw holes. An example is below.
+tangent wines awe dwawn between the c-ciwcwes on the e-edges with othew ciwcwes on edges and between the ciwcwes at the centew of each b-beawing and scwew h-howe. (ꈍᴗꈍ) the ciwcwes with wadius of beawing howe and scwew howe p-pwus offset vawue m-make suwe that thewe is enough matewiaw awound t-the beawing and scwew howes. (ꈍᴗꈍ) an e-exampwe is bewow. σωσ
 
-.. image:: images/cad-tutorial/pocketing-guide/outer-mechanism-plate1.png
-   :alt: Outer mechanism plate with pocketing sketch highlighted
+.. i-image:: images/cad-tutowiaw/pocketing-guide/outew-mechanism-pwate1.png
+   :awt: o-outew mechanism pwate with p-pocketing sketch highwighted
 
-.. image:: images/cad-tutorial/pocketing-guide/outer-mechanism-plate2.png
-   :alt: Outer mechanism plate with all functional geometry
+.. image:: images/cad-tutowiaw/pocketing-guide/outew-mechanism-pwate2.png
+   :awt: o-outew mechanism pwate with aww f-functionaw geometwy
 
-.. figure:: images/cad-tutorial/pocketing-guide/outer-mechanism-plate3.png
-   :alt: Outer mechanism plate fully pocketed
+.. figuwe:: i-images/cad-tutowiaw/pocketing-guide/outew-mechanism-pwate3.png
+   :awt: o-outew m-mechanism pwate fuwwy pocketed
 
-   731 Wannabee Strange, 2019 Summer VCC Cadathon, Outer Mechanism Plate
+   731 wannabee stwange, (///ˬ///✿) 2019 s-summew vcc cadathon, (⑅˘꒳˘) o-outew mechanism pwate
 
-The last step in pocketing is adding rounds to each and every corner, especially inner corners. Rounds relieve stress buildup at corners and make it easier to machine. Some machines, such as mills and routers, are also unable to machine tight internal corners. For those parts that need minimum rigidity loss and a lot more machine time on their hands, pockets don't need to be cut all the way.
+the wast step in pocketing is adding w-wounds to each a-and evewy cownew, rawr x3 e-especiawwy innew c-cownews. UwU wounds wewieve stwess buiwdup at cownews and make it e-easiew to machine. (ꈍᴗꈍ) some machines, UwU such as miwws and woutews, o.O awe a-awso unabwe to m-machine tight intewnaw c-cownews. (˘ω˘) f-fow those pawts t-that nyeed minimum wigidity woss a-and a wot mowe m-machine time on t-theiw hands, (ꈍᴗꈍ) pockets d-don't nyeed to be cut aww the way. (ꈍᴗꈍ)
 
-:term:`Waterjet cutters <Waterjet cutter>` and :term:`laser cutters <Laser cutter>` are only able to cut material all the way through, but routers and mills are able to make surface pockets. These pockets don’t go all the way through the material and are multitudes more rigid than thru pocketing.
+:tewm:`watewjet cuttews <watewjet c-cuttew>` and :tewm:`wasew c-cuttews <wasew cuttew>` awe o-onwy abwe to cut m-matewiaw aww t-the way thwough, >w< but woutews and m-miwws awe abwe to make suwface p-pockets. OwO these pockets don’t go aww the way thwough the matewiaw a-and awe muwtitudes m-mowe wigid t-than thwu pocketing. OwO
 
-The downside is increased machining time. The increased time is from the “lawn mowing” tool cutting path verses simply cutting the edges of the geometry. It is also more difficult to machine, because more material is milled out and chip ejection becomes more important.
+t-the downside i-is incweased machining time. ʘwʘ the incweased time is fwom the “wawn mowing” toow cutting path vewses simpwy c-cutting the edges o-of the geometwy. (⑅˘꒳˘) it is awso mowe difficuwt to machine, (˘ω˘) because m-mowe matewiaw is miwwed out and chip ejection becomes mowe impowtant. rawr x3
 
-.. figure:: images/cad-tutorial/pocketing-guide/outer-mechanism-plate-surface-pocketing.png
-   :alt: Outer mechanism plate surface pocketed
+.. figuwe:: images/cad-tutowiaw/pocketing-guide/outew-mechanism-pwate-suwface-pocketing.png
+   :awt: outew mechanism pwate suwface pocketed
 
-   Surface Pocketing Example
+   suwface p-pocketing exampwe
 
-If you don't have access to any precision tools, a hand drill/drill press and large drill bit/flat bottom boring bits can create pockets in material. Although this is the simplest form of pocketing, there is a straightforward way to optimize the circular drill method.
+i-if you don't have access to any pwecision toows, ( ͡o ω ͡o ) a hand dwiww/dwiww p-pwess and w-wawge dwiww bit/fwat b-bottom bowing bits can cweate p-pockets in matewiaw. rawr x3 awthough this is the s-simpwest fowm of p-pocketing, (˘ω˘) thewe i-is a stwaightfowwawd way to optimize the ciwcuwaw dwiww method. (⑅˘꒳˘)
 
-Since the main goal of pocketing is to remove as much material as possible without significantly sacrificing the structural stability, the holes need to be drilled in specific positions with the right size bit.
+since the main g-goaw of pocketing is to wemove a-as much matewiaw a-as possibwe without significantwy sacwificing the stwuctuwaw stabiwity, t-the howes n-nyeed to be d-dwiwwed in specific p-positions with the wight size bit. (///ˬ///✿)
 
-The most effective way to find the specific positions and drill bit sizes, is to first create a pocketing design as you would do with circles and tangent lines. Then draw holes tangent to the struts created by the circles and tangent lines. An example is below with the orange as the holes to drill positioned tangentially to the regular pocketed edges.
+the most effective way to f-find the specific p-positions and dwiww bit sizes, (ꈍᴗꈍ) is to fiwst cweate a-a pocketing d-design as you w-wouwd do with ciwcwes and tangent w-wines. (˘ω˘) then dwaw howes tangent t-to the stwuts cweated by the ciwcwes a-and tangent w-wines. (U ﹏ U) an exampwe is bewow with the owange as the howes to dwiww p-positioned tangentiawwy t-to the w-weguwaw pocketed e-edges. (˘ω˘)
 
-.. image:: images/cad-tutorial/pocketing-guide/outer-mechanism-plate-tangent-circles.png
-   :alt: Outer mechanism plate showing the tangent circles between the pockets
+.. image:: images/cad-tutowiaw/pocketing-guide/outew-mechanism-pwate-tangent-ciwcwes.png
+   :awt: o-outew mechanism pwate s-showing the tangent c-ciwcwes between t-the pockets
 
-.. figure:: images/cad-tutorial/pocketing-guide/outer-mechanism-plate-drill-pocketing.png
-   :alt: Outer mechanism plate showing optimal drill pockets
+.. figuwe:: i-images/cad-tutowiaw/pocketing-guide/outew-mechanism-pwate-dwiww-pocketing.png
+   :awt: outew mechanism pwate showing o-optimaw dwiww pockets
 
-   Optimal Drill Pocketing Method Example
+   optimaw dwiww pocketing m-method exampwe
 
-Although it may look like a random mess and it may take a while longer than just randomly “cheese holing”, this method will yield the greatest weight reduction to structural rigidity loss ratio using the drill pocketing method.
+awthough it may wook wike a-a wandom mess and it may take a whiwe wongew than just wandomwy “cheese howing”, (U ᵕ U❁) this method wiww yiewd the gweatest weight weduction to stwuctuwaw wigidity woss watio using t-the dwiww pocketing m-method. òωó
 
-A very important tip to pocketing is to do it last when designing a part. Parts should not be designed around the pocketing pattern, rather the pocketing should be designed around the part. If there are too many holes in a part, or the part is too small to be pocketed with an offset value, then it's probably not worth it to pocket.
+a-a vewy impowtant t-tip to pocketing is to do it wast when designing a pawt. (U ﹏ U) pawts s-shouwd not be designed a-awound the p-pocketing pattewn, (⑅˘꒳˘) w-wathew the p-pocketing shouwd b-be designed awound t-the pawt. (˘ω˘) if thewe awe too many howes in a pawt, (⑅˘꒳˘) o-ow the pawt i-is too smow to b-be pocketed with an offset vawue, σωσ t-then it's pwobabwy nyot wowth i-it to pocket. (⑅˘꒳˘)
 
-Pocketing can reduce part weight, but when using traditional machining methods can take a significant amount of extra time. Although, when adding pockets to parts that are going to be 3D printed, it can in some cases decrease print time as well as material used.
+pocketing can weduce p-pawt weight, >w< b-but when using t-twaditionaw machining methods can take a significant amount of extwa time. UwU awthough, o.O when adding p-pockets to pawts t-that awe going t-to be 3d pwinted, (˘ω˘) it can in some cases decwease pwint time as weww a-as matewiaw u-used. ʘwʘ
 
-The pocketing method above is the simplest parametric method to pocketing, but more complex methods exist. For instance, the image below is an example of a complex double iso-grid pocketing pattern optimized for metal 3D printing.
+the pocketing m-method above is the simpwest pawametwic method to pocketing, (⑅˘꒳˘) b-but mowe compwex m-methods exist. fow instance, OwO the image bewow i-is an exampwe of a-a compwex doubwe iso-gwid pocketing pattewn optimized fow metaw 3d p-pwinting. òωó
 
-.. figure:: images/cad-tutorial/pocketing-guide/arm-pivot-mount.png
-   :alt: Arm pivot mount with complex double iso-grid pocketing pattern
+.. f-figuwe:: images/cad-tutowiaw/pocketing-guide/awm-pivot-mount.png
+   :awt: awm pivot mount with compwex doubwe i-iso-gwid pocketing pattewn
 
-   731 Wannabee Strange, Rover Ruckus, Arm Pivot Mount
+   731 wannabee stwange, (⑅˘꒳˘) wovew wuckus, (ꈍᴗꈍ) a-awm pivot mount
 
-When the pockets are designed around a 3D printed part, many new possibilities open up in terms of minimum inner corner radius, resolution and dimensions. Now of course, 3D printed parts can be pocketed in the same way as traditional parts with similar results.
+when the pockets awe designed a-awound a 3d pwinted pawt, òωó many nyew possibiwities o-open up in tewms of minimum innew cownew wadius, OwO wesowution and dimensions. ( ͡o ω ͡o ) nyow of couwse, ʘwʘ 3d pwinted pawts c-can be pocketed i-in the same way as twaditionaw p-pawts with simiwaw wesuwts.
 
-CAD Tutorial Part 3 - Custom Pulley Template
+cad t-tutowiaw pawt 3 - c-custom puwwey tempwate
 --------------------------------------------
 
-When designing methods of power transmission, it’s useful to have an adjustable pulley generator to rapidly rearrange C-C (center to center) distance for design changes. Typically, FTC teams use the HTD5 belt profile due to its deep tooth profile, which adds resistance to slipping and increases load capacity. This tutorial will focus on the HTD5 profile, but it is relatively easy to adapt for different profiles.
+when designing m-methods of p-powew twansmission, òωó i-it’s usefuw to have an adjustabwe puwwey g-genewatow to wapidwy weawwange c-c-c (centew to centew) distance f-fow design changes. rawr x3 t-typicawwy, σωσ ftc teams use the htd5 bewt pwofiwe d-due to its deep tooth pwofiwe, (U ﹏ U) w-which adds wesistance to swipping a-and incweases w-woad capacity. >w< t-this tutowiaw wiww focus on the h-htd5 pwofiwe, òωó but i-it is wewativewy easy to adapt fow diffewent pwofiwes. σωσ
 
-To make the pulley fully parametric (adjustable without redoing the base sketch), we will use Equations (in Solidworks and Creo), Parameters (Fusion 360 and Inventor) or Variables (Onshape). Equations allow a user to quickly adjust values and change multiple dimensions in a sketch or feature.
+to make t-the puwwey fuwwy p-pawametwic (adjustabwe w-without wedoing the base sketch), o.O we w-wiww use equations (in s-sowidwowks and cweo), σωσ pawametews (fusion 360 a-and inventow) o-ow vawiabwes (onshape). (U ᵕ U❁) equations awwow a usew to quickwy adjust v-vawues and change m-muwtipwe dimensions in a sketch o-ow featuwe. (ꈍᴗꈍ)
 
-.. image:: images/cad-tutorial/custom-pulley-template/equations-view.png
-   :alt: A screenshot of the "Equations, Global Variables, and Dimensions" view
+.. i-image:: images/cad-tutowiaw/custom-puwwey-tempwate/equations-view.png
+   :awt: a scweenshot of the "equations, o.O g-gwobaw vawiabwes, σωσ a-and dimensions" view
    :width: 100%
 
-First, define a new variable “n” and set a default value of 24. This is crucial since “n” will affect the number of teeth – which will define the angle between teeth and the circular pattern.
+fiwst, (ꈍᴗꈍ) d-define a nyew v-vawiabwe “n” a-and set a defauwt vawue of 24. -.- t-this is cwuciaw since “n” wiww a-affect the nyumbew o-of teeth – w-which wiww define the angwe between teeth and t-the ciwcuwaw pattewn. (U ᵕ U❁)
 
-Copy the sketch below.
+copy the sketch bewow. (⑅˘꒳˘)
 
-.. image:: images/cad-tutorial/custom-pulley-template/sketch-to-copy.png
-   :alt: The sketch to copy
+.. image:: images/cad-tutowiaw/custom-puwwey-tempwate/sketch-to-copy.png
+   :awt: t-the sketch to copy
 
-- The 15° equation is done by typing =360/”n” into the text box.
-- Note that 5mm dimension at the top describes arc length, which is done in Solidworks by first selecting the two points and the connecting arc.
-- The two big circles are tangent to the two smaller circles, but the two smaller circles are not tangent to each other.
+- the 15° e-equation is done by typing =360/”n” into the t-text box. OwO
+- nyote t-that 5mm dimension at the top d-descwibes awc w-wength, UwU which is d-done in sowidwowks by fiwst sewecting t-the two p-points and the connecting a-awc. >w<
+- the two big ciwcwes a-awe tangent to the two smowew c-ciwcwes, UwU but t-the two smowew ciwcwes a-awe nyot t-tangent to each o-othew. -.-
 
-Leave this sketch as a reference and use “Convert Entities” to create sketches for additional features.
+weave this sketch as a wefewence and use “convewt e-entities” to cweate sketches fow additionaw f-featuwes. OwO
 
-.. image:: images/cad-tutorial/custom-pulley-template/pulley-profile.png
-   :alt: The profile of the pulley
+.. i-image:: i-images/cad-tutowiaw/custom-puwwey-tempwate/puwwey-pwofiwe.png
+   :awt: the pwofiwe of the puwwey
 
-Next, extrude the outer bold circle. Cut-extrude the profile in the reference sketch. Do these features separately.
+n-nyext, rawr x3 extwude t-the outew bowd ciwcwe. (⑅˘꒳˘) cut-extwude t-the pwofiwe in the wefewence s-sketch. σωσ do these featuwes sepawatewy. rawr x3
 
-.. image:: images/cad-tutorial/custom-pulley-template/circular-pattern.png
-   :alt: A screenshot of the tool to create the circular pattern of the next step
+.. image:: i-images/cad-tutowiaw/custom-puwwey-tempwate/ciwcuwaw-pattewn.png
+   :awt: a-a scweenshot o-of the toow to cweate the c-ciwcuwaw pattewn of the nyext step
 
-Now, just create a Circular Pattern. Define Direction 1 as the top face and create “n” instances of the cut-extrude feature.
+nyow, σωσ just c-cweate a ciwcuwaw p-pattewn. o.O define diwection 1 a-as the top face a-and cweate “n” instances of the cut-extwude f-featuwe. (ꈍᴗꈍ)
 
-.. image:: images/cad-tutorial/custom-pulley-template/dimensioned-pulley.png
-   :alt: The CAD of the pulley with dimensions
+.. image:: i-images/cad-tutowiaw/custom-puwwey-tempwate/dimensioned-puwwey.png
+   :awt: t-the cad of the puwwey w-with dimensions
 
-Now just sketch on the side plane and sketch the flanges. This is up to you, but I prefer to keep the outer point vertical to a point pierced through the outer circle. That way, the flange changes with respect to “n”.
+nyow just s-sketch on the side p-pwane and sketch the fwanges. (///ˬ///✿) t-this is up to y-you, ʘwʘ but i pwefew t-to keep the outew p-point vewticaw t-to a point piewced t-thwough the o-outew ciwcwe. >w< that way, òωó the fwange changes with wespect to “n”. (⑅˘꒳˘)
 
-.. image:: images/cad-tutorial/custom-pulley-template/complete-pulley.png
-   :alt: The complete CAD of the pulley
+.. image:: images/cad-tutowiaw/custom-puwwey-tempwate/compwete-puwwey.png
+   :awt: t-the compwete c-cad of the p-puwwey

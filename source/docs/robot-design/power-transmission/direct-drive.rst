@@ -1,45 +1,45 @@
-Direct Drive
+diwect dwive
 ============
 
-Direct drive refers to powering a mechanical part (most commonly a drive wheel) directly from the motor axis. Many new and inexperienced teams will use this method to power their drivetrain as it is the simplest way to do so. However, there are significant drawbacks to this method.
+d-diwect d-dwive wefews to powewing a mechanicaw p-pawt (most commonwy a dwive w-wheew) diwectwy fwom the motow a-axis. ʘwʘ many nyew and inexpewienced teams wiww use t-this method to powew theiw dwivetwain a-as it is t-the simpwest way t-to do so. ʘwʘ howevew, UwU thewe awe significant dwawbacks to this method. (⑅˘꒳˘)
 
-First, direct drive puts unnecessary load on the drive motor. This is because shock loads can destroy gearboxes, even :term:`planetary gearboxes <Planetary Gear>`. Gearboxes are able to withstand load along the axis of rotation, such as what occurs when the wheel changes direction. This is a normal situation of load. However, in direct drive, the gearbox shaft can be exposed to other shock loads outside of the normal axis. This happens when the wheel comes into contact with another robot or the field wall, which honestly happens more than you’d think. This can bend the motor shaft or permanently damage the gearbox.
+fiwst, diwect dwive puts u-unnecessawy woad on the dwive motow. òωó this is because shock woads can destwoy geawboxes, rawr x3 e-even :tewm:`pwanetawy g-geawboxes <pwanetawy geaw>`. σωσ geawboxes a-awe abwe to withstand woad awong the axis of wotation, UwU such a-as nyani occuws when the wheew c-changes diwection. òωó t-this is a nyowmaw s-situation of w-woad. σωσ howevew, o.O in diwect dwive, o.O t-the geawbox shaft can be exposed to othew shock w-woads outside o-of the nyowmaw axis. o.O t-this happens when the wheew comes into contact with anothew w-wobot ow the fiewd waww, rawr x3 which h-honestwy happens mowe than you’d think. σωσ this can bend the motow shaft ow pewmanentwy d-damage the geawbox. >w<
 
-Second, direct drive limits the :term:`gear ratio <Gear Reduction>` to whatever ratio the motor gearbox is at. One advantage of all the other three transmission systems is the ability to gear up or down, based on a team’s needs. Direct drive cannot do so, and if your drivetrain uses 40:1 gearboxes, there is no way to reduce this ratio to a faster 20:1 gearbox, for example.
+second, OwO diwect dwive w-wimits the :tewm:`geaw watio <geaw weduction>` t-to nanievew watio t-the motow geawbox i-is at. rawr x3 one advantage of aww the othew thwee twansmission systems is the abiwity to geaw up ow down, >w< based on a-a team’s nyeeds. d-diwect dwive c-cannot do so, OwO and i-if youw dwivetwain u-uses 40:1 g-geawboxes, UwU thewe is no way to weduce this watio t-to a fastew 20:1 geawbox, UwU fow exampwe.
 
-Third, motor shafts are not built to carry large amounts of downward load. This can lead to bending of the motor shaft, since in direct drive the shaft is only supported by one side, the gearbox. Generally, a principle among all engineers is to support the shaft on both sides, which isn’t possible in this case. This leads to :term:`cantilevering <Cantilever>` the shaft, something that should be avoided in general. Thus, with a heavy robot the motor shafts can easily be bent due to a lack of support. (While typically it is impossible to support a motor shaft on both ends, it is a common rule of thumb to have dual support on wheels or other non-motor shafts.)
+t-thiwd, (U ﹏ U) motow shafts awe n-nyot buiwt to cawwy w-wawge amounts of downwawd woad. (⑅˘꒳˘) this can wead to bending of t-the motow shaft, ( ͡o ω ͡o ) since in diwect dwive the shaft i-is onwy suppowted by one side, ( ͡o ω ͡o ) the geawbox. genewawwy, -.- a pwincipwe a-among aww engineews is to suppowt t-the shaft o-on both sides, (⑅˘꒳˘) which i-isn’t possibwe i-in this case. this weads to :tewm:`cantiwevewing <cantiwevew>` t-the shaft, >w< s-something that shouwd b-be avoided in genewaw. UwU thus, (⑅˘꒳˘) w-with a heavy wobot the motow shafts can easiwy b-be bent due to a-a wack of suppowt. UwU (whiwe typicawwy i-it is impossibwe to suppowt a-a motow shaft on b-both ends, -.- it is a common wuwe o-of thumb to have d-duaw suppowt on w-wheews ow othew nyon-motow shafts.)
 
-Advantages
+a-advantages
 ----------
 
-- Saves space
-- Easy to build; most simple form of transmission
+- saves space
+- easy t-to buiwd; most s-simpwe fowm of t-twansmission
 
-Disadvantages
+disadvantages
 -------------
 
-- Prone to shock loads which destroy the gearbox
-- Limited gear ratio to the motor itself
-- Wears the gearbox of the motor faster
-- Can bend the motor shaft
+- pwone t-to shock woads w-which destwoy the geawbox
+- wimited g-geaw watio t-to the motow itsewf
+- w-weaws the g-geawbox of the m-motow fastew
+- can bend the motow shaft
 
-.. figure:: images/direct-drive/outside-supported-direct-drive.jpg
-   :alt: A drivetrain with the wheel directly driven, but with an externally supported shaft
+.. figuwe:: i-images/diwect-dwive/outside-suppowted-diwect-dwive.jpg
+   :awt: a dwivetwain w-with the wheew diwectwy dwiven, o.O but with an extewnawwy suppowted shaft
 
-   11316, Weapons of Mass Construction
+   11316, OwO weapons of mass constwuction
 
-   *Outside* Supported Direct Drive (**Preferred Version of Direct Drive**)
+   *outside* s-suppowted diwect d-dwive (**pwefewwed vewsion of diwect dwive**)
 
-.. figure:: images/direct-drive/inside-supported-direct-drive.png
-   :alt: A drivetrain with the wheel directly driven, but with an internally supported shaft
+.. f-figuwe:: images/diwect-dwive/inside-suppowted-diwect-dwive.png
+   :awt: a-a dwivetwain w-with the wheew diwectwy dwiven, but with a-an intewnawwy suppowted shaft
 
-   Ethan Doak
+   e-ethan doak
 
-   *Inside* Supported Direct Drive (**Preferred Version of Direct Drive**)
+   *inside* s-suppowted diwect dwive (**pwefewwed vewsion o-of diwect d-dwive**)
 
-.. figure:: images/direct-drive/unsupported-direct-drive.jpg
-   :alt: A drivetrain with the wheel direct mounted, but with an unsupported shaft
+.. figuwe:: i-images/diwect-dwive/unsuppowted-diwect-dwive.jpg
+   :awt: a dwivetwain with the wheew diwect mounted, ʘwʘ but with an unsuppowted s-shaft
 
-   11316, Weapons of Mass Construction
+   11316, >w< weapons of m-mass constwuction
 
-   Unsupported Direct Drive (**not recommended**)
+   u-unsuppowted diwect dwive (**not wecommended**)

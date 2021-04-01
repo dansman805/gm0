@@ -1,107 +1,107 @@
-Vendor Guide
+vendow guide
 ============
 
-Vendor Identification
+v-vendow i-identification
 ---------------------
 
-When you read some Bill of Materials (BOMs) or part numbers that are references in this guide, it might be confusing to find what vendor the part you need comes from. The obvious thing to do is Google the part number, and generally it can identify what you want and where it comes from. But if that fails, here are some quick tips to identify the vendor selling what you need.
+when you w-wead some biww of matewiaws (boms) o-ow pawt nyumbews that awe wefewences i-in this guide, òωó it might be confusing to f-find nyani vendow the pawt you nyeed c-comes fwom. σωσ t-the obvious thing t-to do is googwe the pawt nyumbew, o.O and genewawwy it can identify nani you want and whewe it comes f-fwom. o.O but if that faiws, o.O hewe awe some quick tips to identify the vendow sewwing n-nyani you nyeed. rawr x3
 
-Prefix Identification
+p-pwefix identification
 ^^^^^^^^^^^^^^^^^^^^^
 
-- AM- signifies AndyMark (i.e. AM-0447)
-- REV- signifies REV Robotics (i.e. REV-31-1155)
-- WCP- signifies West Coast Products (i.e. WCP-0117)
-- 217- signifies VEXpro (i.e. 217-6194)
-- 276- signifies VEX EDR (i.e. 276-2193)
+- am- signifies a-andymawk (i.e. σωσ am-0447)
+- wev- signifies wev wobotics (i.e. >w< w-wev-31-1155)
+- wcp- signifies west c-coast pwoducts (i.e. OwO w-wcp-0117)
+- 217- s-signifies v-vexpwo (i.e. rawr x3 217-6194)
+- 276- signifies vex edw (i.e. >w< 276-2193)
 
-SKU Identification
+s-sku identification
 ^^^^^^^^^^^^^^^^^^
 
-- Actuonix: 3-4 digit SKU, alphanumeric, in the form of XX00 or X00 (i.e. PQ12)
-- goBILDA: 12 digit SKU, numerical, in the form of 0000-0000-0000 (i.e. 3213-3606-0001)
-- Pitsco/Tetrix: 6 digit SKU, W + 5 numbers, in the form of W00000 (i.e. W44260)
-- Servocity/Actobotics: 6 digit SKU, numerical, in the form of 000000 (i.e. 615190)
+- actuonix: 3-4 digit s-sku, OwO awphanumewic, UwU i-in the fowm o-of xx00 ow x00 (i.e. UwU pq12)
+- gobiwda: 12 digit sku, nyumewicaw, (U ﹏ U) i-in the fowm of 0000-0000-0000 (i.e. (⑅˘꒳˘) 3213-3606-0001)
+- pitsco/tetwix: 6 d-digit sku, ( ͡o ω ͡o ) w + 5 nyumbews, ( ͡o ω ͡o ) in the fowm of w00000 (i.e. -.- w44260)
+- sewvocity/actobotics: 6 d-digit sku, (⑅˘꒳˘) nyumewicaw, >w< in the fowm of 000000 (i.e. UwU 615190)
 
-Where can I get ...?
+w-whewe can i get ...?
 --------------------
 
-- Motors and Gearboxes
+- motows a-and geawboxes
 
-  - Spur Gear Motors
+  - s-spuw geaw motows
 
-    - :term:`AndyMark NeveRest <NeveRest Motor>` Classic
-    - :term:`REV HD Hex <HD Hex Motor>` & :term:`Core Hex <Core Hex Motor>`
-    - goBILDA 5201 Spur Gear
-    - TETRIX TorqueNado
+    - :tewm:`andymawk n-nyevewest <nevewest motow>` cwassic
+    - :tewm:`wev hd hex <hd hex motow>` & :tewm:`cowe hex <cowe hex motow>`
+    - gobiwda 5201 spuw geaw
+    - tetwix t-towquenado
 
-  - Planetary Gearbox Motors (recommended)
+  - p-pwanetawy geawbox m-motows (wecommended)
 
-    - :term:`AndyMark NeveRest <NeveRest Motor>` Orbital
-    - :term:`REV HD Hex <HD Hex Motor>` Planetary & *UltraPlanetary*
-    - :term:`goBILDA 5202 Yellow Jacket Planetary <Yellow Jacket Motor>`
-    - VEX *VersaPlanetary Lite* (gearbox only)
-    - (*italicized* = customizable gearbox ratio)
+    - :tewm:`andymawk n-nyevewest <nevewest m-motow>` owbitaw
+    - :tewm:`wev h-hd hex <hd hex motow>` pwanetawy & *uwtwapwanetawy*
+    - :tewm:`gobiwda 5202 yewwow jacket p-pwanetawy <yewwow jacket motow>`
+    - v-vex *vewsapwanetawy wite* (geawbox onwy)
+    - (*itawicized* = c-customizabwe g-geawbox watio)
 
-- Servos
+- sewvos
 
-  - HiTec (from ServoCity); 24 tooth spline
-  - REV Smart Robot Servo; 25 tooth spline
-  - goBILDA Dual Mode Servo; 25 tooth spline
-  - Futaba (Futaba servos are widely used in RC and hobby aircraft); 25 tooth spline
-  - Savox heavy-duty servos; 25 tooth spline
-  - Actuonix (linear actuators)
-  - :term:`VEX 393 EDR`; 1/8" square shaft
+  - hitec (fwom sewvocity); 24 t-tooth spwine
+  - wev smawt wobot sewvo; 25 tooth s-spwine
+  - gobiwda duaw mode sewvo; 25 tooth spwine
+  - futaba (futaba s-sewvos awe widewy used in w-wc and hobby aiwcwaft); 25 t-tooth s-spwine
+  - savox h-heavy-duty sewvos; 25 tooth s-spwine
+  - actuonix (wineaw a-actuatows)
+  - :tewm:`vex 393 e-edw`; 1/8" squawe shaft
 
-- Sensors
+- s-sensows
 
-  - AndyMark
-  - REV
+  - andymawk
+  - wev
 
-- Hardware & Raw Materials
+- hawdwawe & w-waw matewiaws
 
-  - McMaster-Carr
-  - OnlineMetals
-  - Amazon
-  - Local hardware store
+  - m-mcmastew-caww
+  - onwinemetaws
+  - a-amazon
+  - wocaw hawdwawe s-stowe
 
-- Aluminum Components
+- awuminum c-components
 
-  - Actobotics :term:`channel <Channel>`, mini :term:`channel <Channel>`, X-rail :term:`extrusion <Extrusion>`
-  - REV extrusion, C :term:`channel <Channel>`, U :term:`channel <Channel>`
-  - goBILDA :term:`channel <Channel>`, goRAIL :term:`extrusion <Extrusion>`
-  - TETRIX :term:`channel <Channel>`
-  - MiSUMI :term:`extrusion <Extrusion>`
+  - actobotics :tewm:`channew <channew>`, (⑅˘꒳˘) m-mini :tewm:`channew <channew>`, UwU x-x-waiw :tewm:`extwusion <extwusion>`
+  - w-wev extwusion, -.- c :tewm:`channew <channew>`, o.O u-u :tewm:`channew <channew>`
+  - gobiwda :tewm:`channew <channew>`, OwO g-gowaiw :tewm:`extwusion <extwusion>`
+  - t-tetwix :tewm:`channew <channew>`
+  - misumi :tewm:`extwusion <extwusion>`
 
-- Gears/Sprockets/Pulleys
+- g-geaws/spwockets/puwweys
 
-  - REV :term:`gears <Gear>`, :term:`sprockets <Sprocket>`, pulleys
-  - Actobotics :term:`gears <Gear>`, :term:`sprockets <Sprocket>`, pulleys
-  - goBILDA :term:`gears <Gear>`, :term:`sprockets <Sprocket>`, pulleys
-  - TETRIX :term:`gears <Gear>` and pulleys
-  - AndyMark :term:`gears <Gear>` and pulleys
-  - VEX :term:`gears <Gear>`, :term:`sprockets <Sprocket>`, pulleys
+  - wev :tewm:`geaws <geaw>`, ʘwʘ :tewm:`spwockets <spwocket>`, >w< p-puwweys
+  - a-actobotics :tewm:`geaws <geaw>`, >w< :tewm:`spwockets <spwocket>`, (˘ω˘) puwweys
+  - g-gobiwda :tewm:`geaws <geaw>`, òωó :tewm:`spwockets <spwocket>`, OwO puwweys
+  - t-tetwix :tewm:`geaws <geaw>` a-and puwweys
+  - a-andymawk :tewm:`geaws <geaw>` a-and puwweys
+  - vex :tewm:`geaws <geaw>`, OwO :tewm:`spwockets <spwocket>`, (⑅˘꒳˘) puwweys
 
-- Wheels
+- w-wheews
 
-  - AndyMark traction, :term:`compliant <Compliant Wheel>`, :term:`mecanum wheel <Mecanum Wheel>`
-  - REV grip, traction, :term:`omni <Omni Wheel>`, :term:`mecanum wheel <Mecanum Wheel>`
-  - ServoCity traction, :term:`omni wheel <Omni Wheel>`
-  - goBILDA traction, :term:`omni <Omni Wheel>`, :term:`mecanum wheel <Mecanum Wheel>`
-  - VEX colson traction and :term:`mecanum wheel <Mecanum Wheel>`
-  - TETRIX traction, :term:`omni <Omni Wheel>`, :term:`mecanum wheel <Mecanum Wheel>`
-  - Nexus :term:`mecanum wheel <Mecanum Wheel>`
+  - andymawk twaction, (///ˬ///✿) :tewm:`compwiant <compwiant w-wheew>`, (ꈍᴗꈍ) :tewm:`mecanum wheew <mecanum wheew>`
+  - wev gwip, (U ﹏ U) twaction, UwU :tewm:`omni <omni wheew>`, OwO :tewm:`mecanum wheew <mecanum w-wheew>`
+  - sewvocity t-twaction, òωó :tewm:`omni wheew <omni wheew>`
+  - gobiwda twaction, UwU :tewm:`omni <omni w-wheew>`, (⑅˘꒳˘) :tewm:`mecanum w-wheew <mecanum w-wheew>`
+  - vex cowson twaction and :tewm:`mecanum w-wheew <mecanum wheew>`
+  - t-tetwix twaction, σωσ :tewm:`omni <omni w-wheew>`, (///ˬ///✿) :tewm:`mecanum wheew <mecanum w-wheew>`
+  - n-nyexus :tewm:`mecanum w-wheew <mecanum wheew>`
 
-- Linear Slide Kits
+- wineaw swide kits
 
-  - REV 15 mm :term:`extrusion <Extrusion>` slide kit
-  - Actobotics linear slide kit
-  - goBILDA linear slide kit
+  - wev 15 mm :tewm:`extwusion <extwusion>` s-swide kit
+  - actobotics wineaw s-swide kit
+  - g-gobiwda wineaw swide kit
 
-- Drawer Slides
+- dwawew swides
 
-  - MiSUMI SAR2 or SAR3 aluminum slide
-  - Long Robotics Slides
-  - Hafele cabinet slide
-  - Steel-rolled drawer slide
-  - Igus
+  - m-misumi saw2 ow s-saw3 awuminum swide
+  - wong wobotics swides
+  - h-hafewe cabinet swide
+  - steew-wowwed dwawew swide
+  - igus

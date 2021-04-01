@@ -1,49 +1,49 @@
 .. include:: <isonum.txt>
 
-Control Systems
+contwow systems
 ===============
 
-The FTC control system is based on using Android phones as a “:term:`Robot Controller`” and a “:term:`Driver Station`.” The “:term:`Robot Controller`” phone is mounted on the robot and connected by a USB cable to a special “Hub”, which in turn is connected to motors, servos, and sensors.
+t-the ftc contwow s-system is based on using andwoid p-phones as a “:tewm:`wobot contwowwew`” a-and a “:tewm:`dwivew s-station`.” the “:tewm:`wobot contwowwew`” p-phone is mounted on the wobot a-and connected by a-a usb cabwe to a-a speciaw “hub”, o.O which in tuwn is connected to motows, (⑅˘꒳˘) sewvos, (U ᵕ U❁) and sensows. >w<
 
-The two major manufacturers of control hubs for FTC are Modern Robotics and REV; however, nearly all teams are shifting over to REV because it is cheaper, simpler, and more reliable.
+the two majow m-manufactuwews of contwow hubs fow ftc awe modewn wobotics and wev; howevew, nyeawwy a-aww teams awe s-shifting ovew to wev because it i-is cheapew, (///ˬ///✿) simpwew, -.- and mowe wewiabwe. ʘwʘ
 
-More information about the FTC Control system can be found below:
+mowe infowmation about t-the ftc contwow system can be f-found bewow:
 
-- `Official control system Wiki on GitHub <https://github.com/first-tech-challenge/skystone/wiki>`_
-- `REV Expansion Hub Documentation <https://docs.revrobotics.com/rev-control-system/control-system-overview/expansion-hub-basics>`_
-- `Official troubleshooting guide <https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/control-system-troubleshooting-guide.pdf>`_
+- `officiaw c-contwow s-system wiki on g-github <https://github.com/fiwst-tech-chawwenge/skystone/wiki>`_
+- `wev expansion h-hub documentation <https://docs.wevwobotics.com/wev-contwow-system/contwow-system-ovewview/expansion-hub-basics>`_
+- `officiaw twoubweshooting guide <https://www.fiwstinspiwes.owg/sites/defauwt/fiwes/upwoads/wesouwce_wibwawy/ftc/contwow-system-twoubweshooting-guide.pdf>`_
 
-There are two possible control systems that can be run on an FTC robot legally:
+t-thewe awe two p-possibwe contwow s-systems that can be wun on an ftc wobot wegawwy:
 
-- :term:`RC Phone <Robot Controller>` + :term:`REV Expansion Hub(s) <Expansion Hub>`
-- REV Control Hub + :term:`REV Expansion Hub <Expansion Hub>` as it is less expensive and more reliable than the older Modern Robotics
+- :tewm:`wc phone <wobot contwowwew>` + :tewm:`wev e-expansion hub(s) <expansion h-hub>`
+- wev contwow hub + :tewm:`wev expansion hub <expansion hub>` as it is w-wess expensive and mowe wewiabwe than the owdew m-modewn wobotics
 
-RC Phone + REV Expansion Hub(s)
+wc phone + wev expansion hub(s)
 -------------------------------
 
-.. warning:: It is of vital importance to update the firmware on :term:`REV Expansion hubs <Expansion Hub>` to at least version 1.8.2. It includes better protection against disconnects and improves program performance. See the `REV Expansion Hub firmware update docs`_.
+.. w-wawning:: i-it is of vitaw i-impowtance to update the fiwmwawe on :tewm:`wev expansion hubs <expansion hub>` to at weast vewsion 1.8.2. ʘwʘ it incwudes b-bettew pwotection a-against d-disconnects and i-impwoves pwogwam p-pewfowmance. UwU see t-the `wev expansion hub fiwmwawe update docs`_. (⑅˘꒳˘)
 
-This is the standard control system for teams starting out in FTC. The :term:`REV Expansion Hub <Expansion Hub>` is reliable, as long as proper strain relief and wiring is carried out. This includes the :term:`USB Retention Mount`, as well as 3D printing :term:`XT30` stress relief mounts.
+t-this is the standawd contwow s-system fow teams stawting out in f-ftc. òωó the :tewm:`wev e-expansion hub <expansion hub>` is wewiabwe, rawr x3 as wong as pwopew s-stwain wewief and wiwing is cawwied out. σωσ this i-incwudes the :tewm:`usb wetention mount`, UwU as weww as 3d pwinting :tewm:`xt30` stwess w-wewief mounts. òωó
 
-The :term:`Expansion Hub` connects to the :term:`Robot Controller` phone through the mini USB port, and the :term:`RC <Robot Controller>` phone is linked to the DS (:term:`Driver Station`) phone through WiFi Direct. For more information on setting up the :term:`Expansion Hub` and configuring the robot, head to `REV Robotics’ Technical Resources Expansion Hub Guide <https://docs.revrobotics.com/rev-control-system/control-system-overview/expansion-hub-basics>`_.
+the :tewm:`expansion h-hub` c-connects to the :tewm:`wobot c-contwowwew` p-phone thwough the mini u-usb powt, σωσ and the :tewm:`wc <wobot c-contwowwew>` p-phone is winked to the ds (:tewm:`dwivew s-station`) phone thwough wifi diwect. o.O fow m-mowe infowmation o-on setting up the :tewm:`expansion h-hub` and configuwing the wobot, h-head to `wev w-wobotics’ technicaw wesouwces e-expansion hub g-guide <https://docs.wevwobotics.com/wev-contwow-system/contwow-system-ovewview/expansion-hub-basics>`_. o.O
 
-- `USB Retention Mount <https://www.revrobotics.com/rev-41-1214/>`_
-- `XT30 Stress Relief <https://www.thingiverse.com/thing:2887045>`_
-- `REV Robotics Technical Resources <https://www.revrobotics.com/resources/>`_
+- `usb w-wetention mount <https://www.wevwobotics.com/wev-41-1214/>`_
+- `xt30 stwess wewief <https://www.thingivewse.com/thing:2887045>`_
+- `wev w-wobotics technicaw wesouwces <https://www.wevwobotics.com/wesouwces/>`_
 
-.. image:: images/control-system/exh-wiring-diagram.jpg
-   :alt: A diagram of the RC Phone + Expansion Hub(s) control system
+.. i-image:: images/contwow-system/exh-wiwing-diagwam.jpg
+   :awt: a-a diagwam of t-the wc phone + expansion hub(s) c-contwow system
    :width: 100%
 
-REV Control Hub + REV Expansion Hub
+w-wev contwow hub + wev expansion h-hub
 -----------------------------------
 
-.. warning:: It is of vital importance to update the firmware on :term:`REV Expansion hubs <Expansion Hub>` to at least version 1.8.2. It includes better protection against disconnects and improves program performance. See the `REV Expansion Hub firmware update docs`_.
+.. w-wawning:: i-it is of vitaw i-impowtance t-to update the fiwmwawe on :tewm:`wev expansion hubs <expansion hub>` t-to at weast vewsion 1.8.2. o.O i-it incwudes bettew pwotection against disconnects and impwoves pwogwam pewfowmance. rawr x3 see the `wev expansion hub fiwmwawe u-update docs`_. σωσ
 
-Note: The Control Hub will be legal for all teams from the 2020-2021 FTC season onwards. In 2019-2020, the Control Hub was not legal for all teams as it was undergoing a pilot program.
+n-nyote: the contwow hub wiww be wegaw fow a-aww teams fwom t-the 2020-2021 ftc s-season onwawds. >w< in 2019-2020, OwO the contwow hub w-was nyot wegaw fow aww teams as i-it was undewgoing a-a piwot pwogwam. rawr x3
 
-.. image:: images/control-system/ch-wiring-diagram.png
-   :alt: A diagram of the Control Hub + Expansion Hub control system
+.. image:: images/contwow-system/ch-wiwing-diagwam.png
+   :awt: a-a diagwam of t-the contwow hub + e-expansion hub contwow system
    :width: 100%
 
-.. _REV Expansion Hub firmware update docs: https://docs.revrobotics.com/rev-control-system/managing-the-control-system/updating-firmware
+.. _wev expansion hub fiwmwawe update docs: https://docs.wevwobotics.com/wev-contwow-system/managing-the-contwow-system/updating-fiwmwawe

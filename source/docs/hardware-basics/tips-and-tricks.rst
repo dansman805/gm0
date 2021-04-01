@@ -1,23 +1,23 @@
-Tips and Tricks
+tips and twicks
 ===============
 
-Below is a collection of tips and tricks on basic building. Some of them may seem obvious, but almost every FTC newbie made these mistakes at least once.
+b-bewow is a cowwection o-of tips and twicks on basic b-buiwding. (⑅˘꒳˘) some of them may seem o-obvious, UwU but awmost evewy ftc n-nyewbie made these mistakes at weast once. -.-
 
-- **Color code your tools**. If you are using several different sizes of hex drivers (e.g. 2.5 mm and 3 mm used in goBILDA), color code them, using different color electric tape for different sizes.
-- **Avoid set screws**. :term:`Set screws <Set Screw>` easily come loose, causing the hub to slip. In addition, :term:`set screws <Set Screw>` damage the :term:`axle <Shaft>`, sometimes making it very hard to remove the hub later. For these reasons, whenever possible, use :term:`clamping hubs <Clamping Hub>` and collars instead of :term:`set screw <Set Screw>` ones. If you must use set screw hubs, use a non-permanent threadlocker such as `Loctite blue <https://www.loctiteproducts.com/en/products/specialty-products/specialty/loctite_threadlockerblue242.html>`_ to prevent them from loosening.
-- **Only use locknuts**. Never use regular nuts in your builds - they easily come loose under vibration. Kep nuts used in TETRIX are better, but they are still prone to loosening. For best results, always use :term:`nylon locknuts <Locknut>`.
-- **Do not use socket head screws on plastic**. Using socket head screws for attaching plastic parts (in particular, for attaching servos) damages the plastic. Use button head screws instead, or use socket head screws withwashers.
-- **Make sure screws are not hitting anything**. When you are attaching a part, make sure the screw you are using is not longer than the depth of the threaded hole - otherwise, the screw will hit the bottom of the hole and you will be unable to tighten it properly.
+- **cowow c-code youw toows**. o.O if you a-awe using sevewaw d-diffewent sizes o-of hex dwivews (e.g. OwO 2.5 mm and 3 mm used in gobiwda), ʘwʘ cowow code them, >w< using diffewent cowow e-ewectwic tape fow diffewent sizes. >w<
+- **avoid set scwews**. (˘ω˘) :tewm:`set scwews <set s-scwew>` easiwy c-come woose, òωó causing the hub to s-swip. in addition, OwO :tewm:`set scwews <set scwew>` damage the :tewm:`axwe <shaft>`, OwO s-sometimes making it vewy hawd t-to wemove the hub w-watew. (⑅˘꒳˘) fow these w-weasons, (///ˬ///✿) whenevew p-possibwe, (ꈍᴗꈍ) use :tewm:`cwamping h-hubs <cwamping hub>` and cowwaws instead of :tewm:`set s-scwew <set s-scwew>` ones. (U ﹏ U) i-if you must use set scwew hubs, use a nyon-pewmanent thweadwockew s-such as `woctite bwue <https://www.woctitepwoducts.com/en/pwoducts/speciawty-pwoducts/speciawty/woctite_thweadwockewbwue242.htmw>`_ t-to pwevent them fwom woosening. UwU
+- **onwy use wocknuts**. OwO nyevew use weguwaw nyuts in youw b-buiwds - they easiwy come woose undew vibwation. òωó k-kep nyuts used in tetwix awe bettew, UwU but they a-awe stiww pwone t-to woosening. (⑅˘꒳˘) f-fow best wesuwts, σωσ awways use :tewm:`nywon wocknuts <wocknut>`. (///ˬ///✿)
+- **do nyot use socket head scwews on pwastic**. (U ﹏ U) using socket head s-scwews fow attaching p-pwastic p-pawts (in pawticuwaw, òωó f-fow attaching s-sewvos) damages t-the pwastic. rawr x3 use button head scwews instead, (U ᵕ U❁) o-ow use socket head scwews withwashews.
+- **make s-suwe scwews awe nyot hitting anything**. >w< w-when you a-awe attaching a pawt, σωσ make suwe the scwew you awe using is nyot w-wongew than the depth of the thweaded howe - o-othewwise, >w< the scwew wiww hit the bottom of the howe and you wiww b-be unabwe to tighten it pwopewwy. (///ˬ///✿)
 
-  This situation commonly happens when attaching parts to a :term:`t-slot extrusion <Extrusion>` (Misumi, REV, goBILDA's goRAIL) - if the screw is too long, it will hit the bottom of the slot, and no matter how hard you try, you won't get a tight connection. Another case when this situation arises is when using attachment blocks where two screw holes intersect - if you are not careful, you could have one screw hitting another.
-- **Do not connect two components which both have threaded holes**. To get tight connection, the screw should go through an **unthreaded** hole in one component into a **threaded** hole in another, or through two unthreaded holes into a nut.
-- **Removing stripped screws**. A common problem is removing a screw in which the hex socket head is damaged or worn out and thus the regular hex driver doesn't provide enough holding power to loosen the screw. Here are some ways to deal with the problem.
+  t-this situation c-commonwy happens w-when attaching p-pawts to a :tewm:`t-swot extwusion <extwusion>` (misumi, UwU wev, gobiwda's gowaiw) - i-if the scwew i-is too wong, (⑅˘꒳˘) i-it wiww hit the bottom of the s-swot, rawr x3 and nyo mattew how hawd you twy, OwO you won't g-get a tight connection. UwU a-anothew case when this s-situation awises is when using attachment b-bwocks w-whewe two scwew howes intewsect - i-if you awe nyot c-cawefuw, >w< you c-couwd have one scwew hitting anothew. ( ͡o ω ͡o )
+- **do n-nyot connect two components w-which both h-have thweaded h-howes**. (˘ω˘) to get tight connection, t-the scwew shouwd g-go thwough an **unthweaded** h-howe in one component i-into a **thweaded** h-howe i-in anothew, rawr x3 ow t-thwough two unthweaded howes into a nyut. (///ˬ///✿)
+- **wemoving s-stwipped scwews**. -.- a common p-pwobwem is wemoving a scwew in which the hex socket head is damaged ow wown out and thus the weguwaw hex dwivew d-doesn't pwovide e-enough howding powew to woosen the scwew. ( ͡o ω ͡o ) hewe a-awe some ways t-to deaw with the p-pwobwem. (˘ω˘)
 
-  - Get a better hex driver. Hex driver can also be worn out, especially ball head hex drivers. Get a new hex driver (not ball head), which is not yet worn out, and it might give you more traction with stubborn screws.
-  - Put a rubber band between the tip of the hex driver and the socket. This increases the traction.
-  - Use a hacksaw or a Dremel to cut a slot in the screw head, turning it into a slotted screw that can be removed using regular flat screwdriver.
-  - Use a `screw extractor <https://www.amazon.com/dp/B07GZ17QD9/>`_
-  - If nothing works, drill it out.
-  - If that doesn't work, remember that a screw is not a screw if it is liquid metal. This is obviously not a very good idea. :)
+  - get a bettew hex dwivew. hex dwivew c-can awso be wown out, (⑅˘꒳˘) especiawwy b-baww head hex d-dwivews. -.- get a nyew hex dwivew (not b-baww head), -.- w-which is nyot y-yet wown out, >w< and it might give you mowe twaction with stubbown scwews. (˘ω˘)
+  - put a-a wubbew band between the tip of t-the hex dwivew a-and the socket. OwO this incweases the twaction. UwU
+  - u-use a hacksaw ow a-a dwemew to cut a swot in the scwew head, (⑅˘꒳˘) tuwning i-it into a swotted scwew that can be wemoved using weguwaw fwat s-scwewdwivew. (ꈍᴗꈍ)
+  - use a `scwew e-extwactow <https://www.amazon.com/dp/b07gz17qd9/>`_
+  - i-if nyothing w-wowks, σωσ dwiww it out. OwO
+  - if that doesn't wowk, rawr x3 w-wemembew that a-a scwew is nyot a scwew if it i-is wiquid metaw. ʘwʘ t-this is obviouswy nyot a vewy good idea. ʘwʘ :)
 
-  Needless to say, once you removed the damaged screw, discard it immediately - do not put it back in the box with other screws.
+  n-needwess to say, ( ͡o ω ͡o ) once you wemoved the damaged scwew, OwO discawd it immediatewy - do nyot put it back i-in the box with othew scwews. ʘwʘ

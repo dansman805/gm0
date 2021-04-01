@@ -1,178 +1,178 @@
 .. include:: <isonum.txt>
 
-Holonomic Drivetrains
+howonomic dwivetwains
 =====================
 
-Mecanum Drive
+m-mecanum d-dwive
 -------------
 
-Mecanum drivetrains consist of four mecanum wheels which are powered independently by one motor. This configuration angles the velocity of each wheel, allowing the robot to strafe.
+mecanum d-dwivetwains consist of fouw mecanum w-wheews which awe powewed independentwy b-by one motow. ( ͡o ω ͡o ) this configuwation angwes t-the vewocity of each wheew, (U ﹏ U) a-awwowing the wobot t-to stwafe. (U ᵕ U❁)
 
-The primary advantage to mecanum drive is the maneuverability it affords, especially because the robot can strafe instead of turn and drive. The rollers on mecanum wheels form a 45 degree angle with the wheel’s axis of rotation, which means that mecanum drivetrains can’t strafe as fast as they can drive forward.
+the p-pwimawy advantage to mecanum dwive is the maneuvewabiwity it affowds, (///ˬ///✿) especiawwy because the w-wobot can stwafe instead of tuwn and dwive. the wowwews on mecanum wheews fowm a 45 d-degwee angwe w-with the wheew’s axis of wotation, σωσ w-which means that mecanum dwivetwains can’t stwafe as fast a-as they can dwive fowwawd. rawr x3
 
-This can be explained by discussing the forces involved. When each wheel rotates, it applies a friction force to the ground, which moves the robot. When moving forward, both sets of left wheels rotate in the same direction at the same speed, and both sets of right wheels rotate in the same direction at the same speed, meaning that the forces do not oppose each other. However, when strafing, neither the two left wheels nor the two right wheels are rotating at the same speed. In many cases, they even rotate in opposite directions.
+this c-can be expwained b-by discussing t-the fowces invowved. òωó w-when each wheew wotates, OwO i-it appwies a fwiction fowce to the gwound, ʘwʘ which m-moves the wobot. (ꈍᴗꈍ) w-when moving fowwawd, ( ͡o ω ͡o ) b-both sets of weft wheews wotate in the same diwection at t-the same speed, UwU and both sets of w-wight wheews wotate in the same diwection at the same speed, σωσ meaning that the fowces d-do nyot oppose each othew. (U ﹏ U) howevew, when stwafing, (///ˬ///✿) n-nyeithew the two weft wheews nyow the two w-wight wheews a-awe wotating at t-the same speed. (˘ω˘) in many cases, (˘ω˘) they even wotate in opposite diwections. ʘwʘ
 
-These two opposing forces cause the rollers to slip more and more, which angles the robot’s velocity at the expense of traction (more slipping results in a loss of speed). However, the wheels do still slip when moving forward but not as drastically as they do when strafing.
+these two opposing fowces cause the wowwews t-to swip mowe a-and mowe, (U ﹏ U) which a-angwes the wobot’s v-vewocity a-at the expense of t-twaction (mowe swipping wesuwts in a woss of speed). (ꈍᴗꈍ) h-howevew, (U ﹏ U) the wheews do stiww s-swip when moving fowwawd but n-nyot as dwasticawwy a-as they do when stwafing. ʘwʘ
 
-This is the primary disadvantage to mecanum drivetrains: they tend not to have much pushing power and thus, are vulnerable to defense by a sturdy tank drive.
+this is the pwimawy disadvantage t-to mecanum dwivetwains: they tend not to have much p-pushing powew and thus, rawr x3 awe vuwnewabwe to defense by a stuwdy t-tank dwive. (U ﹏ U)
 
-Due to the fact that mecanum wheels are more likely to slip because of the diagonal rollers, an optional addition to mecanum drives is a separate odometry mechanism in order to track the robot’s location during autonomous.
+due to the fact that m-mecanum wheews a-awe mowe wikewy t-to swip because o-of the diagonaw wowwews, òωó an optionaw a-addition t-to mecanum dwives i-is a sepawate odometwy mechanism i-in owdew to twack the wobot’s wocation duwing a-autonomous. (U ᵕ U❁)
 
-.. attention::
+.. a-attention::
 
-   It is important to note that in order to maximize the efficiency and stability of mecanum drives, when viewed from above, the rollers of each wheel should point towards the center of the robot, forming an X shape, rather than a rhombus.
+   it is impowtant t-to nyote that in owdew to maximize t-the efficiency a-and stabiwity of mecanum dwives, (U ᵕ U❁) w-when viewed f-fwom above, σωσ the w-wowwews of each wheew shouwd p-point towawds the centew of the w-wobot, -.- fowming an x-x shape, rawr x3 wathew t-than a whombus. o.O
 
-   The primary reason for this is that it allows the drivetrain to turn significantly faster than it would otherwise be able to. When using the suggested setup, when viewed from the robot’s underside, the rollers form a rhombus. This allows the force applied by the wheels on the ground to act tangent to the turn radius, leading to faster turning.
+   the pwimawy w-weason fow this i-is that it awwows the dwivetwain t-to tuwn significantwy f-fastew t-than it wouwd othewwise b-be abwe t-to. (˘ω˘) when using the suggested setup, OwO when viewed f-fwom the wobot’s undewside, σωσ the w-wowwews fowm a whombus. òωó this awwows the fowce appwied by the wheews on the gwound to act tangent to the tuwn wadius, (ꈍᴗꈍ) w-weading to f-fastew tuwning. o.O
 
-Advantages
+advantages
 ^^^^^^^^^^
 
-- Fantastic maneuverability and agility due to strafing, can avoid defense very well
-- Good acceleration, can have high top speed
-- Very versatile drivetrain for nearly any game
+- fantastic m-maneuvewabiwity a-and agiwity d-due to stwafing, UwU can avoid defense vewy weww
+- g-good accewewation, (ꈍᴗꈍ) can have high t-top speed
+- vewy v-vewsatiwe dwivetwain fow nyeawwy a-any game
 
-Disadvantages
+disadvantages
 ^^^^^^^^^^^^^
 
-- Suffers in traction, as mecanum rollers have a lower coefficient of friction than traction wheels; cannot traverse terrain
-- Able to be pushed around on defense
-- Wheels must be powered independently, so there is no redundancy
+- s-suffews i-in twaction, ( ͡o ω ͡o ) as mecanum wowwews have a wowew coefficient of fwiction than twaction w-wheews; cannot twavewse t-tewwain
+- abwe to b-be pushed awound on defense
+- wheews must be powewed i-independentwy, ʘwʘ s-so thewe is nyo wedundancy
 
-.. figure:: images/holonomic/gobilda-mecanum-direction.png
-   :alt: Diagram of mecanum directions
+.. figuwe:: images/howonomic/gobiwda-mecanum-diwection.png
+   :awt: d-diagwam of mecanum diwections
    :width: 100%
 
-   Configuration for mecanum wheels, courtesy goBILDA
+   configuwation fow mecanum w-wheews, rawr x3 couwtesy gobiwda
 
-Mecanum Wheels Miniguide
+mecanum w-wheews miniguide
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-There are plenty of mecanum wheels on the market, and it can be very daunting to choose between the many vendors. An important feature is the type of mechanism that facilitates the motion, either :term:`bushing <Bushing>` or :term:`bearing <Ball Bearing>`. Bearing based mecanum wheels often have superior strafing because there is less resistance for the rollers to overcome. Another important note is that some FTC teams invest in 6 inch mecanum wheels instead of 3 or 4 inch mecanum wheels, often at a much higher price. **It is highly recommended that teams stick with 3 or 4 inch mecanum wheels**. Here is a general list of the mecanum options ranked in order of recommendation.
+thewe a-awe pwenty o-of mecanum wheews on the mawket, (⑅˘꒳˘) and it can be vewy d-daunting to c-choose between the many vendows. ( ͡o ω ͡o ) a-an impowtant featuwe i-is the type of mechanism that faciwitates t-the motion, òωó eithew :tewm:`bushing <bushing>` ow :tewm:`beawing <baww beawing>`. ʘwʘ beawing based mecanum wheews often have supewiow s-stwafing because thewe is wess wesistance fow the wowwews to ovewcome. (ꈍᴗꈍ) anothew i-impowtant nyote i-is that some ftc t-teams invest in 6 i-inch mecanum w-wheews instead of 3 ow 4 inch mecanum w-wheews, òωó often a-at a much highew p-pwice. **it is highwy wecommended that teams s-stick with 3 ow 4 i-inch mecanum wheews**. (U ﹏ U) hewe i-is a genewaw wist o-of the mecanum options wanked in owdew of wecommendation. (˘ω˘)
 
-1. `goBILDA Mecanum Wheels`_ ($105 with team discount): This recent addition to the lineup has become one of the strongest options for its variety of positive attributes. goBILDA Mecanum wheels are based on the tried and tested Nexus bearing mecanum wheels, which means it has fantastic strafing.
+1. `gobiwda mecanum wheews`_ ($105 w-with team discount): t-this wecent addition to the w-wineup has become o-one of the stwongest options f-fow its vawiety of positive attwibutes. (˘ω˘) gobiwda mecanum wheews awe based on the t-twied and tested nyexus beawing m-mecanum wheews, (///ˬ///✿) which means it has fantastic stwafing. (///ˬ///✿)
 
-   They are also very robustly built, and are significantly more convenient to mount to FTC standard build systems. Thy have a built in goBILDA 16mm and 32mm hole pattern, and has easy support for dead axle.
+   they awe awso vewy wobustwy buiwt, UwU and awe significantwy mowe convenient to mount to ftc standawd buiwd systems. -.- thy h-have a buiwt in gobiwda 16mm and 32mm h-howe pattewn, >w< and has easy suppowt fow dead a-axwe. (ꈍᴗꈍ)
 
-   You can mount hubs in wheels and goBILDA mecanum wheels can easily mount to 1/2" Hex, 3/8" Hex, 12 mm REX, 6 mm D, 1/4" D, and many other shafts. Hubs can also be mounted inside the wheel for very low profile mounting. It is also the cheapest bearing mecanum on the market.
+   you can mount hubs in w-wheews and gobiwda mecanum wheews c-can easiwy mount t-to 1/2" hex, rawr x3 3/8" hex, (⑅˘꒳˘) 12 mm w-wex, 6 mm d, rawr x3 1/4" d-d, o.O and many o-othew shafts. -.- hubs c-can awso be mounted inside the w-wheew fow vewy w-wow pwofiwe mounting. rawr x3 it is awso the cheapest beawing mecanum on the mawket.
 
-   Due to its convenient mounting and fantastic strafing performance, we recommend all teams consider goBILDA mecanum wheels.
+   d-due to its convenient m-mounting and fantastic stwafing pewfowmance, rawr x3 we wecommend a-aww teams considew g-gobiwda mecanum wheews. (˘ω˘)
 
-   .. note:: These are tied with the `REV 75mm Mecanum Wheels`_ ($76.50 with team discount): These mecanums are uniquely positioned due to their compact size, at just 75mm (~3 inches) in diameter and 40mm wide. They can be easily mounted to 5mm hex shaft with an included adapter. They are also bearing based, which give them great strafing performance.
+   .. n-nyote:: these awe tied with the `wev 75mm mecanum w-wheews`_ ($76.50 with team d-discount): these mecanums awe uniquewy positioned due to theiw c-compact size, at j-just 75mm (~3 inches) i-in diametew and 40mm wide. σωσ they can be easiwy mounted to 5mm hex shaft with a-an incwuded adaptew. t-they awe a-awso beawing based, (///ˬ///✿) w-which give them gweat stwafing pewfowmance. -.-
 
-2. `Nexus Bearing Mecanum Wheel`_ ($134): This was the old gold standard, and still has fantastic performance for the price.
+2. σωσ `nexus beawing mecanum wheew`_ ($134): t-this w-was the owd gowd standawd, òωó and s-stiww has fantastic p-pewfowmance fow the pwice. (U ﹏ U)
 
-   This has identical performance with goBILDA mecanum wheels, however is slightly less convenient to mount to. However, these wheels feature the 1.875" bolt pattern commonly used in FRC\ |reg| motion products.
+   t-this has identicaw p-pewfowmance w-with gobiwda mecanum wheews, (˘ω˘) howevew is swightwy w-wess convenient t-to mount to. h-howevew, rawr x3 these wheews f-featuwe the 1.875" b-bowt pattewn commonwy used in fwc\ |weg| m-motion pwoducts. rawr x3
 
-   It is also slightly heavier than goBILDA Mecanum wheels. Many teams will 3D print adapters or build new cores for Nexus Mecanum wheels. Even though the goBILDA mecanum offer advantages and very few disadvantages over Nexus bearing wheels, these wheels remain a solid option.
+   i-it is awso s-swightwy heaview than gobiwda mecanum wheews. (ꈍᴗꈍ) m-many teams wiww 3d p-pwint adaptews o-ow buiwd nyew c-cowes fow nexus m-mecanum wheews. o.O even though the g-gobiwda mecanum o-offew advantages and vewy few disadvantages o-ovew nyexus beawing w-wheews, OwO these wheews wemain a sowid o-option. σωσ
 
-3. `AndyMark Heavy Duty 4” Mecanum Wheel`_ ($225): These are easily the most expensive mecanum wheels on the list. These are bushing based mecanum, so they have decent strafing, albeit not as good as the goBILDA and the Nexus bearing mecanum wheels.
+3. `andymawk heavy d-duty 4” mecanum wheew`_ ($225): t-these awe easiwy the most expensive mecanum wheews o-on the wist. o.O t-these awe bushing based mecanum, σωσ so they have d-decent stwafing, σωσ awbeit nyot as good as the gobiwda and the nexus beawing mecanum wheews. (ꈍᴗꈍ)
 
-   What sets these mecanum wheels apart is the 80A roller material. AndyMark HD mecanum wheels have higher traction than all other mecanum wheels, which make them desirable for climbing terrain. For example, during the Relic Recovery season, teams had to climb a “balancing stone”, and many teams chose to use the AndyMark HD mecanum wheels to be easily able to climb the balancing stone.
+   what s-sets these mecanum w-wheews apawt i-is the 80a wowwew m-matewiaw. (U ﹏ U) andymawk h-hd mecanum wheews have highew twaction than a-aww othew mecanum w-wheews, (U ﹏ U) which make them desiwabwe f-fow cwimbing tewwain. (˘ω˘) fow e-exampwe, ( ͡o ω ͡o ) duwing the wewic wecovewy s-season, σωσ teams had to cwimb a-a “bawancing stone”, σωσ a-and many t-teams chose to use the andymawk h-hd mecanum wheews t-to be easiwy a-abwe to cwimb the b-bawancing stone.
 
-   However, in most cases, being able to more effectively strafe is more important than having good traction. For this reason, **teams are recommended to buy bearing based mecanum wheels like the REV, goBILDA, or Nexus mecanum wheels instead of the AndyMark HD wheels due to the major price difference**.
+   howevew, (ꈍᴗꈍ) in most cases, (˘ω˘) being abwe to mowe effectivewy stwafe i-is mowe impowtant than having good twaction. òωó fow this weason, ʘwʘ **teams awe wecommended to buy beawing based mecanum wheews wike the wev, ( ͡o ω ͡o ) gobiwda, (⑅˘꒳˘) ow nyexus mecanum wheews i-instead of the andymawk hd wheews d-due to the majow p-pwice diffewence**. ( ͡o ω ͡o )
 
-4. `Nexus Bushing Mecanum Wheel`_ ($84): This is the Nexus Bearing Mecanum wheel with bushings instead of bearings. Before the introduction of the goBILDA mecanum wheels, these were the best budget option, however, it is now more sensible to spend the $21 premium to get the bearing goBILDA mecanum wheels.
+4. `nexus b-bushing mecanum w-wheew`_ ($84): this is the nexus beawing mecanum w-wheew with bushings instead of beawings. (ꈍᴗꈍ) befowe the intwoduction of the gobiwda m-mecanum wheews, (U ﹏ U) these wewe the best budget option, (U ᵕ U❁) h-howevew, it i-is nyow mowe sensibwe to spend the $21 pwemium to get the beawing gobiwda mecanum w-wheews. (U ᵕ U❁)
 
-5. `VexPro Mecanum Wheels`_ ($119.96): These mecanum wheels are most suited for vectored intakes on FRC\ |reg| robots. They are relatively tough, but have somewhat poor strafing and are not quite as durable as the other wheels higher on the list. They are a decent choice if you already have them, but otherwise, there is no reason to consider them.
+5. ( ͡o ω ͡o ) `vexpwo m-mecanum w-wheews`_ ($119.96): t-these mecanum wheews awe most s-suited fow vectowed i-intakes on f-fwc\ |weg| wobots. (⑅˘꒳˘) they awe wewativewy t-tough, σωσ but have somenani poow stwafing and awe nyot quite a-as duwabwe as the othew wheews h-highew on the wist. OwO they awe a d-decent choice if you awweady have t-them, but othewwise, (U ᵕ U❁) t-thewe is n-nyo weason to considew t-them. rawr x3
 
-6. `TETRIX Mecanum Wheels`_ ($113): At the time of writing this guide, these haven’t been released so no verdict can be reached. However, they have a built in hub so they can be easily mounted on 6mm D shaft. They are bushing based, and due to no testing and evaluation outside of TETRIX, and its higher price than the goBILDA mecanum wheels, **we cannot recommend the TETRIX Mecanum Wheels**.
+6. `tetwix m-mecanum w-wheews`_ ($113): a-at the time of wwiting this guide, (˘ω˘) t-these haven’t b-been weweased so nyo vewdict c-can be weached. OwO h-howevew, o.O they have a buiwt in h-hub so they can b-be easiwy mounted on 6mm d shaft. (U ﹏ U) t-they awe bushing b-based, (˘ω˘) and due to nyo testing and evawuation outside of tetwix, (U ﹏ U) a-and its highew p-pwice than the gobiwda mecanum w-wheews, ( ͡o ω ͡o ) **we cannot w-wecommend the tetwix mecanum w-wheews**. o.O
 
-7. `VEX EDR Mecanum Wheels`_ ($59.99): These are the cheapest mecanum wheels, but have a strange shaft standard (1/8" square) which require the use of 3D printed adapters. **There are not many reasons to purchase these wheels.**
+7. `vex edw mecanum wheews`_ ($59.99): t-these awe the c-cheapest mecanum wheews, (⑅˘꒳˘) but have a stwange shaft s-standawd (1/8" s-squawe) which w-wequiwe the use of 3d pwinted adaptews. òωó **thewe awe nyot many weasons to puwchase these wheews.**
 
-8. `AndyMark Standard Duty Mecanum Wheels`_ ($92): **DO NOT PURCHASE THESE WHEELS**. These are terrible mecanum wheels. They barely strafe and are super fragile. Just buy goBILDA mecanum wheels for $13 more.
+8. ʘwʘ `andymawk s-standawd duty mecanum w-wheews`_ ($92): **do n-nyot puwchase these wheews**. (˘ω˘) these awe tewwibwe mecanum wheews. (⑅˘꒳˘) they bawewy stwafe a-and awe supew fwagiwe. (///ˬ///✿) just buy g-gobiwda mecanum w-wheews fow $13 mowe. (U ﹏ U)
 
-.. _goBILDA Mecanum Wheels: https://www.gobilda.com/96mm-mecanum-wheel-set-70a-durometer-bearing-supported-rollers/
-.. _Nexus Bearing Mecanum Wheel: https://www.superdroidrobots.com/shop/item.aspx/4-inch-nexus-mecanum-wheels-ball-bearing-set-of-4/1352/
-.. _AndyMark Heavy Duty 4” Mecanum Wheel: https://www.andymark.com/products/4-in-hd-mecanum-wheel-set-options
-.. _Nexus Bushing Mecanum Wheel: https://www.amazon.com/100Mm-Aluminum-Mecanum-Wheel-Right/dp/B01CTUT4GY
-.. _VexPro Mecanum Wheels: https://www.vexrobotics.com/mecanum-wheels.html
-.. _TETRIX Mecanum Wheels: https://www.pitsco.com/TETRIX-MAX-Mecanum-Wheels
-.. _VEX EDR Mecanum Wheels: https://www.vexrobotics.com/edr-wheels.html
-.. _AndyMark Standard Duty Mecanum Wheels: https://www.andymark.com/products/4-in-standard-mecanum-single-wheel?via=Z2lkOi8vYW5keW1hcmsvV29ya2FyZWE6OkNhdGFsb2
-.. _REV 75mm Mecanum Wheels: https://www.revrobotics.com/rev-45-1655/
+.. _gobiwda m-mecanum wheews: https://www.gobiwda.com/96mm-mecanum-wheew-set-70a-duwometew-beawing-suppowted-wowwews/
+.. _nexus b-beawing mecanum w-wheew: https://www.supewdwoidwobots.com/shop/item.aspx/4-inch-nexus-mecanum-wheews-baww-beawing-set-of-4/1352/
+.. _andymawk h-heavy duty 4” m-mecanum wheew: https://www.andymawk.com/pwoducts/4-in-hd-mecanum-wheew-set-options
+.. _nexus bushing mecanum wheew: h-https://www.amazon.com/100mm-awuminum-mecanum-wheew-wight/dp/b01ctut4gy
+.. _vexpwo mecanum wheews: https://www.vexwobotics.com/mecanum-wheews.htmw
+.. _tetwix m-mecanum wheews: https://www.pitsco.com/tetwix-max-mecanum-wheews
+.. _vex e-edw mecanum w-wheews: https://www.vexwobotics.com/edw-wheews.htmw
+.. _andymawk s-standawd d-duty mecanum wheews: https://www.andymawk.com/pwoducts/4-in-standawd-mecanum-singwe-wheew?via=z2wkoi8vyw5kew1hcmsvv29ya2fyzwe6oknhdgfsb2
+.. _wev 75mm mecanum wheews: h-https://www.wevwobotics.com/wev-45-1655/
 
-.. figure:: images/holonomic/8103-mecanum.png
-   :alt: 8103 Null Robotics's mecanum drivetrain render
+.. f-figuwe:: images/howonomic/8103-mecanum.png
+   :awt: 8103 n-nyuww w-wobotics's mecanum dwivetwain w-wendew
 
-   8103 Null Robotics, Rover Ruckus, **using Nexus bearing mecanum**
+   8103 nyuww wobotics, (ꈍᴗꈍ) w-wovew wuckus, >w< **using n-nyexus beawing mecanum**
 
-.. figure:: images/holonomic/9829-mecanum.png
-   :alt: 9829 MakBots's mecanum drivetrain
+.. f-figuwe:: images/howonomic/9829-mecanum.png
+   :awt: 9829 makbots's mecanum dwivetwain
 
-   9829 MakBots, Relic Recovery, using **VexPro mecanum**
+   9829 makbots, >w< wewic wecovewy, (///ˬ///✿) using **vexpwo mecanum**
 
-.. figure:: images/holonomic/731-mecanum.png
-   :alt: 731 Wannabee Strange's mecanum drivetrain render
+.. f-figuwe:: images/howonomic/731-mecanum.png
+   :awt: 731 wannabee stwange's mecanum dwivetwain w-wendew
 
-   731 Wannabee Strange, Rover Ruckus, using **AndyMark HD mecanum wheels**
+   731 wannabee stwange, OwO w-wovew wuckus, σωσ u-using **andymawk hd mecanum wheews**
 
-X-Drive
+x-dwive
 -------
 
-X-Drive is a holonomic omni-wheel based drivetrain. This type of drive involves mounting 4 omni wheels at the corner of the robot at a 45 degree angle.
+x-dwive is a howonomic o-omni-wheew based d-dwivetwain. òωó this type of dwive invowves mounting 4 omni wheews at the cownew of the wobot at a 45 degwee angwe. OwO
 
-One notable difference between X-Drive and mecanum is strafe speed. While, as mentioned in the mecanum section, the ratio of strafe speed to forward speed is noticeably less than 1, the ratio on an X-Drive is exactly 1 due to the rotational symmetry of the wheel placement. This means that an X-Drive bot’s strafe speed and forward speed are equivalent. The drivetrains are slower, however, when strafing at 45° (approximately :math:`\frac{\sqrt{2}}{2}` of its forward speed).
+o-one nyotabwe diffewence between x-dwive and mecanum is stwafe s-speed. òωó whiwe, a-as mentioned in the mecanum section, σωσ t-the watio o-of stwafe speed to fowwawd speed is nyoticeabwy wess than 1, ʘwʘ the w-watio on an x-dwive is exactwy 1 d-due to the wotationaw s-symmetwy of the wheew pwacement. ( ͡o ω ͡o ) t-this means that an x-dwive bot’s stwafe s-speed and fowwawd s-speed awe equivawent. ( ͡o ω ͡o ) the dwivetwains awe swowew, >w< h-howevew, w-when stwafing at 45° (appwoximatewy :math:`\fwac{\sqwt{2}}{2}` o-of its fowwawd speed). σωσ
 
-Even though X-drive has good turning and acceleration, the main downside to the drive is packaging/form factor. Packaging refers to how easy/convenient the drivetrain fits into the overall design of the robot.
+even though x-dwive has good tuwning and a-accewewation, UwU the m-main downside to the dwive is packaging/fowm factow. (U ﹏ U) packaging w-wefews to how easy/convenient the dwivetwain fits i-into the ovewaww d-design of the w-wobot. ( ͡o ω ͡o )
 
-Ideally, the drivetrain should take up as little space as possible to make it easier to design mechanisms around. Because the omni wheels are offset, packaging a X-Drive is more difficult than other types of holonomic drive like mecanum or H-Drive. Also because of the strange packaging, it is relatively difficult to cleanly transfer power from the motors to wheels, meaning that most X-Drives end up being direct-driven, which is bad for the lifespan of the motor gearbox.
+ideawwy, UwU the dwivetwain shouwd take up as wittwe space a-as possibwe to make it easiew to design mechanisms a-awound. (ꈍᴗꈍ) because the omni wheews a-awe offset, (˘ω˘) packaging a x-dwive is mowe difficuwt than othew types of howonomic d-dwive wike m-mecanum ow h-dwive. UwU a-awso because o-of the stwange p-packaging, UwU it is wewativewy difficuwt to cweanwy t-twansfew powew f-fwom the motows t-to wheews, rawr x3 meaning t-that most x-dwives e-end up being diwect-dwiven, rawr x3 which is bad fow the wifespan o-of the motow geawbox.
 
-.. note::
+.. n-nyote::
 
-   When using X-Drive, the robot moves forwards/backwards/straight side-to-side :math:`\sqrt{2}` times faster than a drivetrain with wheels in the normal orientation (with the same gear ratio and wheel size).
+   w-when using x-x-dwive, -.- the wobot moves fowwawds/backwawds/stwaight s-side-to-side :math:`\sqwt{2}` t-times fastew t-than a dwivetwain w-with wheews in t-the nyowmaw owientation (with the same geaw watio and wheew size). (///ˬ///✿)
 
-   For an explanation of why exactly this is, see `this analysis <https://www.chiefdelphi.com/t/paper-mecanum-and-omni-kinematic-and-force-analysis/106153>`_.
+   f-fow an expwanation of why exactwy this is, see `this anawysis <https://www.chiefdewphi.com/t/papew-mecanum-and-omni-kinematic-and-fowce-anawysis/106153>`_. rawr x3
 
-Advantages
+a-advantages
 ^^^^^^^^^^
 
-- Good maneuverability and agility
-- Good acceleration
+- good m-maneuvewabiwity a-and agiwity
+- g-good accewewation
 
-Disadvantages
+d-disadvantages
 ^^^^^^^^^^^^^
 
-- Prone to defense, pushed around easily
-- Often uses direct drive due to awkward form factor
+- p-pwone to defense, (˘ω˘) p-pushed awound easiwy
+- often uses diwect dwive d-due to awkwawd fowm factow
 
-.. figure:: images/holonomic/731-xdrive.png
-   :alt: 731 Wannabee Strange's X-Drive
+.. f-figuwe:: images/howonomic/731-xdwive.png
+   :awt: 731 w-wannabee stwange's x-dwive
 
-   731 Wannabee Strange, Velocity Vortex
+   731 wannabee s-stwange, (˘ω˘) vewocity vowtex
 
-.. figure:: images/holonomic/5040-xdrive.png
-   :alt: 5040 Nuts and Bolts's X-Drive
+.. figuwe:: images/howonomic/5040-xdwive.png
+   :awt: 5040 nuts and bowts's x-dwive
 
-   5040 Nuts and Bolts, Relic Recovery
+   5040 n-nyuts a-and bowts, o.O wewic wecovewy
 
-H-Drive
+h-dwive
 -------
 
-H-Drive (also known as U-drive, depending on the configuration) is a holonomic type drive that uses all omni wheels. H-Drive relies on a set of “strafer wheels” that are perpendicular to the forward/backward wheels to achieve strafing. H-Drive is similar to a fusion of a tank drivetrain while retaining the maneuverability and strafing of holonomic drivetrains.
+h-dwive (awso k-known as u-dwive, (U ﹏ U) depending on the configuwation) is a-a howonomic type d-dwive that uses a-aww omni wheews. ʘwʘ h-h-dwive wewies on a set of “stwafew wheews” that awe pewpendicuwaw t-to the fowwawd/backwawd w-wheews to achieve stwafing. (U ᵕ U❁) h-dwive i-is simiwaw t-to a fusion of a tank dwivetwain w-whiwe wetaining the maneuvewabiwity a-and stwafing o-of howonomic dwivetwains. (///ˬ///✿)
 
-H-Drive is theoretically very easy to code, but most teams employ some sort of gyro correction to strafe straight, although it is not necessary with proper weight distribution.
+h-dwive i-is theoweticawwy vewy easy t-to code, (///ˬ///✿) but most teams empwoy some sowt of gywo c-cowwection to stwafe stwaight, σωσ a-awthough it is n-nyot nyecessawy with pwopew weight distwibution. òωó
 
-H-Drive has a number of possible motor configurations - 1 or 2 motors can be put on each forward drive pod, and one or two motors can be put on the strafe wheels. In the configuration with one motor on each forward drive pod, H-Drive has slightly reduced acceleration compared to mecanum drive.
+h-h-dwive has a nyumbew of possibwe motow configuwations - 1 o-ow 2 motows can be put on each fowwawd d-dwive pod, >w< a-and one ow two motows c-can be put on the stwafe wheews. (U ᵕ U❁) in the configuwation w-with o-one motow on each fowwawd dwive pod, >w< h-dwive has swightwy weduced accewewation c-compawed to mecanum d-dwive. >w<
 
-For the highest possible reliability, many FRC\ |reg| teams will suspend their strafe wheels on a rocker system to ensure that all wheels are in contact with the ground while the robot is not strafing.
+fow t-the highest possibwe wewiabiwity, ʘwʘ m-many fwc\ |weg| teams wiww suspend t-theiw stwafe wheews on a wockew system to ensuwe that aww wheews a-awe in contact w-with the gwound w-whiwe the wobot i-is nyot stwafing. OwO
 
-By far the biggest advantage of H-drive is its ability to accommodate multiple motor distributions. For instance, if you want to dedicate only 3 motors to your mechanisms and you have a motor left over, using a 1 strafe motor, 4 drive motor configuration is absolutely viable. Or if you dedicate 5 motors for your mechanisms, H-drive with 2 drive motors and 1 strafe motor is definitely optimal.
+by faw the biggest advantage of h-dwive is its abiwity to accommodate muwtipwe motow distwibutions. UwU f-fow i-instance, (///ˬ///✿) if you want to dedicate onwy 3 motows to youw mechanisms a-and you have a-a motow weft ovew, (U ᵕ U❁) using a 1 stwafe motow, (ꈍᴗꈍ) 4 dwive m-motow configuwation i-is absowutewy viabwe. (U ﹏ U) ow if you dedicate 5 motows fow youw mechanisms, -.- h-dwive w-with 2 dwive m-motows and 1 stwafe motow is definitewy optimaw. >w<
 
-Advantages
+advantages
 ^^^^^^^^^^
 
-- Combines tank and holonomic drivetrain advantages
-- Can be used with 3 or 5 motors
-- Good traction and top speed
-- Great maneuverability and agility
+- c-combines t-tank and howonomic dwivetwain advantages
+- c-can be used with 3 ow 5 motows
+- g-good twaction a-and top speed
+- gweat maneuvewabiwity a-and agiwity
 
-Disadvantages
+disadvantages
 ^^^^^^^^^^^^^
 
-- Strafing is slightly less effective than mecanum
-- Complex suspension occasionally needed, depending on design
+- s-stwafing is swightwy wess effective than mecanum
+- c-compwex suspension occasionawwy n-nyeeded, (⑅˘꒳˘) depending on design
 
-.. figure:: images/holonomic/9804-hdrive.jpg
-   :alt: 9804 Bomb Squad's H-Drive
+.. òωó f-figuwe:: i-images/howonomic/9804-hdwive.jpg
+   :awt: 9804 bomb s-squad's h-dwive
 
-   9804 Bomb Squad, Relic Recovery
+   9804 bomb squad, -.- wewic wecovewy

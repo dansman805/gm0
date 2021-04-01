@@ -1,44 +1,44 @@
-Computer Vision
+computew vision
 ===============
 
-Computer vision is the process of using computers to understand digital images, such as photographs and videos. Computer vision offers object detection which is commonly needed in FTC.
+c-computew vision i-is the pwocess of using computews t-to undewstand digitaw images, o.O s-such as photogwaphs and videos. ( ͡o ω ͡o ) c-computew vision offews object detection which is c-commonwy nyeeded in ftc. (˘ω˘)
 
-Currently, there are 3 commonly used forms of computer vision: TensorFlow Lite, Vuforia, and EasyOpenCV.
+cuwwentwy, òωó t-thewe awe 3 c-commonwy used f-fowms of computew vision: tensowfwow wite, rawr x3 vufowia, (U ᵕ U❁) and easyopencv. (U ᵕ U❁)
 
-Officially Supported Solutions
+officiawwy suppowted sowutions
 ------------------------------
 
-TensorFlow
+t-tensowfwow
 ^^^^^^^^^^
 
-TensorFlow is Google’s machine learning technology, which can be trained to detect objects. The FTC SDK uses TensorFlow Lite, which is a lightweight version of Google’s TensorFlow designed to run on mobile devices. Along with Android Studio and OnBot support, TensorFlow has block support which makes it a good choice for most teams.
+tensowfwow is googwe’s machine weawning technowogy, σωσ w-which can be twained t-to detect objects. >w< the ftc s-sdk uses tensowfwow wite, (U ᵕ U❁) which is a wightweight vewsion of googwe’s t-tensowfwow designed to wun o-on mobiwe devices. ʘwʘ a-awong with a-andwoid studio a-and onbot suppowt, (˘ω˘) tensowfwow has b-bwock suppowt which makes it a good choice fow m-most teams. -.-
 
-Sample OpModes for TensorFlow being used for mineral detection (Rover Ruckus) can be found `here <https://github.com/ftctechnh/ftc_app/wiki/Blocks-Sample-TensorFlow-Object-Detection-Op-Mode>`__ (Blocks), and a Java example can be found `here <https://github.com/ftctechnh/ftc_app/wiki/Java-Sample-TensorFlow-Object-Detection-Op-Mode>`_.
+sampwe o-opmodes fow t-tensowfwow being used fow minewaw detection (wovew wuckus) can b-be found `hewe <https://github.com/ftctechnh/ftc_app/wiki/bwocks-sampwe-tensowfwow-object-detection-op-mode>`__ (bwocks), (///ˬ///✿) and a j-java exampwe can be found `hewe <https://github.com/ftctechnh/ftc_app/wiki/java-sampwe-tensowfwow-object-detection-op-mode>`_. (˘ω˘)
 
-Vuforia
+vufowia
 ^^^^^^^
 
-Vuforia is an augmented reality software built for mobile devices and can track 3d objects in real-time. Vuforia is known for its great image detection, as FTC vision targets are designed with Vuforia in mind. Vuforia also offers localization. Vuforia is supported in OnBot Java, Android Studio, and Blocks.
+vufowia is an augmented weawity s-softwawe buiwt fow mobiwe devices and can twack 3d o-objects in weaw-time. o.O vufowia is known fow its g-gweat image detection, a-as ftc v-vision tawgets awe designed with vufowia in mind. (⑅˘꒳˘) vufowia awso offews wocawization. (U ᵕ U❁) vufowia is suppowted in onbot j-java, >w< andwoid s-studio, (///ˬ///✿) and bwocks. -.-
 
-You can find Vuforia Java samples in the FTC `here <https://github.com/FIRST-Tech-Challenge/FtcRobotController/blob/master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptVuMarkIdentification.java>`__, and find a blocks guide `here <https://github.com/FIRST-Tech-Challenge/SKYSTONE/wiki/Identifying-Vuforia-VuMarks>`__.
+y-you can find v-vufowia java s-sampwes in the ftc `hewe <https://github.com/fiwst-tech-chawwenge/ftcwobotcontwowwew/bwob/mastew/ftcwobotcontwowwew/swc/main/java/owg/fiwstinspiwes/ftc/wobotcontwowwew/extewnaw/sampwes/conceptvumawkidentification.java>`__, ʘwʘ and f-find a bwocks guide `hewe <https://github.com/fiwst-tech-chawwenge/skystone/wiki/identifying-vufowia-vumawks>`__. ʘwʘ
 
-EasyOpenCV
+easyopencv
 ----------
 
-EasyOpenCV is an easy way to use openCV with the FTC SDK. EasyOpenCV is the most powerful form of computer vision, but it is also the hardest to use. It is also the only vision software here that is NOT built into the SDK and only supports Android Studio. Therefore, we can only recommend EasyOpenCV to more advanced teams.
+e-easyopencv is an easy w-way to use opencv with the ftc s-sdk. UwU easyopencv i-is the most powewfuw fowm of computew vision, (⑅˘꒳˘) but it is awso the h-hawdest to use. òωó it is awso the onwy vision softwawe h-hewe that is nyot buiwt into the sdk and onwy suppowts andwoid s-studio. rawr x3 thewefowe, we can o-onwy wecommend easyopencv t-to mowe a-advanced teams. σωσ
 
-You can learn more about EasyOpenCV `here <https://github.com/OpenFTC/EasyOpenCV>`__. Examples can be found `here <https://github.com/OpenFTC/EasyOpenCV/tree/master/examples/src/main/java/org/openftc/easyopencv/examples>`__.
+y-you can weawn mowe about easyopencv `hewe <https://github.com/openftc/easyopencv>`__. UwU e-exampwes c-can be found `hewe <https://github.com/openftc/easyopencv/twee/mastew/exampwes/swc/main/java/owg/openftc/easyopencv/exampwes>`__. òωó
 
-EasyOpenCV Simulator
+e-easyopencv simuwatow
 ^^^^^^^^^^^^^^^^^^^^
 
-EasyOpenCV Simulator is a straightforward way to test your pipelines directly on your computer. It supports Windows, macOS, and Linux, and simulates a portion of the FTC SDK structure, allowing you to copy and paste pipelines.
+e-easyopencv simuwatow is a stwaightfowwawd way to t-test youw pipewines d-diwectwy on youw computew. σωσ i-it suppowts windows, o.O macos, o.O and w-winux, o.O and simuwates a-a powtion of the ftc sdk stwuctuwe, rawr x3 a-awwowing y-you to copy and p-paste pipewines. σωσ
 
-You can find EasyOpenCV Simulator `here <https://github.com/serivesmejia/EOCV-Sim>`__.
+you can find e-easyopencv simuwatow `hewe <https://github.com/sewivesmejia/eocv-sim>`__. >w<
 
-Scrcpy
+scwcpy
 ------
 
-Scrcpy is an easy way to display and control Android devices connected over USB. It supports Linux, Windows, and macOS, offers low latency, requires low resources, and has great performance. It is extremely useful for debugging vision code on a Control Hub, as it will enable you to see the camera output in near real time. It can also be used with a robot controller phone, however the camera output can be seen on the phone's screen.
+s-scwcpy i-is an easy way t-to dispway and contwow andwoid d-devices connected o-ovew usb. OwO it suppowts winux, rawr x3 windows, >w< a-and macos, OwO o-offews wow watency, UwU w-wequiwes w-wow wesouwces, UwU and h-has gweat pewfowmance. (U ﹏ U) it is extwemewy usefuw f-fow debugging vision code on a c-contwow hub, (⑅˘꒳˘) as it wiww enabwe you to see the camewa output in nyeaw weaw time. ( ͡o ω ͡o ) it can awso be used with a wobot c-contwowwew phone, ( ͡o ω ͡o ) h-howevew the camewa output can be seen on the p-phone's scween. -.-
 
-You can find scrcpy `here <https://github.com/Genymobile/scrcpy>`__.
+y-you can find scwcpy `hewe <https://github.com/genymobiwe/scwcpy>`__. (⑅˘꒳˘)

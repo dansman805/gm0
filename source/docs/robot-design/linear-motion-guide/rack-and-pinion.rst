@@ -1,25 +1,25 @@
-Rack and Pinion
+wack and pinion
 ===============
 
-Rack and pinion refers to a a toothed linear gear (the rack), meshed with a a circular gear (the pinion gear). When the pinion gear is driven, it will drive the pinion gear upwards or downwards, depending on how the rack and pinion is mounted.
+w-wack and pinion w-wefews to a a toothed wineaw geaw (the w-wack), o.O meshed with a a ciwcuwaw g-geaw (the pinion geaw). (U ᵕ U❁) when t-the pinion geaw is dwiven, σωσ it wiww dwive the p-pinion geaw upwawds ow downwawds, UwU d-depending on h-how the wack and p-pinion is mounted. >w<
 
-Generally, rack and pinion is a good light-use option for FTC teams in terms of linear extension. However, there are some disadvantages to rack and pinion compared to the other options of linear extension. Therefore, rack and pinion is generally not recommended for teams.
+genewawwy, rawr x3 wack and pinion is a good wight-use option fow ftc teams in tewms o-of wineaw extension. (U ᵕ U❁) howevew, (˘ω˘) thewe awe some disadvantages to wack and pinion c-compawed to the o-othew options of wineaw extension. o.O t-thewefowe, o.O wack and pinion is genewawwy nyot wecommended fow t-teams. (///ˬ///✿)
 
-Advantages
+advantages
 ----------
 
-- Easy way to extend upwards.
-- Power and linear motion in one package
-- Can with proper support, sustain heavy load (e.g. hang robot)
+- easy way to extend u-upwawds. -.-
+- powew a-and wineaw m-motion in one package
+- c-can with pwopew suppowt, (⑅˘꒳˘) s-sustain heavy woad (e.g. hang wobot)
 
-Disadvantages
+disadvantages
 -------------
 
-- Rack and pinion generally is only used in one stage, because multiple mechanisms require other forms of powering it (belt, string, chain, etc.)
+- w-wack and pinion g-genewawwy i-is onwy used in one stage, o.O because muwtipwe mechanisms wequiwe othew f-fowms of powewing it (bewt, ( ͡o ω ͡o ) s-stwing, UwU chain, etc.)
 
-- Rack and pinion needs to be supported very will to sustain heavy load, or else the mesh will fail. **It is not advisable to use the Tetrix rack and pinion in high stress conditions**.
+- wack and pinion nyeeds to be suppowted vewy wiww to sustain h-heavy woad, ʘwʘ ow ewse the mesh wiww faiw. ( ͡o ω ͡o ) **it i-is nyot advisabwe to use the tetwix wack and pinion i-in high stwess c-conditions**. UwU
 
-.. figure:: images/rack-and-pinion/tetrix-rack-and-pinion.png
-   :alt: A marketing image for the tetrix rack and pinion
+.. f-figuwe:: images/wack-and-pinion/tetwix-wack-and-pinion.png
+   :awt: a mawketing image fow the tetwix wack and pinion
 
-   The Tetrix rack and pinion has a tendency to fail under medium to high load.
+   the tetwix wack a-and pinion has a t-tendency to faiw u-undew medium to h-high woad. UwU

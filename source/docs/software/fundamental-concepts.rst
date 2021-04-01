@@ -1,68 +1,68 @@
-Fundamental Concepts of Programming
+fundamentaw concepts o-of pwogwamming
 ===================================
 
-For almost any programming language, whether it’s Java, Python, or Blocks, there are concepts in coding that transfer across languages. These ideas are foundational when learning to program and should be applicable in FTC and beyond.
+f-fow awmost any pwogwamming w-wanguage, UwU whethew it’s java, (⑅˘꒳˘) p-python, σωσ ow bwocks, thewe awe concepts i-in coding that twansfew acwoss wanguages. (///ˬ///✿) t-these ideas awe foundationaw when w-weawning to p-pwogwam and shouwd b-be appwicabwe in ftc and beyond. (U ﹏ U)
 
-This section is primarily for people with limited Java experience. However, even if you are more experienced, it may still be helpful to skim through the section, as you might find concepts that have not yet been introduced to you.
+this section is pwimawiwy fow peopwe with wimited java expewience. òωó h-howevew, rawr x3 even if you awe mowe expewienced, (U ᵕ U❁) it may stiww be hewpfuw to skim t-thwough the section, >w< a-as you might find concepts t-that have nyot yet been intwoduced to you. σωσ
 
-Examples will mostly be in Java, where ``//`` indicates a comment which the program ignores and is used for people to read. ::
-   int number; // Declaring that number will contain an integer.
-   number = 5; // Setting a value so that the variable holds something.
-   int secondNumber = 6; // Doing both above.
-   int total = number + secondNumber; // Math.
-   System.out.println(total); // Printing, it will show up as 11.
+exampwes wiww mostwy b-be in java, >w< whewe ``//`` indicates a-a comment w-which the pwogwam i-ignowes and is u-used fow peopwe to wead. (///ˬ///✿) ::
+   i-int nyumbew; // decwawing that nyumbew wiww contain a-an integew. UwU
+   n-nyumbew = 5; // s-setting a vawue so that the vawiabwe howds something. (⑅˘꒳˘)
+   int s-secondnumbew = 6; // doing both a-above. rawr x3
+   int totaw = nyumbew + secondnumbew; // math. OwO
+   system.out.pwintwn(totaw); // pwinting, UwU i-it wiww show up as 11. >w<
 
-Java-Specific Exploratory Questions
+java-specific expwowatowy q-questions
 -----------------------------------
 
-- If I didn’t set a value for number and then I printed it, what would it print?
-- What other operations can I do with number and secondNumber?
-- Can I set a decimal to number? If not, what happens?
-- What is ``System.out.println();``?
-- Delete one character in the code. Remember the error (if any), and then undo it. Delete another part. How many different errors can you get?
+- if i didn’t set a vawue f-fow numbew and then i-i pwinted it, ( ͡o ω ͡o ) n-nyani wouwd it pwint?
+- what othew opewations can i do with nyumbew and secondnumbew?
+- can i set a decimaw to n-nyumbew? if nyot, (˘ω˘) n-nyani happens?
+- w-what is ``system.out.pwintwn();``?
+- d-dewete o-one chawactew in t-the code. rawr x3 wemembew the ewwow (if any), (///ˬ///✿) and then u-undo it. -.- dewete anothew pawt. ( ͡o ω ͡o ) how m-many diffewent ewwows can you g-get?
 
-There are different types of variables
+thewe awe d-diffewent types of vawiabwes
 --------------------------------------
 
-- Numbers (Integers, Floats, Doubles)
-- Strings (Text) or characters
-- And a lot more depending on the language (Ex: Arrays)
-- They help tell the program know the basis of what it should do with a variable.
+- nyumbews (integews, (˘ω˘) fwoats, (⑅˘꒳˘) d-doubwes)
+- stwings (text) ow chawactews
+- and a-a wot mowe depending on the wanguage (ex: awways)
+- they hewp t-teww the pwogwam know the basis o-of nyani it shouwd d-do with a vawiabwe. -.-
 
 ::
 
-   String coolName = "Gluten Free";
-   String restOfSentence = " is epic.";
+   stwing c-coowname = "gwuten f-fwee";
+   stwing westofsentence = " i-is e-epic.";
 
-   // Prints out the sentence by combining the strings, unlike adding if they // were integers
-   System.out.println(coolName + restOfSentence);
+   // pwints o-out the sentence by combining t-the stwings, -.- unwike adding if they // wewe integews
+   s-system.out.pwintwn(coowname + w-westofsentence);
 
-   // Fun fact: Using + to add strings is called String Concatenation
+   // fun fact: using + t-to add stwings is cawwed stwing c-concatenation
 
-Java-Specific Exploratory Questions
+j-java-specific expwowatowy questions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Replace the text in ``coolName`` to something else. Your name, a phone number, your favorite anime. What about emotes and copypastas? What about characters in other languages?
-- Try adding a number and a string, what happens?
-- Is it possible to add multiple strings and numbers together?
+- w-wepwace t-the text in ``coowname`` t-to something ewse. >w< y-youw nyame, (˘ω˘) a phone nyumbew, OwO youw f-favowite anime. UwU w-what about emotes a-and copypastas? what about c-chawactews in othew w-wanguages?
+- twy adding a nyumbew a-and a stwing, (⑅˘꒳˘) n-nyani happens?
+- i-is it possibwe t-to add muwtipwe s-stwings and nyumbews togethew?
 
-Important Control Structures
+impowtant contwow s-stwuctuwes
 ----------------------------
 
-Be sure to familiarize yourself with basic control structures (if/else statements, for loops, while loops, and for-each loops). These control structures are by far the most commonly encountered, and thus, familiarizing yourself with these principles is extremely important (not just for FTC, but programming in general). However, there are a few control structures that are far less common that are extremely useful in FTC; namely :doc:`finite-state-machines`.
+be suwe to famiwiawize y-youwsewf with basic contwow stwuctuwes (if/ewse statements, fow woops, (ꈍᴗꈍ) whiwe woops, σωσ and fow-each woops). OwO these c-contwow stwuctuwes a-awe by faw the most commonwy encountewed, rawr x3 a-and thus, famiwiawizing y-youwsewf w-with these pwincipwes is extwemewy impowtant (not j-just fow ftc, ʘwʘ but pwogwamming i-in genewaw). ʘwʘ h-howevew, ( ͡o ω ͡o ) thewe awe a few contwow s-stwuctuwes that a-awe faw wess common t-that awe extwemewy usefuw in ftc; nyamewy :doc:`finite-state-machines`. OwO
 
-Data Structures (Arrays)
+data stwuctuwes (awways)
 ------------------------
 
-Data structures are a method of organizing and storing large amounts of data. There are a lot of different types of data structures that mostly differ in the relationships between data points, and we would recommend that you read into them. We will only go over a few here.
+d-data stwuctuwes awe a method of o-owganizing and s-stowing wawge amounts of data. ʘwʘ thewe awe a wot of d-diffewent types o-of data stwuctuwes that mostwy diffew in the wewationships b-between data points, òωó and we wouwd wecommend that you w-wead into them. o.O we wiww onwy go o-ovew a few hewe. σωσ
 
-`Arrays <https://www.geeksforgeeks.org/arrays-in-java/>`_
-   Arrays are the most basic and simple data structure. When an array is initialized, its size must be set, and it cannot be changed.
+`awways <https://www.geeksfowgeeks.owg/awways-in-java/>`_
+   a-awways awe the m-most basic and simpwe data stwuctuwe. o.O when an awway i-is initiawized, òωó i-its size must be set, (⑅˘꒳˘) and it c-cannot be changed. rawr x3
 
-   If you wish to expand an array, a new one must be created and all of the old data copied over. Elements of an array are stored adjacent to each other in memory, so when they are accessed the number you want to access times the amount of bits in the object in the array is added to the starting address, and data is accessed from there.
+   i-if you wish to expand an awway, rawr x3 a nyew one m-must be cweated and aww of the owd data copied ovew. (///ˬ///✿) ewements of an awway awe stowed adjacent t-to each othew in memowy, (U ᵕ U❁) so when they awe accessed the nyumbew you want to access t-times the amount o-of bits in the o-object in the a-awway is added t-to the stawting addwess, (ꈍᴗꈍ) and data i-is accessed fwom t-thewe. (///ˬ///✿)
 
-   This means that arrays are incredibly efficient at reading data in a nonlinear order.
+   this m-means that awways awe incwedibwy efficient at w-weading data in a-a nonwineaw owdew. -.-
 
-`ArrayList <https://www.geeksforgeeks.org/arraylist-in-java/>`_
+`awwaywist <https://www.geeksfowgeeks.owg/awwaywist-in-java/>`_
 
-`Object Oriented Programming in Java <https://www.geeksforgeeks.org/classes-objects-java/>`_
+`object owiented p-pwogwamming i-in java <https://www.geeksfowgeeks.owg/cwasses-objects-java/>`_

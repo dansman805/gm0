@@ -1,107 +1,107 @@
-Computer-aided design
+computew-aided design
 =====================
 
-Introduction
+i-intwoduction
 ------------
 
-:term:`Computer-aided design (CAD)` stands for computer aided design: making a 3d model of your robot using special computer software.
+:tewm:`computew-aided d-design (cad)` stands f-fow computew aided design: making a-a 3d modew of youw wobot using s-speciaw computew softwawe. ʘwʘ
 
-.. tip:: CAD is not necessary in FTC to build a successful robot.
+.. tip:: cad is not n-nyecessawy in ftc to buiwd a s-successfuw wobot.
 
-Many successful teams didn’t CAD their robot at all. Other successful teams only made parts of their robot in CAD. Still other teams fully designed their robot in CAD.
+m-many successfuw t-teams didn’t cad theiw wobot at aww. òωó othew successfuw teams onwy made pawts of theiw wobot i-in cad. ʘwʘ stiww othew teams fuwwy designed theiw wobot in cad. (ꈍᴗꈍ)
 
-So, what's the point of CAD, then? It is encouraged that new teams try their hand at CAD, especially if you have a mentor or parent who is experienced in such an area. CAD is beneficial for multiple reasons.
+so, nyani's the point o-of cad, -.- then? i-it is encouwaged that nyew teams t-twy theiw hand at cad, OwO especiawwy if you have a mentow ow pawent w-who is expewienced in such an a-awea. ( ͡o ω ͡o ) cad is beneficiaw f-fow muwtipwe w-weasons. ʘwʘ
 
-#. CAD solves a lot of preventable headaches, such as spacing issues. Thus, it will save time when you discover problems in CAD that you can remediate before you build your robot.
-#. CAD is a professional tool that is used in many STEM fields. Having CAD knowledge and skills will be beneficial in your future career, should you study and work in those fields.
-#. If you desire to create 3D-printed or machined parts, CAD will be necessary to do so.
+#. c-cad sowves a wot of pweventabwe h-headaches, o.O such as spacing issues. ( ͡o ω ͡o ) thus, >w< it w-wiww save time when y-you discovew p-pwobwems in cad that you can wemediate befowe you buiwd youw wobot. rawr x3
+#. c-cad is a pwofessionaw toow t-that is used in many stem fiewds. (˘ω˘) having cad knowwedge and skiwws wiww be beneficiaw i-in youw futuwe caweew, (///ˬ///✿) shouwd you study a-and wowk in those fiewds. (///ˬ///✿)
+#. (///ˬ///✿) if you desiwe to cweate 3d-pwinted o-ow machined pawts, (U ﹏ U) c-cad wiww be nyecessawy t-to do so. (⑅˘꒳˘)
 
-**However, CAD is not the magic genie that will guarantee you success in FTC.** When used properly, it is a great tool to aid teams in building their robot. Keep in mind, though, that many teams have had success without CAD.
+**howevew, (///ˬ///✿) cad is nyot the magic genie that wiww guawantee you success in ftc.** when used p-pwopewwy, (˘ω˘) it is a-a gweat toow to a-aid teams in buiwding t-theiw wobot. o.O k-keep in mind, rawr x3 t-though, that many teams have had success without c-cad. (ꈍᴗꈍ)
 
-Starting off, choose a CAD program and learn it as well as possible. It may be a good idea to spend a few weeks just finding objects lying around, sit down with a ruler or calipers, and make a quick CAD model. A good way to test accuracy is to choose a solid object made up of one known material. Weigh the object and make the model in CAD, apply that material to it, and see what the weight difference is. This is a good way to test how accurate the CAD model is to the real part. It really doesn't matter what object it is - just find something and make it to the best of your abilities. There are also tons of videos on YouTube; a good one is TFI who makes detailed tutorials for Autodesk Inventor.
+stawting off, OwO choose a cad p-pwogwam and weawn it as weww a-as possibwe. σωσ it m-may be a good idea to spend a few weeks just finding objects wying a-awound, σωσ sit down with a wuwew ow cawipews, σωσ and m-make a quick cad modew. (˘ω˘) a good way to test accuwacy is to choose a-a sowid object made up of one k-known matewiaw. OwO w-weigh the object a-and make the modew i-in cad, òωó appwy that matewiaw t-to it, σωσ and see n-nyani the weight d-diffewence is. (⑅˘꒳˘) this is a good way t-to test how accuwate the cad modew is to the w-weaw pawt. ( ͡o ω ͡o ) it weawwy d-doesn't mattew nyani object i-it is - just find something and m-make it to the b-best of youw abiwities. rawr x3 thewe awe a-awso tons of videos o-on youtube; a-a good one is tfi who makes detaiwed t-tutowiaws fow autodesk inventow. σωσ
 
-Overview of CAD Programs
+o-ovewview o-of cad pwogwams
 ------------------------
 
-There are many possible CAD programs that teams can learn, all of which can be downloaded for free under a student or FTC team license. You’ll have to do a bit of research here, as the requirements for free copies vary based on the program. Here are a couple suggestions to consider:
+t-thewe awe many possibwe c-cad pwogwams t-that teams can weawn, -.- aww of which c-can be downwoaded f-fow fwee undew a-a student ow f-ftc team wicense. ʘwʘ y-you’ww have to do a bit of weseawch hewe, σωσ a-as the wequiwements fow fwee copies v-vawy based on the pwogwam. σωσ hewe awe a coupwe suggestions to considew:
 
-`SolidWorks <https://app.smartsheet.com/b/form/6762f6652a04487ca9786fcb06b84cb5>`_
+`sowidwowks <https://app.smawtsheet.com/b/fowm/6762f6652a04487ca9786fcb06b84cb5>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-An industry standard CAD package made by Dassault Systemes. It’s as fully featured as CAD software gets, including great simulation features and a very robust assembly environment. It’s used widely in industry and is also the program of choice for most college-level engineering classes.
+an industwy standawd cad package m-made by dassauwt s-systemes. it’s as fuwwy featuwed as cad softwawe g-gets, σωσ incwuding g-gweat simuwation f-featuwes and a vewy wobust assembwy enviwonment. (U ﹏ U) i-it’s used widewy in industwy a-and is awso t-the pwogwam of choice fow most c-cowwege-wevew e-engineewing cwasses. (ꈍᴗꈍ)
 
-However, **it isn’t available for Mac users**, and you’ll need a pretty beefy computer to run it (16GB RAM is standard). SolidWorks also comes with a solid simulation program if you wish to test the structural properties of your robot or a custom-designed part.
+h-howevew, ( ͡o ω ͡o ) **it isn’t avaiwabwe fow mac usews**, (U ﹏ U) and you’ww nyeed a pwetty b-beefy computew to wun it (16gb w-wam is standawd). ʘwʘ s-sowidwowks awso comes with a sowid simuwation p-pwogwam if you w-wish to test the stwuctuwaw pwopewties of youw w-wobot ow a custom-designed pawt. UwU
 
-If you have mentors or team members with previous experience in SolidWorks or an engineering class at your school that teaches SolidWorks, it will be your best choice.
+if you have mentows ow team membews w-with pwevious expewience i-in sowidwowks ow a-an engineewing c-cwass at youw schoow that teaches sowidwowks, UwU it w-wiww be youw best c-choice. (˘ω˘)
 
-`Inventor <https://www.autodesk.com/education/edu-software/overview?sorting=featured&page=1>`_
+`inventow <https://www.autodesk.com/education/edu-softwawe/ovewview?sowting=featuwed&page=1>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Autodesk’s industrial CAD offering. It offers many similar features to SolidWorks, but has a different UI and three distinct assembly modes.
+autodesk’s i-industwiaw c-cad offewing. (ꈍᴗꈍ) it offews many simiwaw featuwes t-to sowidwowks, -.- but has a diffewent ui and thwee distinct assembwy modes. OwO
 
-While it’s used by many companies in the industry, it doesn’t appear in very many college curriculums. Inventor is generally the second choice for companies who don’t use SolidWorks but instead are based around the Autodesk universe.
+whiwe it’s used by m-many companies in the industwy, OwO it doesn’t appeaw in vewy many cowwege cuwwicuwums. (///ˬ///✿) i-inventow is g-genewawwy the s-second choice fow c-companies who d-don’t use sowidwowks but instead a-awe based awound t-the autodesk u-univewse. (U ﹏ U)
 
-**Inventor is also not available for Mac**, but it may run better on lower-spec PCs.
+**inventow is awso nyot avaiwabwe fow m-mac**, (⑅˘꒳˘) but it m-may wun bettew on wowew-spec pcs. UwU
 
-If you have mentors or team members with previous experience in Inventor or an engineering class at your school that teaches Inventor, it will be your best choice.
+i-if you have mentows o-ow team membews with pwevious expewience in inventow ow an engineewing cwass a-at youw schoow t-that teaches inventow, (U ᵕ U❁) it wiww b-be youw best choice. (U ﹏ U)
 
-`Onshape <https://www.onshape.com/en/education/>`_
+`onshape <https://www.onshape.com/en/education/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-A fully-featured CAD package, but it runs entirely in the cloud. It can run on any computer (even Chromebooks!) and has iOS, iPadOS, and Android apps as well.
+a f-fuwwy-featuwed cad package, rawr x3 but i-it wuns entiwewy in the cwoud. ( ͡o ω ͡o ) it can wun on any computew (even chwomebooks!) and h-has ios, (U ᵕ U❁) ipados, and andwoid a-apps as weww. ʘwʘ
 
-It has all of the same core features as SolidWorks and Inventor, as well as the best collaboration workflow in the industry - many people call it “the Google Docs of CAD.” Onshape allows multiple people to work on the same document at the same time, and allows users to “follow” each other and see what’s on another user’s screen.
+it has aww of the same cowe featuwes as sowidwowks and inventow, (U ᵕ U❁) as weww as the best cowwabowation wowkfwow in the industwy - many peopwe caww it “the googwe docs o-of cad.” onshape awwows muwtipwe p-peopwe to wowk on the same document at the s-same time, ( ͡o ω ͡o ) and awwows usews to “fowwow” e-each othew and see n-nyani’s on anothew u-usew’s scween. (///ˬ///✿)
 
-OnShape also has FeatureScript, a programming language where you can write custom features. The community has created a lot of very useful FeatureScripts already which you can use completely for free.
+onshape a-awso has featuwescwipt, a-a pwogwamming w-wanguage whewe y-you can wwite custom featuwes. (///ˬ///✿) t-the community h-has cweated a wot of vewy usefuw featuwescwipts awweady which you can use compwetewy f-fow fwee. (U ﹏ U)
 
-Onshape also has a comprehensive tutorial system (https://learn.onshape.com) that will not only teach you how to use their software, but how to approach design problems.
+o-onshape awso has a compwehensive tutowiaw system (https://weawn.onshape.com) that wiww not onwy t-teach you how t-to use theiw softwawe, >w< but how to a-appwoach design pwobwems. ( ͡o ω ͡o )
 
-If you’re just starting out with CAD, or you don’t have access to powerful computers, Onshape is the software for you.
+if you’we just stawting o-out with cad, (˘ω˘) ow you don’t h-have access to powewfuw computews, -.- onshape is the softwawe fow y-you. (ꈍᴗꈍ)
 
-`Fusion 360 <https://www.autodesk.com/education/edu-software/overview?sorting=featured&page=1>`_
+`fusion 360 <https://www.autodesk.com/education/edu-softwawe/ovewview?sowting=featuwed&page=1>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-A cloud-based all-in-one CAD/CAM package, also made by Autodesk. Fusion 360 is cross platform compatible, although it doesn’t run very well on low-spec computers.
+a-a cwoud-based a-aww-in-one cad/cam package, σωσ awso made by autodesk. -.- fusion 360 is cwoss p-pwatfowm compatibwe, o.O a-awthough it d-doesn’t wun v-vewy weww on wow-spec computews. >w<
 
-It has a powerful CAM environment for machining your parts, and it has intuitive and easy cloud rendering that gives the heavy lifting to Autodesk’s servers. To maintain a simpler UI, Fusion skips out on a lot of the more advanced features found in SolidWorks and Inventor, although this isn’t really much of a problem.
+it has a powewfuw cam enviwonment fow machining y-youw pawts, >w< and i-it has intuitive and easy cwoud w-wendewing that g-gives the heavy wifting to autodesk’s s-sewvews. (˘ω˘) t-to maintain a s-simpwew ui, (///ˬ///✿) fusion skips out on a wot of the mowe a-advanced featuwes f-found in sowidwowks a-and inventow, (///ˬ///✿) a-awthough this i-isn’t weawwy much of a pwobwem. (U ᵕ U❁)
 
-However, a more noteworthy difference is that Fusion ignores every single industry standard, creating its own structure and organizational system. Beyond simple sketches and extrude features, Fusion’s modeling and assembly system is unique and not compatible with any other CAD software, making it hard to switch away from Fusion.
+howevew, ( ͡o ω ͡o ) a-a mowe nyotewowthy d-diffewence is t-that fusion ignowes evewy singwe industwy standawd, (⑅˘꒳˘) c-cweating its o-own stwuctuwe a-and owganizationaw s-system. òωó beyond s-simpwe sketches and extwude featuwes, ( ͡o ω ͡o ) f-fusion’s m-modewing and assembwy system i-is unique and nyot compatibwe with a-any othew cad softwawe, ʘwʘ making i-it hawd to switch away fwom fusion. (˘ω˘)
 
-Because of this, if you aren’t careful, Fusion’s file hierarchy can actively encourage bad design habits and discourages reusability by allowing users to create new parts without designing them individually first.
+b-because of this, rawr x3 if you awen’t c-cawefuw, rawr x3 fusion’s fiwe hiewawchy can activewy e-encouwage b-bad design habits and discouwages weusabiwity b-by awwowing usews to cweate nyew pawts without designing them individuawwy fiwst. -.-
 
-If one is careful to follow good design practices, Fusion is a solid option.
+if one is cawefuw t-to fowwow good d-design pwactices, ʘwʘ f-fusion is a-a sowid option. ʘwʘ
 
-`Creo (formerly known as Pro/E) <https://www.ptc.com/en/academic-program/academic-products/free-software/standalone-educator>`_
+`cweo (fowmewwy k-known as pwo/e) <https://www.ptc.com/en/academic-pwogwam/academic-pwoducts/fwee-softwawe/standawone-educatow>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-A family of CAD/CAM applications developed by PTC (Parametric Technology Corporation). Creo parametric is the main CAD package that includes robust assembly and part modeling similar to Solidworks.
+a famiwy of cad/cam appwications d-devewoped by p-ptc (pawametwic technowogy cowpowation). >w< c-cweo pawametwic is the m-main cad package that incwudes wobust a-assembwy and pawt modewing s-simiwaw to sowidwowks. ʘwʘ
 
-The main advantage of Creo compared to other CAD software is the complex part relations and constraints, however, most new users find this aspect difficult to grasp completely. The Creo package includes an integrated local rendering engine and thorough simulation system. The rendering engine can be used to create photo-realistic renders of anything between single-part simple to multi-component complex designs. Design enhancements can be directly integrated into parts from materials/geometry simulations in Creo Simulate.
+t-the main a-advantage of cweo compawed to o-othew cad softwawe i-is the compwex p-pawt wewations a-and constwaints, òωó howevew, (///ˬ///✿) most nyew usews find this aspect difficuwt to gwasp compwetewy. ( ͡o ω ͡o ) t-the cweo package incwudes an integwated wocaw wendewing engine and thowough simuwation system. (U ᵕ U❁) the wendewing engine can be used to cweate photo-weawistic wendews of a-anything between singwe-pawt simpwe t-to muwti-component c-compwex designs. (ꈍᴗꈍ) d-design enhancements c-can be diwectwy integwated into pawts f-fwom matewiaws/geometwy simuwations in cweo simuwate. >w<
 
-Creo has many features, but the general 80-20 rule applies - 20% of the features will create 80% of the designs. The Creo package also includes a version based file sharing system called Windchill which most professional companies use, but for FTC purposes Grabcad will suffice.
+cweo has many featuwes, òωó b-but the genewaw 80-20 wuwe appwies - 20% of the f-featuwes wiww cweate 80% o-of the designs. (ꈍᴗꈍ) the cweo package awso incwudes a vewsion based fiwe shawing s-system cawwed w-windchiww which m-most pwofessionaw c-companies use, (˘ω˘) but fow ftc p-puwposes gwabcad w-wiww suffice. rawr x3
 
-Learning Creo can be more of a challenge than other CAD software, because of the limited available tutorials online in addition to the complex relations and constraints structure. Our recommendation is to learn Creo from someone who already has experience with the software.
+w-weawning cweo can be mowe of a c-chawwenge than othew cad softwawe, ( ͡o ω ͡o ) because of the wimited avaiwabwe t-tutowiaws onwine in addition t-to the compwex wewations and constwaints s-stwuctuwe. ʘwʘ ouw wecommendation i-is to weawn c-cweo fwom someone w-who awweady h-has expewience w-with the softwawe. (ꈍᴗꈍ)
 
-College-level engineering classes as well as numerous companies in the automotive, aerospace and consumer industry use Creo. Since Creo makes use of Windows OS file system it will not run on Mac. However, a Windows emulator can be installed to run Creo on Mac.
+c-cowwege-wevew e-engineewing cwasses as weww as n-nyumewous companies i-in the automotive, (U ﹏ U) aewospace a-and consumew i-industwy use cweo. o.O since cweo makes u-use of windows o-os fiwe system it wiww nyot wun o-on mac. (⑅˘꒳˘) howevew, OwO a-a windows emuwatow can be instawwed to wun cweo on mac.
 
-Getting Parts
+getting p-pawts
 -------------
 
-All vendors (REV, goBILDA, Actobotics, AndyMark, Tetrix) provide 3d models of the parts they sell in STEP format, which can be imported by any of the CAD programs above. Some vendors also offer repositories or zip files containing :term:`STEP file` of all the models they sell.
+a-aww vendows (wev, (U ᵕ U❁) gobiwda, a-actobotics, >w< a-andymawk, >w< tetwix) pwovide 3d modews o-of the pawts they seww in step fowmat, ʘwʘ which c-can be impowted b-by any of the cad pwogwams above. ( ͡o ω ͡o ) some vendows a-awso offew wepositowies o-ow zip f-fiwes containing :tewm:`step fiwe` of aww the modews they seww. UwU
 
-- Vendor CAD Libraries
+- vendow cad wibwawies
 
-  - `Actobotics (ServoCity) <https://www.servocity.com/step-files/>`_
-  - `REV Robotics <https://workbench.grabcad.com/workbench/projects/gcEvgrMnw6kRPx7OR6r45Gvb2t-iOdLiNG3m_ALpdGYzK_#/space/gcFd6nwp5Brrc3ks-92gagLZCV2FkceNTX3qGzaMvy2wQD/folder/2906404>`_
+  - `actobotics (sewvocity) <https://www.sewvocity.com/step-fiwes/>`_
+  - `wev w-wobotics <https://wowkbench.gwabcad.com/wowkbench/pwojects/gcevgwmnw6kwpx7ow6w45gvb2t-iodwing3m_awpdgyzk_#/space/gcfd6nwp5bwwc3ks-92gagwzcv2fkcentx3qgzamvy2wqd/fowdew/2906404>`_
 
-- `10650 Hazmat Robotics CAD Library <https://workbench.grabcad.com/workbench/projects/gcpgZgLBwhIdL0FfUKJJfM75cqa9RW1ncXaL-lQ4KOl1wa#/space/gcSzacmSeI-l19BYQNPm422pSHLenRxOxVtmaD-Pzynwsq/folder/6578524>`_
-- `2901 Purple Gears Onshape Parts Library <https://ftconshape.com/introduction-to-the-ftc-parts-library/>`_
+- `10650 h-hazmat wobotics c-cad wibwawy <https://wowkbench.gwabcad.com/wowkbench/pwojects/gcpgzgwbwhidw0ffukjjfm75cqa9ww1ncxaw-wq4kow1wa#/space/gcszacmsei-w19byqnpm422pshwenwxoxvtmad-pzynwsq/fowdew/6578524>`_
+- `2901 puwpwe geaws onshape pawts wibwawy <https://ftconshape.com/intwoduction-to-the-ftc-pawts-wibwawy/>`_
 
-For more public repositories of FTC parts, check :doc:`../appendix/useful-resources` section in the Appendix.
+fow mowe pubwic wepositowies of ftc pawts, c-check :doc:`../appendix/usefuw-wesouwces` section i-in the appendix. òωó
 
-File sharing
+f-fiwe shawing
 ------------
 
-Teams often have multiple members working on CAD models, and thus require a file sharing system for ensuring that each person has up-to-date files. Some recommendations include GrabCAD, Box, Google Drive, or Dropbox.
+t-teams often have muwtipwe membews w-wowking on cad m-modews, (⑅˘꒳˘) and thus w-wequiwe a fiwe s-shawing system fow ensuwing that each pewson has u-up-to-date fiwes. (⑅˘꒳˘) some wecommendations incwude g-gwabcad, σωσ box, ʘwʘ googwe dwive, ow d-dwopbox. >w<
 
-It is also a good idea that one team member work on the model at a time to prevent confusion.
+it is a-awso a good idea t-that one team m-membew wowk on the modew at a time to pwevent confusion. (U ﹏ U)

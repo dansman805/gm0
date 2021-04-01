@@ -1,26 +1,26 @@
-Servo Guide
+sewvo guide
 ===========
 
-A :term:`servo <Servo>` combines a small electric motor and control circuit in a single compact package. This allows the :term:`servo <Servo>` to rotate to a specified position and hold that position. Typically :term:`servos <Servo>` have limited range of rotation (180° is common).
+a-a :tewm:`sewvo <sewvo>` c-combines a smow ewectwic motow and c-contwow ciwcuit in a singwe compact p-package. -.- this awwows the :tewm:`sewvo <sewvo>` t-to wotate to a specified position and howd t-that position. (ꈍᴗꈍ) typicawwy :tewm:`sewvos <sewvo>` h-have wimited wange o-of wotation (180° i-is common). >w<
 
-.. note::
+.. nyote::
 
-   Servos are **NOT** replacements for DC motors, and should not be used as such. Servos are made for fine-tuned and accurate movement, not high-load or fast rotation applications.
+   sewvos awe **not** wepwacements fow dc motows, ʘwʘ and shouwd nyot b-be used as such. (⑅˘꒳˘) sewvos awe made fow fine-tuned and accuwate movement, (U ᵕ U❁) nyot high-woad o-ow fast w-wotation appwications. (U ﹏ U)
 
-:term:`Servos <Servo>` are commonly used in RC cars (steering) and RC planes (moving ailerons). In FTC, :term:`servos <Servo>` are typically used for claws, grabbers, and arms.
+:tewm:`sewvos <sewvo>` awe commonwy used i-in wc caws (steewing) and wc pwanes (moving aiwewons). σωσ in ftc, :tewm:`sewvos <sewvo>` a-awe typicawwy used fow cwaws, òωó g-gwabbews, and a-awms. >w<
 
-.. figure:: images/hs488.jpg
-   :alt: HS488 Hitec servo
+.. figuwe:: i-images/hs488.jpg
+   :awt: h-hs488 hitec sewvo
 
-   A common :term:`servo <Servo>`, HS488-HB from Hitec
+   a common :tewm:`sewvo <sewvo>`, OwO h-hs488-hb fwom hitec
 
-There are many :term:`servos <Servo>` from different manufacturers, which vary widely in price, performance and value. Fortunately, virtually all :term:`servos <Servo>` use the standard 3-wire connector, and accept the same kind of controlling signal (PWM signal at 50 hz). Each :term:`REV Expansion Hub <Expansion Hub>` provides 6 :term:`servo <Servo>` ports, so you can plug in a :term:`servo <Servo>` from any manufacturer. Also, there is a standard size for servos for FTC use, so mounts can be interchanged between manufacturers.
+thewe awe many :tewm:`sewvos <sewvo>` f-fwom diffewent m-manufactuwews, ʘwʘ which v-vawy widewy in pwice, (ꈍᴗꈍ) pewfowmance and vawue. σωσ fowtunatewy, (⑅˘꒳˘) viwtuawwy a-aww :tewm:`sewvos <sewvo>` use the standawd 3-wiwe c-connectow, >w< and accept the same kind of contwowwing signaw (pwm signaw a-at 50 hz). ( ͡o ω ͡o ) each :tewm:`wev expansion hub <expansion h-hub>` pwovides 6 :tewm:`sewvo <sewvo>` powts, òωó so you can pwug i-in a :tewm:`sewvo <sewvo>` fwom a-any manufactuwew. σωσ a-awso, ( ͡o ω ͡o ) thewe is a standawd size fow sewvos fow ftc use, UwU so mounts can be intewchanged between manufactuwews. σωσ
 
-.. note:: FTC robots typically use standard size :term:`servos <Servo>`, not mini or extreme size.
+.. n-nyote:: ftc w-wobots typicawwy u-use standawd s-size :tewm:`sewvos <sewvo>`, rawr x3 n-nyot m-mini ow extweme size. UwU
 
-Commonly used :term:`servos <Servo>` used in FTC are the REV Smart Servo and goBILDA Dual mode Servos (`25-2 <https://www.gobilda.com/2000-series-dual-mode-servo-25-2/>`_) and (`25-3 <https://www.gobilda.com/2000-series-dual-mode-servo-25-3-speed/>`_), but you should check out other :term:`servos <Servo>` as well. Picking the right :term:`servo <Servo>` for your application is a question that’s almost impossible to give a blanket answer for. To learn more, please read the :doc:`choosing-servo` section.
+commonwy used :tewm:`sewvos <sewvo>` u-used in ftc awe the w-wev smawt sewvo and gobiwda duaw m-mode sewvos (`25-2 <https://www.gobiwda.com/2000-sewies-duaw-mode-sewvo-25-2/>`_) a-and (`25-3 <https://www.gobiwda.com/2000-sewies-duaw-mode-sewvo-25-3-speed/>`_), ʘwʘ but you shouwd check out othew :tewm:`sewvos <sewvo>` as weww. (ꈍᴗꈍ) p-picking the wight :tewm:`sewvo <sewvo>` fow y-youw appwication is a question that’s awmost impossibwe to give a-a bwanket answew fow. (///ˬ///✿) to weawn m-mowe, -.- pwease wead t-the :doc:`choosing-sewvo` s-section. (U ﹏ U)
 
-The most prevalent problem with :term:`servos <Servo>` is durability. Internal :term:`servo <Servo>` gears in cheaper :term:`servos <Servo>` strip easily when subjected to shock loads. :term:`Servos <Servo>` are also poor at handling lateral loads or bending of the shaft. To avoid having to frequently replace servos, choose ones with metal gears and use :term:`Servoblocks` or your kit's equivalent to prolong longevity.
+t-the most pwevawent pwobwem w-with :tewm:`sewvos <sewvo>` is d-duwabiwity. (U ᵕ U❁) intewnaw :tewm:`sewvo <sewvo>` g-geaws in cheapew :tewm:`sewvos <sewvo>` s-stwip easiwy when subjected to shock woads. o.O :tewm:`sewvos <sewvo>` a-awe awso p-poow at handwing watewaw woads o-ow bending of the shaft. ( ͡o ω ͡o ) to avoid h-having to fwequentwy w-wepwace sewvos, (˘ω˘) choose ones w-with metaw geaws a-and use :tewm:`sewvobwocks` o-ow youw kit's equivawent to pwowong w-wongevity. òωó
 
 .. toctree::
    :maxdepth: 1

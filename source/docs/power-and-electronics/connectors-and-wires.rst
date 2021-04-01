@@ -1,53 +1,53 @@
-Connectors and Wires
+connectows and wiwes
 ====================
 
-There are many types of connectors for use in FTC. Here are the most common connectors you will find on an FTC robot.
+thewe awe many types o-of connectows f-fow use in ftc. o.O hewe awe the most c-common connectows you wiww find o-on an ftc wobot. (⑅˘꒳˘)
 
-- Powerpoles
+- powewpowes
 
    .. image:: images/wiring/powerpole-connector.png
       :alt: A powerpole connector
       :width: 200px
 
-   - Used for module power
-   - Used for motor power
-   - See :term:`Anderson PowerPole`
-- XT30
+   - used fow moduwe p-powew
+   - u-used fow motow powew
+   - see :tewm:`andewson p-powewpowe`
+- xt30
 
    .. image:: images/wiring/xt30-connector.png
       :alt: A XT30 connector
       :width: 200px
 
-   - Used for module power
+   - used fow moduwe p-powew
    - See :term:`XT30`
-- JST-VH
+- jst-vh
 
    .. image:: images/wiring/jst-vh-connector.png
       :alt: A JST-VH connector
       :width: 200px
 
-   - Used for motor power
-   - See :term:`JST-VH`
-- Dupont 0.1”
+   - used fow motow p-powew
+   - see :term:`jst-vh`
+- d-dupont 0.1”
 
    .. image:: images/wiring/dupont-connector.png
       :alt: A Dupont 0.1" connector
       :width: 200px
 
-   - Used for sensors
-   - Used for servo wires
-- JST-PH and JST-XH
+   - used fow sensows
+   - u-used f-fow sewvo wiwes
+- jst-ph and jst-xh
    .. image:: images/wiring/jst-sensor-connectors.png
       :alt: JST-PH and JST-XH connectors
       :width: 200px
 
-   - Used for sensors
-   - See :term:`JST-PH`
-- Tamiya
+   - used fow sensows
+   - s-see :tewm:`jst-ph`
+- tamiya
    .. image:: images/wiring/tamiya-connector.png
       :alt: A Tamiya connector
       :width: 200px
 
-   .. warning:: Do not use these connectors! The metal connectors are fragile and will lead to random disconnects.
+   .. warning:: do nyot use these c-connectows! o.O the m-metaw connectows awe fwagiwe and w-wiww wead to wandom disconnects. (⑅˘꒳˘)
 
-   - Used for module power
+   - u-used fow moduwe powew

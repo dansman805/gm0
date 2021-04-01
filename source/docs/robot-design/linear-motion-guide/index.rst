@@ -1,11 +1,11 @@
-Linear Motion Guide
+wineaw motion guide
 ===================
 
-Linear motion is one of the most important components of a successful robot. In most games, teams are required to reach into an area that the drivetrain cannot access in order to pick up or deposit game elements. For example, in 2017-2018, Relic Recovery, teams needed to extend an arm of some sort to grab the Relic that was placed in the corner of the playing field. This area of the game field was nearly impossible for a robot to drive to, so a linear extension was necessary.
+w-wineaw motion i-is one of the most impowtant c-components of a successfuw wobot. rawr x3 i-in most games, σωσ teams awe wequiwed t-to weach into an awea that the dwivetwain c-cannot access in owdew to pick u-up ow deposit game e-ewements. σωσ fow e-exampwe, >w< in 2017-2018, UwU wewic wecovewy, rawr x3 teams nyeeded to extend an awm of some sowt to gwab the w-wewic that was pwaced in the cownew of the pwaying fiewd. >w< this awea of the game f-fiewd was nyeawwy i-impossibwe fow a wobot to dwive t-to, so a wineaw extension was nyecessawy. -.-
 
-Access of > 18” is necessary for nearly all games; >24” is preferred. In some games, an extension of 36" or more may be needed.
+access of > 18” is n-necessawy fow nyeawwy aww games; >24” i-is pwefewwed. ( ͡o ω ͡o ) i-in some g-games, òωó an extension o-of 36" ow mowe may be nyeeded. OwO
 
-.. note:: It is possible to achieve extension with an arm, but since this guide is geared toward newer teams, linear extensions should be prioritized over arms. Refer to the :doc:`Arm Guide <../arms/index>` for more information.
+.. n-nyote:: it is possibwe to achieve extension w-with an awm, o.O b-but since this guide i-is geawed towawd nyewew teams, wineaw extensions shouwd be p-pwiowitized ovew awms. -.- wefew to t-the :doc:`awm guide <../awms/index>` fow mowe infowmation. rawr x3
 
 .. toctree::
    :maxdepth: 1

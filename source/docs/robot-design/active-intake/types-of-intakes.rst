@@ -1,177 +1,177 @@
-Types of Intake
+types of intake
 ===============
 
-Horizontal/top Intake
-   A horizontal intake generally is a wider style of intake that has the intake rotating on a horizontal axis or plane. Horizontal intakes are generally used for intaking smaller game elements, as these types of intakes can control more than one piece at a time. Horizontal intakes have been used successfully in games such as Res-Q and Rover Ruckus, where teams needed to pick up small cubes and balls from the floor.
+h-howizontaw/top intake
+   a-a howizontaw intake genewawwy i-is a widew stywe of intake t-that has the intake wotating on a-a howizontaw axis ow pwane. UwU howizontaw intakes a-awe genewawwy used fow intaking s-smowew game ewements, UwU a-as these t-types of intakes can contwow mowe than one piece at a time. (˘ω˘) howizontaw intakes have been used successfuwwy i-in games such as wes-q and wovew wuckus, (ꈍᴗꈍ) whewe teams nyeeded to pick u-up smow cubes and b-bawws fwom the fwoow.
 
-Vertical Intake
-   A vertical intake typically has wheels or other intake components rotating on a vertical axis (the z-axis). Vertical intakes are more controllable, as they can only pick up one element at a time. Vertical intakes excel at picking up large game elements which would be impossible to control more than one piece at once, such as the foam glyphs in Relic Recovery.
+vewticaw i-intake
+   a vewticaw intake typicawwy has wheews ow othew intake c-components wotating on a vewticaw a-axis (the z-axis). -.- v-vewticaw i-intakes awe mowe c-contwowwabwe, OwO as they can onwy p-pick up one ewement at a time. OwO vewticaw intakes e-excew at picking u-up wawge game e-ewements which wouwd be impossibwe to contwow mowe than one piece a-at once, (///ˬ///✿) such as the foam gwyphs i-in wewic wecovewy. (U ﹏ U)
 
-Below are different implementations of horizontal and vertical intakes:
+bewow awe diffewent impwementations of howizontaw and vewticaw i-intakes:
 
-Roller and Wheeled Intakes
+wowwew and wheewed intakes
 --------------------------
 
-Roller and wheeled intakes refer to types of intakes which work by having some sort of hard or pliable object rotate along an axis. Wheeled intakes use different kinds of wheels (solid traction, compliant, or foam wheels) that propel the game element to the collection bin. Roller intakes are wider, and can sometimes intake more than one game element.
+w-wowwew and wheewed intakes wefew to types o-of intakes which w-wowk by having s-some sowt of hawd ow pwiabwe object wotate awong an axis. (⑅˘꒳˘) wheewed intakes use diffewent kinds of wheews (sowid t-twaction, UwU compwiant, (U ᵕ U❁) o-ow foam wheews) t-that pwopew t-the game ewement t-to the cowwection b-bin. (U ﹏ U) wowwew intakes awe widew, rawr x3 and can sometimes i-intake mowe than one game ewement.
 
-Solid Wheel Intake
+s-sowid wheew intake
 ^^^^^^^^^^^^^^^^^^
 
-Solid wheel intakes use wheels such as grip and traction wheels to pick up game elements. They can be effective in picking up large game elements which do not have much tolerance difference.
+s-sowid wheew intakes u-use wheews such as gwip and twaction wheews to pick up game e-ewements. ( ͡o ω ͡o ) they can be effective in picking up wawge g-game ewements which do nyot have much towewance diffewence. (U ᵕ U❁)
 
-However, compliant wheel intakes generally will be more effective because compliant wheels offer more adjustability and forgiveness for the game elements. Compliant wheels also accounting for different game element orientations (the game pieces can get rotated when being controlled) and intake angles (the orientation of the game piece before it reaches the intake).
+h-howevew, compwiant wheew intakes g-genewawwy wiww b-be mowe effective b-because compwiant w-wheews offew mowe adjustabiwity a-and fowgiveness f-fow the game e-ewements. ʘwʘ compwiant wheews awso a-accounting fow diffewent game ewement owientations (the g-game pieces c-can get wotated when being c-contwowwed) and intake angwes (the o-owientation o-of the game piece befowe it weaches t-the intake). (U ᵕ U❁)
 
-Compliant Wheel Intake
+c-compwiant wheew i-intake
 ^^^^^^^^^^^^^^^^^^^^^^
 
-.. sidebar:: Spring-Loaded Intakes
+.. sidebaw:: spwing-woaded i-intakes
 
-   A spring-loaded intake is able to pivot in order to accommodate a game element when it is passing through the intake, but will snap back when the element has gone through. A spring-loaded intake requires more thought, but guarantees that the intake wheel will always be in contact with the desired element.
+   a spwing-woaded i-intake is a-abwe to pivot i-in owdew to accommodate a game ewement w-when it is p-passing thwough the intake, ( ͡o ω ͡o ) but w-wiww snap back w-when the ewement h-has gone thwough. (///ˬ///✿) a-a spwing-woaded i-intake wequiwes mowe thought, (///ˬ///✿) but guawantees t-that the intake wheew wiww awways b-be in contact with the desiwed ewement. (U ﹏ U)
 
-   A locked intake simply means that the wheels are locked into place and cannot pivot.
+   a wocked intake simpwy means that the wheews awe wocked into pwace a-and cannot pivot. >w<
 
-The compliant wheel intake is most commonly used with large game elements such as the glyphs in the 2017-2018 season, Relic Recovery. Compliant wheel intakes excel at controlling elements with flat surfaces such as cubes or rectangular prisms. They suffer at picking up balls.
+t-the compwiant wheew intake is most commonwy u-used with wawge g-game ewements such a-as the gwyphs in the 2017-2018 season, ( ͡o ω ͡o ) wewic w-wecovewy. (˘ω˘) compwiant wheew intakes e-excew at contwowwing e-ewements with fwat suwfaces s-such as cubes o-ow wectanguwaw p-pwisms. -.- they suffew at picking up bawws. (ꈍᴗꈍ)
 
-In this game, robots had to pick up glyphs, which were 6 inch foam cubes, from the center pit and place them in the cryptobox. This game had many wheeled intakes primarily because the wheels had consistent and controllable contact with the glyphs. Wheeled intakes were able to propel the glyphs in a consistent fashion from the point of contact to the deposit plate, which would flip up to deposit the glyphs.
+in this game, σωσ wobots had to pick up gwyphs, -.- w-which wewe 6 inch foam cubes, o.O f-fwom the centew p-pit and pwace them in the cwyptobox. >w< this game h-had many wheewed i-intakes pwimawiwy because the wheews had consistent a-and contwowwabwe contact with the gwyphs. >w< wheewed intakes w-wewe abwe to pwopew the gwyphs i-in a consistent f-fashion fwom the p-point of contact to the deposit pwate, (˘ω˘) which w-wouwd fwip up to d-deposit the gwyphs. (///ˬ///✿)
 
-Wheeled intakes can be spring-loaded or locked into place. Teams could choose one or mix; in Relic Recovery, some teams spring-loaded the set of wheels that made contact first, and then had a fixed set in the back. This is up to the design team’s choosing.
+wheewed intakes c-can be spwing-woaded o-ow wocked into pwace. (///ˬ///✿) teams couwd choose o-one ow mix; in wewic wecovewy, (U ᵕ U❁) some teams spwing-woaded the set of wheews that made contact f-fiwst, ( ͡o ω ͡o ) and then had a fixed set in the back. (⑅˘꒳˘) this is up to the design team’s choosing. òωó
 
-Wheeled intakes operate at much slower RPM than surgical tubing intakes, as wheeled intakes are meant to pick up **one** element at a time. They generally require more torque than a surgical tubing intake, which is geared for speed.
+w-wheewed i-intakes opewate a-at much swowew w-wpm than suwgicaw t-tubing intakes, ( ͡o ω ͡o ) as wheewed intakes a-awe meant t-to pick up **one** e-ewement at a time. ʘwʘ they genewawwy wequiwe mowe t-towque than a s-suwgicaw tubing intake, which is g-geawed fow speed. (˘ω˘)
 
-Advantages
+a-advantages
 ~~~~~~~~~~
 
-- Very controllable
-- Propels elements to desired location
-- Great at picking up large elements
+- vewy contwowwabwe
+- pwopews ewements to desiwed wocation
+- g-gweat at p-picking up wawge ewements
 
-Disadvantages
+disadvantages
 ~~~~~~~~~~~~~
 
-- Picks up only one element at a time
-- Elements can get jammed in a bad position
-- Not generally used for picking up small elements
-- Can generally only pick up one specific element shape
+- p-picks u-up onwy one ewement at a time
+- e-ewements can get jammed in a bad position
+- nyot genewawwy used fow picking up s-smow ewements
+- can genewawwy onwy p-pick up one specific ewement shape
 
-.. figure:: images/compliant-wheel-intake/9971-intake.png
-   :alt: 9971's Relic Recovery intake
+.. figuwe:: images/compwiant-wheew-intake/9971-intake.png
+   :awt: 9971's wewic wecovewy intake
 
-   9971 LanBros, Finalist Alliance First Pick (Detroit), Relic Recovery, springloaded
+   9971 wanbwos, rawr x3 finawist awwiance fiwst pick (detwoit), rawr x3 wewic wecovewy, -.- spwingwoaded
 
-.. figure:: images/compliant-wheel-intake/8680-intake.png
-   :alt: 8680's Relic Recovery intake
+.. f-figuwe:: images/compwiant-wheew-intake/8680-intake.png
+   :awt: 8680's wewic wecovewy i-intake
 
-   8680 Kraken-Pinion, Relic Recovery
+   8680 kwaken-pinion, ʘwʘ wewic wecovewy
 
-.. figure:: images/compliant-wheel-intake/2856-intake.png
-   :alt: 2856's Relic Recovery intake
+.. f-figuwe:: images/compwiant-wheew-intake/2856-intake.png
+   :awt: 2856's w-wewic wecovewy intake
 
-   2856 Tesseract, Relic Recovery, 2 & 4 in. compliant wheels, 2 in. omni wheels
+   2856 t-tessewact, ʘwʘ wewic w-wecovewy, >w< 2 & 4 in. compwiant wheews, ʘwʘ 2 i-in. òωó omni w-wheews
 
-.. figure:: images/compliant-wheel-intake/11115-intake.png
-   :alt: 11115's Relic Recovery intake
+.. figuwe:: i-images/compwiant-wheew-intake/11115-intake.png
+   :awt: 11115's w-wewic wecovewy intake
 
-   11115 Gluten Free, Finalist Alliance Captain (Detroit), Relic Recovery, springloaded
+   11115 g-gwuten fwee, (///ˬ///✿) f-finawist awwiance captain (detwoit), ( ͡o ω ͡o ) wewic wecovewy, (U ᵕ U❁) spwingwoaded
 
-Foam Wheel Intake
+foam wheew i-intake
 ^^^^^^^^^^^^^^^^^
 
-A foam wheel intake has the same principles as a compliant wheel intake, except that it uses foam wheels. It is generally recommended that teams stick to compliant wheels as they are grippier and easier to control.
+a-a foam wheew intake has the same pwincipwes as a compwiant w-wheew intake, (ꈍᴗꈍ) e-except that it uses foam wheews. >w< i-it is genewawwy wecommended that teams stick t-to compwiant wheews as they awe g-gwippiew and easiew to contwow. òωó
 
-.. figure:: images/foam-wheel-intake/6299-intake.png
-   :alt: 6299's ResQ intake
+.. figuwe:: images/foam-wheew-intake/6299-intake.png
+   :awt: 6299's wesq intake
 
-   6299 ViperBots QuadX, Res-Q
+   6299 v-vipewbots q-quadx, (ꈍᴗꈍ) wes-q
 
-Rubber Band Intake
+w-wubbew band intake
 ^^^^^^^^^^^^^^^^^^
 
-Rubber band intakes, commonly used by in the VEX Robotics Competition, generally feature sprockets, wheels, or gears at two ends, with rubber bands interlaced in between to form a pliable and bendable roller. Generally, it can be actuated or adjustable with a servo, although this is not necessary.
+wubbew band intakes, (˘ω˘) commonwy used by i-in the vex wobotics c-competition, rawr x3 g-genewawwy featuwe s-spwockets, ( ͡o ω ͡o ) wheews, ʘwʘ ow geaws at two ends, (ꈍᴗꈍ) with wubbew bands intewwaced in between t-to fowm a p-pwiabwe and bendabwe wowwew. (U ﹏ U) genewawwy, o.O i-it can be a-actuated ow adjustabwe with a s-sewvo, (⑅˘꒳˘) awthough t-this is nyot nyecessawy. OwO
 
-Rubber band intakes are great with intaking balls, but not so great with other types of game elements such as cubes. It generally is slower than a surgical tubing intake, and requires multiple stages to transfer elements from collection to deposit. Zip ties can be added to increase the intake’s range to accommodate for smaller balls.
+w-wubbew band intakes awe gweat with intaking b-bawws, (U ᵕ U❁) but n-nyot so gweat with o-othew types o-of game ewements s-such as cubes. >w< it genewawwy is swowew than a suwgicaw t-tubing intake, >w< a-and wequiwes m-muwtipwe stages to twansfew ewements fwom cowwection t-to deposit. ʘwʘ z-zip ties can b-be added to incwease t-the intake’s w-wange to accommodate fow smowew b-bawws. ( ͡o ω ͡o )
 
-.. figure:: images/rubber-band-intake/vrc-intake.png
-   :alt: A rubber band intake for VRC Turning Point
+.. f-figuwe:: images/wubbew-band-intake/vwc-intake.png
+   :awt: a wubbew b-band intake fow vwc tuwning p-point
 
-   Ball intake for VRC Game Turning Point
+   baww intake fow vwc game t-tuwning point
 
-Tubing Intakes
+tubing intakes
 --------------
 
-Tubing or noodle intakes typically use some sort of pliable tubing, which is rotated at high RPM to intake game pieces. Tubing intakes are particularly efficient at picking up small objects such as the balls and cubes from Res-Q, Velocity Vortex, and Rover Ruckus.
+t-tubing ow nyoodwe intakes typicawwy u-use some sowt of pwiabwe tubing, UwU which is wotated a-at high wpm t-to intake game pieces. òωó tubing intakes awe pawticuwawwy e-efficient at picking up smow objects such as the bawws and cubes fwom wes-q, (⑅˘꒳˘) vewocity v-vowtex, (⑅˘꒳˘) and wovew w-wuckus. σωσ
 
-Surgical Tubing Intake
+suwgicaw t-tubing intake
 ^^^^^^^^^^^^^^^^^^^^^^
 
-Surgical tubing or spearfishing rubber tubing, sold by many different manufacturers, is a great option for picking up small game elements such as the minerals from Res-Q or Rover Ruckus.
+s-suwgicaw t-tubing ow speawfishing wubbew tubing, ʘwʘ sowd by m-many diffewent m-manufactuwews, >w< is a gweat option f-fow picking up smow game ewements s-such as the minewaws fwom wes-q o-ow wovew wuckus. (U ﹏ U)
 
-Surgical tubing intakes can, and often, have multiple sets of tubing in order to move minerals from the collection point to the holding box. This was most often seen in games where robots had to transfer minerals from the field to an elevated location.
+suwgicaw tubing i-intakes can, OwO a-and often, have m-muwtipwe sets of tubing in owdew t-to move minewaws f-fwom the cowwection p-point to t-the howding box. òωó this was most often seen in games whewe wobots had to twansfew m-minewaws fwom the fiewd to an ewevated wocation.
 
-Unlike wheeled and rubber band intakes, which can be spring-loaded, surgical tubing intakes are practically always fixed at a certain height and angle.
+unwike wheewed and wubbew band intakes, (U ﹏ U) which can be spwing-woaded, OwO suwgicaw tubing intakes awe pwacticawwy awways fixed at a c-cewtain height and angwe. (///ˬ///✿)
 
-Surgical tubing by itself is soft and pliable. Teams have two options
+suwgicaw t-tubing by itsewf i-is soft and p-pwiabwe. (///ˬ///✿) teams h-have two options
 
-#. Increase the RPM to 800-1000+ RPM
-#. Use polyurethane tubing at a lower RPM (100-250 RPM).
+#. o.O incwease the wpm to 800-1000+ w-wpm
+#. rawr x3 use powyuwethane tubing at a wowew wpm (100-250 wpm). >w<
 
-   Polyurethane tubing can be purchased at a local hardware store and is a clear tubing that is quite stiff. Using some lubricant, insert the clear tubing into the surgical tubing for added stiffness.
+   powyuwethane t-tubing can be puwchased at a wocaw hawdwawe stowe a-and is a cweaw t-tubing that is quite stiff. (ꈍᴗꈍ) using some wubwicant, rawr x3 insewt the cweaw tubing into t-the suwgicaw tubing f-fow added s-stiffness. UwU
 
-It is encouraged that teams test different RPMs and stiffness to develop the optimal intake. You will be surprised how changing one small variable such as the diameter of tubing or how far the tubing extends can affect intake effectiveness.
+it is e-encouwaged that teams test diffewent w-wpms and s-stiffness to devewop t-the optimaw intake. (ꈍᴗꈍ) you wiww b-be suwpwised how changing one smow vawiabwe such as the diametew o-of tubing ow how faw the tubing e-extends can affect intake effectiveness.
 
-Surgical tubing intakes are especially good at picking up multiple elements at a time, due to the high RPM (sometimes >1000 RPM) of the rollers. However, it suffers from a lack of controllability, as sometimes the driver may accidentally pick up more than needed, and have to spit it out.
+s-suwgicaw tubing intakes a-awe especiawwy g-good at picking u-up muwtipwe e-ewements at a time, σωσ d-due to the high w-wpm (sometimes >1000 w-wpm) of the wowwews. UwU howevew, i-it suffews f-fwom a wack of contwowwabiwity, σωσ a-as sometimes the d-dwivew may accidentawwy pick u-up mowe than nyeeded, (˘ω˘) a-and have to spit it out. (U ﹏ U)
 
-Advantages
+a-advantages
 ~~~~~~~~~~
 
-- Able to collect multiple elements at a time
-- Generally more efficient than wheeled intakes
-- Specializes in small and odd-shaped elements
+- a-abwe to cowwect muwtipwe ewements at a time
+- genewawwy m-mowe efficient t-than wheewed intakes
+- speciawizes i-in smow and odd-shaped e-ewements
 
-Disadvantages
+disadvantages
 ~~~~~~~~~~~~~
 
-- Requires high RPM
-- Less controllable
-- Harder to pick up large elements easily
+- w-wequiwes high wpm
+- wess contwowwabwe
+- hawdew t-to pick up wawge e-ewements easiwy
 
-.. figure:: images/tubing-intake/8375-intake.png
-   :alt: 8375's surgical tubing intake
+.. figuwe:: images/tubing-intake/8375-intake.png
+   :awt: 8375's s-suwgicaw tubing i-intake
 
-   8375 Vulcan Robotics, Res-Q - great example of funneling
+   8375 v-vuwcan wobotics, (U ﹏ U) wes-q - gweat exampwe of funnewing
 
-.. figure:: images/tubing-intake/8393-intake.png
-   :alt: 8393's surgical tubing intake
+.. figuwe:: images/tubing-intake/8393-intake.png
+   :awt: 8393's s-suwgicaw t-tubing intake
 
-   8393 Giant Diencephalic BrainSTEM Robotics Team, Semifinalist Alliance Captain (St. Louis), Velocity Vortex
+   8393 g-giant diencephawic bwainstem wobotics team, (˘ω˘) semifinawist awwiance captain (st. (U ﹏ U) wouis), v-vewocity vowtex
 
-.. figure:: images/tubing-intake/11115-intake.png
-   :alt: 11115's surgical tubing intake
+.. figuwe:: images/tubing-intake/11115-intake.png
+   :awt: 11115's s-suwgicaw tubing i-intake
 
-   11115 Gluten Free, Winning Alliance First Pick (Detroit), Rover Ruckus
+   11115 g-gwuten fwee, σωσ winning awwiance f-fiwst pick (detwoit), (˘ω˘) w-wovew w-wuckus
 
-.. figure:: images/tubing-intake/7203-intake.png
-   :alt: 7203's surgical tubing intake
+.. figuwe:: i-images/tubing-intake/7203-intake.png
+   :awt: 7203's suwgicaw tubing intake
 
-   7203 KNO3, Rover Ruckus
+   7203 k-kno3, wovew wuckus
 
-Zip Tie Intake
+zip tie intake
 ^^^^^^^^^^^^^^
 
-Instead of using surgical tubing, some teams opt for heavy zip ties instead. This can work, but we recommend surgical tubing as it is one of the most tried and tested methods for picking up nearly any game element. Zip ties lack the friction of rubber tubing.
+i-instead of using suwgicaw t-tubing, (˘ω˘) some t-teams opt fow h-heavy zip ties i-instead. (ꈍᴗꈍ) this can wowk, o.O but we wecommend suwgicaw t-tubing as it i-is one of the most t-twied and tested m-methods fow picking up nyeawwy a-any game ewement. o.O zip ties wack t-the fwiction o-of wubbew tubing. òωó
 
-3D printed intake (NinjaFlex/TPU Filament)
+3d pwinted intake (ninjafwex/tpu f-fiwament)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-TPU/NinjaFlex 3D printer filament is a great low-RPM intake flap option, if designed right they work very well with VEX 393 motors (considered servos in FTC), and several teams have successfully used this configuration in competition.
+tpu/ninjafwex 3d pwintew fiwament is a gweat wow-wpm intake fwap option, ( ͡o ω ͡o ) i-if designed wight they wowk vewy weww with vex 393 motows (considewed s-sewvos in ftc), (˘ω˘) and sevewaw t-teams have s-successfuwwy used this configuwation in competition. ( ͡o ω ͡o )
 
-We recommend 3D printed intakes only if your team has had experience in 3D printing parts.
+we wecommend 3d pwinted intakes o-onwy if youw t-team has had expewience in 3d pwinting pawts. OwO
 
-.. figure:: images/3d-printed-intake/731-3dp-intake.png
-   :alt: 731's 3D printed intake
+.. figuwe:: images/3d-pwinted-intake/731-3dp-intake.png
+   :awt: 731's 3d pwinted intake
 
-   731 Wannabee Strange, Rover Ruckus
+   731 wannabee stwange, UwU w-wovew wuckus
 
-.. figure:: images/3d-printed-intake/8417-3dp-intake.png
-   :alt: 8417's 3D printed intake
+.. figuwe:: images/3d-pwinted-intake/8417-3dp-intake.png
+   :awt: 8417's 3d pwinted intake
 
-   8417 Lectric Legends, Rover Ruckus - TPU intake flaps,  powered by two VEX 393 motors
+   8417 wectwic wegends, w-wovew wuckus - t-tpu intake fwaps, o.O  powewed b-by two vex 393 m-motows

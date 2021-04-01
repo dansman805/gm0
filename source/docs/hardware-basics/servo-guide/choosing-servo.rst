@@ -1,92 +1,92 @@
-Choosing a Servo
+choosing a sewvo
 ================
 
-For many applications, you can just use one of the three common :term:`servos <Servo>` in FTC, `REV Smart Servo <https://www.revrobotics.com/rev-41-1097/>`_ or `goBILDA Dual Mode Servo (Torque) <https://www.gobilda.com/2000-series-dual-mode-servo-25-2/>`_, or `goBILDA Dual Mode Servo (Speed) <https://www.gobilda.com/2000-series-dual-mode-servo-25-3-speed/>`_ However, sometimes these :term:`servos <Servo>` are not enough. Here are some important :term:`servo <Servo>` features to consider when selecting a :term:`servo <Servo>`.
+f-fow many appwications, òωó y-you can just use one of t-the thwee common :tewm:`sewvos <sewvo>` in ftc, >w< `wev s-smawt sewvo <https://www.wevwobotics.com/wev-41-1097/>`_ ow `gobiwda duaw m-mode sewvo (towque) <https://www.gobiwda.com/2000-sewies-duaw-mode-sewvo-25-2/>`_, (U ﹏ U) ow `gobiwda duaw mode sewvo (speed) <https://www.gobiwda.com/2000-sewies-duaw-mode-sewvo-25-3-speed/>`_ h-howevew, sometimes these :tewm:`sewvos <sewvo>` a-awe not e-enough. (U ﹏ U) hewe a-awe some impowtant :tewm:`sewvo <sewvo>` featuwes to considew when sewecting a :tewm:`sewvo <sewvo>`. (⑅˘꒳˘)
 
-Servo Type: Regular or Continuous
+sewvo type: weguwaw ow continuous
 ---------------------------------
 
-:term:`Servos <Servo>` which can rotate to a given position based on PWM input signal are called **regular servos**. In addition, there are also **continuous rotation servos**, which are effectively just small motors in a :term:`servo <Servo>` form factor. They have no position control; instead, PWM signal is used to control their rotation speed.
+:tewm:`sewvos <sewvo>` w-which can wotate to a given position based on pwm input signaw awe cawwed **weguwaw s-sewvos**. (˘ω˘) i-in addition, ʘwʘ thewe awe awso **continuous w-wotation sewvos**, òωó which awe effectivewy just smow motows i-in a :tewm:`sewvo <sewvo>` fowm factow. ʘwʘ they h-have nyo position c-contwow; instead, (ꈍᴗꈍ) p-pwm signaw i-is used to contwow theiw wotation s-speed. -.-
 
-Both REV Smart Servo and goBILDA Dual Mode servos (which are both based on FR5311m programmable servo by Feetech) can be used as either regular or continuous rotation servos. To switch between these two modes, you need to use a :term:`servo programmer <SRS Programmer>`, available separately from REV or goBILDA.
+both wev smawt sewvo and gobiwda duaw m-mode sewvos (which a-awe both based o-on fw5311m pwogwammabwe sewvo by feetech) can be used as eithew w-weguwaw ow continuous wotation s-sewvos. OwO to switch between these two modes, ( ͡o ω ͡o ) you need to use a :tewm:`sewvo pwogwammew <sws p-pwogwammew>`, ʘwʘ avaiwabwe sepawatewy fwom w-wev ow gobiwda. o.O
 
-.. warning:: Some vendors offer continuous rotation *option* on some :term:`servos <Servo>`. These options are modifications to the original :term:`servo <Servo>` made by the vendor and are illegal in FTC. The only legal continuous rotation servos are CR servos direct from the **manufacturer/factory**. If you have a seller modify a :term:`servo <Servo>` for continuous rotation, that :term:`servo <Servo>` is not legal.
+.. wawning:: some vendows offew c-continuous wotation *option* o-on some :tewm:`sewvos <sewvo>`. ( ͡o ω ͡o ) t-these options awe modifications to the owiginaw :tewm:`sewvo <sewvo>` made by the vendow and awe iwwegaw in ftc. >w< the onwy wegaw c-continuous wotation s-sewvos awe c-cw sewvos diwect f-fwom the **manufactuwew/factowy**. rawr x3 i-if you have a-a sewwew modify a :tewm:`sewvo <sewvo>` fow continuous w-wotation, (˘ω˘) that :tewm:`sewvo <sewvo>` i-is nyot wegaw. (///ˬ///✿)
 
-Servo Torque And Speed
+sewvo t-towque and speed
 ----------------------
 
-:term:`Servo` output power is measured in both **speed** and **torque**. Speed (normally in seconds per 60°) refers to how fast the :term:`servo <Servo>` turns 60 degrees in Standard Rotation mode. Torque (usually measured in oz-in or in kg-cm) refers to the amount of force the :term:`servo <Servo>` can apply to a lever.
+:tewm:`sewvo` o-output powew is measuwed in both **speed** and **towque**. (///ˬ///✿) s-speed (nowmawwy in seconds pew 60°) wefews t-to how fast the :tewm:`sewvo <sewvo>` tuwns 60 degwees in standawd wotation mode. (///ˬ///✿) t-towque (usuawwy measuwed in oz-in o-ow in kg-cm) w-wefews to the amount o-of fowce the :tewm:`sewvo <sewvo>` c-can appwy to a wevew. (U ﹏ U)
 
-For reference, if you put a 1” bar on a servo, then put a force gauge on the end, the torque rating of the servo (in oz-in) will be measured. As you may know, speed and torque have an inverse relationship. Generally you can find some insanely powerful servos that are pretty slow (slower than 0.20 s/60°) or some less powerful ones with faster ratios (anything faster than 0.12 s/60° is considered very fast).
+f-fow wefewence, (⑅˘꒳˘) if y-you put a 1” b-baw on a sewvo, (///ˬ///✿) then put a fowce g-gauge on the end, (˘ω˘) the towque wating of the sewvo (in o-oz-in) wiww b-be measuwed. o.O as you may know, rawr x3 s-speed and towque have an invewse w-wewationship. (ꈍᴗꈍ) g-genewawwy you can find some insanewy p-powewfuw sewvos t-that awe pwetty s-swow (swowew than 0.20 s/60°) o-ow some wess powewfuw ones with f-fastew watios (anything f-fastew t-than 0.12 s/60° is considewed v-vewy fast). OwO
 
-Finding the right :term:`servo <Servo>` for your application can be tough, but a good way is trying to decide if you need more speed or torque, and if your :term:`servo <Servo>` will experience shock loads or not.
+finding t-the wight :tewm:`sewvo <sewvo>` fow youw a-appwication can b-be tough, σωσ but a g-good way is twying t-to decide if y-you nyeed mowe speed ow towque, σωσ and if youw :tewm:`sewvo <sewvo>` w-wiww expewience shock woads ow n-nyot. σωσ
 
-Durability and Servo Gear Material
+duwabiwity and sewvo geaw matewiaw
 ----------------------------------
 
-The two things that threaten a :term:`servo’s <Servo>` longevity are the internal motor burning out and more commonly, the :term:`gears <Gear>` stripping inside the :term:`servo <Servo>`. A motor burning out is pretty uncommon, but it can happen under large loads for a prolonged amount of time.
+the two things that thweaten a :tewm:`sewvo’s <sewvo>` wongevity awe the intewnaw m-motow buwning o-out and mowe commonwy, (˘ω˘) the :tewm:`geaws <geaw>` stwipping inside t-the :tewm:`sewvo <sewvo>`. OwO a-a motow b-buwning out is pwetty uncommon, òωó but it can h-happen undew wawge woads fow a pwowonged a-amount o-of time. σωσ
 
-.. caution:: You should **never** stall a servo against an immovable object.
+.. caution:: you shouwd **nevew** s-staww a-a sewvo against a-an immovabwe object. (⑅˘꒳˘)
 
-Gear stripping is a very common problem which occurs when the torque needed to actuate a component exceeds that of the :term:`servo's <Servo>` maximum torque. There are two main cases when this can occur.
+geaw stwipping is a vewy common pwobwem which occuws when t-the towque nyeeded to actuate a-a component exceeds t-that of the :tewm:`sewvo's <sewvo>` maximum towque. ( ͡o ω ͡o ) thewe awe t-two main cases w-when this can occuw. rawr x3
 
-- Shock load from external force can strip the :term:`gears <Gear>` easily, regardless of which material the :term:`gears <Gear>` are made from. An example could be the component slamming into the field wall or another robot.
-- Shock load from reversing directions on an object that is too heavy can strip the :term:`gears <Gear>`. Torque increases with mass and also distance from the center of rotation. If the component being actuated is far from the :term:`servo <Servo>`, the long lever arm means larger torque. Furthermore, if the component is moving, reversing direction also will require more torque. Thus, the principle is that components should be light and not reverse direction suddenly to prolong :term:`servo <Servo>` life.
+- shock woad fwom extewnaw f-fowce can stwip the :tewm:`geaws <geaw>` easiwy, σωσ wegawdwess of w-which matewiaw the :tewm:`geaws <geaw>` a-awe made f-fwom. -.- an exampwe c-couwd be the component swamming into the fiewd w-waww ow anothew w-wobot. ʘwʘ
+- shock woad fwom wevewsing d-diwections o-on an object that is too heavy can stwip the :tewm:`geaws <geaw>`. σωσ t-towque incweases with mass and awso distance fwom the centew of wotation. σωσ if the component being a-actuated is faw fwom the :tewm:`sewvo <sewvo>`, σωσ the wong wevew awm means wawgew towque. fuwthewmowe, (U ﹏ U) i-if the c-component is moving, (ꈍᴗꈍ) w-wevewsing diwection a-awso wiww w-wequiwe mowe towque. ( ͡o ω ͡o ) thus, the p-pwincipwe is that c-components shouwd b-be wight and nyot wevewse diwection suddenwy t-to pwowong :tewm:`sewvo <sewvo>` w-wife. (U ﹏ U)
 
-Shock load resistance is impacted directly by the material the :term:`gears <Gear>` are made from. This ranges from plastic to titanium, so let’s go down the list, starting from the weakest.
+shock woad wesistance i-is impacted diwectwy b-by the matewiaw the :tewm:`geaws <geaw>` awe made fwom. ʘwʘ this wanges fwom pwastic to titanium, s-so wet’s go d-down the wist, UwU stawting fwom the w-weakest. UwU
 
-- **Plastic**: with low power :term:`servos <Servo>`, these are normally okay. Generally used for applications in model airplanes such as ailerons. FTC applications include light load mechanisms which will not have direct contact with any game elements or the field. An example could be a servo which opens a trapdoor or moves game elements within the robot.
-- **Karbonite**: Hitec’s :term:`gear <Gear>` plastic is a very durable and long lasting plastic and is very good under long use and low load. Be aware that it can strip easily under the shock loads found in FTC. Karbonite is more durable than plastic but still suffers from shock loads.
-- **Brass**: Brass :term:`gears <Gear>` are stronger than plastic but also suffer greatly when faced with shock loads in FTC like intake wrists and deposit buckets. It’s found on slightly higher end servos such as the REV Smart Servo.
-- **Steel**: This is where we start getting big. Steel :term:`gears <Gear>` are very durable and you’ll have a tough time stripping these. In general, expect to pay a premium. The goBILDA Dual mode servos (v2) is an example of steel :term:`gear <Gear>` :term:`servo <Servo>`.
-- **Titanium**: Titanium is where you get into really high end, virtually unbreakable :term:`servos <Servo>`. Starting from $75, they can reach over $150.
+- **pwastic**: w-with wow powew :tewm:`sewvos <sewvo>`, (˘ω˘) t-these awe nyowmawwy okay. (ꈍᴗꈍ) genewawwy used fow appwications in modew aiwpwanes s-such as aiwewons. -.- ftc appwications i-incwude wight woad mechanisms which wiww nyot have diwect contact with any game ewements ow the fiewd. OwO an exampwe couwd be a sewvo which opens a twapdoow ow moves game ewements w-within the wobot. OwO
+- **kawbonite**: hitec’s :tewm:`geaw <geaw>` p-pwastic is a vewy duwabwe and wong wasting p-pwastic and is vewy good undew wong u-use and wow woad. (///ˬ///✿) be awawe that i-it can stwip e-easiwy undew the shock woads found i-in ftc. (U ﹏ U) kawbonite i-is mowe duwabwe t-than pwastic b-but stiww suffews fwom shock w-woads. (⑅˘꒳˘)
+- **bwass**: b-bwass :tewm:`geaws <geaw>` awe stwongew than pwastic but awso suffew gweatwy when faced with s-shock woads in f-ftc wike intake wwists and deposit buckets. UwU it’s found on swightwy h-highew end s-sewvos such as the wev smawt sewvo. (U ᵕ U❁)
+- **steew**: t-this is whewe we stawt getting big. (U ﹏ U) steew :tewm:`geaws <geaw>` a-awe vewy duwabwe and you’ww have a-a tough time stwipping these. rawr x3 in genewaw, expect to pay a pwemium. ( ͡o ω ͡o ) t-the gobiwda d-duaw mode sewvos (v2) i-is an exampwe of steew :tewm:`geaw <geaw>` :tewm:`sewvo <sewvo>`.
+- **titanium**: titanium is whewe you get into weawwy h-high end, (U ᵕ U❁) viwtuawwy u-unbweakabwe :tewm:`sewvos <sewvo>`. ʘwʘ s-stawting f-fwom $75, (U ᵕ U❁) they can weach ovew $150. ( ͡o ω ͡o )
 
-Servo Size
+sewvo size
 ----------
 
-:term:`Servos <Servo>` come in different sizes. Fortunately, almost all manufacturers use the same standard set of :term:`servo <Servo>` sizes, ranging from sub-micro to large. The two sizes commonly used in FTC are *standard size* (which includes REV Smart Servo and goBILDA Dual Mode Servos) and *large size* (also known as quarter-scale) :term:`servos <Servo>`. However, large :term:`servos <Servo>` are quite uncommon.
+:tewm:`sewvos <sewvo>` come in diffewent sizes. (///ˬ///✿) fowtunatewy, (///ˬ///✿) a-awmost a-aww manufactuwews use the same s-standawd set of :tewm:`sewvo <sewvo>` s-sizes, (U ﹏ U) wanging fwom sub-micwo t-to wawge. >w< the t-two sizes commonwy u-used in ftc awe *standawd size* (which incwudes w-wev smawt sewvo a-and gobiwda d-duaw mode sewvos) a-and *wawge size* (awso k-known as quawtew-scawe) :tewm:`sewvos <sewvo>`. howevew, ( ͡o ω ͡o ) w-wawge :tewm:`sewvos <sewvo>` a-awe quite uncommon. (˘ω˘)
 
-Note that while in general, the larger the size, the more powerful the :term:`servo <Servo>`, it is not a strict rule. You can buy very powerful standard size :term:`servos <Servo>` - just expect to pay more for them.
+n-nyote that whiwe in genewaw, -.- the wawgew the s-size, (ꈍᴗꈍ) the mowe p-powewfuw the :tewm:`sewvo <sewvo>`, σωσ i-it is nyot a s-stwict wuwe. -.- you c-can buy vewy powewfuw standawd s-size :tewm:`sewvos <sewvo>` - just e-expect to pay mowe fow them. o.O
 
-Servo Spline
+s-sewvo spwine
 ------------
 
-The output shaft of the :term:`servo <Servo>` is commonly called the **spline**. Most servos have industry standard 25 tooth spline (also known as F3); in particular, this is the spline used by REV Smart Servo and goBILDA Dual Mode servos. However, Hitec servos using 24 tooth spline are also very popular.
+the o-output shaft of the :tewm:`sewvo <sewvo>` i-is commonwy cawwed the **spwine**. >w< m-most sewvos have industwy s-standawd 25 tooth spwine (awso known as f-f3); in pawticuwaw, >w< t-this is the spwine used by wev smawt sewvo and g-gobiwda duaw mode sewvos. (˘ω˘) howevew, hitec sewvos using 24 tooth spwine awe awso vewy popuwaw. (///ˬ///✿)
 
-.. attention:: Please check the spline type before you buy the :term:`servo <Servo>` - otherwise, your :term:`servo <Servo>` attachments will not fit.
+.. a-attention:: p-pwease check the s-spwine type befowe y-you buy the :tewm:`sewvo <sewvo>` - o-othewwise, (///ˬ///✿) youw :tewm:`sewvo <sewvo>` attachments w-wiww nyot f-fit. (U ᵕ U❁)
 
-For more info about servo splines, please check https://www.servocity.com/servo-spline-info/.
+fow mowe info about sewvo s-spwines, ( ͡o ω ͡o ) pwease check https://www.sewvocity.com/sewvo-spwine-info/. (⑅˘꒳˘)
 
-Cost
+c-cost
 ----
 
-:term:`Servos <Servo>` range from cheap $7 :term:`servos <Servo>` for light applications, all the way up to some Hitec or Savox :term:`servos <Servo>` for close to $200.
+:tewm:`sewvos <sewvo>` wange f-fwom cheap $7 :tewm:`sewvos <sewvo>` fow wight a-appwications, òωó aww t-the way up to s-some hitec ow savox :tewm:`sewvos <sewvo>` fow cwose t-to $200. ( ͡o ω ͡o )
 
-By far the best bang for your buck :term:`servos <Servo>` out there are the Feetech dual mode :term:`servos <Servo>`, which is a programmable type of :term:`servo <Servo>`. This includes both the **REV SRS** (Smart Robot Servo) and **goBILDA Dual Mode servos**.
+by f-faw the best bang f-fow youw buck :tewm:`sewvos <sewvo>` o-out thewe awe the feetech duaw mode :tewm:`sewvos <sewvo>`, ʘwʘ which is a pwogwammabwe type o-of :tewm:`sewvo <sewvo>`. (˘ω˘) this incwudes both the **wev sws** (smawt wobot sewvo) and **gobiwda duaw mode sewvos**. rawr x3
 
-The biggest downside to the REV SRS and the old goBILDA servos (25-1) are their brass :term:`gears <Gear>`. Coupled with high output power, this meant that stripping :term:`gears <Gear>` with any shock load was commonplace. The new goBILDA Dual Mode servos (25-2) and (25-3) have steel :term:`gears <Gear>`, but are new and aren’t as competition tested as other servos.
+the biggest downside to the wev sws and the owd gobiwda sewvos (25-1) a-awe theiw bwass :tewm:`geaws <geaw>`. rawr x3 c-coupwed with high o-output powew, -.- t-this meant that s-stwipping :tewm:`geaws <geaw>` with any shock woad was commonpwace. ʘwʘ t-the new gobiwda duaw mode sewvos (25-2) and (25-3) have steew :tewm:`geaws <geaw>`, ʘwʘ but awe n-nyew and awen’t as competition tested as othew s-sewvos. >w<
 
-The next big name in FTC :term:`Servos <Servo>` is Hitec, who are a huge name in hobby :term:`servos <Servo>` for decades and are very well trusted. Their low end :term:`servos <Servo>` are inexpensive but easily broken.
+the n-nyext big nyame in ftc :tewm:`sewvos <sewvo>` is hitec, ʘwʘ who awe a huge nyame in h-hobby :tewm:`sewvos <sewvo>` f-fow d-decades and awe v-vewy weww twusted. òωó theiw wow end :tewm:`sewvos <sewvo>` a-awe inexpensive b-but easiwy b-bwoken. (///ˬ///✿)
 
-A mid-priced Hitec :term:`servo <Servo>` is the HS 485-HB/488-HB servo, with Karbonite :term:`gears <Gear>`. While it shouldn’t be used in high load applications, it is fine for general use such as claws or trapdoors. 485HB uses 24 tooth spline; 488 HB uses 25 tooth spline (recommended).
+a mid-pwiced hitec :tewm:`sewvo <sewvo>` i-is the hs 485-hb/488-hb sewvo, ( ͡o ω ͡o ) with kawbonite :tewm:`geaws <geaw>`. (U ᵕ U❁) whiwe i-it shouwdn’t be used in high woad a-appwications, (ꈍᴗꈍ) it is fine fow g-genewaw use such as cwaws ow twapdoows. >w< 485hb uses 24 t-tooth spwine; 488 h-hb uses 25 t-tooth spwine (wecommended). òωó
 
-Where Hitec really shines is the high end market. If your budget is over $100, you can get into some very powerful Hitec :term:`servos <Servo>`. Most have titanium :term:`gears <Gear>` and are programmable, so you can dial in the performance and range to exactly what you need.
+w-whewe hitec weawwy s-shines is the h-high end mawket. (ꈍᴗꈍ) i-if youw budget is ovew $100, (˘ω˘) y-you can get into s-some vewy powewfuw hitec :tewm:`sewvos <sewvo>`. rawr x3 m-most have titanium :tewm:`geaws <geaw>` a-and awe pwogwammabwe, ( ͡o ω ͡o ) s-so you can diaw i-in the pewfowmance and wange to e-exactwy nyani you n-nyeed. ʘwʘ
 
-The last big player in the :term:`servo <Servo>` market in FTC is Savox, which produces great mid-high range :term:`servos <Servo>` (think $60-$100+). They are made with titanium :term:`gears <Gear>` (close to bulletproof) and are **fast**. Savox :term:`servos <Servo>` are mostly brushless and coreless, so they do tend to scream a little under load, but they’re definitely worth it if your budget allows for it.
+the wast big pwayew in the :tewm:`sewvo <sewvo>` mawket i-in ftc is savox, (ꈍᴗꈍ) w-which pwoduces gweat mid-high w-wange :tewm:`sewvos <sewvo>` (think $60-$100+). (U ﹏ U) t-they awe made with titanium :tewm:`geaws <geaw>` (cwose t-to buwwetpwoof) and awe **fast**. o.O savox :tewm:`sewvos <sewvo>` a-awe mostwy b-bwushwess and cowewess, (⑅˘꒳˘) so they do tend to scweam a-a wittwe undew w-woad, but they’we d-definitewy wowth it if youw budget awwows fow it. OwO
 
-Best Value
+best vawue
 ----------
 
-- Low Priced (~$18)
-   - HiTec 488HB
-   - Futaba servos
-- Medium Priced (~$25)
-   - `goBILDA Dual Mode Servo (Torque) (25-2) <https://www.gobilda.com/2000-series-dual-mode-servo-25-2/>`_
-   - `goBILDA Dual Mode Servo (Speed) (25-3) <https://www.gobilda.com/2000-series-dual-mode-servo-25-3-speed/>`_
-   - `REV Smart Servo <https://www.revrobotics.com/rev-41-1097/>`_
-   - `25kg Coreless Servo <https://longrobotics.com/product/25kg-coreless-servo-ds3225sg/>`_
-- Best Performance ($75+)
-   - Savox titanium servos
-   - Hitec titanium servos
+- w-wow pwiced (~$18)
+   - h-hitec 488hb
+   - f-futaba sewvos
+- medium pwiced (~$25)
+   - `gobiwda duaw mode sewvo (towque) (25-2) <https://www.gobiwda.com/2000-sewies-duaw-mode-sewvo-25-2/>`_
+   - `gobiwda duaw mode sewvo (speed) (25-3) <https://www.gobiwda.com/2000-sewies-duaw-mode-sewvo-25-3-speed/>`_
+   - `wev s-smawt sewvo <https://www.wevwobotics.com/wev-41-1097/>`_
+   - `25kg cowewess s-sewvo <https://wongwobotics.com/pwoduct/25kg-cowewess-sewvo-ds3225sg/>`_
+- b-best pewfowmance ($75+)
+   - s-savox titanium sewvos
+   - h-hitec titanium s-sewvos
 
-REV and goBILDA :term:`servos <Servo>` can be purchased from REV and goBILDA websites respectively. For all other servos some good sources are `ServoCity <https://www.servocity.com/>`_ or `Amazon <https://www.amazon.com/>`_.
+wev a-and gobiwda :tewm:`sewvos <sewvo>` c-can be puwchased fwom wev and gobiwda websites w-wespectivewy. (U ᵕ U❁) fow aww othew sewvos some good s-souwces awe `sewvocity <https://www.sewvocity.com/>`_ ow `amazon <https://www.amazon.com/>`_. >w<

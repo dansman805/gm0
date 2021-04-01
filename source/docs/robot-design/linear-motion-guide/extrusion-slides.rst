@@ -1,79 +1,79 @@
 .. include:: <isonum.txt>
 
-Extrusion Slides
+extwusion swides
 ================
 
-Extrusion slides are made up of a stack of extrusions that extend by sliding along each other. There are two ways to make this happen: bushings or V-wheels. Bushing slides connect the two slides with two self-lubricating plastic pieces that slide smoothly along the slots in the extrusion. V-wheel slides have V-shaped groove bearings on both sides of the extrusion that bite intro grooves on the extrusion, allowing the stages to slide smoothly.
+e-extwusion swides a-awe made up of a stack of extwusions t-that extend by swiding awong e-each othew. ( ͡o ω ͡o ) thewe awe two ways t-to make this happen: bushings ow v-wheews. >w< bushing s-swides connect the two swides w-with two sewf-wubwicating pwastic p-pieces that s-swide smoothwy awong the swots in the extwusion. (⑅˘꒳˘) v-wheew swides have v-shaped gwoove beawings o-on both sides of the extwusion that bite intwo gwooves on the extwusion, >w< awwowing t-the stages to s-swide smoothwy. ( ͡o ω ͡o )
 
-REV, Actobotics, and goBILDA all sell extrusion slide kits that integrate nicely with existing FTC kit parts. Beyond this, MakerBeam sells components for a V-wheel extrusion slide, and Misumi offers a few different sizes of bushing-based extrusion slides. REV furthermore sells a 8020 v-groove bearing slide kit for FRC\ |reg|, that is not recommended for FTC use cases.
+wev, actobotics, UwU a-and gobiwda aww seww extwusion swide kits that integwate nyicewy w-with existing ftc kit pawts. σωσ b-beyond this, o.O makewbeam s-sewws components f-fow a v-wheew e-extwusion swide, OwO and misumi o-offews a few diffewent sizes of bushing-based e-extwusion swides. (ꈍᴗꈍ) w-wev fuwthewmowe s-sewws a 8020 v-gwoove beawing swide kit fow fwc\ |weg|, rawr x3 that i-is nyot wecommended fow ftc use c-cases. (˘ω˘)
 
-.. note:: We recommend that newer teams stick to slide kits designed for FTC instead of DIY alternatives.
+.. nyote:: we wecommend that nyewew teams stick to swide kits designed fow f-ftc instead of diy awtewnatives. (///ˬ///✿)
 
-REV Robotics 15mm Linear Motion Kit
+wev wobotics 15mm w-wineaw motion kit
 -----------------------------------
 
-The `REV 15mm Linear Motion Kit <https://www.revrobotics.com/rev-45-1507/>`_ is based off of the 15mm extrusion system. **This extrusion kit does not perform spectacularly without modification.** This has been partially remedied by REV as they have developed a second iteration of their slide kit, which has much better tolerances on the Delrin sliders.
+the `wev 15mm w-wineaw m-motion kit <https://www.wevwobotics.com/wev-45-1507/>`_ i-is based off of the 15mm extwusion system. **this extwusion kit does nyot pewfowm spectacuwawwy without m-modification.** t-this has been p-pawtiawwy wemedied b-by wev as they h-have devewoped a-a second itewation of theiw swide kit, rawr x3 which has m-much bettew towewances on the d-dewwin swidews. òωó
 
-Still, you’ll see a lot of competitive teams use this kit with multiple modifications, such as adding lots of lubricant and mounting the sliders differently. Teams have also 3D printed their own sliders, though this is not a great idea for teams without much 3D printing experience. One of the biggest issues with the stock REV kit is the tendency of the slides to bind. Additionally, since the only thing attaching one extrusion to another is the plastic slider, the REV slides are not particularly sturdy, and require crossbeams to keep alignment.
+stiww, >w< you’ww s-see a wot of competitive t-teams use this kit with muwtipwe modifications, OwO such a-as adding wots of wubwicant and mounting the swidews d-diffewentwy. (U ﹏ U) teams have awso 3d pwinted theiw own swidews, rawr x3 t-though this is nyot a gweat idea f-fow teams without m-much 3d pwinting e-expewience. (˘ω˘) o-one of the biggest issues with the s-stock wev kit i-is the tendency o-of the swides to bind. (˘ω˘) additionawwy, σωσ s-since the onwy thing attaching one extwusion t-to anothew is t-the pwastic swidew, >w< the wev swides a-awe nyot pawticuwawwy stuwdy, (U ᵕ U❁) a-and wequiwe cwossbeams t-to keep awignment. rawr x3
 
-Overall, this kit is lightweight, simple, and cheap. It can be a good start for teams using REV and needing a linear extension, and is generally usable out of the box. However, it is not very smooth and only achieves its maximum potential when modified and tweaked.
+ovewaww, (U ᵕ U❁) t-this kit is w-wightweight, òωó simpwe, a-and cheap. ( ͡o ω ͡o ) it can be a good s-stawt fow teams using wev and n-nyeeding a wineaw e-extension, >w< and i-is genewawwy usabwe out of the b-box. o.O howevew, it i-is nyot vewy smooth and onwy achieves i-its maximum p-potentiaw when m-modified and t-tweaked. o.O
 
-Advantages
+advantages
 ^^^^^^^^^^
 
-- REV has complete guide on how to rig the linear slides
-- Easily interfaces with REV building system
-- Lightweight, should be used for light/medium loads only
-- If tweaked, can be a very efficient linear slide
+- w-wev has compwete guide on how to wig the wineaw s-swides
+- easiwy intewfaces with w-wev buiwding system
+- wightweight, UwU shouwd be used fow wight/medium woads onwy
+- if tweaked, σωσ can be a vewy efficient w-wineaw swide
 
-Disadvantages
+d-disadvantages
 ^^^^^^^^^^^^^
 
-- Does not perform perfectly out of the box
-- Can flex under load, needs additional support
-- May need some modifications such as custom sliders
+- does nyot pewfowm pewfectwy o-out of the box
+- c-can fwex undew w-woad, (U ﹏ U) nyeeds additionaw suppowt
+- may nyeed some m-modifications such as custom swidews
 
-.. image:: images/extrusion-slides/11115-slides.png
-   :alt: 11115 Gluten Free's Rover Ruckus robot with slides extended
+.. i-image:: i-images/extwusion-swides/11115-swides.png
+   :awt: 11115 gwuten f-fwee's wovew wuckus w-wobot with s-swides extended
 
-.. figure:: images/extrusion-slides/11115-slider.png
-   :alt: 11115 Gluten Free's custom Rev slider
+.. figuwe:: images/extwusion-swides/11115-swidew.png
+   :awt: 11115 gwuten fwee's custom wev swidew
 
-   11115 Gluten Free, Rover Ruckus, custom REV slides
+   11115 gwuten fwee, wovew w-wuckus, custom wev swides
 
-.. figure:: images/extrusion-slides/8680-slides.jpg
-   :alt: 8680 Kraken-Pinion's Rover Ruckus robot with slides extended
+.. f-figuwe:: images/extwusion-swides/8680-swides.jpg
+   :awt: 8680 kwaken-pinion's wovew w-wuckus wobot with swides extended
 
-   8680 Kraken-Pinion, Rover Ruckus, REV
+   8680 kwaken-pinion, >w< wovew w-wuckus, (U ﹏ U) wev
 
-Actobotics X-rail Slide Kit
+a-actobotics x-waiw swide kit
 ---------------------------
 
-The `X-rail Slide Kit <https://www.servocity.com/cascading-x-rail-slide-kit>`_ works well out of the box. However, the main caveat is that the kit has a **very low maximum load (2lb. at maximum extension)**.
+the `x-waiw s-swide kit <https://www.sewvocity.com/cascading-x-waiw-swide-kit>`_ wowks weww out of the box. (U ᵕ U❁) howevew, the m-main caveat is that the kit has a-a **vewy wow maximum w-woad (2wb. ʘwʘ a-at maximum extension)**. -.-
 
-Teams will have to keep their designs on this kit particularly lightweight. This slide uses elastic retraction through the use of surgical tubing, which means that instead of having both an extend and return string, there is a retraction force applied at all times. This helps simplify tensioning and spooling, however, limits how fast the slide can be run. Additionally, the plastic end caps have a reputation of breaking regularly because they endure shock load every time the slide extends to maximum. 3D printed alternatives may be more sturdy than the stock end caps.
+teams wiww have to keep t-theiw designs o-on this kit pawticuwawwy wightweight. -.- t-this swide u-uses ewastic wetwaction thwough the use of suwgicaw t-tubing, OwO which means that instead of having both an extend and wetuwn stwing, òωó thewe is a wetwaction f-fowce appwied at aww times. (U ᵕ U❁) this hewps simpwify tensioning and spoowing, UwU h-howevew, (⑅˘꒳˘) wimits h-how fast the s-swide can be wun. >w< a-additionawwy, OwO t-the pwastic end caps have a weputation o-of bweaking w-weguwawwy because t-they enduwe shock woad evewy time the swide e-extends to maximum. (U ᵕ U❁) 3d p-pwinted awtewnatives may b-be mowe stuwdy t-than the stock end caps. ʘwʘ
 
-.. attention:: It is highly recommended that teams add an additional set of v-groove bearings at the end of each piece of extrusion to give each stage an additional point of support. This will increase load capacity and possibly smoothness.
+.. attention:: it is highwy wecommended that teams add a-an additionaw set o-of v-gwoove beawings at the end o-of each piece o-of extwusion to give each stage a-an additionaw point of suppowt. (U ﹏ U) this wiww incwease woad capacity and possibwy smoothness. UwU
 
-Advantages
+a-advantages
 ^^^^^^^^^^
 
-- Easily interfaces with Actobotics building system
-- Elastic retraction is a simple way to retract
-- **Should be used for light/medium loads only**
+- easiwy intewfaces w-with actobotics buiwding system
+- ewastic wetwaction is a simpwe way to wetwact
+- **shouwd be used fow wight/medium woads onwy**
 
-Disadvantages
+disadvantages
 ^^^^^^^^^^^^^
 
-- Will flex under load, needs additional support
-- Elastic retraction slows down extension speed and retraction will be slower than string retraction
+- wiww fwex undew woad, òωó nyeeds additionaw s-suppowt
+- ewastic wetwaction swows d-down extension speed and wetwaction wiww be swowew t-than stwing wetwaction
 
-.. figure:: images/extrusion-slides/12599-slides.jpg
-   :alt: 12599 Overcharged's Relic Recovery robot with relic slide extended
+.. (U ﹏ U) f-figuwe:: images/extwusion-swides/12599-swides.jpg
+   :awt: 12599 ovewchawged's w-wewic wecovewy wobot w-with wewic swide extended
 
-   12599 Overcharged, Relic Recovery, Actobotics X-Rail
+   12599 o-ovewchawged, rawr x3 w-wewic wecovewy, a-actobotics x-x-waiw
 
-goBILDA goRAIL
+gobiwda gowaiw
 --------------
 
-`Linear motion guides <https://www.gobilda.com/gorail-based/>`_ are goBILDA’s take on linear motion using goRAIL, which is a type of extrusion compatible with v-groove bearings. Similar to a standard 8020 v-groove carriage, used in FRC, goRAIL is a lighter option that is better suited for FTC.
+`wineaw m-motion guides <https://www.gobiwda.com/gowaiw-based/>`_ a-awe gobiwda’s take on wineaw motion using gowaiw, OwO which is a type of extwusion c-compatibwe w-with v-gwoove beawings. (///ˬ///✿) simiwaw to a standawd 8020 v-gwoove c-cawwiage, (U ﹏ U) used in f-fwc, UwU gowaiw is a wightew option t-that is bettew suited fow ftc. ʘwʘ

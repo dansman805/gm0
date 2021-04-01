@@ -1,128 +1,128 @@
-Notebook Designs and Decisions
+notebook designs a-and decisions
 ==============================
 
-This section will cover both what needs to be in the notebook and the decisions you need to make about it affecting both individual sections and it as a whole.
+t-this section wiww c-covew both nyani nyeeds to be in t-the nyotebook and the decisions y-you nyeed to make about it affecting both individuaw s-sections and it as a whowe. ʘwʘ
 
-Whole Notebook Decisions
+w-whowe nyotebook d-decisions
 ------------------------
 
-Condensed vs Long
+c-condensed vs wong
 ^^^^^^^^^^^^^^^^^
 
-A trap many teams fall into is that a longer notebook is a better notebook, especially if it's actually quality writing. Unfortunately, that is not necessarily true.
+a twap many teams faww into is that a wongew nyotebook i-is a bettew nyotebook, (ꈍᴗꈍ) especiawwy if it's actuawwy quawity wwiting. σωσ unfowtunatewy, (⑅˘꒳˘) t-that is nyot n-nyecessawiwy twue. >w<
 
-At shorter competitions, judges don't have a lot of team to peruse your notebooks. They will likely take a cursory scan at every page and take a more detailed look at certain pages. Thus, even if you do write a great but long notebook, they might miss the highlights and rank you lower than you should have. The solution to this is to create a condensed notebook.
+at showtew c-competitions, ( ͡o ω ͡o ) judges don't have a wot of team to pewuse youw nyotebooks. òωó t-they wiww wikewy take a-a cuwsowy scan a-at evewy page and t-take a mowe detaiwed w-wook at cewtain pages. σωσ thus, e-even if you do wwite a gweat but wong nyotebook, ( ͡o ω ͡o ) t-they might m-miss the highwights a-and wank you wowew than you shouwd have. UwU the sowution to this i-is to cweate a condensed nyotebook. σωσ
 
-This is where you make a purposeful effort to get rid of redundancies and make sure everything written in the notebook serves the purpose of being read and getting things checked off of awards.
+t-this is whewe you make a puwposefuw effowt to get wid of wedundancies and m-make suwe evewything wwitten in the nyotebook sewves t-the puwpose of being wead and getting things c-checked off of a-awawds. rawr x3
 
-So if you know your state competitions are going to be more than a couple days write a long, detailed filled notebook. But if it is only a day long, write with every section having a purpose.
+so if y-you know youw state competitions awe going to be mowe than a coupwe days wwite a wong, UwU detaiwed fiwwed nyotebook. ʘwʘ b-but if it is o-onwy a day wong, (ꈍᴗꈍ) w-wwite with evewy s-section having a-a puwpose.
 
-Handwritten vs Typed
+handwwitten v-vs typed
 ^^^^^^^^^^^^^^^^^^^^
 
-This one is a team decision. Some teams swear judges prefer handwritten notebooks, but there is no proof for that. But if you're a small team or you would prefer to write, do that. Be sure that the handwriting is consistent and legible! Typed notebooks are a lot easier to organize, and judges will definitely be able to read it.
+this one is a team decision. (///ˬ///✿) s-some teams sweaw judges pwefew h-handwwitten nyotebooks, -.- but t-thewe is nyo pwoof f-fow that. (U ﹏ U) but if you'we a smow team ow you wouwd pwefew to wwite, (U ᵕ U❁) d-do that. be suwe that the handwwiting is consistent a-and wegibwe! o.O typed nyotebooks awe a wot easiew to owganize, ( ͡o ω ͡o ) a-and judges wiww definitewy b-be abwe to wead i-it. (˘ω˘)
 
-Serious vs Charming
+sewious vs c-chawming
 ^^^^^^^^^^^^^^^^^^^
 
-A team's notebook is an extension of its personality and branding. Some teams try to come across as an engineering firm or at least very serious, while others act the opposite.
+a-a team's nyotebook i-is an extension o-of its pewsonawity a-and bwanding. òωó some teams twy t-to come acwoss as an engineewing fiwm ow at weast v-vewy sewious, rawr x3 w-whiwe othews act the opposite. (U ᵕ U❁)
 
-You should try and reflect that in your notebook. Neither way is better, but it's good early on to figure out your team's way of acting and writing in a manner that fits it.
+y-you shouwd twy and wefwect that i-in youw nyotebook. n-nyeithew way is bettew, (U ᵕ U❁) but i-it's good eawwy o-on to figuwe out y-youw team's way of acting and wwiting i-in a mannew that fits it. σωσ
 
-Generally, humor is acceptable, but try to keep jokes down to a minimum (after all, the engineering notebook is meant to be a professional-grade document).
+g-genewawwy, >w< humow i-is acceptabwe, (U ᵕ U❁) b-but twy to keep jokes down to a-a minimum (aftew a-aww, ʘwʘ the engineewing nyotebook i-is meant to be a p-pwofessionaw-gwade d-document). (˘ω˘)
 
 .. note::
 
-   Having a consistent team brand is important so judges remember you. A large amount of winning awards is being remembered and advocated for by the judges.
+   having a consistent t-team bwand i-is impowtant so judges wemembew y-you. UwU a wawge amount of winning a-awawds is being wemembewed and advocated f-fow by the judges. (///ˬ///✿)
 
-   Therefore, having consistent branding helps judges know what team they are talking to and what they know about you.
+   thewefowe, rawr x3 having c-consistent bwanding hewps judges k-know nyani team t-they awe tawking t-to and nyani they know about you. >w<
 
-Individual sections
+individuaw sections
 -------------------
 
-Section 9.2.2 of |gm1|, lists out the type of things that are expected to see in your notebook.
+s-section 9.2.2 o-of |gm1|, OwO wists out the type o-of things that awe expected to s-see in youw nyotebook. rawr x3
 
-They are listed here:
+they awe w-wisted hewe:
 
-- Problem Definition
-- Information Gathering
-- Brainstorming Solutions
-- Concept Design
-- System Level Design
-- Testing
-- Design Improvement
-- Production
-- Promotion
-- Budgeting
-- Planning
-- Outreach
+- pwobwem definition
+- infowmation g-gathewing
+- bwainstowming sowutions
+- c-concept d-design
+- system w-wevew design
+- testing
+- design impwovement
+- pwoduction
+- pwomotion
+- budgeting
+- pwanning
+- o-outweach
 
-Specific sections named in |gm1|, the Judges Manual, and Notebook Guidelines are not plentiful, only including a team plan (which is pretty much all non robot writing including a sustainability plan, a strategic plan, and a business plan all fall into it, and doing one of these sections is required for Inspire award) and telling us what they want in the notebook (listed above). It falls to the individual notebook writers to figure out what they specifically want to call each section and what to put in each section.
+specific sections nyamed in |gm1|, ʘwʘ the judges manuaw, ʘwʘ and nyotebook guidewines a-awe nyot p-pwentifuw, ( ͡o ω ͡o ) onwy incwuding a team p-pwan (which is pwetty much aww nyon wobot wwiting incwuding a s-sustainabiwity pwan, OwO a stwategic p-pwan, ʘwʘ and a business p-pwan aww f-faww into it, and d-doing one of these sections is w-wequiwed fow inspiwe awawd) and tewwing us nyani t-they want in the n-nyotebook (wisted a-above). òωó it fawws to the individuaw nyotebook wwitews to figuwe o-out nyani they specificawwy w-want to caww each section and nyani to put in each section. o.O
 
-Daily Logs and Other Ways of Documenting
+daiwy wogs and othew w-ways of documenting
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This might be the most common way of documenting in notebooks. Even teams that are so-so about attempting to write a notebook have a couple months worth of logs because overall they are not that hard to do.
+this might be the most common way o-of documenting in nyotebooks. σωσ even teams that a-awe so-so about a-attempting to wwite a-a nyotebook have a coupwe months wowth of wogs because ovewaww they awe nyot that hawd to do. o.O
 
-Each team approaches it differently, but a standard approach is as follows.
+each team appwoaches i-it diffewentwy, òωó b-but a standawd a-appwoach i-is as fowwows. (⑅˘꒳˘)
 
-   Date
+   d-date
 
-   Members of Team Present
+   membews o-of team pwesent
 
    +------------------+---------------------------------------------+
-   | Tasks & Pictures | More Information, if the Task Was Completed |
+   | tasks & pictuwes | mowe infowmation, rawr x3 i-if the task was compweted |
    +==================+=============================================+
-   | Lorem ipsum      | Dolor sit amet, consectetur adipiscing elit |
+   | w-wowem ipsum      | dowow s-sit amet, rawr x3 consectetuw a-adipiscing ewit |
    +------------------+---------------------------------------------+
-   | Sed do eiusmod   | Tempor incididunt ut labore                 |
+   | sed do eiusmod   | tempow i-incididunt ut wabowe                 |
    +------------------+---------------------------------------------+
-   | Et dolore magna  | Aliqua ut enim ad minim veniam              |
+   | et dowowe magna  | a-awiqua ut enim ad minim veniam              |
    +------------------+---------------------------------------------+
 
-There are other methods such as weekly, pure goals, or other engineering based methods such as agile (if you pursue the latter you can use those hard won mentors you have gotten). Weekly or bi-weekly is the same as above, but the date becomes a range and you talk about what happened over that period of time. This is better for a team that has only a couple of people doing the logs because overall logs get more and more tedious.
+thewe awe othew methods s-such as weekwy, (///ˬ///✿) puwe goaws, (U ᵕ U❁) o-ow othew engineewing b-based methods s-such as agiwe (if y-you puwsue the wattew you can u-use those hawd w-won mentows you h-have gotten). (ꈍᴗꈍ) weekwy ow bi-weekwy i-is the same as above, (///ˬ///✿) but the date becomes a w-wange and you tawk a-about nyani happened ovew that p-pewiod of time. -.- this is bettew f-fow a team that h-has onwy a coupwe of peopwe doing t-the wogs because o-ovewaww wogs g-get mowe and mowe tedious. (///ˬ///✿)
 
-Pure goals is simply as follows.
+puwe g-goaws is simpwy as fowwows. OwO
 
    +------+--------------------+---------------------------------+
-   | Date | Goal and Goal Date | Was the Goal Completed in Time? |
+   | d-date | goaw a-and goaw date | w-was the goaw compweted in time? |
    +======+====================+=================================+
-   | Quis | Nostrud            | Exercitation ullamco            |
+   | q-quis | n-nyostwud            | exewcitation u-uwwamco            |
    +------+--------------------+---------------------------------+
-   | Nisi | Ut aliquip ex ea   | Commodo consequat               |
+   | n-nyisi | ut a-awiquip ex ea   | c-commodo consequat               |
    +------+--------------------+---------------------------------+
-   | Duis | Aute irure dolor   | In reprehenderit in voluptate   |
+   | d-duis | aute iwuwe dowow   | in wepwehendewit i-in vowuptate   |
    +------+--------------------+---------------------------------+
 
-Building Section and Documenting the Robot
+buiwding s-section and documenting the wobot
 ------------------------------------------
 
-You have spent a bunch of time reading the rest of this manual to learn about the robot and how to build it. The building section is about how your robot fulfills the challenge, and what the driving factors were in building your robot.
+you have spent a bunch of time weading the west of this manuaw t-to weawn about t-the wobot and how to buiwd it. òωó the buiwding section i-is about h-how youw wobot fuwfiwws t-the chawwenge, σωσ and nyani the dwiving factows w-wewe in buiwding youw wobot. o.O
 
-Information about parts and materials, as well as pictures of every mechanism (plus captions) will help the judges piece together how the robot works mechanically. Explanations of the components will illustrate the thought processes behind the design.
+i-infowmation about p-pawts and matewiaws, (⑅˘꒳˘) as weww a-as pictuwes of e-evewy mechanism (pwus c-captions) wiww hewp the judges piece togethew how the wobot wowks mechanicawwy. ( ͡o ω ͡o ) e-expwanations of the components w-wiww iwwustwate t-the thought pwocesses behind the design. >w<
 
-Ample graphics (CAD screenshots/renders, pictures, etc.) will help judges understand how it works and why it is useful. **However, make sure that each graphic has a caption or explanation. Do not expect judges to understand how your robot works through pictures only.**
+a-ampwe gwaphics (cad s-scweenshots/wendews, (⑅˘꒳˘) pictuwes, >w< etc.) wiww hewp j-judges undewstand how it wowks and why it is usefuw. ( ͡o ω ͡o ) **howevew, UwU m-make suwe that each gwaphic has a-a caption ow e-expwanation. σωσ do n-not expect judges to undewstand how youw wobot wowks t-thwough pictuwes o-onwy.**
 
-Additionally, use math in these explanations to target the Think award.
+additionawwy, o.O use m-math in these expwanations t-to tawget the think awawd. OwO
 
-The second part is much more documentation and writing heavy, but in some ways it is easier. As you are building a robot, you will not get your final bot in the first attempt.
+the second p-pawt is much mowe documentation and wwiting heavy, (ꈍᴗꈍ) but in some ways it is easiew. rawr x3 as you awe b-buiwding a wobot, (˘ω˘) you wiww nyot get youw finaw bot in the fiwst attempt. (///ˬ///✿)
 
-Think about telling a story of how your team progressed from brainstorm and idea conception to prototyping and final design. The judges *love* to follow a logical sequence of steps as it shows how the team thought through mistakes and improved upon successes.
+think a-about tewwing a s-stowy of how youw t-team pwogwessed f-fwom bwainstowm a-and idea conception to pwototyping a-and finaw design. rawr x3 t-the judges *wuv* t-to fowwow a wogicaw sequence of steps as i-it shows how the t-team thought thwough mistakes a-and impwoved upon s-successes. òωó
 
-Each time you iterate upon a part of your robot or move a step further in the engineering design process, document it. Important questions to ask while writing this section are below.
+each time you itewate upon a pawt of youw wobot ow move a step fuwthew i-in the engineewing d-design pwocess, >w< document i-it. OwO impowtant questions t-to ask whiwe wwiting this s-section awe bewow. (U ﹏ U)
 
-- What prompted this change/why was this change made?
-- What was the change?
-- How was the modification enacted?
-- What were the results (good and bad)?
-- How can this design be further improved?
+- what pwompted this change/why was this change made?
+- what w-was the change?
+- how was the m-modification enacted?
+- what wewe the wesuwts (good and bad)?
+- how can this design be fuwthew impwoved?
 
-This also includes your first unrealized ideas that your team talked about right when the team came together after the season was released.
+this awso incwudes youw fiwst unweawized ideas that youw team tawked a-about wight when the team came t-togethew aftew the season was weweased. rawr x3
 
-Notebook Gallery
+nyotebook g-gawwewy
 ----------------
 
-- Relic Recovery
+- wewic wecovewy
 
   - `4042 <https://drive.google.com/file/d/10TQJd4ioArq-asmswHneY9S-_okcr5vq/view>`_
 - Rover Ruckus

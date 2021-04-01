@@ -1,65 +1,65 @@
 .. include:: <isonum.txt>
 
-Drivetrains
+dwivetwains
 ===========
 
-This section will cover the heart of any robot, the drivetrain. The purpose of the drivetrain is to facilitate the movement of the robot, and thus is crucial to the overall function of the robot. If the drivetrain doesn’t work, the rest of the robot won’t work either. There are many possible types of drivetrains in FTC, which we have covered in the guide. Drivetrains are split into two main types: tank (skid-steer) and holonomic.
+this section w-wiww covew t-the heawt of any wobot, rawr x3 the dwivetwain. OwO t-the puwpose of the dwivetwain i-is to faciwitate the movement o-of the wobot, (///ˬ///✿) and thus is cwuciaw to the ovewaww f-function of the wobot. -.- if the d-dwivetwain doesn’t w-wowk, rawr x3 the w-west of the wobot won’t wowk eithew. -.- thewe awe many possibwe types of dwivetwains in ftc, which w-we have covewed in the guide. (˘ω˘) dwivetwains awe spwit into two main types: tank (skid-steew) and h-howonomic. σωσ
 
-Drivetrain types
+dwivetwain t-types
 ----------------
 
-A tank drivetrain primarily utilizes :term:`traction wheels <Traction wheel>` and cannot strafe (move sideways). To change directions, a tank drivetrain relies on either turning the wheels on the left and right side in the opposite direction (thus spinning the robot) or running one side faster than the other side (thus making the robot take the path of an arc). Tank drivetrains prioritize traction and acceleration over pure maneuverability, giving these drivetrains the potential to traverse obstacles and play defense. Tank drivetrains are relatively simple to build, yet are still competitive at the highest levels.
+a tank dwivetwain p-pwimawiwy utiwizes :tewm:`twaction wheews <twaction wheew>` and cannot stwafe (move s-sideways). (˘ω˘) to change diwections, rawr x3 a-a tank d-dwivetwain wewies o-on eithew tuwning t-the wheews on the weft and wight s-side in the opposite diwection (thus spinning t-the wobot) ow w-wunning one side f-fastew than the othew side (thus making the wobot take the path o-of an awc). (///ˬ///✿) tank dwivetwains pwiowitize t-twaction and accewewation ovew puwe maneuvewabiwity, (˘ω˘) giving these dwivetwains the potentiaw t-to twavewse obstacwes and pway defense. tank d-dwivetwains awe wewativewy simpwe to buiwd, o.O yet a-awe stiww competitive a-at the h-highest wevews. ( ͡o ω ͡o )
 
-A holonomic drivetrain, in contrast to a tank drivetrain, can move sideways, due to using either :term:`mecanum <Mecanum Wheel>` or :term:`omni <Omni Wheel>` wheels. These kinds of wheels have special rollers that allow strafing movements. Thus, holonomic drivetrains prioritize movement over traction. Holonomic drivetrains eliminate the time it takes to turn for a tank drivetrain. However, holonomic is susceptible to defense and can suffer with a heavy robot. Holonomic has been proven to be competitive at the highest level for many years, and is common among world-class robots.
+a howonomic dwivetwain, >w< in contwast to a tank dwivetwain, (U ﹏ U) can move sideways, OwO due to using eithew :tewm:`mecanum <mecanum w-wheew>` o-ow :tewm:`omni <omni w-wheew>` wheews. OwO t-these kinds o-of wheews have s-speciaw wowwews that awwow stwafing movements. rawr x3 t-thus, howonomic dwivetwains pwiowitize m-movement ovew twaction. -.- h-howonomic dwivetwains e-ewiminate the time it takes to tuwn fow a tank dwivetwain. OwO h-howevew, (⑅˘꒳˘) howonomic is susceptibwe to defense and c-can suffew with a heavy wobot. UwU howonomic has been pwoven to be c-competitive at the highest wevew f-fow many yeaws, (///ˬ///✿) a-and is common a-among wowwd-cwass w-wobots. ( ͡o ω ͡o )
 
-Drivetrain selection
+dwivetwain sewection
 --------------------
 
-When building any mechanism, teams must list out some necessities or desired features. Here are some priorities for that we think are important for each drivetrain:
+w-when buiwding a-any mechanism, o.O t-teams must wist out some nyecessities o-ow desiwed featuwes. UwU hewe awe some pwiowities f-fow that w-we think awe impowtant fow each d-dwivetwain:
 
-1. **Reliability**: Reliability, the key to success in *FIRST*\ |reg| Tech Challenge, starts with the drivetrain, the foundation to any robot. One aspect of reliability to consider is the type of motor and gearbox that is used in the drivetrain. For example, spur gearboxes are more likely to break under load than a planetary gearboxes. (See the :doc:`../../hardware-basics/motor-guide/index` for details). Thus, spur gear motors are not the optimal choice for drivetrain, especially if the robot is projected to be on the heavy side (30+ pounds).
+1. (˘ω˘) **wewiabiwity**: wewiabiwity, (U ᵕ U❁) the k-key to success i-in *fiwst*\ |weg| tech chawwenge, ʘwʘ s-stawts with the d-dwivetwain, -.- the f-foundation to any wobot. one a-aspect of wewiabiwity to considew i-is the type of m-motow and geawbox t-that is used in the dwivetwain. σωσ f-fow exampwe, UwU s-spuw geawboxes awe mowe wikewy to b-bweak undew woad t-than a pwanetawy g-geawboxes. σωσ (see t-the :doc:`../../hawdwawe-basics/motow-guide/index` f-fow detaiws). OwO thus, OwO spuw geaw motows awe n-not the optimaw choice fow dwivetwain, o.O e-especiawwy if the wobot is pwojected to be on the heavy side (30+ pounds).
 
-.. note:: Generally, more complex drivetrains pose more reliability challenges for inexperienced teams. Our advice is to stick to the simpler drivetrains such as 4 or 6 wheel drive and mecanum drive.
+.. nyote:: genewawwy, (U ﹏ U) mowe compwex d-dwivetwains p-pose mowe wewiabiwity chawwenges fow inexpewienced t-teams. ouw a-advice is to stick t-to the simpwew dwivetwains such as 4 ow 6 wheew d-dwive and mecanum dwive. σωσ
 
-2. **Agility**: There are many factors to agility: top speed, acceleration, turning radius, turn speed, and ability to strafe. Note that turning radius is an often overlooked feature that is critical to the overall agility of the drivetrain. Generally, a solid drivetrain should have a free speed (speed under no load) in the range of 4.5-6 feet/second.
+2. **agiwity**: t-thewe a-awe many factows to agiwity: t-top speed, ʘwʘ accewewation, (U ﹏ U) t-tuwning w-wadius, (ꈍᴗꈍ) tuwn speed, -.- and abiwity to stwafe. nyote that tuwning wadius is an often o-ovewwooked featuwe that is cwiticaw t-to the ovewaww a-agiwity of the dwivetwain. o.O genewawwy, (⑅˘꒳˘) a sowid d-dwivetwain shouwd h-have a fwee speed (speed undew nyo woad) in t-the wange of 4.5-6 feet/second. ( ͡o ω ͡o )
 
-   A good resource to determine the agility of a drivetrain is the :doc:`../../hardware-basics//motor-guide/jvn-calculator`; refer to that section for more information.
-3. **Number of motors and gear ratio**: Generally, new teams may try to use only two motors on the drivetrain. While this is possible, it is not recommended, as all competitive teams use 4+ motors on the drivetrain. Another issue stemming from experience is that most teams’ drivetrains are too slow. More advanced teams may focus on the ability to play :term:`defense <Defense>`, but in general, maneuverability and speed are the main factors to a successful drivetrain.
+   a good wesouwce to detewmine t-the agiwity of a dwivetwain is t-the :doc:`../../hawdwawe-basics//motow-guide/jvn-cawcuwatow`; wefew t-to that section f-fow mowe infowmation. (///ˬ///✿)
+3. **numbew of motows and geaw watio**: g-genewawwy, >w< nyew t-teams may twy to use onwy two m-motows on the dwivetwain. σωσ w-whiwe this is possibwe, o.O it is nyot wecommended, -.- a-as aww competitive teams use 4+ motows on the dwivetwain. o.O anothew issue stemming fwom e-expewience is that most teams’ dwivetwains awe too swow. mowe advanced teams m-may focus on the a-abiwity to pway :tewm:`defense <defense>`, ( ͡o ω ͡o ) b-but i-in genewaw, o.O maneuvewabiwity a-and speed awe the main f-factows to a s-successfuw dwivetwain. (U ﹏ U)
 
-   60:1 and 40:1 motors are **almost always too slow for FTC drivetrain use cases**. Any gear ratio between 16:1 and 20:1 is perfectly reasonable on 4 inch wheels. 19.2:1 on 4 inch wheels is a popular choice because it enables one to go 1 to 1 off of a 19.2:1 planetary motor. This ratio gives a great balance, having near instant acceleration and a high top speed.
+   60:1 a-and 40:1 motows awe **awmost awways too swow fow f-ftc dwivetwain u-use cases**. (U ﹏ U) any geaw watio between 16:1 a-and 20:1 i-is pewfectwy weasonabwe on 4 inch wheews. (U ﹏ U) 19.2:1 on 4 inch wheews is a popuwaw c-choice because i-it enabwes one to go 1 to 1 off o-of a 19.2:1 pwanetawy m-motow. (U ᵕ U❁) this watio gives a g-gweat bawance, (U ᵕ U❁) having nyeaw instant accewewation and a high top speed. (U ᵕ U❁)
 
-   On 3 inch wheels, the equivalent ratios are 12:1 to 15:1, which makes 13.7:1 on 3 inch wheels convenient, as it can be taken 1 to 1 off of goBILDA's 13.7:1 planetary gearbox motor.
-   Teams can slow the drivetrain down in code by providing less power to the
-   motors if needed.
+   on 3 i-inch wheews, (///ˬ///✿) the equivawent watios a-awe 12:1 to 15:1, >w< which makes 13.7:1 on 3 inch wheews convenient, òωó as it can be taken 1 to 1 off of gobiwda's 13.7:1 pwanetawy geawbox motow. (˘ω˘)
+   teams can swow the dwivetwain d-down in code by pwoviding wess p-powew to the
+   motows if nyeeded. ʘwʘ
 
-   .. warning:: It is not recommended for teams to use spur gearboxes on their drivetrain. Instead, use planetary gearboxes, as they are less prone to shock loads and breakage.
+   .. wawning:: i-it is nyot wecommended fow teams t-to use spuw geawboxes on theiw d-dwivetwain. (U ᵕ U❁) i-instead, use pwanetawy geawboxes, (˘ω˘) a-as they awe wess p-pwone to shock w-woads and bweakage. (ꈍᴗꈍ)
 
-4. **Traction/Pushing Power**: While this feature is often overemphasized, it is still very important. Pushing power describes a drivetrain’s ability to endure defense/engage in defense. In addition, traction will be important if the drivetrain must traverse obstacles or some sort of terrain.
-   Many factors affect the pushing power of a drivetrain, including wheel type,
-   motor gearing, and overall weight of the robot.
+4. **twaction/pushing p-powew**: whiwe this f-featuwe is often o-ovewemphasized, (U ᵕ U❁) it is stiww vewy impowtant. pushing powew descwibes a dwivetwain’s a-abiwity to e-enduwe defense/engage in defense. UwU in addition, (U ﹏ U) twaction wiww be i-impowtant if the d-dwivetwain must twavewse obstacwes o-ow some sowt of tewwain. (U ﹏ U)
+   many factows affect t-the pushing powew of a dwivetwain, UwU i-incwuding wheew type, -.-
+   motow geawing, σωσ and ovewaww weight o-of the wobot. òωó
 
-   .. note:: If you already have a very agile drivetrain with experienced drivers, a team can avoid defense instead of having to fend it off or engage in it.
+   .. n-nyote:: i-if you awweady have a vewy agiwe dwivetwain with expewienced dwivews, OwO a team can a-avoid defense i-instead of having t-to fend it off o-ow engage in it.
 
-5. **Powering the drivetrain**: Generally, there are four options for power transmission: direct drive, :term:`chain <Sprocket>`, :term:`gear <Gear>`, and belt. More detail about each option can be found in the power transmission section.
+5. (˘ω˘) **powewing the dwivetwain**: genewawwy, (ꈍᴗꈍ) thewe awe fouw options fow powew twansmission: d-diwect d-dwive, >w< :tewm:`chain <spwocket>`, rawr x3 :tewm:`geaw <geaw>`, (U ᵕ U❁) and bewt. σωσ m-mowe detaiw a-about each option can be found in t-the powew twansmission s-section. ( ͡o ω ͡o )
 
-   Teams should stay away from direct drive, as gearboxes are prone to breaking, especially under shock loads (for example, if the wheel is hit by another robot, or the wheel slams into the wall).
+   t-teams shouwd stay away fwom diwect dwive, (U ᵕ U❁) a-as geawboxes awe p-pwone to bweaking, o.O e-especiawwy undew s-shock woads (fow e-exampwe, (˘ω˘) if the wheew is hit by anothew wobot, ( ͡o ω ͡o ) o-ow the wheew s-swams into the w-waww). o.O
 
-   We recommend belted drivetrains, but realize that belt is a difficult option for new teams. Chain and gears are also great options - chain requires a bit more forethought, as 1+ tensioner per side is required to maintain correct tension in the chain.
+   we wecommend bewted dwivetwains, (U ᵕ U❁) but w-weawize that bewt i-is a difficuwt o-option fow nyew t-teams. (ꈍᴗꈍ) chain and g-geaws awe awso gweat options - c-chain wequiwes a-a bit mowe fowethought, (///ˬ///✿) as 1+ tensionew p-pew side is wequiwed to m-maintain cowwect tension in the c-chain. -.-
 
-   CAD or a detailed sketch is generally recommended with chain in order to visualize the chain run (where the chain will be placed). Gears are slightly simpler, and can be a fantastic and easy option, especially when using extrusion. We would advise to stay away from TETRIX gears, and use the gears from other kits such as the REV delrin gears (with hex hub strengthener) or REV aluminum gears.
+   cad ow a detaiwed sketch i-is genewawwy wecommended with c-chain in owdew to visuawize the chain wun (whewe t-the chain wiww b-be pwaced). -.- geaws awe swightwy simpwew, ( ͡o ω ͡o ) and can b-be a fantastic and easy option, o.O especiawwy when using extwusion. o.O we wouwd advise to stay away f-fwom tetwix geaws, a-and use the g-geaws fwom othew k-kits such as the w-wev dewwin geaws (with hex hub stwengthenew) ow w-wev awuminum geaws. (U ﹏ U)
 
-   See the :doc:`../power-transmission/index` section for more details.
+   s-see the :doc:`../powew-twansmission/index` section fow m-mowe detaiws. σωσ
 
-**An important step is determining what you want out of your drivetrain**.
+**an impowtant step i-is detewmining nyani you want o-out of youw dwivetwain**. ( ͡o ω ͡o )
 
-- Do you want speed?
-- Pushing power?
-- Ability to get over terrain?
-- Do you need to strafe?
+- do you want speed?
+- p-pushing powew?
+- a-abiwity to g-get ovew tewwain?
+- do you need t-to stwafe?
 
-All of these questions should be answered before choosing a drivetrain.
+aww o-of these questions s-shouwd be answewed b-befowe choosing a dwivetwain.
 
-Drivetrain Options
+dwivetwain options
 ------------------
 
 .. toctree::

@@ -1,284 +1,284 @@
-Dead Wheels
+dead wheews
 ===========
 
-.. warning:: This is a very niche aspect of design in FTC. Generally it is something done by more experienced teams who have had time to repeatedly test their designs and mechanisms with software during the off-season.
+.. w-wawning:: t-this is a vewy nyiche aspect o-of design in ftc. UwU genewawwy it i-is something done by mowe expewienced t-teams who have had time to wepeatedwy test t-theiw designs and mechanisms with s-softwawe duwing t-the off-season. òωó
 
-The term dead wheels, tracking wheels, odometry pods, and odometry are often conflated in the FTC community. However, there are a few key differences one must keep in mind. Odometry is an umbrella term and refers to the general use of motion sensors for localization purposes. Meanwhile, dead wheels, tracking wheels, and odometry pods are all synonymous terms. We'll explore what they mean in a bit.
+t-the tewm dead wheews, OwO twacking wheews, òωó odometwy pods, òωó and odometwy awe often confwated in the f-ftc community. -.- howevew, thewe awe a few key diffewences one must keep in mind. ( ͡o ω ͡o ) o-odometwy is an u-umbwewwa tewm and wefews to the g-genewaw use of motion sensows fow wocawization puwposes. UwU meanwhiwe, d-dead wheews, σωσ twacking wheews, σωσ a-and odometwy p-pods awe aww synonymous t-tewms. (///ˬ///✿) we'ww e-expwowe nyani they mean in a-a bit. o.O
 
-Odometry refers to the use of motion sensors for localization. Localization is a means for being able to locate the position of the bot at some point in time. Localization is crucial in path following and advanced autonomous modes as one needs to know where they are to generate the necessary movements needed to reach a desired destination. :doc:`Localization software <../software/odometry>` plays a major role in odometry; however, in order to produce accurate results, reliable and accurate hardware design is a necessity.
+odometwy wefews to the use of motion sensows f-fow wocawization. >w< w-wocawization i-is a means fow being abwe to wocate the position of the bot a-at some point in time. σωσ wocawization i-is cwuciaw in path fowwowing and advanced autonomous modes as one nyeeds to k-know whewe they awe to genewate the nyecessawy movements n-nyeeded to weach a desiwed destination. rawr x3 :doc:`wocawization s-softwawe <../softwawe/odometwy>` p-pways a majow w-wowe in odometwy; howevew, (˘ω˘) in owdew to pwoduce accuwate wesuwts, >w< wewiabwe and accuwate hawdwawe design is a nyecessity. òωó
 
-The simplest form of odometry is drive encoder localization. This is the use of encoders measuring the rotation of motors that power the drive train. One is able to read the encoder data and feed it through the kinematic equation for that specific drive train to derive the body's velocity. Drive encoder localization is generally quite simple and easy to setup as almost all of the FTC legal motors have built-in encoders. Getting drive encoder localization setup is simply a matter of plugging in wires, no additional hardware needed.
+t-the s-simpwest fowm of o-odometwy is dwive e-encodew wocawization. -.- t-this is t-the use of encodews measuwing the wotation of motows t-that powew the dwive twain. UwU o-one is abwe to wead the encodew d-data and feed i-it thwough the kinematic equation fow that specific dwive twain t-to dewive the body's vewocity. (U ﹏ U) dwive encodew wocawization i-is genewawwy quite simpwe and easy to setup as awmost a-aww of the ftc wegaw motows have b-buiwt-in encodews. òωó g-getting dwive e-encodew wocawization s-setup is simpwy a mattew o-of pwugging in wiwes, -.- n-nyo additionaw h-hawdwawe nyeeded. (˘ω˘)
 
-Many teams in the community have converged on a unique solution that isn't seen very much outside of FTC: the use of "dead wheels," "tracking wheels," or "odometry pods" (these terms are all synonymous). These refer to small "dead" or non-driven (not powered by a motor) wheels attached to an `encoder sensor <#encoders>`_. Two or three dead wheel pods are often sprung to the ground to ensure accurate tracking. The two-wheel design utilizes one parallel and one perpendicular pod (parallel and perpendicular with respect to the drive wheel axis), measuring x and y movement respectively. Change in heading is measured via a gyroscope. The three-wheel design utilizes two parallel and one perpendicular pod, measuring x and y movement respectively. However, this design forgoes the gyroscope and instead measures heading via the difference with the two parallel wheels. This is often more accurate in the context of the FTC control system because the BNO055 IMU (used for the gyroscope in the two-wheel design) utilizes I2C which is slower than the rest of the I/O on the REV Hub and cannot be bulk read. These two issues lead to minute drift issues which can compound over time, thus leading to a more inaccurate localization system when using the two-wheel design.
+many teams i-in the community have convewged on a unique sowution t-that isn't s-seen vewy much outside of ftc: t-the use of "dead wheews," "twacking w-wheews," ow "odometwy p-pods" (these tewms awe a-aww synonymous). rawr x3 t-these wefew t-to smow "dead" ow nyon-dwiven (not p-powewed by a motow) wheews attached t-to an `encodew s-sensow <#encodews>`_. rawr x3 t-two ow thwee dead wheew p-pods awe often s-spwung to the gwound to ensuwe a-accuwate twacking. OwO t-the two-wheew d-design utiwizes o-one pawawwew a-and one pewpendicuwaw pod (pawawwew and pewpendicuwaw w-with wespect to the dwive w-wheew axis), o.O measuwing x and y movement wespectivewy. (⑅˘꒳˘) change in heading is measuwed via a gywoscope. ( ͡o ω ͡o ) the thwee-wheew d-design utiwizes t-two pawawwew and one pewpendicuwaw pod, (˘ω˘) measuwing x-x and y movement w-wespectivewy. OwO h-howevew, >w< this design fowgoes the gywoscope a-and instead measuwes heading via t-the diffewence w-with the two pawawwew wheews. (///ˬ///✿) this i-is often mowe a-accuwate in the c-context of the ftc contwow system because the bno055 imu (used fow the gywoscope i-in the two-wheew design) utiwizes i-i2c which is s-swowew than the west of the i/o on the wev hub a-and cannot be buwk w-wead. ( ͡o ω ͡o ) these two issues wead to minute dwift i-issues which can compound ovew time, OwO thus weading to a mowe inaccuwate w-wocawization system when u-using the two-wheew d-design. (///ˬ///✿)
 
-However, designing consistently accurate dead wheels proves to be a difficult design challenge. It is often quite pricey. A set of three dead wheels will cost a minimum of $100 for the encoders alone, prior to any hardware.
+howevew, d-designing consistentwy accuwate dead wheews p-pwoves to be a d-difficuwt design chawwenge. >w< it i-is often quite pwicey. ʘwʘ a-a set of thwee dead wheews wiww cost a minimum o-of $100 fow the encodews awone, (⑅˘꒳˘) pwiow to any hawdwawe. (ꈍᴗꈍ)
 
-Let's go through the advantages and disadvantages of each system.
+wet's go thwough the advantages and d-disadvantages of each system. (///ˬ///✿)
 
-Drive Encoder Localization
+dwive encodew wocawization
 --------------------------
 
-- **Pros**:
+- **pwos**:
 
-  - Cheap (the motors you're using most likely already have encoders built in)
-  - Accessible
-  - Very little configuration necessary
-- **Cons**:
+  - cheap (the motows you'we u-using most wikewy a-awweady have e-encodews buiwt i-in)
+  - accessibwe
+  - v-vewy wittwe configuwation n-nyecessawy
+- **cons**:
 
-  - Drive encoder localization on mecanum drive can be quite inaccurate due to lack on traction on mecanum wheels.
-  - Will drift on high acceleration on mecanum drive. Accuracy will be good enough for basic autonomous modes if acceleration is limited
+  - d-dwive e-encodew wocawization on mecanum dwive can be q-quite inaccuwate d-due to wack on twaction on mecanum w-wheews. (U ᵕ U❁)
+  - w-wiww dwift on high accewewation on mecanum dwive. rawr x3 accuwacy wiww be good enough fow b-basic autonomous m-modes if accewewation is wimited
 
-Two-Wheel Odometry Pods
+t-two-wheew o-odometwy pods
 -----------------------
 
-- **Pros**:
+- **pwos**:
 
-  - Cheaper than 3-wheel design
-  - Pretty good accuracy
-  - No tuning of the heading necessary
-- **Cons**:
+  - cheapew t-than 3-wheew design
+  - pwetty good accuwacy
+  - nyo tuning of the heading nyecessawy
+- **cons**:
 
-  - Subject to more drift than the 3-wheel design
+  - s-subject to mowe dwift than t-the 3-wheew design
 
-Three-Wheel Odometry Pods
+thwee-wheew odometwy pods
 -------------------------
 
-- **Pros**:
+- **pwos**:
 
-  - Relatively accurate tracking. Great accuracy in a 30-second autonomous mode
-- **Cons**:
+  - wewativewy accuwate twacking. (⑅˘꒳˘) gweat accuwacy in a 30-second autonomous mode
+- **cons**:
 
-  - Quite pricey
-  - Tuning of the heading is very important
+  - quite pwicey
+  - tuning o-of the heading is vewy impowtant
 
-Encoders
+e-encodews
 --------
 
-A lot of the localization done in software relies on readings from encoders. :ref:`encoders` are sensors that track "counts" or "ticks," which are values that represent a certain amount of a rotation. Different encoders might have a different number of counts per revolution (CPR), which is also sometimes also called ticks per revolution. The greater the number of counts, the more precise the data.
+a wot of the wocawization d-done in softwawe wewies on weadings f-fwom encodews. (ꈍᴗꈍ) :wef:`encodews` awe sensows that t-twack "counts" o-ow "ticks," which awe vawues t-that wepwesent a c-cewtain amount o-of a wotation. σωσ diffewent e-encodews might have a diffewent n-nyumbew o-of counts pew wevowution (cpw), ʘwʘ which is awso sometimes awso cawwed ticks pew wevowution. UwU the gweatew t-the nyumbew o-of counts, ʘwʘ the mowe pwecise the data. ʘwʘ
 
-Encoders are plugged into the JST-PH ports in the REV hubs. These encoders can either be built-in to the motors or external. External encoders will still need to be plugged into an encoder port but are not related to the motor in that port. Through software, we can use the motor object to determine the position of the encoder. This should be done with motors that do not use encoders. If you're using dead wheels, you will not need the drive motor encoder ports, so those are potential ports you might want to use.
+encodews awe pwugged into t-the jst-ph powts i-in the wev hubs. these encodews c-can eithew be buiwt-in to the motows ow extewnaw. OwO e-extewnaw encodews wiww stiww n-nyeed to be pwugged into an encodew powt but awe nyot wewated t-to the motow in t-that powt. σωσ thwough s-softwawe, (⑅˘꒳˘) we can use the motow object to detewmine the position of the encodew. ( ͡o ω ͡o ) t-this shouwd b-be done with motows t-that do nyot u-use encodews. (U ﹏ U) if you'we using dead wheews, (U ᵕ U❁) you wiww nyot nyeed the dwive motow e-encodew powts, s-so those awe potentiaw powts you m-might want to use. (///ˬ///✿)
 
-If one chooses to design dead wheels, there are only two recommended encoders that one should use for FTC: REV Through-Bore Encoders and U.S. Digital S4T Encoders.
+i-if one chooses to design dead w-wheews, σωσ thewe a-awe onwy two wecommended e-encodews that one shouwd use fow ftc: w-wev thwough-bowe e-encodews and u.s. rawr x3 d-digitaw s4t encodews. òωó
 
-REV Through-Bore
+w-wev thwough-bowe
 ^^^^^^^^^^^^^^^^
 
-Often short-handed to "REVcoders" or "revcoders," the `REV Through-Bore encoders <https://www.revrobotics.com/rev-11-1271/>`_ has quickly become the de facto option the FTC community. The REV encoders have gained such a reputation due to its relative affordability, much improved reliability, and ease of use. The through-bore design proves to be a *significant* improvement over previous optical disc encoder designs. Optical disc encoders are very fragile, prone to scratching, and are much less tolerant to design flaws.
+o-often showt-handed to "wevcodews" ow "wevcodews," the `wev t-thwough-bowe e-encodews <https://www.wevwobotics.com/wev-11-1271/>`_ h-has quickwy become the de facto option t-the ftc community. OwO t-the wev encodews h-have gained s-such a weputation d-due to its wewative affowdabiwity, ʘwʘ m-much impwoved w-wewiabiwity, (ꈍᴗꈍ) and ease of use. ( ͡o ω ͡o ) t-the thwough-bowe design pwoves t-to be a *significant* impwovement o-ovew pwevious opticaw disc encodew d-designs. UwU opticaw disc encodews a-awe vewy fwagiwe, σωσ pwone to scwatching, (U ﹏ U) and a-awe much wess towewant t-to design fwaws. (///ˬ///✿)
 
-.. figure:: images/odometry/through-bore.png
-   :alt: A REV Through-Bore Encoder
+.. figuwe:: images/odometwy/thwough-bowe.png
+   :awt: a-a wev thwough-bowe encodew
    :width: 20em
 
-   REV Through-Bore Encoder
+   wev thwough-bowe encodew
 
-**Advantages:**
+**advantages:**
 
-- Through-bore design is very robust and easy to design with
-- Relatively cheap
-- High CPR
-- Easy wiring
+- thwough-bowe design i-is vewy wobust and e-easy to design w-with
+- wewativewy c-cheap
+- high c-cpw
+- easy wiwing
 
-**Disadvantages:**
+**disadvantages:**
 
-- Quite large relative to other encoders. May be challenging to create a compact design
-- Many Through-Bores seem to experience slight, uneven resistance when rotating. REV says this is normal and will subside as the encoder wears in
+- quite wawge wewative to o-othew encodews. (˘ω˘) m-may be chawwenging to cweate a c-compact design
+- many thwough-bowes s-seem to expewience swight, (˘ω˘) u-uneven wesistance when wotating. ʘwʘ w-wev says this is n-nowmaw and wiww s-subside as the encodew weaws in
 
-  - To forcefully wear in a REV Through-Bore encoder a 1/2" hex shaft can be spun on a drill through the encoder for a couple of minutes
-- Odd mounting points
+  - t-to fowcefuwwy w-weaw in a wev t-thwough-bowe e-encodew a 1/2" hex shaft can be spun on a dwiww thwough the encodew fow a coupwe o-of minutes
+- odd mounting points
 
-.. note:: The Through-Bore encoders have a very high CPR (8k). The REV Hub transmits velocity in a 16-bit signed integer. This means it can only communicate a maximum value of 2^15 (which is 32768). Thus, it only takes 4 rotations a second (32k / 8k = 4) for the velocity value on the REV Hub to experience an `integer overflow <https://en.wikipedia.org/wiki/Integer_overflow?oldformat=true>`_. This is primarily a concern when dealing with motion profiling. The popular, existing tools (Road Runner and FTCLib) have `mechanisms for dealing with this issue <https://github.com/acmerobotics/road-runner-quickstart/blob/master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/Encoder.java>`_ so this is not a concern and should not sway your design decision. Just keep this detail in mind once you start programming.
+.. nyote:: the thwough-bowe encodews have a vewy high cpw (8k). (U ﹏ U) the wev hub twansmits vewocity in a 16-bit signed integew. (ꈍᴗꈍ) this means it can o-onwy communicate a maximum vawue o-of 2^15 (which i-is 32768). (U ﹏ U) thus, ʘwʘ i-it onwy takes 4 w-wotations a second (32k / 8k = 4) fow the vewocity vawue on the w-wev hub to expewience an `integew ovewfwow <https://en.wikipedia.owg/wiki/integew_ovewfwow?owdfowmat=twue>`_. rawr x3 this is pwimawiwy a concewn when d-deawing with motion pwofiwing. (U ﹏ U) the popuwaw, òωó existing t-toows (woad w-wunnew and ftcwib) have `mechanisms fow deawing with this issue <https://github.com/acmewobotics/woad-wunnew-quickstawt/bwob/mastew/teamcode/swc/main/java/owg/fiwstinspiwes/ftc/teamcode/utiw/encodew.java>`_ so this is nyot a-a concewn and shouwd n-nyot sway youw d-design decision. (U ᵕ U❁) j-just keep this detaiw in mind o-once you stawt p-pwogwamming. (U ᵕ U❁)
 
-U.S. Digital S4T
+u-u.s. σωσ digitaw s4t
 ^^^^^^^^^^^^^^^^
 
-The `S4T <https://www.usdigital.com/products/encoders/incremental/shaft/S4T>`_ miniature shaft encoder is another viable option used in dead wheel designs. These encoders are very small and may significantly reduce the footprint of your dead wheel design. Gearing these encoders is ideal to prevent shock loads.
+the `s4t <https://www.usdigitaw.com/pwoducts/encodews/incwementaw/shaft/s4t>`_ m-miniatuwe shaft encodew is anothew viabwe option used in dead w-wheew designs. -.- these encodews awe v-vewy smow and may significantwy w-weduce the footpwint of youw dead w-wheew design. rawr x3 g-geawing these e-encodews is ideaw t-to pwevent shock w-woads. o.O
 
-.. figure:: images/odometry/s4t.jpg
-   :alt: An US Digital S4T encoder
+.. figuwe:: i-images/odometwy/s4t.jpg
+   :awt: a-an us digitaw s4t encodew
    :width: 20em
 
-   S4T Encoder
+   s-s4t encodew
 
-**Advantages:**
+**advantages:**
 
-- Very compact
+- v-vewy compact
 
-**Disadvantages:**
+**disadvantages:**
 
-- More expensive (nearly double the price)
-- Less durable
+- mowe expensive (neawwy d-doubwe the pwice)
+- w-wess duwabwe
 
-  - Very thin wires. Prone to breaking easily if not secured properly
+  - vewy thin w-wiwes. (˘ω˘) pwone to b-bweaking easiwy if nyot secuwed p-pwopewwy
 
-- Ideally requires external gearing
+- ideawwy w-wequiwes extewnaw geawing
 
-SRX Mag Encoder
+swx mag encodew
 ^^^^^^^^^^^^^^^
 
-The `SRX Mag Encoder <http://www.ctr-electronics.com/srx-magnetic-encoder.html>`_ from Cross The Road Electronics is a magnetic encoder. It is not used by many FTC teams due to its slightly higher complexity to use and lack of FTC-centric documentation. It is more popular in FRC.
+the `swx mag encodew <http://www.ctw-ewectwonics.com/swx-magnetic-encodew.htmw>`_ f-fwom cwoss the w-woad ewectwonics is a magnetic e-encodew. OwO it is n-nyot used by many ftc teams due t-to its swightwy highew compwexity to use and wack o-of ftc-centwic d-documentation. σωσ it is mowe popuwaw in fwc. òωó
 
-.. figure:: images/odometry/srx-mag.jpg
-   :alt: A CTRE SRX Mag encoder
+.. (ꈍᴗꈍ) figuwe:: i-images/odometwy/swx-mag.jpg
+   :awt: a-a ctwe s-swx mag encodew
    :width: 20em
 
-   CTRE SRX Mag Encoder
+   ctwe swx mag encodew
 
-**Advantages:**
+**advantages:**
 
-- Very compact
-- Relatively cheap
+- vewy compact
+- wewativewy cheap
 
-**Disadvantages:**
+**disadvantages:**
 
-- Requires assembly
-- Not much information exists for use in FTC
+- w-wequiwes a-assembwy
+- nyot m-much infowmation exists fow use in ftc
 
-U.S. Digital E8T (deprecated)
+u.s. o.O digitaw e8t (depwecated)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Once the de facto option for most FTC teams, the `E8T <https://www.usdigital.com/products/encoders/incremental/kit/E8T>`_ optical encoders are no longer recommended as the REV Through-Bores are a superior option at an equivalent price. The open-hole optical disc design of these encoders face a number of frustrating design flaws that made them very fragile and prone to breaking. The only advantage that they have relative to the REV Through-Bores is their smaller footprint.
+once the de facto option fow m-most ftc teams, UwU the `e8t <https://www.usdigitaw.com/pwoducts/encodews/incwementaw/kit/e8t>`_ o-opticaw encodews a-awe nyo wongew w-wecommended as the wev thwough-bowes a-awe a supewiow o-option at an e-equivawent pwice. (ꈍᴗꈍ) t-the open-howe opticaw disc design of these encodews f-face a nyumbew of fwustwating design fwaws t-that made them vewy fwagiwe and p-pwone to bweaking. ( ͡o ω ͡o ) t-the onwy advantage t-that they h-have wewative to the wev thwough-bowes is theiw s-smowew footpwint.
 
-.. figure:: images/odometry/e8t.jpg
-   :alt: An US Digital E8T encoder
+.. f-figuwe:: i-images/odometwy/e8t.jpg
+   :awt: a-an us digitaw e8t encodew
    :width: 20em
 
-   E8T Encoder
+   e-e8t encodew
 
-Design
+design
 ------
 
-There are few open source dead wheel designs. Dead wheels are often designed around a team's own drive train and FTC teams seldom publicly release their own robot CADs.
+thewe a-awe few open souwce d-dead wheew designs. ʘwʘ dead wheews a-awe often designed awound a team's own dwive twain and ftc teams sewdom pubwicwy wewease theiw o-own wobot cads. rawr x3
 
-Here are a few publicly available dead wheel designs:
+hewe awe a few pubwicwy avaiwabwe dead wheew d-designs:
 
-- **Open Odometry by 18219**
+- **open odometwy by 18219**
 
-  - https://openodometry.weebly.com
-  - Utilizes the REV Through-Bore Encoder
-  - Most popular and robust publicly available design
-  - Compact enough to fit into a goBILDA channel
+  - https://openodometwy.weebwy.com
+  - u-utiwizes the w-wev thwough-bowe encodew
+  - most popuwaw and wobust pubwicwy avaiwabwe design
+  - c-compact enough t-to fit into a gobiwda channew
 
-  - **Things to consider**:
+  - **things to considew**:
 
-    - Utilizes Rotacaster 35mm wheels from Australia. Shipping may take a while
+    - utiwizes wotacastew 35mm wheews fwom austwawia. (⑅˘꒳˘) s-shipping may take a whiwe
 
-- **goREVdometry**
+- **gowevdometwy**
 
-  - https://discord.com/invite/Cvz3MbM9dX
-  - Utilizes the REV Through-Bore Encoder
-  - Compact enough to fit into a goBILDA channel
+  - https://discowd.com/invite/cvz3mbm9dx
+  - utiwizes the wev t-thwough-bowe encodew
+  - c-compact enough to fit i-into a gobiwda c-channew
 
-  - **Things to consider**:
+  - **things to considew**:
 
-    - Information only available through their Discord channel
-    - Hasn't been iterated on in a while
+    - infowmation onwy avaiwabwe t-thwough theiw discowd channew
+    - h-hasn't b-been itewated on in a whiwe
 
-- **11115 Gluten Free Design - 2019**
+- **11115 g-gwuten fwee design - 2019**
 
-  - https://drive.google.com/file/d/16ZQRSiWdzTKSH92VpKrxKpXy3TTh0sA5/view?usp=sharing
-  - The above link the entire robot assembly for 11115's CAD for the 2018-19 season
+  - https://dwive.googwe.com/fiwe/d/16zqwsiwdztksh92vpkwxkpxy3tth0sa5/view?usp=shawing
+  - t-the above wink t-the entiwe wobot assembwy fow 11115's cad fow the 2018-19 s-season
 
-  - **Things to consider**:
+  - **things to c-considew**:
 
-    - Uses LEGO gears
-    - Uses US Digital S4T's. Quite pricey
+    - u-uses wego geaws
+    - uses us digitaw s4t's. ( ͡o ω ͡o ) quite pwicey
 
-- **9794 Wizards.exe Design**
+- **9794 w-wizawds.exe d-design**
 
-  - https://www.youtube.com/watch?list=PLICNg-rquurYgWAQGhu6iC0At75vgqFJp&v=OjNvAD350M4&feature=emb_title
-  - Compact enough to fit into a goBILDA channel
-  - **No longer recommended as it utilizes the E8T**
+  - https://www.youtube.com/watch?wist=pwicng-wquuwygwaqghu6ic0at75vgqfjp&v=ojnvad350m4&featuwe=emb_titwe
+  - compact enough to fit i-into a gobiwda channew
+  - **no wongew wecommended a-as it utiwizes t-the e8t**
 
-Spring Tensioning
+s-spwing tensioning
 ^^^^^^^^^^^^^^^^^
 
-It is *highly* recommended that your dead wheel design includes some form of spring tensioning that pushes the wheel into the ground. This ensures that the wheel is always in contact with ground and has adequate traction. Sufficient force is required to ensure constant traction to prevent the wheels from slipping. Keep in mind that too much force may lift a light drive train off the ground and disrupt driving.
+it is *highwy* wecommended that youw dead wheew d-design incwudes some fowm of spwing tensioning t-that pushes the wheew into the g-gwound. òωó this ensuwes that the wheew is awways in contact with gwound and has a-adequate twaction. ʘwʘ s-sufficient fowce i-is wequiwed t-to ensuwe constant t-twaction to pwevent the wheews fwom swipping. (ꈍᴗꈍ) k-keep in mind that t-too much fowce m-may wift a wight d-dwive twain off t-the gwound and diswupt dwiving. òωó
 
-The most popular method of spring tensioning is to pivot your pod around a point and provide a rotational force via a spring or rubber band.
+the most popuwaw method of spwing t-tensioning i-is to pivot youw p-pod awound a point a-and pwovide a wotationaw fowce v-via a spwing o-ow wubbew band. (U ﹏ U)
 
-.. figure:: images/odometry/14320-pivot-half.jpg
-   :alt: A demonstration of pivoting spring tensioning
+.. f-figuwe:: images/odometwy/14320-pivot-hawf.jpg
+   :awt: a-a demonstwation o-of pivoting spwing tensioning
    :width: 40em
 
-   FTC 14320's spring tensioning
+   ftc 14320's s-spwing tensioning
 
-A much more niche option is to vertically spring odometry pods. The idea is that springing around a pivot will cause the dead wheels to move in the axis parallel to the ground if the height of the dead wheels relative to the ground changes. Vertically sprung odometry pods will not experience such an issue. However, this is not really an issue that most teams will experience. Vertically springing is much harder to design well and is not recommended for the relatively minor improvement in accuracy it yields.
+a much mowe nyiche option is to vewticawwy s-spwing odometwy p-pods. (˘ω˘) the i-idea is that spwinging a-awound a-a pivot wiww cause t-the dead wheews t-to move in the axis pawawwew to the gwound if t-the height of the dead wheews wewative t-to the gwound c-changes. (˘ω˘) vewticawwy spwung odometwy pods wiww n-nyot expewience such an issue. (///ˬ///✿) howevew, this is nyot weawwy an issue that most t-teams wiww expewience. (///ˬ///✿) v-vewticawwy spwinging is m-much hawdew to design weww and is nyot wecommended fow the wewativewy m-minow impwovement i-in accuwacy i-it yiewds. UwU
 
-.. figure:: images/odometry/18172-vertical-odo.jpg
-   :alt: An example of vertical spring tensioning
+.. f-figuwe:: images/odometwy/18172-vewticaw-odo.jpg
+   :awt: an exampwe of vewticaw spwing tensioning
    :width: 40em
 
-   FTC 18172's vertical springing
+   f-ftc 18172's vewticaw s-spwinging
 
-Gallery
+gawwewy
 -------
 
-Open Odometry
+open o-odometwy
 ^^^^^^^^^^^^^
 
-.. image:: images/odometry/openodo-bom.png
-   :alt: Exploded drawing of Open Odometry design
+.. i-image:: images/odometwy/openodo-bom.png
+   :awt: e-expwoded dwawing of o-open odometwy design
    :width: 40em
 
-.. image:: images/odometry/openodo-sectionview.png
-   :alt: Section view of Open Odometry
+.. i-image:: images/odometwy/openodo-sectionview.png
+   :awt: s-section view of open odometwy
    :width: 40em
 
-FTC Team 14310
+f-ftc team 14310
 ^^^^^^^^^^^^^^
 
-.. image:: images/odometry/14310.jpg
-   :alt: 14130's odometry
+.. image:: images/odometwy/14310.jpg
+   :awt: 14130's odometwy
    :width: 40em
 
-FTC Team 8802
+f-ftc team 8802
 ^^^^^^^^^^^^^
 
-.. image:: images/odometry/8802.jpg
-   :alt: 8802's odometry
+.. image:: images/odometwy/8802.jpg
+   :awt: 8802's o-odometwy
    :width: 40em
 
-FTC Team 14320
+f-ftc team 14320
 ^^^^^^^^^^^^^^
 
-.. image:: images/odometry/14320.png
-   :alt: 14320's odometry
+.. image:: i-images/odometwy/14320.png
+   :awt: 14320's odometwy
    :width: 40em
 
-FTC Team 11115
+ftc team 11115
 ^^^^^^^^^^^^^^
 
-.. figure:: images/odometry/11115-cover.jpg
-   :alt: 11115's odometry
+.. f-figuwe:: images/odometwy/11115-covew.jpg
+   :awt: 11115's odometwy
    :width: 40em
 
-   `FTC Team 11115 Photo Album <https://photos.google.com/share/AF1QipPx5inCdVxK6wAqtIznFE-KqvnuzgRq9rFxrhzI50r0DeYYo2o11hWB4hroYObm8A?key=UWwxd3hFdXpYaHFqaFhTSFJnWFlEWjgtV1FTN3Zn>`_
+   `ftc t-team 11115 p-photo awbum <https://photos.googwe.com/shawe/af1qippx5incdvxk6waqtiznfe-kqvnuzgwq9wfxwhzi50w0deyyo2o11hwb4hwoyobm8a?key=uwwxd3hfdxpyahfqafhtsfjnwfwewjgtv1ftn3zn>`_
 
-FTC Team 14481
+f-ftc team 14481
 ^^^^^^^^^^^^^^
 
-.. image:: images/odometry/14481.png
-   :alt: 14481's odometry
+.. image:: images/odometwy/14481.png
+   :awt: 14481's o-odometwy
    :width: 40em
 
-FTC Team 3658
+f-ftc team 3658
 ^^^^^^^^^^^^^
 
-.. figure:: images/odometry/3658.png
-   :alt: Render of 3658's odometry
+.. figuwe:: images/odometwy/3658.png
+   :awt: wendew of 3658's odometwy
    :width: 40em
 
-   FTC Team 3658 CAD
+   f-ftc team 3658 cad
 
-FTC Team 7236
+f-ftc team 7236
 ^^^^^^^^^^^^^
 
-.. figure:: images/odometry/7236-cad-exploded.png
-   :alt: Exploded view of 7236's odometry
+.. f-figuwe:: images/odometwy/7236-cad-expwoded.png
+   :awt: expwoded v-view of 7236's odometwy
    :width: 40em
 
-   FTC Team 7236 CAD
+   f-ftc team 7236 cad
 
-.. image:: images/odometry/7236.jpg
-   :alt: 7236's odometry
+.. image:: images/odometwy/7236.jpg
+   :awt: 7236's odometwy
    :width: 40em

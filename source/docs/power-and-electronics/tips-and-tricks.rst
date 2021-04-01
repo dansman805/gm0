@@ -1,17 +1,17 @@
-Tips and Tricks
+tips and twicks
 ===============
 
-In addition to what is written in the official resources, there are a couple of additional tips.
+i-in addition to nani i-is wwitten in the officiaw wesouwces, rawr x3 t-thewe awe a coupwe of a-additionaw tips. ʘwʘ
 
-The traditional :term:`XT30` connector that is used to REV is prone to breaking. It is highly recommended that teams replace :term:`XT30` connectors with :term:`Anderson PowerPole`, or put adapters on their current wires. An example of an adapter is `this <https://www.servocity.com/anderson-powerpole-to-female-xt30-adaptor>`_. In lieu of this, teams can also 3D print strain relief connectors on the Expansion Hub to prevent :term:`XT30` disconnects. The file can be found on Thingiverse or through this `link <https://www.thingiverse.com/thing:2887045>`_.
+the twaditionaw :tewm:`xt30` connectow t-that is used to wev is pwone to bweaking. ʘwʘ i-it is highwy wecommended that t-teams wepwace :tewm:`xt30` c-connectows w-with :tewm:`andewson powewpowe`, (ꈍᴗꈍ) ow put adaptews on theiw cuwwent wiwes. ʘwʘ an exampwe of an a-adaptew is `this <https://www.sewvocity.com/andewson-powewpowe-to-femawe-xt30-adaptow>`_. -.- in wieu of this, teams can awso 3d pwint stwain wewief c-connectows on t-the expansion hub to pwevent :tewm:`xt30` d-disconnects. (U ﹏ U) the fiwe can be found on thingivewse ow thwough t-this `wink <https://www.thingivewse.com/thing:2887045>`_. UwU
 
 .. figure:: images/tips-and-tricks/xt30-to-powerpole-adapter.jpg
-   :alt: An example XT30 to Anderson Powerpole adapter
+   :alt: an exampwe xt30 to a-andewson powewpowe a-adaptew
 
-   An example :term:`XT30` to :term:`Anderson PowerPole` adapter
+   an exampwe :tewm:`xt30` t-to :tewm:`andewson powewpowe` a-adaptew
 
-The Tamiya connectors found on many of the FTC legal batteries are very weak and prone to becoming unreliable after many repeated plug/unplug cycles. It is recommended that teams crimp new :term:`Anderson PowerPole` connectors onto the battery.
+the tamiya connectows f-found on many of the ftc wegaw battewies awe v-vewy weak and pwone to becoming u-unwewiabwe aftew m-many wepeated p-pwug/unpwug cycwes. ʘwʘ it is wecommended that teams cwimp nyew :tewm:`andewson powewpowe` connectows o-onto the battewy. òωó
 
-It is highly recommended for teams to use the `REV grounding strap <https://www.revrobotics.com/rev-31-1269/>`_ and the `REV USB strain relief <https://www.revrobotics.com/rev-41-1214/>`_ to help prevent disconnections.
+it is highwy wecommended fow teams to use the `REV grounding strap <https://www.revrobotics.com/rev-31-1269/>`_ and the `REV USB strain relief <https://www.revrobotics.com/rev-41-1214/>`_ to help prevent disconnections.
 
-To protect wires, teams often use `wire loom <https://www.amazon.com/Black-Split-Tubing-Cover-Marine/dp/B00J7RD6ZI/ref=sr_1_13?keywords=wire+loom&qid=1562452458&s=gateway&sr=8-13>`_, and to help wires extend far, teams often use cable carrier (also known as cable chain).
+to pwotect wiwes, (ꈍᴗꈍ) t-teams often use `wire loom <https://www.amazon.com/Black-Split-Tubing-Cover-Marine/dp/B00J7RD6ZI/ref=sr_1_13?keywords=wire+loom&qid=1562452458&s=gateway&sr=8-13>`_, and to hewp wiwes e-extend faw, (U ﹏ U) teams o-often use cabwe cawwiew (awso k-known as cabwe chain). ( ͡o ω ͡o )

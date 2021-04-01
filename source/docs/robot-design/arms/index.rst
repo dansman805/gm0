@@ -1,31 +1,31 @@
-Arms
+awms
 ====
 
-Arms are another way to achieve extension past the 18” x 18” dimension of the robot. Unlike linear extensions, arms require lots of torque - a standard 40:1 or even 60:1 gearbox will not be suitable in most applications. For example, many teams will run a 256:1 gearbox for their rotation motor.
+awms awe a-anothew way to a-achieve extension past the 18” x-x 18” dimension of the wobot. òωó u-unwike wineaw extensions, (ꈍᴗꈍ) awms w-wequiwe wots of towque - a standawd 40:1 ow even 60:1 g-geawbox wiww nyot be suitabwe i-in most appwications. >w< f-fow e-exampwe, rawr x3 many teams wiww wun a 256:1 geawbox fow theiw wotation motow. (U ᵕ U❁)
 
-.. attention:: Such motors must be very well supported, or else the motor may torque itself free from its mount.
+.. attention:: such motows m-must be vewy weww suppowted, (⑅˘꒳˘) ow ewse the motow may towque itsewf fwee fwom its m-mount. rawr x3
 
-Rarely should an arm be directly mounted to the driving motor. Instead, torque should be transferred via gear, chain, or belt. Large arms can also be hard to control (with the addition of momentum adding load to the gearbox, it is hard to stop a three-foot arm that weighs five pounds quickly without breaking a gearbox). In many cases, this issue can be mitigated with software (see the :doc:`../../software/control-loops` section).
+wawewy s-shouwd an awm be diwectwy mounted t-to the dwiving motow. (U ᵕ U❁) instead, towque shouwd be twansfewwed via g-geaw, ʘwʘ chain, ow bewt. (///ˬ///✿) wawge awms c-can awso be h-hawd to contwow (with t-the addition o-of momentum adding woad to the g-geawbox, >w< it is hawd to stop a thwee-foot awm that w-weighs five p-pounds quickwy without b-bweaking a geawbox). σωσ in many cases, ʘwʘ this issue can be mitigated w-with softwawe (see the :doc:`../../softwawe/contwow-woops` s-section). >w<
 
-Depending on the application and implementation, arms can be either faster or slower than extension options.
+depending on the appwication and impwementation, (˘ω˘) awms can be eithew f-fastew ow swowew than extension options. OwO
 
-The different types of arms in FTC include single arm, chain bar and multi-axis arms.
+the diffewent t-types of awms in ftc incwude singwe awm, o.O c-chain baw and m-muwti-axis awms. ʘwʘ
 
-Advantages
+a-advantages
 ----------
 
-- Single bar arms can be relatively simple to build.
-- Arms can be useful in low-load applications;
-  however, most mechanisms in FTC are not very light.
+- singwe baw awms can be wewativewy simpwe to buiwd. (⑅˘꒳˘)
+- awms can be usefuw in wow-woad appwications;
+  howevew, o.O m-most mechanisms i-in ftc awe n-nyot vewy wight. -.-
 
-Disadvantages
+d-disadvantages
 -------------
 
-- Arms require an insane amount of torque, and in order to do so, teams must purchase high-torque gearboxes, such as `UltraPlanetary gearbox from REV <https://www.revrobotics.com/rev-41-1600/>`_, or the more expensive VersaPlanetary (potentially Lite) and NeveRest Sport. One can also use the high gear ratio `goBILDA planetary gearbox motors <https://www.gobilda.com/yellow-jacket-planetary-gear-motors>`_.
+- a-awms wequiwe a-an insane amount of towque, (ꈍᴗꈍ) and in owdew to do s-so, >w< teams must puwchase high-towque g-geawboxes, ʘwʘ such as `uwtwapwanetawy g-geawbox fwom w-wev <https://www.wevwobotics.com/wev-41-1600/>`_, (⑅˘꒳˘) ow the mowe expensive vewsapwanetawy (potentiawwy wite) and n-nyevewest spowt. (U ᵕ U❁) one can awso use the high geaw w-watio `gobiwda pwanetawy geawbox motows <https://www.gobiwda.com/yewwow-jacket-pwanetawy-geaw-motows>`_. (U ﹏ U)
 
-- While single arms may be more simple, they cannot provide enough extension for most games.
+- whiwe s-singwe awms may be mowe simpwe, σωσ t-they cannot p-pwovide enough extension f-fow most g-games. òωó
 
-Types of Arms
+types of awms
 -------------
 
 .. toctree::

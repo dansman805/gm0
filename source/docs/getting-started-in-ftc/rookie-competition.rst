@@ -1,62 +1,62 @@
-Rookie Mistakes: Competition
+wookie mistakes: c-competition
 ============================
 
 +---------------------------------+-------------------------------------+
-|         **Problem**             |            **Solution**             |
+|         **pwobwem**             |            **sowution**             |
 +=================================+=====================================+
-| **Neglect drive practice**      | **Constant driver training**        |
+| **negwect d-dwive p-pwactice**      | **constant d-dwivew t-twaining**        |
 |                                 |                                     |
-| - Drivers unfamiliar with robot | - Drivers comfortable with controls |
-| - Robot reliability untested    | - Proven and tested robot           |
+| - d-dwivews unfamiwiaw w-with wobot | - d-dwivews c-comfowtabwe with c-contwows |
+| - wobot wewiabiwity u-untested    | - p-pwoven and t-tested wobot           |
 +---------------------------------+-------------------------------------+
-| **No game strategy**            | **Strategical driving**             |
+| **no g-g-game s-stwategy**            | **stwategicaw d-dwiving**             |
 |                                 |                                     |
-| - Lack of contingency plans     | - Only purposeful actions taken     |
-| - Weakens alliance strength     | - Efficient and effective driving   |
+| - w-wack of contingency pwans     | - onwy puwposefuw actions taken     |
+| - w-weakens awwiance s-stwength     | - efficient and effective dwiving   |
 +---------------------------------+-------------------------------------+
-| **Fully driver-controlled**     | **Partially automated tasks**       |
+| **fuwwy dwivew-contwowwed**     | **pawtiawwy a-automated tasks**       |
 |                                 |                                     |
-| - Less efficient                | - Relieves stress on driver         |
-| - Requires more practice        | - Removes human error               |
+| - w-w-wess efficient                | - w-wewieves s-stwess on dwivew         |
+| - w-wequiwes mowe pwactice        | - w-wemoves human ewwow               |
 +---------------------------------+-------------------------------------+
 
-Neglecting driver practice → Constant driver training
+n-ny-nyegwecting d-dwivew pwactice → c-c-constant d-dwivew t-twaining
 -----------------------------------------------------
 
-.. important:: A persistent problem with new teams is neglecting driver practice. Drive practice is to be done throughout the season, **not the week before competition.**
+.. i-impowtant:: a-a-a pewsistent pwobwem with nyyew t-teams is nyyegwecting d-dwivew p-pwactice. -.- ( ͡o ω ͡o ) d-dwive pwactice i-is to be d-done thwoughout t-the season, o.O >w< **not the w-week befowe competition.**
 
-No matter how good your robot is, the robot is only 50% of the equation. The driver(s) are the other 50% which determine the success of the team as a whole. Even if your robot is the best in the world, an inferior robot with a competent drive team more than likely will beat your robot with a poor drive team. By April's world championships, most top teams have run hundreds of practice matches.
+nyyo mattew how g-good y-youw wobot is, ʘwʘ o.o the wobot i-is onwy 50% of the equation. UwU o.o the dwivew(s) a-awe the othew 50% which detewmine the s-success o-of the team as a whowe. uwu even if youw wobot i-i-is the best i-in the wowwd, ( ͡o ω ͡o ) σωσ a-an infewiow wobot w-with a competent d-dwive team mowe t-than wikewy wiww beat youw wobot with a poow dwive t-team. (ꈍᴗꈍ) (u ﹏ u) b-by apwiw's wowwd c-championships, (⑅˘꒳˘) >w< m-most top teams h-have wun h-hundweds o-of pwactice m-matches. (˘ω˘) (u ﹏ u)
 
-This gives some obvious advantages compared to a team with lesser practice.
+t-this g-gives some o-obvious advantages c-c-compawed to a-a team with wessew p-pwactice. (///ˬ///✿) (u ᵕ u-u❁)
 
-#. The driver(s) are totally familiar with handling the robot in every
-   situation.
-#. The robot is proven to be reliable enough to survive hours of operation.
-#. The immense data that teams gather from test runs are used to optimize every element of the robot.
+#. rawr x3 the dwivew(s) awe t-totawwy famiwiaw with handwing t-t-the wobot in evewy
+   situation. UwU ʘwʘ
+#. t-the wobot i-is p-pwoven to be wewiabwe enough to suwvive houws of opewation. (ꈍᴗꈍ) -.-
+#. (ꈍᴗꈍ) t-t-the immense data that teams g-gathew fwom test w-wuns a-awe used t-to optimize evewy e-ewement of the wobot. OwO -.-
 
-Driver practice not only familiarizes the driver(s) with the robot and serves as a test of robot reliability, it also simulates in-game conditions. **Learning to push the limits of your robot should be done in practice, not at competition.** This way, drivers will become more comfortable driving under stress and pressure. Teams with intensive driver practice will purposely make things more difficult (such as placing a disabled robot in the middle of the field or unplugging a drivetrain motor).
+dwivew p-pwactice ny-nyot o-onwy famiwiawizes t-the d-dwivew(s) with t-the w-wobot and sewves a-as a test of w-wobot wewiabiwity, (U ᵕ U❁) o-owo it a-awso simuwates i-in-game conditions. (U ᵕ U❁) òωó **weawning t-t-to push the w-wimits of y-youw wobot shouwd b-be d-done in pwactice, σωσ (u ᵕ u-u❁) nyyot at c-competition.** this w-way, (⑅˘꒳˘) uwu d-dwivews wiww b-become m-mowe comfowtabwe dwiving u-undew s-stwess and p-pwessuwe. OwO (⑅˘꒳˘) t-teams w-with intensive d-dwivew p-pwactice w-wiww puwposewy m-make things mowe d-d-difficuwt (such a-a-as pwacing a-a disabwed wobot i-in t-the middwe o-of the fiewd ow unpwugging a-a dwivetwain m-motow). >w< >w<
 
-While this may seem extreme, it is really just a form of preparedness. If your driver doesn't know how to react, then you need more drive practice.
+w-whiwe t-this may seem e-extweme, (///ˬ///✿) owo it is weawwy j-just a fowm o-of pwepawedness. ʘwʘ (u ᵕ u❁) if youw dwivew d-doesn't know how t-to weact, (///ˬ///✿) ʘwʘ then y-y-you nyyeed m-mowe d-dwive pwactice. OwO (u ﹏ u)
 
-No game strategy → Strategic driving
+ny-nyo game stwategy → s-stwategic d-dwiving
 ------------------------------------
 
-Similar to drive practice, this is something that many inexperienced teams ignore. A sports example is handy - even with the most talented players, a team won’t go far without good game strategy.
+s-s-simiwaw to dwive pwactice, (///ˬ///✿) uwu this i-is something t-that many inexpewienced t-teams ignowe. (U ﹏ U) òωó a-a spowts exampwe is handy - e-even with the most t-tawented pwayews, -.- (u ﹏ u-u) a-a team won’t g-go faw without good game stwategy. ʘwʘ waww x3
 
-.. important:: A less capable team with better strategy execution can often pull off an upset. Planning a strategy ensures that every second in the 2:30 game time is used to maximum efficiency, which yields maximum points.
+.. i-impowtant:: a-a wess capabwe t-team w-with bettew s-s-stwategy execution can often puww off an upset. òωó o-owo p-pwanning a-a stwategy ensuwes t-that evewy second i-in the 2:30 g-game time is used t-to maximum efficiency, ʘwʘ (///ˬ///✿) w-which yiewds m-m-maximum points. ( ͡o ω ͡o ) (u ﹏ u)
 
-For example, drivers should know exactly where the robot needs to be positioned after the autonomous to tele-op switch. Practicing this switch will save a couple of seconds when drivers have to think “what do I do now?” In very competitive matches, these few seconds may be able to gain your team an extra cycle. Knowing when to transition from a tele-op to endgame objective is equally important (hint: perfect one first) and will save valuable time. Strategy should **always be used to maximize points** - whether this is a positioning strategy to access the game elements, or a defensive strategy to hinder the other alliance from scoring.
+fow e-exampwe, (U ᵕ U❁) uwu dwivews s-shouwd know e-exactwy whewe the wobot ny-nyeeds to be positioned a-aftew the a-autonomous t-to t-tewe-op switch. o.O ʘwʘ p-pwacticing t-this switch wiww save a-a coupwe of seconds w-when d-dwivews have to think “nani do i do ny-nyow?” in vewy competitive matches, OwO (///ˬ///✿) these few seconds m-may be abwe t-to gain youw team an extwa cycwe. o.O òωó k-knowing when t-to twansition f-f-fwom a-a tewe-op to endgame o-objective i-is equawwy i-impowtant (hint: p-p-pewfect one fiwst) a-and wiww save v-v-vawuabwe time. rawr x3 (⑅˘꒳˘) s-stwategy s-shouwd **awways be used to maximize points** - w-w-whethew t-this is a positioning stwategy t-to access the g-game ewements, σωσ ʘwʘ ow a defensive stwategy t-to hindew the othew awwiance fwom s-scowing. (˘ω˘) ( ͡o ω ͡o )
 
-.. tip:: In most seasons, denying the other alliance 10 points is the same value as scoring 10 points in every match; however, in the Ultimate Goal season there is no advantage to denying the other alliance 10 points, as ranking is based off of the number points your alliance scores as opposed to how many wins you have. However, denying the other alliance points is still a powerful strategy in elimination matches.
+.. t-tip:: in most seasons, rawr x3 -.- d-denying t-t-the othew awwiance 10 p-points i-i-is the same vawue a-as scowing 10 p-points in evewy match; howevew, OwO o.o i-in t-the uwtimate g-goaw season thewe i-i-is nyyo advantage to denying the othew awwiance 10 p-points, (///ˬ///✿) ʘwʘ as wanking i-is based off of the nyyumbew p-points youw awwiance s-scowes as opposed to how many wins you h-have. -.- uwu howevew, denying the othew a-a-awwiance points i-is stiww a powewfuw stwategy i-in e-ewimination matches. ( ͡o ω ͡o )
 
-**However, it is not advisable for rookie teams to play defense** due to the specific rules surrounding this strategy. If a team wishes to execute a defensive strategy, be sure to read all the rules as defense can easily incur penalties/cards if done improperly.
+**howevew, rawr x3 (ꈍᴗꈍ) i-i-it is nyyot advisabwe fow w-wookie t-teams t-to pway defense** due to the specific w-wuwes suwwounding t-this stwategy. -.- (⑅˘꒳˘) i-if a-a team w-wishes to exekawaii~ a defensive s-s-stwategy, (˘ω˘) (˘ω˘) b-be suwe to wead aww the wuwes as defense can easiwy incuw penawties/cawds i-if done impwopewwy. σωσ (///ˬ///✿)
 
-Fully driver-controlled driving → Partially automated tasks
+f-fuwwy dwivew-contwowwed dwiving → pawtiawwy automated tasks
 -----------------------------------------------------------
 
-.. important:: Autonomous should not be limited to only the autonomous mode. Automating simple tasks can be a real time-saver and efficiency boost to teams.
+.. i-i-impowtant:: a-autonomous shouwd nyyot b-be wimited t-to onwy the autonomous mode. (˘ω˘) waww x3 automating s-s-simpwe tasks can be a weaw t-t-time-savew and efficiency boost t-to teams. rawr x3 uwu
 
-#. Automating tasks can save time and reduce the need for driver multi-tasking. Drivers should always be controlling the robot with as few button presses as possible. For example, automatically stopping the intake mechanism when game elements have been collected saves a button press.
-#. Autonomously operating some mechanisms has the advantage of eliminating driver error and relieves stress. For example, if a lift has to extend to exactly 30 inches, a motor with an :term:`encoder <Encoder>` can complete that with 100% accuracy at full speed, compared to a human driver's minor error.
+#. (ꈍᴗꈍ) a-automating t-t-tasks can save t-time and w-weduce the nyeed f-fow dwivew muwti-tasking. (///ˬ///✿) (ꈍᴗꈍ) d-dwivews s-shouwd awways be c-contwowwing t-the w-wobot with a-as f-few button pwesses a-as possibwe. (˘ω˘) owo fow exampwe, o.O (u ᵕ u❁) automaticawwy stopping the intake m-m-mechanism w-when g-game ewements have been cowwected s-saves a b-button pwess. ( ͡o ω ͡o ) (u ᵕ u❁)
+#. >w< σωσ a-autonomouswy o-o-opewating s-some m-mechanisms has the advantage o-of ewiminating d-dwivew ewwow a-and wewieves stwess. (U ﹏ U) (⑅˘꒳˘) f-f-fow exampwe, OwO o-owo if a wift h-has t-to extend to exactwy 30 inches, OwO >w< a motow w-with an :tewm:`encodew <encodew>` c-can compwete t-t-that with 100% a-accuwacy a-at fuww speed, rawr x3 (///ˬ///✿) c-compawed t-to a human d-dwivew's minow ewwow. -.- ʘwʘ
 
-.. note:: Autonomous functions should be able to be overrided by manual input in case something goes wrong (e.g. encoder is unplugged, a part breaks, etc.) to prevent damage to the robot and to be compliant with game rules.
+.. n-nyote:: autonomous f-functions s-shouwd b-be abwe t-to be ovewwided b-b-by manuaw i-input in case something g-goes wwong (e.g. OwO (///ˬ///✿) encodew is u-unpwugged, (⑅˘꒳˘) owo a pawt bweaks, UwU (///ˬ///✿) e-e-etc.) to pwevent d-damage t-to the wobot and to be compwiant w-w-with game w-wuwes. (///ˬ///✿)

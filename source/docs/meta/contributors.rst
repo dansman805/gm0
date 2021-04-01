@@ -1,68 +1,68 @@
 .. include:: <isonum.txt>
 
-Contributors
+contwibutows
 ============
 
-|gm0| would not have been possible without the many contributors who have sacrificed their precious freetime (or merely found another excuse to procrastinate their work). I am especially grateful to Ben and Dan for helping port over |gm0| to Copperforge, and for all those who have continued to add and revise |gm0| during the busy school year. |gm0| had been my dream for quite some time, and as an alum tremendously grateful for all that *FIRST*\ |reg| has taught me, I wanted to create |gm0| to preserve and spread the knowledge base that might have been lost with the FTC class of 2019 and beyond. For this reason, I wanted to recognize all the contributors who have helped to make |gm0| a great resource for *FIRST*\ |reg| Tech Challenge teams. Feel free to contact any of the names listed below via the email (gamemanual0@gmail.com) or through the other contact emails - I’m sure that they would be more than willing to help you out!
+|gm0| wouwd nyot have b-been possibwe without t-the many contwibutows who h-have sacwificed theiw pwecious fweetime (ow m-mewewy found anothew e-excuse to pwocwastinate theiw wowk). i am especiawwy g-gwatefuw to ben and dan fow h-hewping powt ovew |gm0| t-to coppewfowge, (U ᵕ U❁) a-and fow aww those who have continued to add and wevise |gm0| duwing the busy schoow yeaw. o.O |gm0| h-had been my dweam fow quite some time, ( ͡o ω ͡o ) and as an awum twemendouswy gwatefuw f-fow aww that *fiwst*\ |weg| h-has taught me, (˘ω˘) i wanted to cweate |gm0| t-to pwesewve and spwead the knowwedge base that might have b-been wost with the ftc cwass o-of 2019 and beyond. òωó f-fow this weason, rawr x3 i-i wanted to w-wecognize aww the contwibutows w-who have hewped to make |gm0| a gweat wesouwce f-fow *fiwst*\ |weg| t-tech chawwenge t-teams. (U ᵕ U❁) feew fwee to contact any of the nyames wisted bewow via t-the emaiw (gamemanuaw0@gmaiw.com) ow thwough the o-othew contact emaiws - i’m suwe that they wouwd be mowe than wiwwing to hewp y-you out! (U ᵕ U❁)
 
-**Kleptomaniac**
+**kweptomaniac**
 
-Managing Editors
+managing editows
 ----------------
 
-- Tom - FTC Alum - 3736 Serious Business- seminole3736@gmail.com
-- Daniel - FTC 7026 JDroids - dansman805@gmail.com
-- Frank - FTC 8581 Aedificatores - fgportman00@gmail.com
-- Justin - FTC 9656 Omega - ftc9656omega@gmail.com
-- Nathanael/Kleptomaniac - FTC Alum - 13075 Coram Deo Robotics -
-  nathanchu@utexas.edu
+- t-tom - ftc awum - 3736 sewious business- seminowe3736@gmaiw.com
+- d-daniew - ftc 7026 j-jdwoids - dansman805@gmaiw.com
+- f-fwank - ftc 8581 aedificatowes - fgpowtman00@gmaiw.com
+- justin - ftc 9656 omega - ftc9656omega@gmaiw.com
+- nyathanaew/kweptomaniac - ftc a-awum - 13075 cowam d-deo wobotics -
+  n-nyathanchu@utexas.edu
 
-Hardware & Electrical
+h-hawdwawe & e-ewectwicaw
 ---------------------
 
-- Kelvin - FTC Alum - 731 Wannabee Strange
-- David - FTC Alum - 2753 Team Overdrive
-- Sam - FTC 2753 Team Overdrive
-- Tyler - FRC\ |reg| 3184 Blaze Robotics
-- Tom - FTC Alum - 3736 Serious Business
-- Shurik - FTC 4137 Islandbots mentor
-- Fulton - FTC 5143 Xcentrics
-- Derek - FTC Alum - 5484 EnderBots
-- Karter - FTC Alum - 5975 Cybots
-- Neo - FTC 6710 Sigmas
-- Ethan - FTC Alum - 7236 Recharged Green - goBILDA
-- Cole - FTC 7548 SPAREPARTS
-- Ian - FTC 7842 Browncoats
-- Andrew - FTC 8417 ‘Lectric Legends
-- Eric - FTC Alum - 8417 ‘Lectric Legends
-- Frank - FTC 8581 Aedificatores
-- David - FTC 8680 Kraken Pinion
-- Kevin - FTC 9048 Philobots
-- Justin - FTC 9656 Omega
-- Arjun - FTC 9794 Wizards.exe
-- Baylor - FTC 10641 Atomic Gears
-- Peter - FTC 12533 Inception
-- Nate - FTC 12897 Newton’s Law of Mass
-- Adham - FTC 14875 LightSpeed
-- Dom - FTC 15692 Rust in Pieces
+- k-kewvin - ftc awum - 731 wannabee stwange
+- d-david - ftc awum - 2753 team o-ovewdwive
+- sam - ftc 2753 team o-ovewdwive
+- tywew - f-fwc\ |weg| 3184 bwaze wobotics
+- tom - ftc awum - 3736 sewious b-business
+- shuwik - ftc 4137 iswandbots mentow
+- f-fuwton - ftc 5143 xcentwics
+- dewek - ftc awum - 5484 endewbots
+- k-kawtew - ftc awum - 5975 c-cybots
+- nyeo - f-ftc 6710 sigmas
+- e-ethan - ftc awum - 7236 w-wechawged gween - gobiwda
+- c-cowe - ftc 7548 s-spawepawts
+- i-ian - ftc 7842 bwowncoats
+- a-andwew - ftc 8417 ‘wectwic wegends
+- ewic - ftc a-awum - 8417 ‘wectwic w-wegends
+- fwank - ftc 8581 a-aedificatowes
+- david - ftc 8680 k-kwaken pinion
+- k-kevin - ftc 9048 phiwobots
+- j-justin - ftc 9656 o-omega
+- awjun - f-ftc 9794 wizawds.exe
+- baywow - f-ftc 10641 atomic geaws
+- petew - f-ftc 12533 inception
+- n-nyate - f-ftc 12897 nyewton’s waw of m-mass
+- adham - ftc 14875 w-wightspeed
+- dom - ftc 15692 w-wust in pieces
 
-Software
+s-softwawe
 --------
 
-- Wes - FTC 3658 Bosons
-- David - FTC 7236 Recharged Green
-- Frank - FTC 8581 Aedificatores
-- James - FTC 14298 Lincoln Robotics
-- Jackson - FTC/FRC Mentor/Alum
-- Guineawheek - FTC Alum
+- w-wes - f-ftc 3658 bosons
+- d-david - ftc 7236 wechawged gween
+- fwank - ftc 8581 a-aedificatowes
+- james - ftc 14298 w-wincown wobotics
+- jackson - ftc/fwc mentow/awum
+- guineawheek - ftc awum
 
-Hosting
+hosting
 -------
 
-- Benjamin Ward - FRC\ |reg|/FTC Alum - Copperforge - blward@copperforge.cc
+- benjamin w-wawd - fwc\ |weg|/ftc a-awum - coppewfowge - bwwawd@coppewfowge.cc
 
-.. image:: images/copperforge-logo.png
-   :alt: Copperforge Logo
+.. image:: images/coppewfowge-wogo.png
+   :awt: c-coppewfowge wogo
    :height: 168px
    :width: 1000px
-   :scale: 50%
+   :scawe: 50%

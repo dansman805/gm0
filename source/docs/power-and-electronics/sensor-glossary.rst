@@ -1,13 +1,13 @@
-Sensor Glossary
+sensow gwossawy
 ===============
 
-Sensors are used in a variety of applications within FTC. Sensors can give external feedback regarding the position of the robot (for example, relative to the field wall or to a vision target) or internal feedback (velocity, distance traveled, voltage, etc.). Sensors can also be used to determine the rotation of a mechanism and detect color.
+s-sensows awe used i-in a vawiety of appwications within f-ftc. sensows can give extewnaw f-feedback wegawding the position o-of the wobot (fow exampwe, (˘ω˘) wewative to the fiewd w-waww ow to a vision tawget) o-ow intewnaw feedback (vewocity, ʘwʘ d-distance twavewed, òωó v-vowtage, etc.). (˘ω˘) sensows can awso be used to detewmine the wotation of a mechanism and detect c-cowow. (ꈍᴗꈍ)
 
-Encoders/Potentiometers
+encodews/potentiometews
 -----------------------
 
-- Rotational
-   - Absolute (+ Potentiometers)
+- wotationaw
+   - absowute (+ potentiometews)
       - MA3 (`am-2899 <https://www.andymark.com/products/ma3-absolute-encoder-with-cable>`_)
       - Potentiometer (`REV-31-1155 <https://www.revrobotics.com/rev-31-1155/>`_)
    - Relative
@@ -28,43 +28,43 @@ Contact
 - Magnetic
    - Hall Effect Sensor REV (`REV-31-1462 <https://www.revrobotics.com/rev-31-1462/>`_)
 
-Optical
+opticaw
 -------
 
-- Color
-   - Adafruit RGB
-   - REV Color
-   - MR Color
-- Computer Vision
-   - Hardware
-      - PixyCMU
-   - Software
-      - OpenCV (EasyOpenCV)
-      - Vuforia
-      - TFLite
+- cowow
+   - adafwuit w-wgb
+   - wev c-cowow
+   - mw cowow
+- computew v-vision
+   - hawdwawe
+      - pixycmu
+   - softwawe
+      - o-opencv (easyopencv)
+      - vufowia
+      - t-tfwite
 
-Distance
+distance
 --------
 
-- ToF
-- Ultrasonic
+- tof
+- uwtwasonic
 
-Other
+o-othew
 -----
 
-- IMU
-   - Accelerometer
-   - Gyroscope
-   - Compass
-   - Magnetometer
+- imu
+   - a-accewewometew
+   - g-gywoscope
+   - c-compass
+   - magnetometew
 
-Logic Level Converter
+wogic wevew convewtew
 ---------------------
 
-The old Modern Robotics system run on 5v sensor logic. The new REV Robotics system uses 3.3v. For most off the shelf sensors, this doesn’t cause any problems, but for some existing FTC sensors it does. To solve this REV sells boards, called `logic level converters <https://www.revrobotics.com/rev-31-1389/>`_, that convert the sensor data to be readable by the REV hubs. The `REV Expansion Hub <https://docs.revrobotics.com/rev-control-system/control-system-overview/expansion-hub-basics>`_ guide has a chart detailing what adapters are needed for what sensors.
+the owd modewn wobotics system wun on 5v s-sensow wogic. rawr x3 the nyew wev wobotics system uses 3.3v. ʘwʘ fow most off the shewf s-sensows, ʘwʘ this doesn’t c-cause any pwobwems, (ꈍᴗꈍ) but f-fow some existing ftc sensows it does. ʘwʘ to sowve this wev sewws boawds, -.- c-cawwed `logic level converters <https://www.revrobotics.com/rev-31-1389/>`_, that convewt the s-sensow data to be w-weadabwe by the wev hubs. the `REV Expansion Hub <https://docs.revrobotics.com/rev-control-system/control-system-overview/expansion-hub-basics>`_ guide has a chawt d-detaiwing nyani a-adaptews awe nyeeded fow nyani s-sensows. σωσ
 
-.. attention:: According to REV testing, goBILDA, REV and TorqueNado motors don’t need logic level converters, but only some NeveRest motors worked with no discernable reason why.
+.. attention:: accowding to wev t-testing, (ꈍᴗꈍ) gobiwda, ( ͡o ω ͡o ) w-wev and towquenado motows don’t n-nyeed wogic wevew convewtews, σωσ b-but onwy some nevewest motows w-wowked with nyo discewnabwe weason why. -.-
 
-It is ideal to not use logic level converters to simplify your wiring. If you need to, there is a best practice. Electrical tape the connectors on either end, this helps with static, and it keeps it from being physically disconnected. This does produce a very noticeable effect with encoders on fields with lots of static.
+it is ideaw t-to nyot use wogic wevew convewtews t-to simpwify y-youw wiwing. (U ﹏ U) i-if you nyeed to, (˘ω˘) thewe is a best pwactice. òωó ewectwicaw tape the connectows on eithew end, -.- this hewps w-with static, rawr x3 and it keeps it fwom being physicawwy disconnected. σωσ this does p-pwoduce a vewy nyoticeabwe e-effect with encodews o-on fiewds with wots of static. σωσ
 
-The second tip is to never tape over the middle or LED. The board generates a very small amount of heat, and it’s very easy to overheat if it can’t ventilate, also don’t fully enclose it in any cases without holes.
+the second tip is to nyevew tape o-ovew the middwe ow wed. >w< the boawd g-genewates a vewy s-smow amount o-of heat, UwU and it’s v-vewy easy to ovewheat if it c-can’t ventiwate, rawr x3 awso don’t fuwwy encwose it i-in any cases without h-howes. >w<
