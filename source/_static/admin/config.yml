@@ -1,0 +1,13 @@
+backend:
+  name: git-gateway
+  branch: master
+publish_mode: editorial_workflow
+media_folder: "source/_static"
+public_folder: "_static"
+collections:
+  - name: "docs"
+    label: "Docs"
+    folder: "source/docs"
+    create: true
+    fields:
+      - {label: "Body", name: "body", widget: "markdown"}
