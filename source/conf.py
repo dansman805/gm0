@@ -32,7 +32,8 @@ extensions = [
     "sphinxext.linkcheckdiff",
     "sphinxext.opengraph",
     "sphinxext.rediraffe",
-    "hoverxref.extension"
+    "hoverxref.extension",
+    "myst_parser"
 ]
 
 templates_path = ["_templates"]
@@ -42,6 +43,11 @@ master_doc = "index"
 
 # Default syntax highlighting to java
 highlight_language = "java"
+
+# MyST Configuration
+myst_enable_extensions = [
+    "colon_fence"
+]
 
 rst_epilog = """
 .. |gm0| replace:: Game Manual 0

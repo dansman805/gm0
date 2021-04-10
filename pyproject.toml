@@ -16,6 +16,7 @@ sphinx-tabs = "==2.0.0"
 sphinxext-linkcheckdiff = "==0.1.0"
 sphinxext-opengraph = "==0.4.1"
 sphinxext-rediraffe = "==0.2.5"
+myst_parser = "^0.13.6"
 
 [tool.poetry.dev-dependencies]
 sphinx-autobuild = "==2021.3.14"
