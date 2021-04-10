@@ -5,9 +5,15 @@ publish_mode: editorial_workflow
 media_folder: "source/_static"
 public_folder: "_static"
 collections:
-  - name: "docs"
-    label: "Docs"
-    folder: "source/docs"
+  - name: "root"
+    label: "Root"
+    folder: "source/"
+    create: false
+    fields:
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "drivetrains"
+    label: "Drivetrains"
+    folder: "source/docs/robot-design/drivetrains/"
     create: true
     fields:
       - {label: "Body", name: "body", widget: "markdown"}
